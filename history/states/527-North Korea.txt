@@ -1,0 +1,37 @@
+
+state={
+	id=527
+	name="STATE_527"
+	
+	resources={
+		tungsten = 5
+		steel = 17
+	}
+
+	history={
+		owner = PRK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+			12040 = { bunker = 5 }
+			9981 = { bunker = 5 }
+			4052 = { naval_base = 6 }
+			11835 = { naval_base = 1 }
+			7155 = { naval_base = 1 }
+		}
+		victory_points = { 4052 20 }
+		victory_points = { 11835 1 }
+		victory_points = { 12040 1 }
+		add_core_of = PRK
+		add_core_of = KOR
+	}
+
+	provinces={
+		912 978 1003 3912 4052 4107 7070 7155 7171 9790 9795 9918 9981 10065 11770 11835 11896 11915 12040 
+	}
+	manpower=10200250
+	buildings_max_level_factor=1.000
+	state_category = state_level_10
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=7
+	name="STATE_7"
+	
+	resources={
+		oil=3
+		steel = 26
+	}
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		victory_points = { 391 30 }
+		victory_points = { 3211 15 }
+		victory_points = { 68 1 }
+		buildings = {
+			infrastructure = 8
+			air_base = 5
+			industrial_complex = 6
+			arms_factory = 1
+			dockyard = 2
+			3314 = { naval_base = 10 }
+		}
+	}
+
+	provinces={
+		68 391 3211 3314 8622 
+	}
+	manpower=5523000
+	buildings_max_level_factor=1.000
+	state_category = state_level_12
+}

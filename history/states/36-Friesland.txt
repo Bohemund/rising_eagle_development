@@ -1,0 +1,28 @@
+
+state={
+	id=36
+	name="STATE_36"
+	
+	resources = {
+		steel = 11
+	}
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			air_base = 2
+		}
+		victory_points = { 9309 1 }		#Assen
+		victory_points = { 9363 2 }		#Zwolle
+	}
+
+	provinces={
+		6241 6286 9309 9363 9403 
+	}
+	manpower=4364000
+	buildings_max_level_factor=1.000
+	state_category = state_level_10
+}

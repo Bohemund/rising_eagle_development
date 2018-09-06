@@ -1,0 +1,33 @@
+
+state={
+	id=105
+	name="STATE_105"
+	
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			dockyard = 1
+			9809 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = SER
+		add_core_of = MNT
+		
+		2006.1.1 = {
+			owner = MNT
+			remove_core_of = SER
+		}
+		
+		victory_points = { 9809 10 }	#Podgorica
+	}
+
+	provinces={
+		6913 9809 9821 11858 
+	}
+	manpower=595500
+	buildings_max_level_factor=1.000
+	state_category = state_level_8
+}

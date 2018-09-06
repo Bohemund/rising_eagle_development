@@ -1,0 +1,18 @@
+state={
+	id=858
+	name="STATE_858"
+	provinces={
+		8109 
+	}
+	history = {
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=3200000
+	buildings_max_level_factor=1.000
+	
+	state_category = state_level_2
+}

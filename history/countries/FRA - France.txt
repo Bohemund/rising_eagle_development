@@ -1,0 +1,139 @@
+﻿capital = 16
+
+oob = "FRA_2000"
+
+set_research_slots = 4
+set_convoys = 1000
+set_stability = 0.3
+set_war_support = 0.1
+
+set_country_flag = catholic_nation
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 4
+		}
+		nationalist = {
+			popularity = 10
+		}
+		monarchist = {
+			popularity = 2
+		}
+		national_conservative = {
+			popularity = 25
+		}
+		centrist = {
+			popularity = 4
+		}
+		liberal = {
+			popularity = 29
+		}
+		social_democrat = {
+			popularity = 10
+		}
+		democratic_socialist = {
+			popularity = 10
+		}
+		libertarian_socialist = {
+			popularity = 7
+		}
+		communist = {
+			popularity = 3
+		}
+	}
+	
+	ruling_party = liberal
+	last_election = "1997.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Francois Hollande"
+	picture = "Portrait_FRA_Jean_Luc_Melenchon.dds"
+	ideology = leninist
+}
+
+create_country_leader = {
+	name = "Hervé Novelli"
+	picture = "Portrait_FRA_Alain_Soral.dds"
+	ideology = fascist
+}
+
+create_country_leader = {
+	name = "Marine Le Pen"
+	picture = "Portrait_FRA_Marine_Le_Pen.dds"
+	ideology = nationalist_ideology
+}
+
+create_country_leader = {
+	name = "Henry VII"
+	picture = "Portrait_FRA_Henery_Seventh.dds"
+	ideology = absolute_monarchist
+}
+
+create_country_leader = {
+	name = "Nicolas Dupont-Aignan"
+	picture = "Portrait_FRA_Alan_Juppe.dds"
+	ideology = european_conservative
+}
+
+create_country_leader = {
+	name = "Emmanuel Macron"
+	picture = "Portrait_FRA_Emmanuel_Macron.dds"
+	ideology = centrist_ideology
+}
+
+create_country_leader = {
+	name = "Francois Bayrou"
+	picture = "Portrait_FRA_Francois_Bayrou.dds"
+	ideology = social_liberal
+}
+
+create_country_leader = {
+	name = "Martine Delors"
+	picture = "Portrait_FRA_Eric_Coquerel.dds"
+	ideology = social_democracy
+}
+
+create_country_leader = {
+	name = "Jean-Luc Mélenchon"
+	picture = "Portrait_FRA_Eric_Coquerel.dds"
+	ideology = democratic_socialist
+}
+
+create_country_leader = {
+	name = "Jean-Marc Ayrault"
+	picture = "Portrait_FRA_Charles_Fiterman.dds"
+	ideology = revolutionary_socialist_ideology
+}

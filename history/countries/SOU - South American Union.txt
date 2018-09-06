@@ -1,0 +1,137 @@
+﻿capital = 505
+
+oob = "BRA_2000"
+
+set_research_slots = 4
+set_convoys = 500
+set_stability = 0.6
+set_war_support = 0.1
+
+set_country_flag = catholic_nation
+
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+
+set_politics = {
+
+parties = {
+        ultranationalist = {
+            popularity = 34
+        }
+        nationalist = {
+            popularity = 5
+        }
+        monarchist = {
+            popularity = 0
+        }
+        national_conservative = {
+            popularity = 6
+        }
+        centrist = {
+            popularity = 10
+        }
+        liberal = {
+            popularity = 11
+        }
+        social_democrat = {
+            popularity = 7
+        }
+        democratic_socialist = {
+            popularity = 15
+        }
+        libertarian_socialist = {
+            popularity = 7
+        }
+        communist = {
+            popularity = 5
+        }
+	}
+	
+	ruling_party = ultranationalist
+	last_election = "1997.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Eduardo Villas Bôas"
+	picture = "Portrait_BRA_Ivan_Pinheiro.dds"
+	ideology = military_junta
+}
+
+create_country_leader = {
+	name = "Jair Bolsonaro"
+	picture = "Portrait_BRA_Jair_Bolsonaro.dds"
+	ideology = religious_traditionalist
+}
+
+create_country_leader = {
+	name = "Luiz of Orleans-Braganza"
+	picture = "Portrait_BRA_Antonio_Carlos_Rodrigues.dds"
+	ideology = absolute_monarchist
+}
+
+create_country_leader = {
+	name = "José Maria de Almeida"
+	picture = "Portrait_BRA_Luiz_First.dds"
+	ideology = marxist
+}
+
+create_country_leader = {
+	name = "Michel Temer"
+	picture = "Portrait_BRA_Jose_Agripino_Maia.dds"
+	ideology = fiscal_conservative
+}
+
+create_country_leader = {
+	name = "José Serra"
+	picture = "Portrait_BRA_Ciro_Nogueira_Lima_Filho.dds"
+	ideology = centrist_ideology
+}
+
+create_country_leader = {
+	name = "Ciro Nogueira Lima Filho"
+	picture = "Portrait_BRA_Romero_Juca.dds"
+	ideology = social_liberal
+}
+
+create_country_leader = {
+	name = "Carlos Lupi"
+	picture = "Portrait_BRA_Aecio_Neves.dds"
+	ideology = social_democracy
+}
+
+create_country_leader = {
+	name = "Luiz Inácio Lula da Silva"
+	picture = "Portrait_BRA_Dilma_Rousseff.dds"
+	ideology = democratic_socialist
+}
+
+create_country_leader = {
+	name = "Luciana Genro"
+	picture = "Portrait_BRA_Sergio_Rubens_De_Araujo_Torres.dds"
+	ideology = revolutionary_socialist_ideology
+}
+

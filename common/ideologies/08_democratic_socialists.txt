@@ -1,0 +1,43 @@
+ideologies = {
+
+	democratic_socialist = {
+		
+		types = {
+		
+			democratic_socialist = {
+			}
+			
+			european_moderate_socialist = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MODERATE_SOCIALIST_1"
+			"FACTION_NAME_MODERATE_SOCIALIST_2"
+			"FACTION_NAME_MODERATE_SOCIALIST_3"
+			"FACTION_NAME_MODERATE_SOCIALIST_4"
+			"FACTION_NAME_MODERATE_SOCIALIST_5"
+			"FACTION_NAME_MODERATE_SOCIALIST_6"
+		}
+		
+		color = { 234 75 77 }
+		
+		war_impact_on_world_tension = 1.95
+		faction_impact_on_world_tension = 1.95
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+}

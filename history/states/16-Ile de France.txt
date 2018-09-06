@@ -1,0 +1,30 @@
+
+state={
+	id=16
+	name="STATE_16"
+	manpower = 15538500
+	
+	state_category = state_level_21
+	
+	resources = {
+		steel = 22
+	}
+
+	history={
+		owner = FRA
+		victory_points = { 11506 50 }	#Paris
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 10
+			arms_factory = 6
+			rubber_factory = 1
+			anti_air_building = 3
+			air_base = 8
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		6547 6949 9507 9523 9534 9725 11491 11506 11518 
+	}
+}

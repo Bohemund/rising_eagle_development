@@ -1,0 +1,80 @@
+﻿ideologies = {
+
+	ultranationalist = {
+		
+		types = {
+		
+			national_socialist = {	
+			}
+			
+			fascist = {	
+			}
+			
+			falangist = {			
+			}
+			
+			rexist = {				
+			}
+			
+			national_bolshevik= {				
+			}
+
+			religious_fanaticism = {	
+			}
+
+			national_capitalism = {	
+			}
+			
+			strasserism = {	
+			} 
+
+			national_syndicalism = {	
+			}
+
+			eurasianism = {	
+			}
+
+			clerical_fascism = {	
+			}
+
+			imperialism = {	
+			}
+
+			integralism = {	
+			}
+
+			military_junta = {	
+			}
+
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+			"FACTION_NAME_FASCIST_6"
+		}
+		
+		color = { 82 51 28 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.25
+		}
+		
+	}
+
+}

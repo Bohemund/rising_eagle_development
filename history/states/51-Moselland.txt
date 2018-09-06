@@ -1,0 +1,28 @@
+
+state={
+	id=51
+	name="STATE_51"
+	resources={
+		aluminium=10
+	}
+
+	history={
+		owner = GER
+		victory_points = { 587 20 }		#Cologne
+		victory_points = { 3547 3 }		#Bonn
+		victory_points = { 9522 2 }		#Aachen
+		buildings = {
+			infrastructure = 8
+			air_base = 6
+			industrial_complex = 3
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		587 3444 3547 9522 
+	}
+	manpower=3144743
+	buildings_max_level_factor=1.000
+	state_category = state_level_13
+}

@@ -1,0 +1,19 @@
+state=
+{
+	id=311
+	name="STATE_311"
+	manpower = 51000
+	
+	state_category = state_level_7
+	history=
+	{
+		owner = BLZ
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			2077 = { naval_base = 1 }
+		}
+		victory_points = { 2077 2 }
+	}
+	provinces= { 2077 }
+}

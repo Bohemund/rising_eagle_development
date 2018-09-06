@@ -1,0 +1,25 @@
+
+state={
+	id=45
+	name="STATE_45"
+
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+		add_core_of = SER
+		#add_core_of = VOJ
+		
+		victory_points = { 3617 10 }	#Novi Sad
+		victory_points = { 9621 2 }		#Subotica
+	}
+
+	provinces={
+		619 3617 3623 6643 9621 11787 
+	}
+	manpower=726200
+	buildings_max_level_factor=1.000
+	state_category = state_level_5
+}

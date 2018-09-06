@@ -1,0 +1,43 @@
+state={
+	id=592
+	name="STATE_592"
+	manpower = 60200000
+	state_category = state_level_14
+	
+	resources = {
+		steel = 25
+	}
+
+	history={
+		owner = PRC
+		add_core_of = CHI
+		add_core_of = PRC
+		
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 9
+			arms_factory = 2
+			dockyard = 2
+			air_base = 5
+			1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
+
+		}
+		2016.1.1 = {
+			buildings = {
+				industrial_complex = 4
+			}
+		}
+		victory_points = {
+			1047 5
+		}
+	}
+
+	provinces={
+		1047 1087 1131 1187 4092 7039 7152 9963 11938 11941 12077 
+	}
+}
+

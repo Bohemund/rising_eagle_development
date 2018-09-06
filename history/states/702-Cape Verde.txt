@@ -1,0 +1,24 @@
+state={
+	id=702
+	name="STATE_702"
+	manpower = 498000
+	
+	state_category = state_level_2
+
+	history={
+		owner = CAB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+			13014 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = CAB
+	}
+
+	provinces={
+		13014 
+	}
+}

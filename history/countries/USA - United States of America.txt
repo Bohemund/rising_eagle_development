@@ -1,0 +1,128 @@
+﻿capital = 361
+
+oob = "generic_2000"
+
+set_research_slots = 4
+set_convoys = 500
+set_stability = 0.8
+set_war_support = 0.3
+
+set_country_flag = catholic_nation
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 2
+		}
+		nationalist = {
+			popularity = 13
+		}
+		national_conservative = {
+			popularity = 27
+		}
+		centrist = {
+			popularity = 12
+		}
+		liberal = {
+			popularity = 25
+		}
+		social_democrat = {
+			popularity = 17
+		}
+		democratic_socialist = {
+			popularity = 2
+		}
+		libertarian_socialist = {
+			popularity = 2
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = national_conservative
+	last_election = "2008.4.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Chuck Baldwin"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = reactionary
+}
+
+create_country_leader = {
+	name = "Bernie Sanders"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = american_socialist
+}
+
+create_country_leader = {
+	name = "Joe Biden"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = social_liberal
+}
+
+create_country_leader = {
+	name = "Joseph P. Kennedy II"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = market_liberal
+}
+
+create_country_leader = {
+	name = "Rick Santorum"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = authoritarian_democracy
+}
+
+create_country_leader = {
+	name = "Richard Spencer"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = national_socialist
+}
+
+create_country_leader = {
+	name = "Noam Chomsky"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = syndicalism
+}
+
+create_country_leader = {
+	name = "John Holdren"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = democratic_socialist
+}
+
+create_country_leader = {
+	name = "Paul Emery Washington"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = absolute_monarchist
+}
+
+create_country_leader = {
+	name = "Jarvis Tyner"
+	picture = "Portrait_USA_Robert_Bentley.dds"
+	ideology = american_communist
+}

@@ -1,0 +1,27 @@
+sound =
+{
+	name = "gates_is_doomed"
+	file = "menu/gates_is_doomed.wav"
+	always_load = no
+}
+
+sound =
+{
+	name = "sanders_is_doomed"
+	file = "menu/sanders_is_doomed.wav"
+	always_load = no
+}
+
+sound =
+{
+	name = "take_me_home_country_roads"
+	file = "menu/take_me_home_country_roads.wav"
+	always_load = no
+}
+
+sound =
+{
+	name = "hail_to_the_chief_trigger"
+	file = "menu/hail_to_the_chief_trigger.wav"
+	always_load = no
+}

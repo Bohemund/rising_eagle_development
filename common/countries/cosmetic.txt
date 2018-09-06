@@ -1,0 +1,34 @@
+USS = {
+    color = rgb { 58 168 202 }
+    color_ui = rgb { 58 168 202 }
+}
+
+EGY_Caliphate = {
+    color = rgb { 30 30 30 }
+    color_ui = rgb { 58 168 202 }
+}
+
+EUU = {
+    color = rgb { 226 0 0 }
+    color_ui = rgb { 226 0 0 }
+}
+
+ITA_Roman = {
+    color = rgb { 149 56 56 }
+    color_ui = rgb { 149 56 56 }
+}
+
+ITA_Papal = {
+    color = rgb { 255 245 91 }
+    color_ui = rgb { 255 245 91 }
+}
+
+AMC_Habsburg = {
+    color = rgb { 255 252 252 }
+    color_ui = rgb { 255 245 91 }
+}
+
+AMC_NewFrance = {
+    color = rgb { 203 242 247 }
+    color_ui = rgb { 255 245 91 }
+}

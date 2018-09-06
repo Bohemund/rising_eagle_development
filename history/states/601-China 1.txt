@@ -1,0 +1,23 @@
+
+state={
+	id=601
+	name="STATE_601" # Xikang
+	manpower = 5150000
+	
+	state_category = state_level_2
+	
+	history={
+		owner = PRC
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+
+	provinces={
+		1918 1999 2067 4407 4999 5018 5080 5102 7294 7988 8041 8059 8104 10726 10741 10841 10856 12724 12837 
+	}
+}

@@ -1,0 +1,55 @@
+ideologies = {
+
+	communist = {
+		
+		types = {
+		
+			marxist = {
+			}
+			
+			american_communist = {
+			}
+		
+			leninist = {
+			}
+			
+			stalinist = {
+			}
+			
+			maoist = {
+			}
+			
+			juche = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+			"FACTION_NAME_COMMUNIST_6"
+		}
+		
+		color = { 107 11 11 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.25
+		}
+		
+	}
+
+}

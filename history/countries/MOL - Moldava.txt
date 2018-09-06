@@ -1,0 +1,133 @@
+﻿capital = 49
+
+oob = "generic_2000"
+
+set_research_slots = 4
+set_convoys = 500
+set_stability = 0.8
+set_war_support = 0.5
+
+set_country_flag = muslim_nation
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 20
+		}
+		monarchist = {
+			popularity = 2
+		}
+		nationalist = {
+			popularity = 1
+		}
+		national_conservative = {
+			popularity = 2
+		}
+		centrist = {
+			popularity = 0
+		}
+		liberal = {
+			popularity = 0
+		}
+		social_democrat = {
+			popularity = 5
+		}
+		democratic_socialist = {
+			popularity = 25
+		}
+		libertarian_socialist = {
+			popularity = 15
+		}
+		communist = {
+			popularity = 30
+		}
+	}
+	
+	ruling_party = communist
+	last_election = "2006.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}	
+
+create_country_leader = {
+	name = "Tudor Ionescu"
+	picture = "Portrait_MOL_Tudor_Ionescu.tga"
+	ideology = national_bolshevik
+}
+
+create_country_leader = {
+	name = "Mircea Druc"
+	picture = "Portrait_MOL_Mircea_Druc.tga"
+	ideology = authoritarian_democracy
+
+create_country_leader = {
+	name = "Daniel I"
+	picture = "Portrait_MOL_Daniel_Ghica.tga"
+	ideology = absolute_monarchist
+}
+
+create_country_leader = {
+	name = "Iurie Leancă"
+	picture = "Portrait_MOL_Iurie_Leancă.tga"
+	ideology = fiscal_conservative 
+}
+
+create_country_leader = {
+	name = "Mihai Ghimpu"
+	picture = "Portrait_MOL_Mihai_Ghimpu.tga"
+	ideology = market_liberal
+}
+
+create_country_leader = {
+	name = "Igor Grosu"
+	picture = "Portrait_MOL_Igor_Grosu.tga"
+	ideology = social_liberal
+}
+
+create_country_leader = {
+	name = "Marian Lupu"
+	picture = "Portrait_MOL_Marian_Lupu.tga"
+	ideology = liberal_socialism
+
+create_country_leader = {
+	name = "Igor Dodon"
+	picture = "Portrait_MOL_Igor_Dodon.tga"
+	ideology = democratic_socialist
+}
+
+create_country_leader = {
+	name = "Vladimir Voronin"
+	picture = "Portrait_MOL_Vladimir_Voronin.tga"
+	ideology = communalism
+}
+
+create_country_leader = {
+	name = "Oleg Khorzhan"
+	picture = "Portrait_MOL_Oleg_Khorzhan.tga"
+	ideology = marxist
+}
+

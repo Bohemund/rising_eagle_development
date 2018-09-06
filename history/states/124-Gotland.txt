@@ -1,0 +1,27 @@
+state=
+{
+	id=124
+	name="STATE_124"
+	manpower = 57255
+	
+	state_category = state_level_2
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			408 1
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			408 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		408 6258
+	}
+}

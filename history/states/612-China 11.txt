@@ -1,0 +1,24 @@
+
+state={
+	id=612
+	name="STATE_612" # Chahar
+	manpower = 2200000
+	
+	state_category = state_level_5
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 1
+		}
+	}
+
+	provinces={
+		1551 1608 1796 1811 1871 4222 4555 4655 7578 7648 10363 10372 12348 12448 12554 
+	}
+}

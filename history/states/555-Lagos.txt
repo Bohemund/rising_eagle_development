@@ -1,0 +1,24 @@
+
+state={
+	id=555
+	name="STATE_555" #Kuril Islands
+	manpower = 17700 
+	
+	state_category = state_level_2
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 3
+			1399 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces={
+		1399 1515 13037 
+	}
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=322
+	name="STATE_322"
+	manpower = 3180000
+	
+	state_category = state_level_5
+	
+	resources = {
+		steel = 25
+		chromium = 20
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		add_core_of = TIB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+		}
+		victory_points = { 1961 3 }		#Ngari
+		victory_points = { 4994 3 }		#Nagqu
+		victory_points = { 5033 20 }	#Lhasa
+		victory_points = { 8121 6 }		#Xigaze
+		victory_points = { 12807 1 }	#Nyalam
+	}
+
+	provinces={
+		1961 1991 2010 2014 2093 2098 4900 4994 5011 5033 5094 7926 8029 8068 8121 10755 10802 10918 12784 12801 12807 
+	}
+}
