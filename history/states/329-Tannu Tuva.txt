@@ -7,15 +7,14 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = SOV
+		owner = TAN
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			10627 3
 		}
-		add_core_of = SOV
-		add_core_of = CHI
+		add_core_of = TAN
 	}
 
 	provinces={

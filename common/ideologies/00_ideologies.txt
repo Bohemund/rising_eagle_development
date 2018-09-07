@@ -1,0 +1,506 @@
+ideologies = {
+
+	ultranationalist = {
+		
+		types = {
+		
+			national_socialist = {	
+			}
+			
+			fascist = {	
+			}
+			
+			falangist = {			
+			}
+			
+			rexist = {				
+			}
+			
+			national_bolshevik = {				
+			}
+			
+			strasserist = {	
+			} 
+
+			national_syndicalist = {	
+			}
+
+			eurasianist = {	
+			}
+
+			clerical_fascist = {	
+			}
+
+			integralist = {	
+			}
+
+			militarist = {	
+			}
+			
+			baathist = {	
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_ULTRANATIONALIST_1"
+			"FACTION_NAME_ULTRANATIONALIST_2"
+			"FACTION_NAME_ULTRANATIONALIST_3"
+			"FACTION_NAME_ULTRANATIONALIST_4"
+			"FACTION_NAME_ULTRANATIONALIST_5"
+			"FACTION_NAME_ULTRANATIONALIST_6"
+		}
+		
+		color = { 82 51 28 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.25
+		}
+		
+	}
+
+	monarchist = {
+		
+		types = {
+		
+			absolute_monarchist = {
+			}
+
+			privy_council = {
+			}
+
+			trasitional_council = {
+			}
+
+			parliamentary_consitutional_monarchy = {
+			}
+	
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MONARCHIST_1"
+			"FACTION_NAME_MONARCHIST_2"
+			"FACTION_NAME_MONARCHIST_3"
+			"FACTION_NAME_MONARCHIST_4"
+			"FACTION_NAME_MONARCHIST_5"
+			"FACTION_NAME_MONARCHIST_6"
+		}
+		
+		color = { 83 49 121 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	nationalist = {
+		
+		types = {
+		
+			nationalist_ideology = {
+			}
+		
+			american_nationalist = {
+			}
+			
+			authoritarian_democrat = {
+			}
+
+			religious_traditionalist = {
+			}
+
+            environmental_nationalist = {
+			}
+
+            national_conservative = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_NATIONALIST_1"
+			"FACTION_NAME_NATIONALIST_2"
+			"FACTION_NAME_NATIONALIST_3"
+			"FACTION_NAME_NATIONALIST_4"
+			"FACTION_NAME_NATIONALIST_5"
+			"FACTION_NAME_NATIONALIST_6"
+		}
+		
+		color = { 184 188 182 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	conservative = {
+		
+		types = {
+		
+			reactionary = {
+			}
+			
+			american_republican = {
+			}
+			
+			european_conservative = {
+			}
+			
+			agrarian_conservative = {
+			}
+			
+			christian_democrat = {
+			}
+			
+			fiscal_conservative = {
+			}
+
+			social_conservative = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CONSERVATIVE_1"
+			"FACTION_NAME_CONSERVATIVE_2"
+			"FACTION_NAME_CONSERVATIVE_3"
+			"FACTION_NAME_CONSERVATIVE_4"
+			"FACTION_NAME_CONSERVATIVE_5"
+			"FACTION_NAME_CONSERVATIVE_6"
+		}
+		
+		color = { 62 53 198 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	centrist = {
+		
+		types = {
+		
+			right_libertarian = {
+			}
+			
+			centrist_ideology = {
+			}
+			
+			centrist_populist = {
+			}
+
+			market_liberal = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CENTRIST_1"
+			"FACTION_NAME_CENTRIST_2"
+			"FACTION_NAME_CENTRIST_3"
+			"FACTION_NAME_CENTRIST_4"
+			"FACTION_NAME_CENTRIST_5"
+			"FACTION_NAME_CENTRIST_6"
+		}
+		
+		color = { 203 113 38 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	liberal = {
+		
+		types = {
+		
+			social_liberal = {
+			}
+			
+			left_libertarian = {
+			}
+			
+			american_democrat = {
+			}
+			
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERAL_1"
+			"FACTION_NAME_LIBERAL_2"
+			"FACTION_NAME_LIBERAL_3"
+			"FACTION_NAME_LIBERAL_4"
+			"FACTION_NAME_LIBERAL_5"
+			"FACTION_NAME_LIBERAL_6"
+		}
+		
+		color = { 240 235 103 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	social_democrat = {
+		
+		types = {
+		
+			american_socialist = {
+			}
+
+			progressive = {
+			}
+
+			social_democrat ={
+			}
+
+			liberal_socialist = {
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_NEW_DEMOCRAT_1"
+			"FACTION_NAME_NEW_DEMOCRAT_2"
+			"FACTION_NAME_NEW_DEMOCRAT_3"
+			"FACTION_NAME_NEW_DEMOCRAT_4"
+			"FACTION_NAME_NEW_DEMOCRAT_5"
+			"FACTION_NAME_NEW_DEMOCRAT_6"
+		}
+		
+		color = { 246 182 182 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	democratic_socialist = {
+		
+		types = {
+		
+			democratic_socialist = {
+			}
+			
+			european_moderate_socialist = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MODERATE_SOCIALIST_1"
+			"FACTION_NAME_MODERATE_SOCIALIST_2"
+			"FACTION_NAME_MODERATE_SOCIALIST_3"
+			"FACTION_NAME_MODERATE_SOCIALIST_4"
+			"FACTION_NAME_MODERATE_SOCIALIST_5"
+			"FACTION_NAME_MODERATE_SOCIALIST_6"
+		}
+		
+		color = { 234 75 77 }
+		
+		war_impact_on_world_tension = 1.95
+		faction_impact_on_world_tension = 1.95
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	libertarian_socialist = {
+		
+		types = {
+		
+			luxemburgist = {
+			}
+			
+			syndicalist = {
+			}
+			
+			anarcho_syndicalist = {
+			}
+
+			communalist = {
+			}
+
+			anarcho_communist = {
+			}
+
+			democratic_confederalist = {
+			}	
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_1"
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_2"
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_3"
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_4"
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_5"
+			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_6"
+		}
+		
+		color = { 155 18 20  }
+		
+		war_impact_on_world_tension = 2
+		faction_impact_on_world_tension = 2
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		
+	}
+
+	communist = {
+		
+		types = {
+		
+			marxist = {
+			}
+			
+			american_communist = {
+			}
+		
+			leninist = {
+			}
+			
+			stalinist = {
+			}
+			
+			maoist = {
+			}
+			
+			juche = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+			"FACTION_NAME_COMMUNIST_6"
+		}
+		
+		color = { 107 11 11 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.25
+		}
+		
+	}
+
+}

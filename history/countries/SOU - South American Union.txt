@@ -46,7 +46,7 @@ parties = {
         monarchist = {
             popularity = 0
         }
-        national_conservative = {
+        conservative = {
             popularity = 6
         }
         centrist = {

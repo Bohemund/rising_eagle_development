@@ -12,8 +12,7 @@ state={
 	}
 	
 	history = {
-		owner = PRK
-		add_core_of = PRK
+		owner = KOR
 		add_core_of = KOR
 		
 		buildings = {

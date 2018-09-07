@@ -7,8 +7,8 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = RUS
+		add_core_of = RUS
 		victory_points = {
 			9292 1
 		}

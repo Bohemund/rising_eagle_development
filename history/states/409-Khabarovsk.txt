@@ -7,7 +7,7 @@ state={
 	state_category = state_level_5
 
 	history={
-		owner = SOV
+		owner = RUS
 		victory_points = {
 			12189 1
 		}
@@ -19,7 +19,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SOV
+		add_core_of = RUS
 	}
 
 	provinces={

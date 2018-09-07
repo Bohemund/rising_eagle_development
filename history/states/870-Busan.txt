@@ -9,7 +9,6 @@ state={
 	history={
 		owner = KOR
 		add_core_of = KOR
-		add_core_of = PRK
 		buildings = {
 			infrastructure = 7
 			air_base = 7

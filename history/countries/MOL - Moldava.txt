@@ -44,7 +44,7 @@ set_politics = {
 		nationalist = {
 			popularity = 1
 		}
-		national_conservative = {
+		conservative = {
 			popularity = 2
 		}
 		centrist = {

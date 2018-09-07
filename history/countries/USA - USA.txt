@@ -1,0 +1,92 @@
+﻿capital = 361
+
+oob = "USA_2010"
+
+set_research_slots = 4
+set_convoys = 500
+set_stability = 0.8
+set_war_support = 0.3
+
+set_country_flag = catholic_nation
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_convoys = 400
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 2
+		}
+		nationalist = {
+			popularity = 13
+		}
+		conservative = {
+			popularity = 27
+		}
+		centrist = {
+			popularity = 12
+		}
+		liberal = {
+			popularity = 25
+		}
+		social_democrat = {
+			popularity = 17
+		}
+		democratic_socialist = {
+			popularity = 2
+		}
+		libertarian_socialist = {
+			popularity = 2
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = conservative
+	last_election = "2008.4.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Chuck Baldwin"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Chuck_Baldwin.tga"
+	expire = "2050.1.1"
+	ideology = american_republican
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Joe Biden"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Joseph_Biden.tga"
+	expire = "2050.1.1"
+	ideology = american_democrat
+	traits = {
+		#
+	}
+}

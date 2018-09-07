@@ -367,8 +367,8 @@ ECU = {
 }
 
 ENG = {
-	color = rgb { 206 70 70 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 185 0 0 }
+	color_ui = rgb { 200 35 35 }
 }
 
 EGY = {
@@ -392,8 +392,8 @@ FIJ = {
 }
 
 FRA = {
-	color = rgb { 41 30 114 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 0 60 180 }
+	color_ui = rgb { 35 60 200 }
 }
 
 GER = {
@@ -487,8 +487,8 @@ ICE = {
 }
 
 ITA = {
-	color = rgb { 28 155 88 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 47 130 43 }
+	color_ui = rgb { 87 165 82 }
 }
 
 INS = {
@@ -657,8 +657,8 @@ PER = {
 }
 
 POR = {
-	color = rgb { 88 156 88 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 29 106 136 }
+	color_ui = rgb { 29 106 136 }
 }
 
 PLU = {
@@ -676,9 +676,9 @@ PAL = {
 	color_ui = rgb { 115 115 115 }
 }
 
-PRK = {
-	color = rgb { 111 0 0 }
-	color_ui = rgb { 115 115 115 }
+KOR = {
+	color = rgb { 25 30 177 }
+	color_ui = rgb { 25 30 177 }
 }
 
 PHI = {
@@ -987,13 +987,13 @@ CEA = {
 }
 
 RUS = {
-	color = rgb { 73 95 239 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 103 146 103 }
+	color_ui = rgb { 103 146 103 }
 }
 
 UKR = {
-	color = rgb { 206 219 29 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 0 91 188 }
+	color_ui = rgb { 0 91 188 }
 }
 
 BLR = {
@@ -1021,7 +1021,7 @@ LIT = {
 	color_ui = rgb { 115 115 115 }
 }
 
-KZH = {
+KAZ = {
 	color = rgb { 42 202 197 }
 	color_ui = rgb { 115 115 115 }
 }

@@ -1,13 +1,11 @@
 ﻿capital = 49
 
-oob = "TUR_2000"
+oob = "TUR_2010"
 
 set_research_slots = 4
 set_convoys = 500
 set_stability = 0.8
 set_war_support = 0.5
-
-set_country_flag = muslim_nation
 
 set_technology = {
 	support_weapons = 1
@@ -44,7 +42,7 @@ set_politics = {
 		nationalist = {
 			popularity = 12
 		}
-		national_conservative = {
+		conservative = {
 			popularity = 15
 		}
 		centrist = {
@@ -71,63 +69,20 @@ set_politics = {
 	last_election = "1997.1.1"
 	election_frequency = 48
 	elections_allowed = no
-}	
+}
 
-create_country_leader = {
+set_convoys = 20
+set_stability = 0.55
+
+#LEADERS
+
+create_country_leader = { #CENTRIST
 	name = "Mesut Yılmaz"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Mesut_Yılmaz.tga"
+	expire = "2050.1.1"
 	ideology = market_liberal
+	traits = {
+		#
+	}
 }
-
-create_country_leader = {
-	name = "Devlet Bahceli"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = fascist
-}
-
-create_country_leader = {
-	name = "Necmettin Erbakan"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = religious_traditionalist
-
-create_country_leader = {
-	name = "Bayezid III"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = absolute_monarchist
-}
-
-create_country_leader = {
-	name = "Meral Akşener"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = reactionary 
-}
-
-create_country_leader = {
-	name = "Deniz Baykal"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = social_liberal
-}
-
-create_country_leader = {
-	name = "Rahşan Ecevit"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = social_democracy
-
-create_country_leader = {
-	name = "Ertugrul Kurkcu"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = democratic_socialist
-}
-
-create_country_leader = {
-	name = "Alper Taş"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = communalism
-}
-
-create_country_leader = {
-	name = "Kemal Okuyan"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = leninist
-}
-
