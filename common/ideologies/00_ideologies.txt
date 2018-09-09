@@ -34,7 +34,7 @@ ideologies = {
 			integralist = {	
 			}
 
-			militarist = {	
+			military_statist = {	
 			}
 			
 			baathist = {	
@@ -136,6 +136,9 @@ ideologies = {
 			}
 
             national_conservative = {
+			}
+
+            military_junta = {
 			}
 			
 		}

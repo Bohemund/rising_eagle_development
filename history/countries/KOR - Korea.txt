@@ -1,12 +1,6 @@
-﻿capital = 505
+﻿capital = 525 #South Korea - Seoul or Busan
 
-oob = "SOU_2010"
-
-set_research_slots = 4
-set_convoys = 500
-set_stability = 0.6
-set_war_support = 0.1
-
+oob = "KOR_2010"
 
 set_technology = {
 	support_weapons = 1
@@ -31,55 +25,55 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
+set_convoys = 500
 
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 34
+			popularity = 8
 		}
 		monarchist = {
 			popularity = 3
 		}
 		nationalist = {
-			popularity = 6
-		}
-		conservative = {
-			popularity = 12
-		}
-		centrist = {
-			popularity = 8
-		}
-		liberal = {
-			popularity = 2
-		}
-		social_democrat = {
-			popularity = 6
-		}
-		democratic_socialist = {
 			popularity = 7
 		}
-		libertarian_socialist = {
-			popularity = 12
+		conservative = {
+			popularity = 22
 		}
-		communist = {
+		centrist = {
+			popularity = 14
+		}
+		liberal = {
 			popularity = 10
 		}
+		social_democrat = {
+			popularity = 13
+		}
+		democratic_socialist = {
+			popularity = 15
+		}
+		libertarian_socialist = {
+			popularity = 2
+		}
+		communist = {
+			popularity = 7
+		}
 	}
-	
-	ruling_party = ultranationalist
-	last_election = "1964.4.1"
+
+	ruling_party = conservative
+	last_election = "2007.12.19"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Antônio Hamilton Mourão"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SAU_Antonio_Hamilton_Mourao.tga"
-	expire = "2050.1.1"
-	ideology = military_statist
+	name = "Kim Moo-sung"
+	desc = ""
+	picture = "Portrait_KOR_Kim_Moo_Sung.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative
 	traits = {
 		#
 	}

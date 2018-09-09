@@ -1,12 +1,6 @@
-﻿capital = 505
+﻿capital = 291
 
-oob = "SOU_2010"
-
-set_research_slots = 4
-set_convoys = 500
-set_stability = 0.6
-set_war_support = 0.1
-
+oob = "IRQ_2010"
 
 set_technology = {
 	support_weapons = 1
@@ -27,59 +21,60 @@ set_technology = {
 	paratroopers = 1 
 	marines = 1
 	early_destroyer = 1 
+	atomic_research = 1 
 	interwar_antiair = 1
 	interwar_antitank = 1
 }
 
-set_convoys = 400
+set_convoys = 5
 
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 34
-		}
-		monarchist = {
-			popularity = 3
+			popularity = 41
 		}
 		nationalist = {
-			popularity = 6
+			popularity = 13
 		}
-		conservative = {
-			popularity = 12
-		}
-		centrist = {
-			popularity = 8
-		}
-		liberal = {
+		monarchist = {
 			popularity = 2
 		}
-		social_democrat = {
+		conservative = {
+			popularity = 11
+		}
+		centrist = {
+			popularity = 5
+		}
+		liberal = {
 			popularity = 6
 		}
+		social_democrat = {
+			popularity = 13
+		}
 		democratic_socialist = {
-			popularity = 7
+			popularity = 1
 		}
 		libertarian_socialist = {
-			popularity = 12
+			popularity = 2
 		}
 		communist = {
-			popularity = 10
+			popularity = 7
 		}
 	}
 	
 	ruling_party = ultranationalist
-	last_election = "1964.4.1"
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Antônio Hamilton Mourão"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SAU_Antonio_Hamilton_Mourao.tga"
-	expire = "2050.1.1"
-	ideology = military_statist
+	name = "Saddam Hussein"
+	desc = "POLITICS_GHAZI_I_DESC"
+	picture = "Portrait_IRQ_Saddam_Hussein.tga"
+	expire = "1979.7.16"
+	ideology = baathist
 	traits = {
 		#
 	}

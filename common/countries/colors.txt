@@ -30,7 +30,6 @@ NAX = {
 	color_ui = rgb { 115  115  115 }
 }
 
-
 KHA = {
 	color = rgb { 4  2  252 }
 	color_ui = rgb { 115  115  115 }
@@ -136,15 +135,10 @@ AND = {
 	color_ui = rgb { 115 115 115 }
 }
 
-
-
 MHA = {
 	color = rgb { 161  76  0 }
 	color_ui = rgb { 161  76  0 }
 }
-
-
-
 
 BGL = {
 	color = rgb { 0  106  78 }
@@ -302,8 +296,8 @@ CUB = {
 }
 
 CHI = {
-	color = rgb { 59 87 226 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 255 244 190 }
+	color_ui = rgb { 255 244 190 }
 }
 
 CHL = {
@@ -991,6 +985,11 @@ RUS = {
 	color_ui = rgb { 103 146 103 }
 }
 
+SOU = {
+	color = rgb { 0 36 144 }
+	color_ui = rgb { 0 36 144 }
+}
+
 UKR = {
 	color = rgb { 0 91 188 }
 	color_ui = rgb { 0 91 188 }
@@ -1498,10 +1497,5 @@ AMS = {
 
 AMC = {
 	color = rgb { 26 201 160 }
-	color_ui = rgb { 115 115 115 }
-}
-
-GAU = {
-	color = rgb { 28 44 122 }
 	color_ui = rgb { 115 115 115 }
 }

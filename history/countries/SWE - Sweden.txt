@@ -38,16 +38,16 @@ set_politics = {
 			popularity = 1
 		}
 		nationalist = {
-			popularity = 13
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 13
+			popularity = 17
 		}
 		centrist = {
-			popularity = 21
+			popularity = 25
 		}
 		liberal = {
 			popularity = 5
@@ -100,9 +100,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Anders Ygeman"
+	name = "Mona Sahlin"
 	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
-	picture = "Portrait_SWE_Anders_Ygeman.tga"
+	picture = "Portrait_SWE_Mona_Sahlin.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat
 	traits = {

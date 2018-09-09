@@ -1,12 +1,6 @@
-﻿capital = 505
+﻿capital = 279
 
-oob = "SOU_2010"
-
-set_research_slots = 4
-set_convoys = 500
-set_stability = 0.6
-set_war_support = 0.1
-
+oob = "CHL_2010"
 
 set_technology = {
 	support_weapons = 1
@@ -31,55 +25,55 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
+set_convoys = 25
 
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 34
-		}
-		monarchist = {
-			popularity = 3
-		}
-		nationalist = {
-			popularity = 6
-		}
-		conservative = {
-			popularity = 12
-		}
-		centrist = {
-			popularity = 8
-		}
-		liberal = {
 			popularity = 2
 		}
-		social_democrat = {
-			popularity = 6
+		monarchist = {
+			popularity = 0
 		}
-		democratic_socialist = {
-			popularity = 7
+		nationalist = {
+			popularity = 38
 		}
-		libertarian_socialist = {
+		conservative = {
+			popularity = 19
+		}
+		centrist = {
+			popularity = 14
+		}
+		liberal = {
 			popularity = 12
 		}
+		social_democrat = {
+			popularity = 7
+		}
+		democratic_socialist = {
+			popularity = 3
+		}
+		libertarian_socialist = {
+			popularity = 2
+		}
 		communist = {
-			popularity = 10
+			popularity = 4
 		}
 	}
 	
-	ruling_party = ultranationalist
-	last_election = "1964.4.1"
-	election_frequency = 48
+	ruling_party = nationalist
+	last_election = "1970.9.4"
+	election_frequency = 72 
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Antônio Hamilton Mourão"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SAU_Antonio_Hamilton_Mourao.tga"
+	name = "Augusto Pinochet Molina"
+	desc = "POLITICS_ARTURO_ALESSANDRI_DESC"
+	picture = "Portrait_CHL_Augusto_Pinochet_Molina.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_junta
 	traits = {
 		#
 	}
