@@ -324,6 +324,39 @@
  # ASIA #
   ######
 
+ #INDONESIA
+ XXX_ultranationalist:0 "Republic of Indonesia"
+ XXX_ultrantionalist_DEF:0 "The Republic of Indonesia"
+ XXX_monarchist:0 "Sultanate of Indonesia"
+ XXX_monarchist_DEF:0 "The Sultanate of Indonesia"
+ XXX_nationalist:0 "Islamic Republic of Indonesia"
+ XXX_nationalist_DEF:0 "The Islamic Republic of Indonesia"
+ XXX_conservative:0 "Republic of Indonesia"
+ XXX_conservative_DEF:0 "The Republic of Indonesia"
+ XXX_centrist:0 "Republic of Indonesia"
+ XXX_centrist_DEF:0 "The Republic of Indonesia"
+ XXX_liberal:0 "Republic of Indonesia"
+ XXX_liberal_DEF:0 "The Republic of Indonesia"
+ XXX_social_democrat:0 "Republic of Indonesia"
+ XXX_social_democrat_DEF:0 "The Republic of Indonesia"
+ XXX_democratic_socialist:0 "Republic of Indonesia"
+ XXX_democratic_socialist_DEF:0 "The Republic of Indonesia"
+ XXX_libertarian_socialist:0 "Republic of Indonesia"
+ XXX_libertarian_socialist_DEF:0 "The Republic of Indonesia"
+ XXX_communist:0 "People's Republic of Indonesia"
+ XXX_communist_DEF:0 "The People's Republic of Indonesia"
+ XXX_ultranationalist_ADJ:0 "Indonesian"
+ XXX_monarchist_ADJ:0 "Indonesian"
+ XXX_nationalist_ADJ:0 "Indonesian"
+ XXX_conservative_ADJ:0 "Indonesian"
+ XXX_centrist_ADJ:0 "Indonesian"
+ XXX_liberal_ADJ:0 "Indonesian"
+ XXX_social_democrat_ADJ:0 "Indonesian"
+ XXX_democratic_socialist_ADJ:0 "Indonesian"
+ XXX_libertarian_socialist_ADJ:0 "Indonesian"
+ XXX_communist_ADJ:0 "Indonesian"
+
+ #JAPAN
  JAP_ultranationalist:0 "State of Japan"
  JAP_ultranationalist_DEF:0 "The State of Japan"
  JAP_nationalist:0 "State of Japan"
@@ -354,7 +387,8 @@
  JAP_democratic_socialist_ADJ:0 "Japanese"
  JAP_libertarian_socialist_ADJ:0 "Japanese"
  JAP_communist_ADJ:0 "Japanese"
-
+ 
+ #KOREA
  KOR_ultranationalist:0 "Republic of Korea"
  KOR_ultrantionalist_DEF:0 "The Republic of Korea"
  KOR_monarchist:0 "Korean Empire"

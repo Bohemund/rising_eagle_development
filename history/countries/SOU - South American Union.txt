@@ -7,7 +7,6 @@ set_convoys = 500
 set_stability = 0.6
 set_war_support = 0.1
 
-
 set_technology = {
 	support_weapons = 1
 	infantry_weapons = 1
