@@ -326,7 +326,7 @@ ideologies = {
 			progressive = {
 			}
 
-			social_democrat ={
+			social_democrat_ideology ={
 			}
 
 			liberal_socialist = {
@@ -366,7 +366,7 @@ ideologies = {
 		
 		types = {
 		
-			democratic_socialist = {
+			democratic_socialist_ideology = {
 			}
 			
 			european_moderate_socialist = {
@@ -407,6 +407,9 @@ ideologies = {
 		types = {
 		
 			luxemburgist = {
+			}
+
+			libertarian_socialist_ideology = {
 			}
 			
 			syndicalist = {

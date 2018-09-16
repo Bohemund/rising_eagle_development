@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #Parties
+ BOS_ultranationalist_party:0 "Bosnian-Herzegovinian Patriotic Party"
+ BOS_ultranationalist_party_long:0 "Bosnian-Herzegovinian Patriotic Party"
+ BOS_monarchist_party:0 "N/A"
+ BOS_monarchist_party_long:0 "N/A"
+ BOS_nationalist_party:0 "Sword of Allah"
+ BOS_nationalist_party_long:0 "Sword of Allah"
+ BOS_conservative_party:0 "Party of Democratic Action"
+ BOS_conservative_party_long:0 "Party of Democratic Action"
+ BOS_centrist_party:0 "Party of Democratic Activity"
+ BOS_centrist_party_long:0 "Party of Democratic Activity"
+ BOS_liberal_party:0 "Democratic Front"
+ BOS_liberal_party_long:0 "Democratic Front"
+ BOS_social_democrat_party:0 "Social Democratic Party"
+ BOS_social_democrat_party_long:0 "Social Democratic Party of Bosnia and Herzegovina"
+ BOS_democratic_socialist_party:0 "Socialist Party"
+ BOS_democratic_socialist_party_long:0 "Socialist Party"
+ BOS_libertarian_socialist_party:0 "Communist Party of Bosnia and Herzegovina"
+ BOS_libertarian_socialist_party_long:0 "Communist Party of Bosnia and Herzegovina (Reformist)"
+ BOS_communist_party:0 "Communist Party of Bosnia and Herzegovina"
+ BOS_communist_party_long:0 "Communist Party of Bosnia and Herzegovina (Old Guard)"
