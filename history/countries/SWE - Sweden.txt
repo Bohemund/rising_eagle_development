@@ -104,7 +104,7 @@ create_country_leader = {
 	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
 	picture = "Portrait_SWE_Mona_Sahlin.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

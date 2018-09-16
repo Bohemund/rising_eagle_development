@@ -585,6 +585,11 @@ MOR = {
 	color_ui = rgb { 115 115 115 }
 }
 
+MOL = {
+	color = rgb { 255 211 0 }
+	color_ui = rgb { 255 211 0 }
+}
+
 MLD = {
 	color = rgb { 23 141 94 }
 	color_ui = rgb { 115 115 115 }

@@ -5,7 +5,8 @@ state={
 		606 953 982 11741 11845 
 	}
 	history = {
-		owner = BOS
+		owner = YUG
+		add_core_of = YUG
 		add_core_of = BOS
 		buildings = {
 			infrastructure = 4

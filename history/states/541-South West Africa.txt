@@ -11,7 +11,7 @@ state={
 	}
 	
 	history={
-		owner = NAM
+		owner = SAF
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3
@@ -19,7 +19,7 @@ state={
 			dockyard = 1
 			air_base = 1
 		}
-		add_core_of = NAM
+		add_core_of = SAF
 		victory_points = { 4879 5 }		#Windhoek
 		victory_points = { 12519 3 }	#Rundu
 		victory_points = { 10978 2 }	#Walvis Bay
