@@ -1,0 +1,60 @@
+﻿capital = 446
+
+oob = "EGY_2010"
+
+set_research_slots = 3
+set_convoys = 70
+set_stability = 0.4
+set_war_support = 0.2
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 2
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 16
+		}
+		conservative = {
+			popularity = 29
+		}
+		centrist = {
+			popularity = 17
+		}
+		liberal = {
+			popularity = 6
+		}
+		social_democrat = {
+			popularity = 22
+		}
+		democratic_socialist = {
+			popularity = 8
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = conservative
+	last_election = "2007.7.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mohamed Morsi"
+	desc = ""
+	picture = "Portrait_EGY_Mohamed_Morsi.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		#
+	}
+}

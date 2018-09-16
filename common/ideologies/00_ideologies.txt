@@ -4,6 +4,9 @@ ideologies = {
 		
 		types = {
 		
+            ultranationalist_ideology = {	
+			}
+
 			national_socialist = {	
 			}
 			
@@ -140,6 +143,9 @@ ideologies = {
 
             military_junta = {
 			}
+
+            islamist = {
+			}
 			
 		}
 		
@@ -175,9 +181,6 @@ ideologies = {
 		
 		types = {
 		
-			reactionary = {
-			}
-			
 			american_republican = {
 			}
 			
@@ -368,6 +371,9 @@ ideologies = {
 		
 			democratic_socialist_ideology = {
 			}
+
+			moderate_socialist = {
+			}
 			
 			european_moderate_socialist = {
 			}
@@ -474,6 +480,9 @@ ideologies = {
 			}
 			
 			maoist = {
+			}
+
+			titoist = {
 			}
 			
 			juche = {

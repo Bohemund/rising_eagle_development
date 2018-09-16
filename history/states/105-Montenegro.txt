@@ -4,7 +4,7 @@ state={
 	name="STATE_105"
 	
 	history={
-		owner = SER
+		owner = YUG
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -12,13 +12,8 @@ state={
 			9809 = {
 				naval_base = 1
 			}
-		}
-		add_core_of = SER
+		add_core_of = YUG
 		add_core_of = MNT
-		
-		2006.1.1 = {
-			owner = MNT
-			remove_core_of = SER
 		}
 		
 		victory_points = { 9809 10 }	#Podgorica

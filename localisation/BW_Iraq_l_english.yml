@@ -1,8 +1,8 @@
 ﻿l_english:
  
  #TEMPLATE
- IRQ_ultranationalist_party:0 "Arab Socialist Ba'ath Party"
- IRQ_ultranationalist_party_long:0 "Arab Socialist Ba'ath Party"
+ IRQ_ultranationalist_party:0 "Ba'ath Party"
+ IRQ_ultranationalist_party_long:0 "Arab Socialist Ba'ath Party - Iraq Region"
  IRQ_monarchist_party:0 "Iraqi Constitutional Monarchy"
  IRQ_monarchist_party_long:0 "Iraqi Constitutional Monarchy"
  IRQ_nationalist_party:0 "Islamic Supreme Council"
@@ -11,9 +11,9 @@
  IRQ_conservative_party_long:0 "Islamic Dawa Party"
  IRQ_centrist_party:0 "People's Party"
  IRQ_centrist_party_long:0 "People's Party"
- IRQ_liberal_party:0 "Assembly of Independent Democrats"
+ IRQ_liberal_party:0 "Independent Democrats"
  IRQ_liberal_party_long:0 "Assembly of Independent Democrats"
- IRQ_social_democrat_party:0 "National Democratic Party"
+ IRQ_social_democrat_party:0 "National Democrats"
  IRQ_social_democrat_party_long:0 "National Democratic Party"
  IRQ_democratic_socialist_party:0 "Arab Democratic Socialists"
  IRQ_democratic_socialist_party_long:0 "Arab Democratic Socialist Ba'ath Party"

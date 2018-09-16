@@ -1,0 +1,92 @@
+﻿capital = 589
+
+oob = "KAZ_2010"
+
+set_research_slots = 3
+set_convoys = 500
+set_stability = 0.8
+set_war_support = 0.2
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_convoys = 50
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 2
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 38
+		}
+		conservative = {
+			popularity = 9
+		}
+		centrist = {
+			popularity = 3
+		}
+		liberal = {
+			popularity = 8
+		}
+		social_democrat = {
+			popularity = 14
+		}
+		democratic_socialist = {
+			popularity = 7
+		}
+		libertarian_socialist = {
+			popularity = 1
+		}
+		communist = {
+			popularity = 18
+		}
+	}
+	
+	ruling_party = nationalist
+	last_election = "2005.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+#LEADERS
+
+create_country_leader = {
+	name = "Danyal Akhmetov"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_KAZ_Daniyal_Akhmetov.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
+	traits = {
+		
+	}
+}

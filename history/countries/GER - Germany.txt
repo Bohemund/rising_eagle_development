@@ -1,0 +1,83 @@
+﻿capital = 64
+
+oob = "GER_2010"
+
+set_research_slots = 4
+set_convoys = 250
+set_stability = 0.4
+set_war_support = 0.1
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 9
+		}
+		conservative = {
+			popularity = 35 
+		}
+		centrist = {
+			popularity = 10
+		}
+		liberal = {
+			popularity = 4
+		}
+		social_democrat = {
+			popularity = 29
+		}
+		democratic_socialist = {
+			popularity = 11
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 2
+		}
+	}
+	
+	ruling_party = conservative
+	last_election = "2009.9.27"
+	election_frequency = 48
+	elections_allowed = no
+
+}
+
+create_country_leader = {
+	name = "Christian Wulff"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Christian_Wulff.tga"
+	expire = "2050.1.1"
+	ideology = christian_democrat
+	traits = {
+	}
+}

@@ -3,9 +3,9 @@
 oob = "CHL_2010"
 
 set_research_slots = 4
-set_convoys = ¨30
-set_stability = 0.7
-set_war_support = 0.1
+set_convoys = 30
+set_stability = 0.5
+set_war_support = 0.3
 
 set_technology = {
 	support_weapons = 1
