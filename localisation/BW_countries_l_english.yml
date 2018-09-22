@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  XXX_ultranationalist:0 ""
  XXX_ultrantionalist_DEF:0 ""
  XXX_monarchist:0 ""
@@ -98,6 +98,7 @@
  GER_libertarian_socialist_ADJ:0 "German"
  GER_communist_ADJ:0 "German"
 
+#Poland
  POL_ultranationalist:0 "State of Poland"
  POL_ultrantionalist_DEF:0 "The State of Poland"
  POL_monarchist:0 "Kingdom of Poland"
@@ -160,6 +161,38 @@
  UKR_democratic_socialist_ADJ:0 "Ukrainian"
  UKR_libertarian_socialist_ADJ:0 "Ukrainian"
  UKR_communist_ADJ:0 "Ukrainian"
+
+ #Italy
+ ITA_ultranationalist:0 "Social Republic of Italy"
+ ITA_ultrantionalist_DEF:0 "The Social Republic of Italy"
+ ITA_monarchist:0 "Kingdom of Italy"
+ ITA_monarchist_DEF:0 "The Kingdom of Italy"
+ ITA_nationalist:0 "Italian Federation"
+ ITA_nationalist_DEF:0 "The Italian Federation"
+ ITA_conservative:0 "Italian Federation"
+ ITA_conservative_DEF:0 "The Italian Federation"
+ ITA_centrist:0 "Italian Federation"
+ ITA_centrist_DEF:0 "The Italian Federation"
+ ITA_liberal:0 "Italian Federation"
+ ITA_liberal_DEF:0 "The Italian Federation"
+ ITA_social_democrat:0 "Italian Federation"
+ ITA_social_democrat_DEF:0 "The Italian Federation"
+ ITA_democratic_socialist:0 "Italian Federation"
+ ITA_democratic_socialist_DEF:0 "The Italian Federation"
+ ITA_libertarian_socialist:0 "Union of Italian Provinces"
+ ITA_libertarian_socialist_DEF:0 "The Syndicalist Union of Italian Provinces"
+ ITA_communist:0 "Union of Italian Provinces"
+ ITA_communist_DEF:0 "The Syndicalist Union of Italian Provinces"
+ ITA_ultranationalist_ADJ:0 "Italian"
+ ITA_monarchist_ADJ:0 "Italian"
+ ITA_nationalist_ADJ:0 "Italian"
+ ITA_conservative_ADJ:0 "Italian"
+ ITA_centrist_ADJ:0 "Italian"
+ ITA_liberal_ADJ:0 "Italian"
+ ITA_social_democrat_ADJ:0 "Italian"
+ ITA_democratic_socialist_ADJ:0 "Italian"
+ ITA_libertarian_socialist_ADJ:0 "Italian"
+ ITA_communist_ADJ:0 "Italian"
 
  #SWEDEN
  SWE_ultranationalist:0 "State of Sweden"
@@ -225,6 +258,7 @@
  YUG_libertarian_socialist_ADJ:0 "Yugoslav"
  YUG_communist_ADJ:0 "Yugoslav"
 
+#Moldova
  MOL_ultranationalist:0 "Moldovan Statulsocialist"
  MOL_ultranationalist_DEF:0 "Moldovan Statulsocialist"
  MOL_monarchist:0 "Moldovan Regat"
@@ -288,8 +322,6 @@
  GEO_libertarian_socialist_ADJ:0 "Georgian"
  GEO_communist_ADJ:0 "Georgian"
 
- #RUSSIA
-
  CAN_ultranationalist:0 "United Canadian State"
  CAN_ultranationalist_DEF:0 "The United Canadian State"
  CAN_nationalist:0 "Canada"
@@ -321,6 +353,7 @@
  CAN_libertarian_socialist_ADJ:0 "Canadian"
  CAN_communist_ADJ:0 "Canadian"
 
+#Russian Democratic Federative Republic
  RUS_ultranationalist:0 "Russian State"
  RUS_ultranationalist_DEF:0 "The Russian State"
  RUS_monarchist:0 "Russian Empire"
@@ -384,6 +417,7 @@
  GRE_libertarian_socialist_ADJ:0 "Greek"
  GRE_communist_ADJ:0 "Greek"
 
+#Portugal
  POR_ultranationalist:0 "Portugese Republic"
  POR_ultranationalist_DEF:0 "The Portugese Republic"
  POR_nationalist:0 "Portugese Republic"
@@ -977,3 +1011,4 @@
  SAF_democratic_socialist_ADJ:0 "South African"
  SAF_libertarian_socialist_ADJ:0 "South African"
  SAF_communist_ADJ:0 "South African"
+
