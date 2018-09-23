@@ -7,13 +7,13 @@ state={
 	state_category = state_level_5
 
 	history={
-		owner = MOL
+		owner = MDV
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
 		add_core_of = UKR
-		add_core_of = MOL
+		add_core_of = MDV
 		victory_points = { 13209 2 }
 	}
 

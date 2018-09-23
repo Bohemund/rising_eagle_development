@@ -9,7 +9,7 @@ bookmarks = {
 	
 		FRA = {
 			history = FRA_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = liberal
 			ideas={
 				
 			}
@@ -29,7 +29,7 @@ bookmarks = {
 		}
 		ENG = {
 			history = ENG_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = social_democrat
 			ideas = {
 				
 			}
@@ -40,7 +40,7 @@ bookmarks = {
 		}
 		GER = {
 			history = GER_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = conservative
 			ideas = {
 				
 			}
@@ -50,7 +50,7 @@ bookmarks = {
 		}
 		ITA = {
 			history = ITA_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = democratic_socialist
 			ideas={
 			
 			}

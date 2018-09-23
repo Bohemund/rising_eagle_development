@@ -64,7 +64,7 @@ set_politics = {
 	}
 	
 	ruling_party = ultranationalist
-	last_election = "1936.1.1"
+	last_election = "1979.7.16"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -73,7 +73,7 @@ create_country_leader = {
 	name = "Saddam Hussein"
 	desc = "POLITICS_GHAZI_I_DESC"
 	picture = "Portrait_IRQ_Saddam_Hussein.tga"
-	expire = "1979.7.16"
+	expire = "2050.1.1"
 	ideology = baathist
 	traits = {
 		#

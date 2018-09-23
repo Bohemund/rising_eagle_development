@@ -35,10 +35,10 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 1
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 7
 		}
 		monarchist = {
 			popularity = 0
@@ -62,7 +62,7 @@ set_politics = {
 			popularity = 2
 		}
 		communist = {
-			popularity = 1
+			popularity = 0
 		}
 	}
 	
@@ -105,6 +105,17 @@ create_country_leader = {
 	picture = "Portrait_SWE_Mona_Sahlin.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Gudrun Schyman"
+	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
+	picture = "Portrait_SWE_Gudrun_Schyman.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
 	traits = {
 		#
 	}

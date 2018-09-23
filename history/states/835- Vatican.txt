@@ -5,11 +5,11 @@ state={
 	manpower = 854
 	state_category = state_level_1
 	history={
-		owner = HLS
+		owner = ITA
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = HLS
+		add_core_of = ITA
 		victory_points = { 13205 1 }
 	}
 	provinces={

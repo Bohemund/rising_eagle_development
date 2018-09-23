@@ -3,9 +3,9 @@
 oob = "SYR_2010"
 
 set_research_slots = 3
-set_convoys = 500
-set_stability = 0.8
-set_war_support = 0.1
+set_convoys = 40
+set_stability = 0.7
+set_war_support = 0.6
 
 set_technology = {
 	support_weapons = 1
