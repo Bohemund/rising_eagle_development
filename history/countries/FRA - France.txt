@@ -50,10 +50,10 @@ set_politics = {
 			popularity = 17
 		}
 		centrist = {
-			popularity = 8
+			popularity = 2
 		}
 		liberal = {
-			popularity = 28
+			popularity = 34
 		}
 		social_democrat = {
 			popularity = 17

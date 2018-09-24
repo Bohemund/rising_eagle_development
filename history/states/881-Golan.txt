@@ -6,7 +6,7 @@ state={
 	}
 		
 	history = {
-		owner = ISR
+		owner = SYR
 		add_core_of = SYR
 		
 		buildings = {

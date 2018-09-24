@@ -2,7 +2,7 @@ state={
 	id=811
 	name="STATE_811"
 	history = {
-		owner = PAL
+		owner = ISR
 		add_core_of = PAL
 		add_claim_by = ISR
 		

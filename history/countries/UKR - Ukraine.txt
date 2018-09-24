@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 16
+			popularity = 21
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 24
+			popularity = 0
 		}
 		conservative = {
-			popularity = 4
+			popularity = 9
 		}
 		centrist = {
-			popularity = 13
+			popularity = 33
 		}
 		liberal = {
-			popularity = 2
-		}
-		social_democrat = {
-			popularity = 15
-		}
-		democratic_socialist = {
 			popularity = 4
 		}
+		social_democrat = {
+			popularity = 13
+		}
+		democratic_socialist = {
+			popularity = 3
+		}
 		libertarian_socialist = {
-			popularity = 1
+			popularity = 0
 		}
 		communist = {
-			popularity = 21
+			popularity = 17
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = centrist
 	last_election = "2004.10.29"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,29 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_UKR_Oleh_Tyahnybok.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = fascist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Viktor Yanukovych"
+	desc = ""
+	picture = "Portrait_UKR_Viktor_Yanukovych.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Oleksandr Moroz"
+	desc = ""
+	picture = "Portrait_UKR_Oleksandr_Moroz.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
 	traits = {
 		
 	}

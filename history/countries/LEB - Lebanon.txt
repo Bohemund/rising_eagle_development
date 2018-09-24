@@ -1,0 +1,85 @@
+﻿capital = 553
+
+oob = "LEB_2010"
+
+set_research_slots = 3
+set_convoys = 5
+set_stability = 0.6
+set_war_support = 0.4
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	atomic_research = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 7
+		}
+		nationalist = {
+			popularity = 18
+		}
+		monarchist = {
+			popularity = 0
+		}
+		conservative = {
+			popularity = 12
+		}
+		centrist = {
+			popularity = 15
+		}
+		liberal = {
+			popularity = 23
+		}
+		social_democrat = {
+			popularity = 10
+		}
+		democratic_socialist = {
+			popularity = 4
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 11
+		}
+	}
+	
+	ruling_party = liberal
+	last_election = "2005.6.20"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Dany Chamoun"
+	desc = ""
+	picture = "Portrait_LEB_Dany_Chamoun.tga"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}

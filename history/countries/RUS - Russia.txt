@@ -3,7 +3,7 @@
 oob = "RUS_2010"
 
 set_research_slots = 4
-set_convoys = 500
+set_convoys = 50
 set_stability = 0.5
 set_war_support = 0.4
 
@@ -35,44 +35,42 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 50
-
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 17
+			popularity = 11
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 2
 		}
 		conservative = {
-			popularity = 13
+			popularity = 25
 		}
 		centrist = {
-			popularity = 26
+			popularity = 13
 		}
 		liberal = {
-			popularity = 12
+			popularity = 15
 		}
 		social_democrat = {
-			popularity = 5
+			popularity = 11
 		}
 		democratic_socialist = {
-			popularity = 6
+			popularity = 8
 		}
 		libertarian_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
 			popularity = 14
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -86,6 +84,17 @@ create_country_leader = {
 	picture = "Portrait_RUS_Aleksandr_Dugin.tga"
 	expire = "2050.1.1"
 	ideology = eurasianist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Alexander Lebed"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_RUS_Alexander_Lebed.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
 	traits = {
 		
 	}

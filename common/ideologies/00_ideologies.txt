@@ -244,6 +244,9 @@ ideologies = {
 
 			market_liberal = {
 			}
+
+			agrarian_populist = {
+			}
 			
 		}
 		

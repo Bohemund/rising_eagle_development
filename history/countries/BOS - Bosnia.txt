@@ -2,10 +2,10 @@ capital = 104
 
 oob = "BOS_2010"
 
-set_research_slots = 4
-set_convoys = 500
-set_stability = 0.8
-set_war_support = 0.3
+set_research_slots = 3
+set_convoys = 10
+set_stability = 0.7
+set_war_support = 0.5
 
 set_technology = {
 	support_weapons = 1
@@ -24,8 +24,6 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
-
 set_politics = {
 
 	parties = {
@@ -33,31 +31,31 @@ set_politics = {
 			popularity = 2
 		}
 		monarchist = {
-			popularity = 0
+			popularity = 16
 		}
 		nationalist = {
-			popularity = 44
+			popularity = 31
 		}
 		conservative = {
-			popularity = 13
+			popularity = 19
 		}
 		centrist = {
 			popularity = 4
 		}
 		liberal = {
-			popularity = 9
+			popularity = 14
 		}
 		social_democrat = {
-			popularity = 18
+			popularity = 10
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 3
+			popularity = 4
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
@@ -68,11 +66,22 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Mustafa Cerić"
+	desc = ""
+	picture = "Portrait_BOS_Mustafa_Ceric.tga"
+	expire = "2050.1.1"
+	ideology = islamist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Bilal Bosnic"
 	desc = ""
 	picture = "Portrait_BOS_Bilal_Bosnic.tga"
 	expire = "2050.1.1"
-	ideology = religious_traditionalist
+	ideology = absolute_monarchist
 	traits = {
 		#
 	}
