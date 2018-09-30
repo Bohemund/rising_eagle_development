@@ -2,10 +2,6 @@
 
 oob = "FRA_2010"
 
-set_research_slots = 3
-set_stability = 0.5
-set_war_support = 0.15
-
 set_research_slots = 4
 set_convoys = 400
 set_stability = 0.7

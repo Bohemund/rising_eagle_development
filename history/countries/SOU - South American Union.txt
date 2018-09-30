@@ -36,34 +36,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 34
+			popularity = 39
 		}
 		monarchist = {
-			popularity = 3
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 6
+			popularity = 0
 		}
 		conservative = {
-			popularity = 12
+			popularity = 9
 		}
 		centrist = {
-			popularity = 8
+			popularity = 0
 		}
 		liberal = {
-			popularity = 2
+			popularity = 5
 		}
 		social_democrat = {
-			popularity = 6
+			popularity = 32
 		}
 		democratic_socialist = {
-			popularity = 7
+			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 12
+			popularity = 9
 		}
 		communist = {
-			popularity = 10
+			popularity = 6
 		}
 	}
 	
@@ -74,11 +74,22 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Antônio Hamilton Mourão"
+	name = "Paulo Maluf"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SAU_Antonio_Hamilton_Mourao.tga"
+	picture = "Portrait_SOU_Paulo_Maluf.tga"
 	expire = "2050.1.1"
 	ideology = military_statist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Antônio Hamilton Mourão"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
 	traits = {
 		#
 	}

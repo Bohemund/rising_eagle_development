@@ -1,0 +1,77 @@
+﻿capital = 37
+
+oob = "DEN_2010"
+
+set_research_slots = 4
+set_convoys = 50
+set_stability = 0.8
+set_war_support = 0.1
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 17
+		}
+		conservative = {
+			popularity = 12
+		}
+		centrist = {
+			popularity = 25
+		}
+		liberal = {
+			popularity = 8
+		}
+		social_democrat = {
+			popularity = 28
+		}
+		democratic_socialist = {
+			popularity = 2
+		}
+		libertarian_socialist = {
+			popularity = 8
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = social_democrat
+	last_election = "2007.11.13"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Helle Thorning-Schmidt"
+	desc = "POLITICS_THORVALD_STAUNING_DESC"
+	picture = "Portrait_DEN_Helle_Thorning_Schmidt.tga"
+	expire = "2050.1.1"
+	ideology = liberal_socialist
+	traits = {
+		#
+	}
+}
