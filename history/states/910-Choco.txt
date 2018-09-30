@@ -8,8 +8,9 @@ state={
 	buildings_max_level_factor=1.000
 	
 	history = {
-		owner = COL
+		owner = SOU
 		add_core_of = COL
+		add_core_of = SOU
 		
 		buildings = {
 			infrastructure = 0
