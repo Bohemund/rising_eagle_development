@@ -81,9 +81,9 @@ set_politics = {
 #LEADERS
 
 create_country_leader = {
-	name = "Danyal Akhmetov"
+	name = "Nurlan Nigmatulin"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_KAZ_Daniyal_Akhmetov.tga"
+	picture = "Portrait_KAZ_Nurlan_Nigmatulin.tga"
 	expire = "2050.1.1"
 	ideology = nationalist_ideology
 	traits = {

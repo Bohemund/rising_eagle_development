@@ -6,7 +6,7 @@ state=
 	state_category = state_level_19
 	history=
 	{
-		owner = HKN
+		owner = CHI
 		add_core_of = PRC
 		add_core_of = CHI
 		add_core_of = HKN

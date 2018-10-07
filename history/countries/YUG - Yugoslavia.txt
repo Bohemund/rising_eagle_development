@@ -76,6 +76,17 @@ create_country_leader = {
 	desc = "POLITICS_PRINCE_PAUL_DESC"
 	picture = "Portrait_YUG_Zoran_Lilic.tga"
 	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Slobodan Milošević"
+	desc = "POLITICS_PRINCE_PAUL_DESC"
+	picture = "Portrait_YUG_Slobodan_Milosevic.tga"
+	expire = "2050.1.1"
 	ideology = titoist
 	traits = {
 		#

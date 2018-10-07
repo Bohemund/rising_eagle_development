@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = ETI
-		add_core_of = ETI
+		owner = INS
+		add_core_of = INS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
