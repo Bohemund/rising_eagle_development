@@ -65,6 +65,11 @@ BHU = {
 	color_ui = rgb { 115 115 115 }
 }
 
+TIB = {
+	color = rgb { 177 207 205  }
+	color_ui = rgb { 177 207 205  }
+}
+
 BOL = {
 	color = rgb { 97 186 124 }
 	color_ui = rgb { 115 115 115 }
@@ -141,8 +146,8 @@ CUB = {
 }
 
 CHI = {
-	color = rgb { 255 244 190 }
-	color_ui = rgb { 255 244 190 }
+	color = rgb { 59 87 226 }
+	color_ui = rgb { 59 87 226 }
 }
 
 CHL = {

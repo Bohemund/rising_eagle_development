@@ -3,8 +3,8 @@
  #PARTIES
  CHL_ultranationalist_party:0 "Fatherland and Liberty"
  CHL_ultranationalist_party_long:0 "Fatherland and Liberty"
- CHL_monarchist_party:0 ""
- CHL_monarchist_party_long:0 ""
+ CHL_monarchist_party:0 "Royalists"
+ CHL_monarchist_party_long:0 "Royalists"
  CHL_nationalist_party:0 "Government Junta"
  CHL_nationalist_party_long:0 "Government Junta of Chile"
  CHL_conservative_party:0 "Christian Renewal"

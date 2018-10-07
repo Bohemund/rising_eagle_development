@@ -281,8 +281,11 @@ ideologies = {
 		
 			social_liberal = {
 			}
+
+			national_liberal = {
+			}
 			
-			left_libertarian = {
+			radical = {
 			}
 			
 			american_democrat = {

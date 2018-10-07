@@ -72,9 +72,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Laurent Hénart"
+	name = "Jean-Louis Borloo"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Laurent_Henart.tga"
+	picture = "Portrait_FRA_Jean_Louis_Borloo.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
 	traits = {
