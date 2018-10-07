@@ -99,3 +99,36 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Steve King"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Steve_King.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hillary Rodham"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Hillary_Rodham.tga"
+	expire = "2050.1.1"
+	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Elizabeth Warren"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Elizabeth_Warren.tga"
+	expire = "2050.1.1"
+	ideology = progressive
+	traits = {
+		#
+	}
+}
