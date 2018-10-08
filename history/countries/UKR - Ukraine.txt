@@ -88,6 +88,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Natalia Poklonskaya"
+	desc = ""
+	picture = "Portrait_UKR_Natalia_Poklonskaya.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Viktor Yanukovych"
 	desc = ""
 	picture = "Portrait_UKR_Viktor_Yanukovych.tga"

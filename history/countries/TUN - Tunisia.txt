@@ -1,0 +1,97 @@
+﻿capital = 458
+
+oob = "TUN_2010"
+
+set_research_slots = 4
+set_convoys = 60
+set_stability = 0.6
+set_war_support = 0.3
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 4
+		}
+		conservative = {
+			popularity = 9
+		}
+		centrist = {
+			popularity = 6
+		}
+		liberal = {
+			popularity = 26
+		}
+		social_democrat = {
+			popularity = 19
+		}
+		democratic_socialist = {
+			popularity = 2
+		}
+		libertarian_socialist = {
+			popularity = 29
+		}
+		communist = {
+			popularity = 4
+		}
+	}
+	
+	ruling_party = libertarian_socialist
+	last_election = "2009.7.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ahmed Brahim"
+	picture = "Portrait_TUN_Ahmed_Brahim.tga"
+	expire = "2050.1.1"
+	ideology = syndicalist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Hamma Hammami"
+	picture = "Portrait_TUN_Hamma_Hammami.tga"
+	expire = "2050.1.1"
+	ideology = maoist
+	traits = {
+		
+	}
+}

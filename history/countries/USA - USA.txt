@@ -30,31 +30,31 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 1
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 13
+			popularity = 10
 		}
 		conservative = {
 			popularity = 33
 		}
 		centrist = {
-			popularity = 12
+			popularity = 15
 		}
 		liberal = {
-			popularity = 30
+			popularity = 31
 		}
 		social_democrat = {
-			popularity = 7
+			popularity = 9
 		}
 		democratic_socialist = {
 			popularity = 2
 		}
 		libertarian_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
@@ -79,11 +79,55 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Joe Biden"
+	name = "Joseph Biden"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Joseph_Biden.tga"
 	expire = "2050.1.1"
 	ideology = american_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bernie Sanders"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Bernie_Sanders.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Steve King"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Steve_King.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hillary Rodham"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Hillary_Rodham.tga"
+	expire = "2050.1.1"
+	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Elizabeth Warren"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Elizabeth_Warren.tga"
+	expire = "2050.1.1"
+	ideology = progressive
 	traits = {
 		#
 	}

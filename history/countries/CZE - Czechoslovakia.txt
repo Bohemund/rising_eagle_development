@@ -1,0 +1,86 @@
+﻿capital = 9
+
+set_research_slots = 4
+set_convoys = 0
+set_stability = 0.5
+set_war_support = 0.2
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 3
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 3
+		}
+		conservative = {
+			popularity = 15
+		}
+		centrist = {
+			popularity = 27
+		}
+		liberal = {
+			popularity = 6
+		}
+		social_democrat = {
+			popularity = 17
+		}
+		democratic_socialist = {
+			popularity = 4
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 25
+		}
+	}
+	
+	ruling_party = centrist
+	last_election = "2006.6.3"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Václav Klaus"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "Portrait_CZE_Vaclav_Klaus.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		#
+	}
+}

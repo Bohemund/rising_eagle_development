@@ -3,9 +3,6 @@ ideologies = {
 	ultranationalist = {
 		
 		types = {
-		
-            ultranationalist_ideology = {	
-			}
 
 			national_socialist = {	
 			}
@@ -14,9 +11,6 @@ ideologies = {
 			}
 			
 			falangist = {			
-			}
-			
-			rexist = {				
 			}
 			
 			national_bolshevik = {				
@@ -41,6 +35,9 @@ ideologies = {
 			}
 			
 			baathist = {	
+			}
+
+			imperialist = {	
 			}
 
 		}
@@ -289,8 +286,11 @@ ideologies = {
 		
 			social_liberal = {
 			}
+
+			national_liberal = {
+			}
 			
-			left_libertarian = {
+			radical = {
 			}
 			
 			american_democrat = {

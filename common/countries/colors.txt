@@ -65,6 +65,11 @@ BHU = {
 	color_ui = rgb { 115 115 115 }
 }
 
+TIB = {
+	color = rgb { 177 207 205  }
+	color_ui = rgb { 177 207 205  }
+}
+
 BOL = {
 	color = rgb { 97 186 124 }
 	color_ui = rgb { 115 115 115 }
@@ -141,8 +146,8 @@ CUB = {
 }
 
 CHI = {
-	color = rgb { 255 244 190 }
-	color_ui = rgb { 255 244 190 }
+	color = rgb { 59 87 226 }
+	color_ui = rgb { 59 87 226 }
 }
 
 CHL = {
@@ -1085,63 +1090,13 @@ ALT = {
 	color_ui = rgb { 115 115 115 }
 }
 
-BRC = {
-	color = rgb { 189 44 44 }
-	color_ui = rgb { 115 115 115 }
-}
-
-MAN = {
-	color = rgb { 26 115 20 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NWB = {
-	color = rgb { 141 43 183 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NFL = {
-	color = rgb { 245 126 233 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NVS = {
-	color = rgb { 51 51 148 }
-	color_ui = rgb { 115 115 115 }
-}
-
-ONT = {
-	color = rgb { 148 51 51 }
-	color_ui = rgb { 115 115 115 }
-}
-
-PEI = {
-	color = rgb { 101 202 101 }
-	color_ui = rgb { 115 115 115 }
+TAN = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
 }
 
 QUE = {
 	color = rgb { 35 11 128 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SSK = {
-	color = rgb { 153 202 38 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NWT = {
-	color = rgb { 228 232 219 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NUN = {
-	color = rgb { 250 250 88 }
-	color_ui = rgb { 115 115 115 }
-}
-
-YUK = {
-	color = rgb { 79 169 148 }
 	color_ui = rgb { 115 115 115 }
 }
 

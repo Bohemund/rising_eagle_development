@@ -78,7 +78,7 @@ create_country_leader = {
 	name = "Dany Chamoun"
 	desc = ""
 	picture = "Portrait_LEB_Dany_Chamoun.tga"
-	ideology = social_liberal
+	ideology = national_liberal
 	traits = {
 		#
 	}

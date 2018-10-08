@@ -31,7 +31,7 @@ set_politics = {
 			popularity = 2
 		}
 		monarchist = {
-			popularity = 16
+			popularity = 4
 		}
 		nationalist = {
 			popularity = 31
@@ -40,7 +40,7 @@ set_politics = {
 			popularity = 19
 		}
 		centrist = {
-			popularity = 4
+			popularity = 16
 		}
 		liberal = {
 			popularity = 14
@@ -70,18 +70,18 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_BOS_Mustafa_Ceric.tga"
 	expire = "2050.1.1"
-	ideology = islamist
+	ideology = absolute_monarchist
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Bilal Bosnic"
+	name = "Sulejman Tihić"
 	desc = ""
-	picture = "Portrait_BOS_Bilal_Bosnic.tga"
+	picture = "Portrait_BOS_Sulejman_Tihic.tga"
 	expire = "2050.1.1"
-	ideology = absolute_monarchist
+	ideology = national_conservative
 	traits = {
 		#
 	}

@@ -5,18 +5,8 @@ bookmarks = {
 		date = 2010.1.1.1
 		picture = "GFX_select_date_1939"
 		default_country = "USA"
-		dafault = yes
+		default = yes
 	
-		FRA = {
-			history = FRA_RISING_EAGLE_DESC
-			ideology = liberal
-			ideas={
-				
-			}
-			focuses = {
-				
-			}
-		}
 		USA = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
@@ -27,16 +17,15 @@ bookmarks = {
 				
 			}
 		}
-		ENG = {
-			history = ENG_RISING_EAGLE_DESC
-			ideology = social_democrat
-			ideas = {
+		FRA = {
+			history = FRA_RISING_EAGLE_DESC
+			ideology = liberal
+			ideas={
 				
 			}
 			focuses = {
 				
 			}
-			
 		}
 		GER = {
 			history = GER_RISING_EAGLE_DESC
@@ -48,15 +37,35 @@ bookmarks = {
 				
 			}
 		}
-		ITA = {
-			history = ITA_RISING_EAGLE_DESC
-			ideology = democratic_socialist
-			ideas={
+		RUS = {
+			history = RUS_RISING_EAGLE_DESC
+			ideology = conservative
+			ideas = {
 			
 			}
 			focuses = {
+				
+			}
+		}
+		SOU = {
+			history = SOU_RISING_EAGLE_DESC
+			ideology = ultranationalist
+			ideas = {
 			
-			}			
+			}
+			focuses = {
+				
+			}
+		}
+		CHI = {
+			history = CHI_RISING_EAGLE_DESC
+			ideology = centrist
+			ideas = {
+			
+			}
+			focuses = {
+				
+			}
 		}
 		JAP = {
 			history = JAP_RISING_EAGLE_DESC
@@ -67,16 +76,6 @@ bookmarks = {
 			focuses = {
 				
 			}		
-		}
-		RUS = {
-			history = RUS_RISING_EAGLE_DESC
-			ideology = centrist
-			ideas = {
-			
-			}
-			focuses = {
-				
-			}
 		}
 	}
 }
