@@ -138,6 +138,9 @@ ideologies = {
             national_conservative = {
 			}
 
+			paleoconservative = {
+			}
+
             military_junta = {
 			}
 
@@ -196,6 +199,8 @@ ideologies = {
 			social_conservative = {
 			}
 			
+			libertarian_conservative = {
+			}
 		}
 		
 		dynamic_faction_names = {
