@@ -34,34 +34,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 10
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 9
+			popularity = 12
 		}
 		conservative = {
-			popularity = 19
+			popularity = 15
 		}
 		centrist = {
-			popularity = 27
+			popularity = 24
 		}
 		liberal = {
 			popularity = 12
 		}
 		social_democrat = {
-			popularity = 17
+			popularity = 11
 		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 10
 		}
 		libertarian_socialist = {
-			popularity = 1
+			popularity = 2
 		}
 		communist = {
-			popularity = 5
+			popularity = 4
 		}
 	}
 	
@@ -82,6 +82,72 @@ create_country_leader = { #CENTRIST
 	picture = "Portrait_TUR_Mesut_Yılmaz.tga"
 	expire = "2050.1.1"
 	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Meral Akşener"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Meral_Aksener.tga"
+	expire = "2050.1.1"
+	ideology = reactionary
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Deniz Baykal"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Deniz_Baykal.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Rahşan Ecevit"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Rahsan_Ecevit.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Ertuğrul Kürkçü"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Ertugrul_Kurkcu.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Devlet Bahçeli"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Devlet_Bahceli.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Necmettin Erbakan"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Necmettin_Erbakan.tga"
+	expire = "2050.1.1"
+	ideology = religious_traditionalist
 	traits = {
 		#
 	}

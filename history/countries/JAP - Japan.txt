@@ -78,7 +78,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_JAP_Shinzo_Abe.tga"
 	expire = "2050.1.1"
-	ideology = imperialist
+	ideology = imperial_japan
 	traits = {
 	}
 }

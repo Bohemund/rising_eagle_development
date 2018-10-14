@@ -1,0 +1,19 @@
+spriteTypes = {	
+	
+	
+	###### BLUE WORLD ######
+	
+	spriteType = {
+	    name = "GFX_idea_idea_queen_elizabeth_ii"
+	    texturefile = "gfx/interface/ideas/queen_elizabeth_ii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_idea_carl_xvi_gustaf"
+		texturefile = "gfx/interface/ideas/carl_xvi_gustaf.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_idea_rama_ix"
+		texturefile = "gfx/interface/ideas/rama_ix.dds"
+	}

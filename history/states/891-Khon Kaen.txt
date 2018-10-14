@@ -9,8 +9,8 @@ state={
 		rubber = 60
 	}
 	history = {
-		owner = SIA
-		add_core_of = SIA
+		owner = THA
+		add_core_of = THA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

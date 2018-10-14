@@ -4,6 +4,9 @@ ideologies = {
 		
 		types = {
 
+            ultranationalist_ideology = {	
+			}
+
 			national_socialist = {	
 			}
 			
@@ -37,7 +40,7 @@ ideologies = {
 			baathist = {	
 			}
 
-			imperialist = {	
+			imperial_japan = {	
 			}
 
 		}

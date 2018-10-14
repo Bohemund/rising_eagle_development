@@ -1,0 +1,22 @@
+ideas = {
+
+    country = {
+	    
+		idea_carl_xvi_gustaf = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.025
+				
+				
+			}
+		}
+	}
+
+
+
+}

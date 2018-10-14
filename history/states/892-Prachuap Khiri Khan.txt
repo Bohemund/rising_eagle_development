@@ -8,8 +8,8 @@ state={
 		rubber = 5
 	}
 	history = {
-		owner = SIA
-		add_core_of = SIA
+		owner = THA
+		add_core_of = THA
 		buildings = {
 			infrastructure = 1
 			air_base = 1

@@ -2,6 +2,10 @@
 
 oob = "SWE_2010"
 
+add_ideas = {
+    idea_carl_xvi_gustaf
+}
+
 set_research_slots = 4
 set_convoys = 500
 set_stability = 0.8

@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = SIA
-		add_core_of = SIA
+		owner = THA
+		add_core_of = THA
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 11
