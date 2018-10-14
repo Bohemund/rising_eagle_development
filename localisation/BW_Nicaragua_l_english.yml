@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ NIC_ultranationalist_party:0 "Nationalist Liberals"
+ NIC_ultranationalist_party_long:0 "Nationalist Liberal Party"
+ NIC_monarchist_party:0 "Royalists"
+ NIC_monarchist_party_long:0 "Royalists"
+ NIC_nationalist_party:0 "Democratic Force"
+ NIC_nationalist_party_long:0 "Nicaraguan Democratic Force"
+ NIC_conservative_party:0 "Conservative Party"
+ NIC_conservative_party_long:0 "Conservative Party"
+ NIC_centrist_party:0 "Constitutionalist Liberals"
+ NIC_centrist_party_long:0 "Constitutionalist Liberal Party"
+ NIC_liberal_party:0 "Independent Liberals"
+ NIC_liberal_party_long:0 "Independent Liberal Party"
+ NIC_social_democrat_party:0 "Renovation Movement"
+ NIC_social_democrat_party_long:0 "Sandinista Renovation Movement"
+ NIC_democratic_socialist_party:0 "Reformist Sandinistas"
+ NIC_democratic_socialist_party_long:0 "Sandinista National Liberation Front (Reformists)"
+ NIC_libertarian_socialist_party:0 "Old Sandinistas"
+ NIC_libertarian_socialist_party_long:0 "Sandinista National Liberation Front (Old Guard)"
+ NIC_communist_party:0 "Orthodox Sandinistas"
+ NIC_communist_party_long:0 "Sandinista National Liberation Front (Orthodox Marxists)"

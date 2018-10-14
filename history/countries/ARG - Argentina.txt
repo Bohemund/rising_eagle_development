@@ -45,7 +45,7 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 7
+			popularity = 24
 		}
 		conservative = {
 			popularity = 19
@@ -57,7 +57,7 @@ set_politics = {
 			popularity = 38
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 7
 		}
 		democratic_socialist = {
 			popularity = 6

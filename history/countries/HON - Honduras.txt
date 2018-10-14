@@ -1,0 +1,88 @@
+﻿capital = 312
+
+oob = "HON_2010"
+
+set_research_slots = 3
+set_convoys = 60
+set_stability = 0.7
+set_war_support = 0.2
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 2
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 17
+		}
+		conservative = {
+			popularity = 12
+		}
+		centrist = {
+			popularity = 8
+		}
+		liberal = {
+			popularity = 23
+		}
+		social_democrat = {
+			popularity = 9
+		}
+		democratic_socialist = {
+			popularity = 16
+		}
+		libertarian_socialist = {
+			popularity = 9
+		}
+		communist = {
+			popularity = 4
+		}
+	}
+	
+	ruling_party = liberal
+	last_election = "2009.11.29"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Roberto Micheletti"
+	desc = "POLITICS_TIBURCIO_CARIAS_ANDINO_DESC"
+	picture = "Portrait_HON_Roberto_Micheletti.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
