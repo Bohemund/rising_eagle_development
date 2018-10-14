@@ -433,6 +433,9 @@ ideologies = {
 			anarcho_communist = {
 			}
 
+			christian_socialist = {
+			}
+
 			democratic_confederalist = {
 			}	
 			

@@ -871,18 +871,18 @@ GEO = {
 }
 
 EST = {
-	color = rgb { 14 14 118 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 50 135 175 }
+	color_ui = rgb { 50 135 175 }
 }
 
 LAT = {
-	color = rgb { 139 40 63 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 75 77 146 }
+	color_ui = rgb { 75 77 146 }
 }
 
 LIT = {
-	color = rgb { 47 139 40 }
-	color_ui = rgb { 115 115 115 }
+	color = rgb { 134 69 136 }
+	color_ui = rgb { 134 69 136 }
 }
 
 KAZ = {

@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ EST_ultranationalist_party:0 "Independence Party"
+ EST_ultranationalist_party_long:0 "Independence Party"
+ EST_monarchist_party:0 "Royalists"
+ EST_monarchist_party_long:0 "Royalists"
+ EST_nationalist_party:0 "Conservative People’s Party"
+ EST_nationalist_party_long:0 "Conservative People’s Party"
+ EST_conservative_party:0 "Fatherland and Republic"
+ EST_conservative_party_long:0 "Fatherland and Republic"
+ EST_centrist_party:0 "Centre Party"
+ EST_centrist_party_long:0 "Centre Party"
+ EST_liberal_party:0 "Reform Party"
+ EST_liberal_party_long:0 "Reform Party"
+ EST_social_democrat_party:0 "Social Democrats"
+ EST_social_democrat_party_long:0 "Social Democratic Party"
+ EST_democratic_socialist_party:0 "United Left Party"
+ EST_democratic_socialist_party_long:0 "United Left Party"
+ EST_libertarian_socialist_party:0 "Communist Party (E)"
+ EST_libertarian_socialist_party_long:0 "Communist Party of Estonia (Estonian Clique)"
+ EST_communist_party:0 "Communist Party (R)"
+ EST_communist_party_long:0 "Communist Party of Estonia (Russian Clique)"

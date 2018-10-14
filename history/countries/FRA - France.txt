@@ -81,3 +81,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "François Hollande"
+	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
+	picture = "Portrait_FRA_Francois_Hollande.tga"
+	expire = "2050.1.1"
+	ideology = leninist
+	traits = {
+		#
+	}
+}
