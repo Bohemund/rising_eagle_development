@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = "POLITICS_MATYAS_RAKOSKI_DESC"
 	picture = "Portrait_HUN_Peter_Medgyessy.tga"
 	expire = "2050.1.1"
-	ideology = liberal_socialist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

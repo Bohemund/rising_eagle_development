@@ -58,3 +58,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Khaled Fawzy"
+	desc = ""
+	picture = "Portrait_EGY_Khaled_Fawzy.tga"
+	expire = "2050.1.1"
+	ideology = baathist
+	traits = {
+		#
+	}
+}

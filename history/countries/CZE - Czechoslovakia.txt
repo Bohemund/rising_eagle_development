@@ -49,13 +49,13 @@ set_politics = {
 			popularity = 15
 		}
 		centrist = {
-			popularity = 27
+			popularity = 20
 		}
 		liberal = {
 			popularity = 6
 		}
 		social_democrat = {
-			popularity = 17
+			popularity = 27
 		}
 		democratic_socialist = {
 			popularity = 4
@@ -64,11 +64,11 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 25
+			popularity = 22
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = social_democrat
 	last_election = "2006.6.3"
 	election_frequency = 60
 	elections_allowed = no
@@ -80,6 +80,17 @@ create_country_leader = {
 	picture = "Portrait_CZE_Vaclav_Klaus.tga"
 	expire = "2050.1.1"
 	ideology = centrist_populist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Miloš Zeman"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "Portrait_CZE_Milos_Zeman.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

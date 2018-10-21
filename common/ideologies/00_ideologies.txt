@@ -17,9 +17,6 @@ ideologies = {
 			}
 			
 			national_bolshevik = {				
-			}
-			
-			strasserist = {	
 			} 
 
 			national_syndicalist = {	
@@ -54,7 +51,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 82 51 28 }
+		color = { 70 70 70 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -135,13 +132,7 @@ ideologies = {
 			religious_traditionalist = {
 			}
 
-            environmental_nationalist = {
-			}
-
             national_conservative = {
-			}
-
-			paleoconservative = {
 			}
 
             military_junta = {
@@ -202,8 +193,6 @@ ideologies = {
 			social_conservative = {
 			}
 			
-			libertarian_conservative = {
-			}
 		}
 		
 		dynamic_faction_names = {
@@ -215,7 +204,7 @@ ideologies = {
 			"FACTION_NAME_CONSERVATIVE_6"
 		}
 		
-		color = { 62 53 198 }
+		color = { 0 60 180 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -238,7 +227,7 @@ ideologies = {
 		
 		types = {
 		
-			right_libertarian = {
+			libertarian = {
 			}
 			
 			centrist_ideology = {
@@ -333,17 +322,14 @@ ideologies = {
 	social_democrat = {
 		
 		types = {
-		
+
+			social_democrat_ideology ={
+			}
+			
 			american_socialist = {
 			}
 
 			progressive = {
-			}
-
-			social_democrat_ideology ={
-			}
-
-			liberal_socialist = {
 			}
 
 		}
@@ -387,6 +373,9 @@ ideologies = {
 			}
 			
 			european_moderate_socialist = {
+			}
+
+			nasserist = {
 			}
 			
 		}
@@ -483,9 +472,6 @@ ideologies = {
 		
 			marxist = {
 			}
-			
-			american_communist = {
-			}
 		
 			leninist = {
 			}
@@ -499,7 +485,7 @@ ideologies = {
 			titoist = {
 			}
 			
-			juche = {
+			christian_communist = {
 			}
 			
 		}
