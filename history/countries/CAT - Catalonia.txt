@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_CAT_Oriol_Junqueras.tga"
 	expire = "2050.1.1"
-	ideology = liberal_socialist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

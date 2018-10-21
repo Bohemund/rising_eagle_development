@@ -48,13 +48,13 @@ set_politics = {
 			popularity = 18
 		}
 		conservative = {
-			popularity = 27
+			popularity = 22
 		}
 		centrist = {
 			popularity = 6
 		}
 		liberal = {
-			popularity = 22
+			popularity = 27
 		}
 		social_democrat = {
 			popularity = 16
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = liberal
 	last_election = "2007.12.27"
 	election_frequency = 48
 	elections_allowed = no
@@ -82,6 +82,17 @@ create_country_leader = {
 	picture = "Portrait_KEN_Mwai_Kibaki.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Martha Karua"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_KEN_Martha_Karua.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
 	traits = {
 		#
 	}

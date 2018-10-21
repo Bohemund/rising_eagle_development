@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSE_LUIS_TEJADA_SORZANO_DESC"
 	picture = "Portrait_BOL_Samuel_Auza.tga"
 	expire = "2050.1.1"
-	ideology = liberal_socialist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

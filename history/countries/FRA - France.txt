@@ -34,28 +34,28 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
-		}
-		monarchist = {
-			popularity = 2
-		}
-		nationalist = {
 			popularity = 9
 		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 2
+		}
 		conservative = {
-			popularity = 17
+			popularity = 19
 		}
 		centrist = {
 			popularity = 2
 		}
 		liberal = {
-			popularity = 34
+			popularity = 31
 		}
 		social_democrat = {
 			popularity = 17
 		}
 		democratic_socialist = {
-			popularity = 11
+			popularity = 12
 		}
 		libertarian_socialist = {
 			popularity = 2
@@ -72,11 +72,33 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Jean-Marie Le Pen"
+	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
+	picture = "Portrait_FRA_Jean_Marie_Le_Pen.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Jean-Louis Borloo"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_FRA_Jean_Louis_Borloo.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jean-Luc Mélenchon"
+	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
+	picture = "Portrait_FRA_Jean_Luc_Melenchon.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
 	traits = {
 		#
 	}
