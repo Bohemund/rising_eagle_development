@@ -54,7 +54,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 82 51 28 }
+		color = { 45 45 45 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -264,7 +264,7 @@ ideologies = {
 			"FACTION_NAME_CENTRIST_6"
 		}
 		
-		color = { 203 113 38 }
+		color = { 203 113 38 } 
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

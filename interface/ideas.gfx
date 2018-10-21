@@ -17,3 +17,8 @@ spriteTypes = {
 		name = "GFX_idea_idea_rama_ix"
 		texturefile = "gfx/interface/ideas/rama_ix.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
+		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
+	}	
