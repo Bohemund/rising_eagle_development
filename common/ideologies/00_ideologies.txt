@@ -51,7 +51,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 45 45 45 }
+		color = { 70 70 70 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

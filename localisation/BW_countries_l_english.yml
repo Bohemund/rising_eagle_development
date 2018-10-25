@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 ﻿ l_english:
  XXX_ultranationalist:0 ""
  XXX_ultranationalist_DEF:0 ""
-=======
-﻿l_english:
  XXX_ultranationalist:0 ""
  XXX_ultrantionalist_DEF:0 ""
->>>>>>> 7f5838d8bfffc6ce72479c8404aa792aab37cc6d
  XXX_monarchist:0 ""
  XXX_monarchist_DEF:0 ""
  XXX_nationalist:0 ""
@@ -583,6 +579,40 @@
  ITA_democratic_socialist_ADJ:0 "Italian"
  ITA_libertarian_socialist_ADJ:0 "Italian"
  ITA_communist_ADJ:0 "Italian"
+
+ #IRELAND
+ IRE_ultranationalist:0 "Ireland"
+ IRE_ultranationalist_DEF:0 "Ireland"
+ IRE_ultranationalist:0 "Ireland"
+ IRE_ultrantionalist_DEF:0 "Ireland"
+ IRE_monarchist:0 "High Kingdom of Ireland"
+ IRE_monarchist_DEF:0 "The High Kingdom of Ireland"
+ IRE_nationalist:0 "Republic of Ireland"
+ IRE_nationalist_DEF:0 "The Republic of Ireland"
+ IRE_conservative:0 "Republic of Ireland"
+ IRE_conservative_DEF:0 "The Republic of Ireland"
+ IRE_centrist:0 "Republic of Ireland"
+ IRE_centrist_DEF:0 "The Republic of Ireland"
+ IRE_liberal:0 "Republic of Ireland"
+ IRE_liberal_DEF:0 "The Republic of Ireland"
+ IRE_social_democrat:0 "Republic of Ireland"
+ IRE_social_democrat_DEF:0 "The Republic of Ireland"
+ IRE_democratic_socialist:0 "Republic of Ireland"
+ IRE_democratic_socialist_DEF:0 "The Republic of Ireland"
+ IRE_libertarian_socialist:0 "Republic of Ireland"
+ IRE_libertarian_socialist_DEF:0 "The Republic of Ireland"
+ IRE_communist:0 "Workers' Republic of Ireland"
+ IRE_communist_DEF:0 "The Workers' Republic of Ireland"
+ IRE_ultranationalist_ADJ:0 "Irish"
+ IRE_monarchist_ADJ:0 "Irish"
+ IRE_nationalist_ADJ:0 "Irish"
+ IRE_conservative_ADJ:0 "Irish"
+ IRE_centrist_ADJ:0 "Irish"
+ IRE_liberal_ADJ:0 "Irish"
+ IRE_social_democrat_ADJ:0 "Irish"
+ IRE_democratic_socialist_ADJ:0 "Irish"
+ IRE_libertarian_socialist_ADJ:0 "Irish"
+ IRE_communist_ADJ:0 "Irish"
 
  #LATVIA
  LAT_ultranationalist:0 "Latvian State"
