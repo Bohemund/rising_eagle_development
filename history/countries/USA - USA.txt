@@ -68,33 +68,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Chuck Baldwin"
+	name = "Richard Spencer"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Chuck_Baldwin.tga"
+	picture = "Portrait_USA_Richard_Spencer.tga"
 	expire = "2050.1.1"
-	ideology = american_republican
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Joseph Biden"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Joseph_Biden.tga"
-	expire = "2050.1.1"
-	ideology = american_democrat
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Bernie Sanders"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Bernie_Sanders.tga"
-	expire = "2050.1.1"
-	ideology = moderate_socialist
+	ideology = national_bolshevik
 	traits = {
 		#
 	}
@@ -112,6 +90,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Chuck Baldwin"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Chuck_Baldwin.tga"
+	expire = "2050.1.1"
+	ideology = american_republican
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Hillary Rodham"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Hillary_Rodham.tga"
@@ -123,11 +112,44 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Joseph Biden"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Joseph_Biden.tga"
+	expire = "2050.1.1"
+	ideology = american_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Elizabeth Warren"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Elizabeth_Warren.tga"
 	expire = "2050.1.1"
 	ideology = progressive
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bernie Sanders"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Bernie_Sanders.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Noam Chomsky"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Noam_Chomsky.tga"
+	expire = "2050.1.1"
+	ideology = anarcho_syndicalist
 	traits = {
 		#
 	}

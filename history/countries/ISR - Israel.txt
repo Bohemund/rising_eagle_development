@@ -73,10 +73,21 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Baruch Marzel"
+	desc = ""
+	expire = "2050.1.1"
+	picture = "Portrait_ISR_Baruch_Marzel.tga"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Binyamin Ben-Eliezer"
 	desc = ""
 	expire = "2050.1.1"
-	picture = "Binyamin_Ben_Eliezer.tga"
+	picture = "Portrait_ISR_Binyamin_Ben_Eliezer.tga"
 	ideology = moderate_socialist
 	traits = {
 		#

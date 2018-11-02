@@ -1,8 +1,8 @@
 ﻿l_english:
  
  #PARTIES
- VEN_ultranationalist_party:0 "Military Junta"
- VEN_ultranationalist_party_long:0 "Military Junta"
+ VEN_ultranationalist_party:0 "Republican Vanguard"
+ VEN_ultranationalist_party_long:0 "Republican Vanguard"
  VEN_monarchist_party:0 "Royalists"
  VEN_monarchist_party_long:0 "Royalists"
  VEN_nationalist_party:0 "National Unity"
@@ -15,9 +15,9 @@
  VEN_liberal_party_long:0 "Popular Will"
  VEN_social_democrat_party:0 "Democratic Action"
  VEN_social_democrat_party_long:0 "Democratic Action"
- VEN_democratic_socialist_party:0 "Communist Party"
- VEN_democratic_socialist_party_long:0 "Communist Party of Venezuela"
- VEN_libertarian_socialist_party:0 "United Socialist Party"
- VEN_libertarian_socialist_party_long:0 "United Socialist Party"
- VEN_communist_party:0 "Republican Vanguard"
- VEN_communist_party_long:0 "Republican Vanguard"
+ VEN_democratic_socialist_party:0 "Venezuelan Party"
+ VEN_democratic_socialist_party_long:0 "Venezuelan Party"
+ VEN_libertarian_socialist_party:0 "Fifth Republic Movement"
+ VEN_libertarian_socialist_party_long:0 "Fifth Republic Movement"
+ VEN_communist_party:0 "Communist Party"
+ VEN_communist_party_long:0 "Communist Party of Venezuela"

@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = BNG
+		owner = PAK
 		add_core_of = BNG
 		victory_points = { 11929 30 }
 		buildings = {

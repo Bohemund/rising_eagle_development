@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 16
+			popularity = 18
 		}
 		monarchist = {
 			popularity = 0
@@ -48,29 +48,29 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 32
+			popularity = 8
 		}
 		centrist = {
-			popularity = 18
+			popularity = 28
 		}
 		liberal = {
-			popularity = 9
+			popularity = 11
 		}
 		social_democrat = {
-			popularity = 23
+			popularity = 26
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 6
 		}
 		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 2
+			popularity = 3
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = centrist
 	last_election = "2008.2.18"
 	election_frequency = 48
 	elections_allowed = no
@@ -78,10 +78,10 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Shujaat Hussain"
-	picture = "Portrait_PAK_Shujaat_Hussain.tga"
+	name = "Nawaz Sharif"
+	picture = "Portrait_PAK_Nawaz_Sharif.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = centrist_ideology
 	traits = {
 		
 	}

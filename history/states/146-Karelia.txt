@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = KRL
+		add_core_of = KRL
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

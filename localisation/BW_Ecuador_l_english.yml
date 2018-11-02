@@ -1,12 +1,12 @@
 ﻿l_english:
  
  #PARTIES
- ECU_ultranationalist_party:0 "Roldosist Party"
- ECU_ultranationalist_party_long:0 "Roldosist Party"
+ ECU_ultranationalist_party:0 "Patriotic Society"
+ ECU_ultranationalist_party_long:0 "Patriotic Society"
  ECU_monarchist_party:0 "Royalists"
  ECU_monarchist_party_long:0 "Royalists"
- ECU_nationalist_party:0 "Patriotic Society"
- ECU_nationalist_party_long:0 "Patriotic Society"
+ ECU_nationalist_party:0 "Roldosist Party"
+ ECU_nationalist_party_long:0 "Roldosist Party"
  ECU_conservative_party:0 "Social Christian Party"
  ECU_conservative_party_long:0 "Social Christian Party"
  ECU_centrist_party:0 "Christian Democrats"

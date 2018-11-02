@@ -1225,17 +1225,12 @@ ACS = {
 	color_ui = rgb { 115 115 115 }
 }
 
-AMS = {
-	color = rgb { 220 213 213 }
-	color_ui = rgb { 115 115 115 }
-}
-
-AMC = {
-	color = rgb { 26 201 160 }
-	color_ui = rgb { 115 115 115 }
-}
-
 YAK = {
 	color = rgb { 17 153 255 }
 	color_ui = rgb { 17 153 255 }
+}
+
+KRL = {
+	color = rgb { 0 154 0 }
+	color_ui = rgb { 0 154 0 }
 }

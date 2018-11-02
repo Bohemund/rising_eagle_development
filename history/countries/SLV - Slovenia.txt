@@ -86,3 +86,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Slavoj Žižek"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_SLV_Slavoj_Zizek.tga"
+	expire = "2050.1.1"
+	ideology = communalist
+	traits = {
+		#
+	}
+}
