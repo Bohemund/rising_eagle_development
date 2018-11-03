@@ -1,0 +1,88 @@
+﻿capital = 327
+
+oob = "PHI_2010"
+
+set_research_slots = 4
+set_convoys = 110
+set_stability = 0.5
+set_war_support = 0.4
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 21
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 27
+		}
+		conservative = {
+			popularity = 10
+		}
+		centrist = {
+			popularity = 4
+		}
+		liberal = {
+			popularity = 24
+		}
+		social_democrat = {
+			popularity = 12
+		}
+		democratic_socialist = {
+			popularity = 0
+		}
+		libertarian_socialist = {
+			popularity = 2
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = nationalist
+	last_election = "2004.5.10"
+	election_frequency = 72
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Bongbong Marcos"
+	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
+	picture = "Portrait_PHI_Bongbong_Marcos.tga"
+	expire = "2050.1.1"
+	ideology = authoritarian_democrat
+	traits = {
+		#
+	}
+}

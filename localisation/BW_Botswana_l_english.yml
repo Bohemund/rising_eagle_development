@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ BOT_ultranationalist_party:0 "Military Clique"
+ BOT_ultranationalist_party_long:0 "Military Clique"
+ BOT_monarchist_party:0 "House of Khama"
+ BOT_monarchist_party_long:0 "House of Khama"
+ BOT_nationalist_party:0 "Defence Force"
+ BOT_nationalist_party_long:0 "Defence Force"
+ BOT_conservative_party:0 "Democratic Party"
+ BOT_conservative_party_long:0 "Democratic Party"
+ BOT_centrist_party:0 "Movement for Democracy"
+ BOT_centrist_party_long:0 "Movement for Democracy"
+ BOT_liberal_party:0 "National Front"
+ BOT_liberal_party_long:0 "National Front"
+ BOT_social_democrat_party:0 "Congress Party"
+ BOT_social_democrat_party_long:0 "Congress Party"
+ BOT_democratic_socialist_party:0 "Independence Party"
+ BOT_democratic_socialist_party_long:0 "Independence Party"
+ BOT_libertarian_socialist_party:0 "People’s Party"
+ BOT_libertarian_socialist_party_long:0 "People’s Party"
+ BOT_communist_party:0 "MELS Movement"
+ BOT_communist_party_long:0 "Marx-Engels-Lenin-Stalin Movement"
