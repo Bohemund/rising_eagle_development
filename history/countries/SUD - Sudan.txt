@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_SUD_Hassan_Al_Turabi.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = islamic_democrat
 	traits = {
 		#
 	}

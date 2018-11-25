@@ -11,28 +11,28 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 22
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 16
+			popularity = 4
 		}
 		conservative = {
-			popularity = 29
+			popularity = 24
 		}
 		centrist = {
-			popularity = 17
+			popularity = 28
 		}
 		liberal = {
 			popularity = 6
 		}
 		social_democrat = {
-			popularity = 22
+			popularity = 11
 		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 5
 		}
 		libertarian_socialist = {
 			popularity = 0
@@ -42,21 +42,10 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = centrist
 	last_election = "2007.7.11"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Mohamed Morsi"
-	desc = ""
-	picture = "Portrait_EGY_Mohamed_Morsi.tga"
-	expire = "2050.1.1"
-	ideology = social_conservative
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -65,6 +54,39 @@ create_country_leader = {
 	picture = "Portrait_EGY_Khaled_Fawzy.tga"
 	expire = "2050.1.1"
 	ideology = baathist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hosni Mubarak"
+	desc = ""
+	picture = "Portrait_EGY_Hosni_Mubarak.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mohamed Morsi"
+	desc = ""
+	picture = "Portrait_EGY_Mohamed_Morsi.tga"
+	expire = "2050.1.1"
+	ideology = islamic_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Abdel Moneim Aboul Fotouh"
+	desc = ""
+	picture = "Portrait_EGY_Abdel_Moneim_Aboul_Fotouh.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
 	traits = {
 		#
 	}

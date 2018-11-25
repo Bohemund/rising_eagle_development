@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 21
+			popularity = 17
 		}
 		monarchist = {
 			popularity = 0
@@ -66,7 +66,7 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 17
+			popularity = 21
 		}
 	}
 	

@@ -55,13 +55,13 @@ set_politics = {
 			popularity = 17
 		}
 		democratic_socialist = {
-			popularity = 12
+			popularity = 18
 		}
 		libertarian_socialist = {
 			popularity = 2
 		}
 		communist = {
-			popularity = 6
+			popularity = 0
 		}
 	}
 	

@@ -1,0 +1,88 @@
+﻿capital = 230
+
+oob = "ARM_1936"
+
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.9
+set_war_support = 0.4
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_light_cruiser = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	early_submarine = 1
+    transport = 1 
+	paratroopers = 1 
+	marines = 1
+	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 23
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 35
+		}
+		conservative = {
+			popularity = 13
+		}
+		centrist = {
+			popularity = 0
+		}
+		liberal = {
+			popularity = 3
+		}
+		social_democrat = {
+			popularity = 0
+		}
+		democratic_socialist = {
+			popularity = 22
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 4
+		}
+	}
+	
+	ruling_party = nationalist
+	last_election = "2008.2.19"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Tigran Sargsyan"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_ARM_Tigran_Sargsyan.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}

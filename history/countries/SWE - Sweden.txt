@@ -57,7 +57,7 @@ set_politics = {
 			popularity = 5
 		}
 		social_democrat = {
-			popularity = 34
+			popularity = 33
 		}
 		democratic_socialist = {
 			popularity = 11
@@ -97,7 +97,7 @@ create_country_leader = {
 	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
 	picture = "Portrait_SWE_Fredrik_Reinfeldt.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = fiscal_conservative
 	traits = {
 		#
 	}

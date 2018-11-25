@@ -77,6 +77,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "David Owen"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_David_Owen.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Tony Blair"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "Portrait_ENG_Tony_Blair.tga"

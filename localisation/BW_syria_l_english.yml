@@ -1,12 +1,12 @@
 ﻿l_english:
 
  #PARTIES
- SYR_ultranationalist_party:0 "Ba'ath Party"
- SYR_ultranationalist_party_long:0 "Arab Socialist Ba'ath Party – Syria Region"
+ SYR_ultranationalist_party:0 "Ba'ath Party/SSNP"
+ SYR_ultranationalist_party_long:0 "Arab Socialist Ba'ath Party – Syria Region/Syrian Social Nationalist Party Coalition"
  SYR_monarchist_party:0 "House of Hashim"
  SYR_monarchist_party_long:0 "House of Hashim"
- SYR_nationalist_party:0 "Social Nationalist Party"
- SYR_nationalist_party_long:0 "Syrian Social Nationalist Party"
+ SYR_nationalist_party:0 "Arab Liberation Front"
+ SYR_nationalist_party_long:0 "Arab Liberation Front"
  SYR_conservative_party:0 "Progressive Islamists"
  SYR_conservative_party_long:0 "Progressive Islamic Coalition"
  SYR_centrist_party:0 "Unionist Party"

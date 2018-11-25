@@ -192,6 +192,9 @@ ideologies = {
 
 			social_conservative = {
 			}
+
+			islamic_democrat = {
+			}
 			
 		}
 		

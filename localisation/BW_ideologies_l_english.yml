@@ -60,6 +60,8 @@
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
  christian_democrat_desc:0 "Christian democracy is an ideology of a combination of traditional Christian beliefs and modern democratic ideas. It is considered centre-right on cultural, social and moral issues and centre-left with respect to economic and labor issues, civil rights and foreign policy."
+ islamic_democrat:0 "Islamic Democracy"
+ islamic_democrat_desc:0 "Islamic democracy is a political ideology that seeks to apply Islamic principles to public policy within a democratic framework. Islamic Democrats believe that the leader must be elected by the people, subject to Sharia Law."
  fiscal_conservative:0 "Fiscal Conservatism"
  fiscal_conservative_desc:0 "Fiscal conservatism is the least radical and more specific varieties of conservatism. It is a political-economic philosophy regarding fiscal policy and fiscal responsibility advocating low taxes, reduced government spending and minimal government debt."
  agrarian_conservative:0 "Agrarian Conservatism"

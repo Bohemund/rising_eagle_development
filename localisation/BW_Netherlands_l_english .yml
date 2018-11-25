@@ -1,14 +1,14 @@
 ﻿l_english:
  
  #PARTIES
- HOL_ultranationalist_party:0 "Party for Freedom"
- HOL_ultranationalist_party_long:0 "Party for Freedom"
+ HOL_ultranationalist_party:0 "National Party"
+ HOL_ultranationalist_party_long:0 "National Party"
  HOL_monarchist_party:0 "House of Orange-Nassau"
  HOL_monarchist_party_long:0 "House of Orange-Nassau"
- HOL_nationalist_party:0 "Reformed Political Party"
- HOL_nationalist_party_long:0 "Reformed Political Party"
- HOL_conservative_party:0 "Christian Democrats"
- HOL_conservative_party_long:0 "Christian Democratic Appeal"
+ HOL_nationalist_party:0 "Fortuyn Alliance"
+ HOL_nationalist_party_long:0 "Fortuyn Alliance"
+ HOL_conservative_party:0 "Reformed Political Party"
+ HOL_conservative_party_long:0 "Reformed Political Party"
  HOL_centrist_party:0 "People's Party"
  HOL_centrist_party_long:0 "People's Party for Freedom and Democracy"
  HOL_liberal_party:0 "Democrats 68"

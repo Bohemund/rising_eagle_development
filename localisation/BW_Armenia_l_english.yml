@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ ARM_ultranationalist_party:0 "Movement for Retribution"
+ ARM_ultranationalist_party_long:0 "Movement for Retribution"
+ ARM_monarchist_party:0 "Catholicos"
+ ARM_monarchist_party_long:0 "Catholicos"
+ ARM_nationalist_party:0 "Republican Party"
+ ARM_nationalist_party_long:0 "Republican Party"
+ ARM_conservative_party:0 "Renaissance Party"
+ ARM_conservative_party_long:0 "Renaissance Party"
+ ARM_centrist_party:0 "Heritage"
+ ARM_centrist_party_long:0 "Heritage"
+ ARM_liberal_party:0 "National Movement"
+ ARM_liberal_party_long:0 "National Movement"
+ ARM_social_democrat_party:0 "Democratic Party"
+ ARM_social_democrat_party_long:0 "Democratic Party"
+ ARM_democratic_socialist_party:0 "Revolutionary Federation"
+ ARM_democratic_socialist_party_long:0 "Armenian Revolutionary Federation"
+ ARM_libertarian_socialist_party:0 "People’s Party"
+ ARM_libertarian_socialist_party_long:0 "People’s Party"
+ ARM_communist_party:0 "Communist Party"
+ ARM_communist_party_long:0 "Armenian Communist Party"
