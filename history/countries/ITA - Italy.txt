@@ -131,7 +131,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_ITA_Silvio_Berlisconi.tga"
 	expire = "2050.1.1"
-	ideology = right_libertarian
+	ideology = libertarian
 	traits = {
 		
 	}
