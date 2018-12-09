@@ -5,13 +5,8 @@ state={
 	history = {
 		owner = CHE
 		add_core_of = CHE
-		add_core_of = SOV
 		buildings = {
 			infrastructure = 4
-		}
-		
-		2000.6.1 = {
-			owner = SOV
 		}
 	}
 	

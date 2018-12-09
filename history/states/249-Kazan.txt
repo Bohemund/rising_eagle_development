@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TAR
+		add_core_of = TAR
 		buildings = {
 			infrastructure = 5
 		}
