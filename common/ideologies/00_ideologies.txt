@@ -37,9 +37,6 @@ ideologies = {
 			baathist = {	
 			}
 
-			strasserism = {
-			}
-
 			imperial_japan = {	
 			}
 
@@ -243,9 +240,6 @@ ideologies = {
 			}
 
 			market_liberal = {
-			}
-
-			conservative_liberal = {
 			}
 
 			agrarian_populist = {

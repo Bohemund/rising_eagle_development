@@ -34,10 +34,10 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 4
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 17
+			popularity = 37
 		}
 		monarchist = {
 			popularity = 0
@@ -46,7 +46,7 @@ set_politics = {
 			popularity = 11
 		}
 		centrist = {
-			popularity = 28
+			popularity = 17
 		}
 		liberal = {
 			popularity = 4
@@ -55,7 +55,7 @@ set_politics = {
 			popularity = 15
 		}
 		democratic_socialist = {
-			popularity = 5
+			popularity = 0
 		}
 		libertarian_socialist = {
 			popularity = 0
@@ -65,10 +65,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2006.5.4"
 	election_frequency = 96
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Keiko Fujimori"
+	desc = "POLITICS_OSCAR_BENAVIDES_DESC"
+	picture = "Portrait_PRU_Keiko_Fujimori.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
