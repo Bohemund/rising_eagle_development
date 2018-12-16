@@ -6,8 +6,7 @@ state=
 	manpower = 21200
 	history=
 	{
-		owner = PLU
-		add_core_of = PLU
+		owner = USA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

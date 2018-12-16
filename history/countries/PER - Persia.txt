@@ -40,43 +40,43 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 29
+			popularity = 16
 		}
 		conservative = {
-			popularity = 15
+			popularity = 35
 		}
 		centrist = {
-			popularity = 6
+			popularity = 4
 		}
 		liberal = {
-			popularity = 14
-		}
-		social_democrat = {
-			popularity = 17
-		}
-		democratic_socialist = {
 			popularity = 8
 		}
+		social_democrat = {
+			popularity = 25
+		}
+		democratic_socialist = {
+			popularity = 9
+		}
 		libertarian_socialist = {
-			popularity = 11
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = conservative
 	last_election = "2009.6.12"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Ahmad Jannati"
+	name = "Akbar Hashemi Rafsanjani"
 	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Ahmad_Jannati.tga"
+	picture = "Portrait_PER_Akbar_Rafsanjani.tga"
 	expire = "2050.1.1"
-	ideology = islamist
+	ideology = islamic_democrat
 	traits = {
 		#
 	}

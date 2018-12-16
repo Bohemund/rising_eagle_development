@@ -6,8 +6,7 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = KIR
-		add_core_of = KIR
+		owner = USA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

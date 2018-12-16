@@ -6,8 +6,7 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = MIC
-		add_core_of = MIC
+		owner = USA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

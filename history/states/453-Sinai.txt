@@ -8,11 +8,12 @@ state={
 	}
 
 	history={
-		owner = ISR
+		owner = EGY
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = EGY
+		set_demilitarized_zone = yes
 		victory_points = { 10099 1 }
 		victory_points = { 1112 1 }
 	}

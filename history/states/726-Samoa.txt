@@ -4,8 +4,7 @@ state={
 	name="STATE_726"
 
 	history={
-		owner = SMO
-		add_core_of = SMO
+		owner = NZL
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

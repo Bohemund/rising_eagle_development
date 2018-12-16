@@ -230,11 +230,6 @@ FIN = {
 	color_ui = rgb { 115 115 115 }
 }
 
-FIJ = {
-	color = rgb { 85 161 164 }
-	color_ui = rgb { 115 115 115 }
-}
-
 FRA = {
 	color = rgb { 0 60 180 }
 	color_ui = rgb { 35 60 200 }
@@ -365,11 +360,6 @@ KUR = {
 	color_ui = rgb { 115 115 115 }
 }
 
-KIR = {
-	color = rgb { 185 206 46 }
-	color_ui = rgb { 115 115 115 }
-}
-
 KEN = {
 	color = rgb { 78 0 44 }
 	color_ui = rgb { 115 115 115 }
@@ -450,16 +440,6 @@ MLD = {
 	color_ui = rgb { 115 115 115 }
 }
 
-MAR = {
-	color = rgb { 201 120 0 }
-	color_ui = rgb { 115 115 115 }
-}
-
-MIC = {
-	color = rgb { 0 174 201 }
-	color_ui = rgb { 115 115 115 }
-}
-
 MON = {
 	color = rgb { 94 166 89 }
 	color_ui = rgb { 115 115 115 }
@@ -482,11 +462,6 @@ NOR = {
 
 NZL = {
 	color = rgb { 34 20 158 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NAU = {
-	color = rgb { 67 63 101 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -513,11 +488,6 @@ PER = {
 POR = {
 	color = rgb { 29 106 136 }
 	color_ui = rgb { 29 106 136 }
-}
-
-PLU = {
-	color = rgb { 56 168 168 }
-	color_ui = rgb { 115 115 115 }
 }
 
 PAK = {
@@ -635,11 +605,6 @@ SIG = {
 	color_ui = rgb { 115 115 115 }
 }
 
-SOL = {
-	color = rgb { 147 101 151 }
-	color_ui = rgb { 115 115 115 }
-}
-
 THA = {
 	color = rgb { 101 151 111 }
 	color_ui = rgb { 115 115 115 }
@@ -682,11 +647,6 @@ KAR = {
 
 SWE = {
 	color = rgb { 33 51 166 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SMO = {
-	color = rgb { 87 33 166 }
 	color_ui = rgb { 115 115 115 }
 }
 

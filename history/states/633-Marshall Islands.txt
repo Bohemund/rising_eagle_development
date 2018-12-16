@@ -7,8 +7,7 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = MAR
-		add_core_of = MAR
+		owner = USA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

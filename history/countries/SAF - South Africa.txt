@@ -34,43 +34,53 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 6
+			popularity = 11
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
-		}
-		conservative = {
-			popularity = 14
-		}
-		centrist = {
-			popularity = 2
-		}
-		liberal = {
-			popularity = 16
-		}
-		social_democrat = {
-			popularity = 11
-		}
-		democratic_socialist = {
-			popularity = 46
-		}
-		libertarian_socialist = {
 			popularity = 0
 		}
+		conservative = {
+			popularity = 13
+		}
+		centrist = {
+			popularity = 5
+		}
+		liberal = {
+			popularity = 26
+		}
+		social_democrat = {
+			popularity = 8
+		}
+		democratic_socialist = {
+			popularity = 22
+		}
+		libertarian_socialist = {
+			popularity = 15
+		}
 		communist = {
-			popularity = 2
+			popularity = 0
 		}
 	}
 	
-	ruling_party = democratic_socialist
+	ruling_party = liberal
 	last_election = "2005.4.22"
 	election_frequency = 60
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Helen Zille"
+	desc = "POLITICS_J_B_M_HERTZOG_DESC"
+	picture = "Portrait_SAF_Helen_Zille.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
 
 create_country_leader = {
 	name = "Nelson Mandela"

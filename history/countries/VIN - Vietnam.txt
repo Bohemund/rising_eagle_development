@@ -77,7 +77,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lê Văn Hiếu" 
+	name = "Lê Văn Hieu" 
 	desc = ""
 	picture = "Portrait_VIN_Le_Van_Hieu.tga"
 	expire = "2050.1.1"
