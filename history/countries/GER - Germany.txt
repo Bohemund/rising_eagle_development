@@ -73,9 +73,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Christian Wulff"
+	name = "Lothar de Maizière"
 	desc = "POLITICS_KONRAD_ADENAUER_DESC"
-	picture = "Portrait_GER_Christian_Wulff.tga"
+	picture = "Portrait_GER_Lothar_de_Maizierel.tga"
 	expire = "2050.1.1"
 	ideology = christian_democrat
 	traits = {

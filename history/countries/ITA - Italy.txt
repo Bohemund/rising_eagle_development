@@ -43,7 +43,7 @@ set_politics = {
 			popularity = 12
 		}
 		conservative = {
-			popularity = 18
+			popularity = 23
 		}
 		centrist = {
 			popularity = 7

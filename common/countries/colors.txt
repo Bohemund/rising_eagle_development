@@ -816,8 +816,8 @@ RUS = {
 }
 
 SOU = {
-	color = rgb { 0 36 144 }
-	color_ui = rgb { 0 36 144 }
+	color = rgb { 57 81 144 }
+	color_ui = rgb { 57 81 144 }
 }
 
 UKR = {
@@ -1196,6 +1196,11 @@ YAK = {
 }
 
 KRL = {
+	color = rgb { 0 154 0 }
+	color_ui = rgb { 0 154 0 }
+}
+
+BSH = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
 }

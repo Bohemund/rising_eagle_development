@@ -123,9 +123,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Elizabeth Warren"
+	name = "Ted Kennedy Jr"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Elizabeth_Warren.tga"
+	picture = "Portrait_USA_Ted_Kennedy_Jr.tga"
 	expire = "2050.1.1"
 	ideology = progressive
 	traits = {

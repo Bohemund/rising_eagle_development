@@ -83,9 +83,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jean-Louis Borloo"
+	name = "François Bayrou"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Jean_Louis_Borloo.tga"
+	picture = "Portrait_FRA_Francois_Bayrout.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
 	traits = {

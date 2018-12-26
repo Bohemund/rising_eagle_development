@@ -34,7 +34,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
@@ -43,40 +43,40 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 10 
+			popularity = 19
 		}
 		centrist = {
-			popularity = 4
+			popularity = 15
 		}
 		liberal = {
-			popularity = 12
+			popularity = 6
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 28
 		}
 		democratic_socialist = {
-			popularity = 31
+			popularity = 21
 		}
 		libertarian_socialist = {
-			popularity = 3
+			popularity = 0
 		}
 		communist = {
-			popularity = 37
+			popularity = 11
 		}
 	}
 	
-	ruling_party = communist
-	last_election = "2001.5.11"
+	ruling_party = social_democrat
+	last_election = "2007.5.11"
 	election_frequency = 36
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Zoran Lilić"
+	name = "Željko Komšić"
 	desc = "POLITICS_PRINCE_PAUL_DESC"
-	picture = "Portrait_YUG_Zoran_Lilic.tga"
+	picture = "Portrait_YUG_Zeljko_Komsic.tga"
 	expire = "2050.1.1"
-	ideology = moderate_socialist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}
@@ -87,7 +87,7 @@ create_country_leader = {
 	desc = "POLITICS_PRINCE_PAUL_DESC"
 	picture = "Portrait_YUG_Slobodan_Milosevic.tga"
 	expire = "2050.1.1"
-	ideology = titoist
+	ideology = moderate_socialist
 	traits = {
 		#
 	}
