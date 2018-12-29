@@ -1199,12 +1199,16 @@ KRL = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 
 BSH = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
 }
+=======
+}
+>>>>>>> parent of 49fc801... work 30/12/18
 =======
 }
 >>>>>>> parent of 49fc801... work 30/12/18
