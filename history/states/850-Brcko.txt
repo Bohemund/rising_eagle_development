@@ -5,8 +5,7 @@ state={
 		11574 
 	}
 	history = {
-		owner = YUG
-		add_core_of = YUG
+		owner = BOS
 		add_core_of = BOS
 		victory_points = { 11574 2 }
 		buildings = {
