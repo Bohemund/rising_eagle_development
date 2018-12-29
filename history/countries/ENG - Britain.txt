@@ -97,3 +97,14 @@ create_country_leader = {
 		
 	}
 }
+
+create_country_leader = {
+	name = "Jeremy Corbyn"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_Jeremy_Corbyn.tga"
+	expire = "2050.1.1"
+	ideology = libertarian_socialist_ideology
+	traits = {
+		
+	}
+}

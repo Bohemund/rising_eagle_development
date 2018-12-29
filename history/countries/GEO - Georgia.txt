@@ -3,9 +3,9 @@ capital = 230
 oob = "GEO_2010"
 
 set_research_slots = 4
-set_convoys = 500
-set_stability = 0.6
-set_war_support = 0.1
+set_convoys = 45
+set_stability = 0.9
+set_war_support = 0.6
 
 set_technology = {
 	support_weapons = 1
@@ -30,7 +30,6 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
 
 set_politics = {
 
@@ -39,13 +38,13 @@ set_politics = {
 			popularity = 74
 		}
 		monarchist = {
-			popularity = 4
+			popularity = 0
 		}
 		nationalist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 0
+			popularity = 4
 		}
 		centrist = {
 			popularity = 0
@@ -74,9 +73,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Koba Kobaladze"
+	name = "Vladimer Chachibaia"
 	desc = ""
-	picture = "Portrait_GEO_Koba_Kobaladze.tga"
+	picture = "Portrait_GEO_Vladimer_Chachibaia.tga"
 	expire = "2050.1.1"
 	ideology = military_statist
 	traits = {

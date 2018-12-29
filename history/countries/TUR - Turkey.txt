@@ -40,10 +40,10 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 15
 		}
 		conservative = {
-			popularity = 15
+			popularity = 12
 		}
 		centrist = {
 			popularity = 24
@@ -76,12 +76,12 @@ set_stability = 0.55
 
 #LEADERS
 
-create_country_leader = { #CENTRIST
-	name = "Mesut Yılmaz"
+create_country_leader = { 
+	name = "Devlet Bahçeli"
 	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
-	picture = "Portrait_TUR_Mesut_Yılmaz.tga"
+	picture = "Portrait_TUR_Devlet_Bahceli.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = ultranationalist_ideology
 	traits = {
 		#
 	}
@@ -92,7 +92,29 @@ create_country_leader = {
 	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
 	picture = "Portrait_TUR_Meral_Aksener.tga"
 	expire = "2050.1.1"
-	ideology = reactionary
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { 
+	name = "Necmettin Erbakan"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Necmettin_Erbakan.tga"
+	expire = "2050.1.1"
+	ideology = islamic_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = { #CENTRIST
+	name = "Mesut Yılmaz"
+	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+	picture = "Portrait_TUR_Mesut_Yılmaz.tga"
+	expire = "2050.1.1"
+	ideology = market_liberal
 	traits = {
 		#
 	}
@@ -126,28 +148,6 @@ create_country_leader = {
 	picture = "Portrait_TUR_Ertugrul_Kurkcu.tga"
 	expire = "2050.1.1"
 	ideology = democratic_socialist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = { 
-	name = "Devlet Bahçeli"
-	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
-	picture = "Portrait_TUR_Devlet_Bahceli.tga"
-	expire = "2050.1.1"
-	ideology = ultranationalist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = { 
-	name = "Necmettin Erbakan"
-	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
-	picture = "Portrait_TUR_Necmettin_Erbakan.tga"
-	expire = "2050.1.1"
-	ideology = religious_traditionalist
 	traits = {
 		#
 	}

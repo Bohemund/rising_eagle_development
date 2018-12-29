@@ -39,22 +39,22 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 16
+			popularity = 0
 		}
 		monarchist = {
-			popularity = 37
+			popularity = 38
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 7
 		}
 		conservative = {
-			popularity = 17
+			popularity = 36
 		}
 		centrist = {
-			popularity = 12
+			popularity = 0
 		}
 		liberal = {
-			popularity = 4
+			popularity = 16
 		}
 		social_democrat = {
 			popularity = 0
@@ -63,10 +63,10 @@ set_politics = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 3
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
@@ -77,11 +77,22 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Mohammed Al Maktoum"
+	name = "Khalifa bin Zayed Al Nahyan"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Khalifa_bin_Zayed_Al_Nahyan.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mohammed bin Rashid Al Maktoum"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_UAE_Mohammed_al_Maktoum.tga"
 	expire = "2050.1.1"
-	ideology = absolute_monarchist
+	ideology = military_junta
 	traits = {
 		#
 	}

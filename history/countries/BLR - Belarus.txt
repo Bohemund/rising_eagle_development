@@ -45,32 +45,32 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 2
+			popularity = 6
 		}
 		conservative = {
-			popularity = 21
+			popularity = 22
 		}
 		centrist = {
-			popularity = 7
-		}
-		liberal = {
-			popularity = 29
-		}
-		social_democrat = {
 			popularity = 11
 		}
-		democratic_socialist = {
-			popularity = 4
-		}
-		libertarian_socialist = {
+		liberal = {
 			popularity = 0
 		}
+		social_democrat = {
+			popularity = 32
+		}
+		democratic_socialist = {
+			popularity = 8
+		}
+		libertarian_socialist = {
+			popularity = 17
+		}
 		communist = {
-			popularity = 26
+			popularity = 4
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = social_democrat
 	last_election = "2006.4.22"
 	election_frequency = 48
 	elections_allowed = no
@@ -82,6 +82,28 @@ create_country_leader = {
     picture = "Portrait_BLR_Alaksandar_Milinkievic.tga"
     expire = "2050.1.1"
     ideology = social_liberal
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Mikola Statkevich"
+    desc = ""
+    picture = "Portrait_BLR_Mikola_Statkevich.tga"
+    expire = "2050.1.1"
+    ideology = social_democrat_ideology
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Alexander Lukashenko"
+    desc = ""
+    picture = "Portrait_BLR_Alexander_Lukashenko.tga"
+    expire = "2050.1.1"
+    ideology = moderate_socialist
     traits = {
         #
     }
