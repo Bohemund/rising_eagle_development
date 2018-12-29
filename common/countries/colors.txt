@@ -10,6 +10,11 @@ AFG = {
 	color_ui = rgb { 115 115 115 }
 }
 
+ALA = {
+	color = rgb { 21 7 91 }
+	color_ui = rgb { 115 115 115 }
+}
+
 ALB = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 115 115 115 }
@@ -67,6 +72,11 @@ TIB = {
 
 BOL = {
 	color = rgb { 97 186 124 }
+	color_ui = rgb { 115 115 115 }
+}
+
+BNG = {
+	color = rgb { 24 63 40 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -200,11 +210,6 @@ ECU = {
 	color_ui = rgb { 115 115 115 }
 }
 
-EQU = {
-	color = rgb { 62 154 0 }
-	color_ui = rgb { 115 115 115 }
-}
-
 ENG = {
 	color = rgb { 185 0 0 }
 	color_ui = rgb { 200 35 35 }
@@ -285,6 +290,11 @@ HAI = {
 	color_ui = rgb { 115 115 115 }
 }
 
+HAW = {
+	color = rgb { 198 228 49 }
+	color_ui = rgb { 115 115 115 }
+}
+
 HUN = {
 	color = rgb { 228 49 49 }
 	color_ui = rgb { 115 115 115 }
@@ -345,6 +355,11 @@ KUW = {
 	color_ui = rgb { 170 200 70 }
 }
 
+KUR = {
+	color = rgb { 182 214 208 }
+	color_ui = rgb { 115 115 115 }
+}
+
 KEN = {
 	color = rgb { 78 0 44 }
 	color_ui = rgb { 115 115 115 }
@@ -390,11 +405,6 @@ MAU = {
 	color_ui = rgb { 115 115 115 }
 }
 
-MRT = {
-	color = rgb { 0 170 92 }
-	color_ui = rgb { 115 115 115 }
-}
-
 MLT = {
 	color = rgb { 198 0 0 }
 	color_ui = rgb { 115 115 115 }
@@ -402,11 +412,6 @@ MLT = {
 
 MLW = {
 	color = rgb { 82 28 28 }
-	color_ui = rgb { 115 115 115 }
-}
-
-MAL = {
-	color = rgb { 206  17  38 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -445,6 +450,11 @@ MZB = {
 	color_ui = rgb { 115 115 115 }
 }
 
+NAC = {
+	color = rgb { 241 196 0 }
+	color_ui = rgb { 241 196 0 }
+}
+
 NOR = {
 	color = rgb { 195 162 184 }
 	color_ui = rgb { 115 115 115 }
@@ -452,11 +462,6 @@ NOR = {
 
 NZL = {
 	color = rgb { 34 20 158 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NIG = {
-	color = rgb { 224 82 6 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -635,6 +640,16 @@ SPR = {
 	color_ui = rgb { 115 115 115 }
 }
 
+BSQ = {
+	color = rgb { 0 156 70 }
+	color_ui = rgb { 0 156 70 }
+}
+
+GLC = {
+	color = rgb { 0 154 205 }
+	color_ui = rgb { 0 154 205 }
+}
+
 KAR = {
 	color = rgb { 183 18 6 }
 	color_ui = rgb { 115 115 115 }
@@ -647,6 +662,11 @@ SWE = {
 
 TAT = {
 	color = rgb { 97 42 42 }
+	color_ui = rgb { 115 115 115 }
+}
+
+TEX = {
+	color = rgb { 50 42 97 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -730,6 +750,61 @@ ZIM = {
 	color_ui = rgb { 115 115 115 }
 }
 
+NEA = {
+	color = rgb { 210 122 175 }
+	color_ui = rgb { 115 115 115 }
+}
+
+PCA = {
+	color = rgb { 145 19 44 }
+	color_ui = rgb { 115 115 115 }
+}
+
+UTA = {
+	color = rgb { 196 94 16 }
+	color_ui = rgb { 115 115 115 }
+}
+
+LIN = {
+	color = rgb { 93 202 148 }
+	color_ui = rgb { 115 115 115 }
+}
+
+ARI = {
+	color = rgb { 187 202 93 }
+	color_ui = rgb { 115 115 115 }
+}
+
+GRL = {
+	color = rgb { 133 157 168 }
+	color_ui = rgb { 115 115 115 }
+}
+
+MWA = {
+	color = rgb { 209 232 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+ILL = {
+	color = rgb { 90 44 149 }
+	color_ui = rgb { 115 115 115 }
+}
+
+ULS = {
+	color = rgb { 240 186 60 }
+	color_ui = rgb { 115 115 115 }
+}
+
+UAR = {
+	color = rgb { 240 150 60 }
+	color_ui = rgb { 115 115 115 }
+}
+
+MOT = {
+	color = rgb { 250 221 221 }
+	color_ui = rgb { 115 115 115 }
+}
+
 BOR = {
 	color = rgb { 252 209 22 }
 	color_ui = rgb { 115 115 115 }
@@ -737,6 +812,11 @@ BOR = {
 
 WAF = {
 	color = rgb { 172 232 4 }
+	color_ui = rgb { 115 115 115 }
+}
+
+CEA = {
+	color = rgb { 143 222 239 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -817,6 +897,9 @@ UZB = {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
 PRS = {
 	color = rgb { 39 44 107 }
 	color_ui = rgb { 115 115 115 }
@@ -887,8 +970,38 @@ NAP = {
 	color_ui = rgb { 115 115 115 }
 }
 
+<<<<<<< HEAD
 BSQ = {
 	color = rgb { 146 37 37 }
+=======
+BRI = {
+	color = rgb { 165 156 156 }
+	color_ui = rgb { 115 115 115 }
+}
+
+COR = {
+	color = rgb { 197 242 120 }
+	color_ui = rgb { 115 115 115 }
+}
+
+OCC = {
+	color = rgb { 209 8 8 }
+	color_ui = rgb { 115 115 115 }
+}
+
+NOM = {
+	color = rgb { 245 245 76 }
+	color_ui = rgb { 115 115 115 }
+}
+
+SCO = {
+	color = rgb { 31 42 193 }
+	color_ui = rgb { 115 115 115 }
+}
+
+WAL = {
+	color = rgb { 31 193 31 }
+>>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
 	color_ui = rgb { 115 115 115 }
 	
 BRI = {
@@ -1034,6 +1147,26 @@ SLV = {
 	color_ui = rgb { 115 115 115 }
 }
 
+MAC = {
+	color = rgb { 225 165 26 }
+	color_ui = rgb { 115 115 115 }
+}
+
+TRN = {
+	color = rgb { 26 92 225 }
+	color_ui = rgb { 115 115 115 }
+}
+
+SCA = {
+	color = rgb { 255 108 34 }
+	color_ui = rgb { 115 115 115 }
+}
+
+GRN = {
+	color = rgb { 255 34 34 }
+	color_ui = rgb { 115 115 115 }
+}
+
 CAT = {
 	color = rgb { 255 197 34 }
 	color_ui = rgb { 115 115 115 }
@@ -1048,6 +1181,16 @@ ALT = {
 TAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
+}
+
+QUE = {
+	color = rgb { 35 11 128 }
+	color_ui = rgb { 115 115 115 }
+}
+
+PUE = {
+	color = rgb { 33 201 235 }
+	color_ui = rgb { 115 115 115 }
 }
 
 NIC = {
@@ -1070,11 +1213,17 @@ HON = {
 	color_ui = rgb { 115 115 115 }
 }
 
+SUL = {
+	color = rgb { 51 161 95 }
+	color_ui = rgb { 115 115 115 }
+}
+
 SUR = {
 	color = rgb { 47 183 38 }
 	color_ui = rgb { 115 115 115 }
 }
 
+<<<<<<< HEAD
 =======
 SUR = {
 	color = rgb { 47 183 38 }
@@ -1082,6 +1231,33 @@ SUR = {
 }
 
 >>>>>>> parent of ddd9454... work to merge with Al's fixes
+=======
+GUN = {
+	color = rgb { 125 183 38 }
+	color_ui = rgb { 115 115 115 }
+}
+
+RIO = {
+	color = rgb { 105 35 56 }
+	color_ui = rgb { 115 115 115 }
+}
+
+YUC = {
+	color = rgb { 227 242 21 }
+	color_ui = rgb { 115 115 115 }
+}
+
+SON = {
+	color = rgb { 183 196 255 }
+	color_ui = rgb { 115 115 115 }
+}
+
+CSD = {
+	color = rgb { 191 255 183 }
+	color_ui = rgb { 115 115 115 }
+}
+
+>>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
 ERI = {
 	color = rgb { 37 172 96 }
 	color_ui = rgb { 115 115 115 }
@@ -1092,8 +1268,58 @@ NAM = {
 	color_ui = rgb { 115 115 115 }
 }
 
+LES = {
+	color = rgb { 45 23 119 }
+	color_ui = rgb { 115 115 115 }
+}
+
+SWA = {
+	color = rgb { 119 23 107 }
+	color_ui = rgb { 115 115 115 }
+}
+
+GEN = {
+	color = rgb { 255 219 219 }
+	color_ui = rgb { 115 115 115 }
+}
+
+PIS = {
+	color = rgb { 201 0 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+AMA = {
+	color = rgb { 15 7 134 }
+	color_ui = rgb { 115 115 115 }
+}
+
 TUN = {
 	color = rgb { 213 0 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+GNS = {
+	color = rgb { 132 203 130 }
+	color_ui = rgb { 115 115 115 }
+}
+
+FAL = {
+	color = rgb { 21 18 114 }
+	color_ui = rgb { 115 115 115 }
+}
+
+ISL = {
+	color = rgb { 1 1 4 }
+	color_ui = rgb { 115 115 115 }
+}
+
+RAL = {
+	color = rgb { 216 0 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+ACS = {
+	color = rgb { 210 146 16 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -1113,6 +1339,7 @@ BSH = {
 	color_ui = rgb { 0 154 0 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 }
 >>>>>>> parent of 49fc801... work 30/12/18
@@ -1122,3 +1349,6 @@ BSH = {
 =======
 }
 >>>>>>> parent of ddd9454... work to merge with Al's fixes
+=======
+}
+>>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"

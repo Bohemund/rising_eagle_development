@@ -34,22 +34,22 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 19
+			popularity = 5
 		}
 		conservative = {
-			popularity = 28
+			popularity = 36
 		}
 		centrist = {
 			popularity = 19
 		}
 		liberal = {
-			popularity = 10
+			popularity = 4
 		}
 		social_democrat = {
-			popularity = 22
+			popularity = 28
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 6
 		}
 		libertarian_socialist = {
 			popularity = 0
@@ -77,9 +77,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sulejman Tihić"
+	name = "Bakir Izetbegović"
 	desc = ""
-	picture = "Portrait_BOS_Sulejman_Tihic.tga"
+	picture = "Portrait_BOS_Bakir_Izetbegovic.tga"
 	expire = "2050.1.1"
 	ideology = islamic_democrat
 	traits = {
