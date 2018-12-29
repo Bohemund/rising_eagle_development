@@ -186,12 +186,9 @@ TUS = "countries/Tuscany.txt"
 NAP = "countries/Naples.txt"
 BSQ = "countries/Basque.txt"
 <<<<<<< HEAD
-<<<<<<< HEAD
 GLC = "countries/Galicia.txt"
 =======
 >>>>>>> parent of 49fc801... work 30/12/18
-=======
->>>>>>> parent of f0a51be... fix
 BRI = "countries/Brittany.txt"
 COR = "countries/Corsica.txt"
 OCC = "countries/Occitania.txt"
@@ -269,20 +266,11 @@ CHE = "countries/Chechnya.txt"
 KAL = "countries/Kalmykia.txt"
 DAG = "countries/Dagestan.txt"
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of f0a51be... fix
 TAR = "countries/Tatarstan.txt"
 SOV = "countries/Soviet Union.txt"
 BSH = "countries/Bashkortostan.txt"
-=======
 TAR = "countries/Tatarstan.txt"
-<<<<<<< HEAD
 BSH = "countries/Bashkortostan.txt"
-=======
->>>>>>> parent of 49fc801... work 30/12/18
->>>>>>> parent of f0a51be... fix
 =======
 TAR = "countries/Tatarstan.txt"
 >>>>>>> parent of 49fc801... work 30/12/18

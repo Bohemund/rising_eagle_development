@@ -7,8 +7,7 @@ state=
 	state_category = state_level_2
 	
 	history={
-		owner = YUG
-		add_core_of = YUG
+		owner = CRO
 		add_core_of = CRO
 		buildings = {
 			infrastructure = 5
