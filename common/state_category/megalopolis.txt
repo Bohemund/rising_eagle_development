@@ -1,0 +1,7 @@
+state_categories={
+	megalopolis = {
+		local_building_slots = 20
+	
+		color = { 90 0 150 }
+	}
+}
