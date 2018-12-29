@@ -160,6 +160,7 @@ GEO = "countries/Georgia.txt"
 BSQ = "countries/Basque.txt"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 GLC = "countries/Galicia.txt"
 =======
 >>>>>>> parent of 49fc801... work 30/12/18
@@ -171,6 +172,8 @@ SCO = "countries/Scotland.txt"
 WAL = "countries/Wales.txt"
 =======
 >>>>>>> parent of 0dd8d6c... first push
+=======
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
 SLO = "countries/Slovakia.txt"
 AUS = "countries/Austria.txt"
 CRO = "countries/Croatia.txt"
@@ -205,6 +208,7 @@ TAR = "countries/Tatarstan.txt"
 SOV = "countries/Soviet Union.txt"
 BSH = "countries/Bashkortostan.txt"
 <<<<<<< HEAD
+<<<<<<< HEAD
 TAR = "countries/Tatarstan.txt"
 BSH = "countries/Bashkortostan.txt"
 =======
@@ -212,3 +216,5 @@ TAR = "countries/Tatarstan.txt"
 >>>>>>> parent of 49fc801... work 30/12/18
 =======
 >>>>>>> parent of 0dd8d6c... first push
+=======
+>>>>>>> parent of ddd9454... work to merge with Al's fixes

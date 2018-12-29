@@ -816,6 +816,7 @@ UZB = {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 PRS = {
 	color = rgb { 39 44 107 }
 	color_ui = rgb { 115 115 115 }
@@ -917,6 +918,10 @@ SCO = {
 
 WAL = {
 	color = rgb { 31 193 31 }
+=======
+BSQ = {
+	color = rgb { 146 37 37 }
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -955,6 +960,7 @@ BRI = {
 	color_ui = rgb { 115 115 115 }
 }
 
+<<<<<<< HEAD
 COR = {
 	color = rgb { 197 242 120 }
 	color_ui = rgb { 115 115 115 }
@@ -981,6 +987,10 @@ WAL = {
 BSQ = {
 	color = rgb { 146 37 37 }
 >>>>>>> parent of 0dd8d6c... first push
+=======
+CAT = {
+	color = rgb { 255 197 34 }
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -994,6 +1004,7 @@ AUS = {
 	color_ui = rgb { 115 115 115 }
 }
 
+<<<<<<< HEAD
 CRO = {
 	color = rgb { 223 68 197 }
 	color_ui = rgb { 115 115 115 }
@@ -1006,6 +1017,10 @@ SER = {
 
 MNT = {
 	color = rgb { 187 174 236 }
+=======
+NIC = {
+	color = rgb { 33 66 235 }
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -1024,6 +1039,7 @@ CAT = {
 	color_ui = rgb { 115 115 115 }
 }
 
+<<<<<<< HEAD
 ALT = {
 	color = rgb { 206 89 22 }
 	color_ui = rgb { 115 115 115 }
@@ -1059,6 +1075,13 @@ SUR = {
 	color_ui = rgb { 115 115 115 }
 }
 
+=======
+SUR = {
+	color = rgb { 47 183 38 }
+	color_ui = rgb { 115 115 115 }
+}
+
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
 ERI = {
 	color = rgb { 37 172 96 }
 	color_ui = rgb { 115 115 115 }
@@ -1089,9 +1112,13 @@ BSH = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 }
 >>>>>>> parent of 49fc801... work 30/12/18
 =======
 }
 >>>>>>> parent of 0dd8d6c... first push
+=======
+}
+>>>>>>> parent of ddd9454... work to merge with Al's fixes
