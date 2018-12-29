@@ -34,39 +34,39 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 4
 		}
 		monarchist = {
-			popularity = 5
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 23
+			popularity = 18
 		}
 		conservative = {
-			popularity = 7
+			popularity = 24
 		}
 		centrist = {
-			popularity = 15
+			popularity = 16
 		}
 		liberal = {
-			popularity = 9
+			popularity = 3
 		}
 		social_democrat = {
-			popularity = 21
+			popularity = 19
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 16
 		}
 		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 11
+			popularity = 0
 		}
 	}
 	
-	ruling_party = nationalist
-	last_election = "1967.4.21"
+	ruling_party = conservative
+	last_election = "2007.4.21"
 	election_frequency = 12
 	elections_allowed = no
 }
@@ -77,6 +77,17 @@ create_country_leader = {
 	picture = "Portrait_GRE_Dimitrios_Grapsas.tga"
 	expire = "2050.1.1"
 	ideology = military_junta
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Panos Kammenos"
+	desc = "POLITICS_IOANNIS_METAXAS_DESC"
+	picture = "Portrait_GRE_Panos_Kammenos.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
 	traits = {
 		#
 	}

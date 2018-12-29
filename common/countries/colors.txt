@@ -640,6 +640,16 @@ SPR = {
 	color_ui = rgb { 115 115 115 }
 }
 
+BSQ = {
+	color = rgb { 0 156 70 }
+	color_ui = rgb { 0 156 70 }
+}
+
+GLC = {
+	color = rgb { 0 154 205 }
+	color_ui = rgb { 0 154 205 }
+}
+
 KAR = {
 	color = rgb { 183 18 6 }
 	color_ui = rgb { 115 115 115 }
@@ -958,6 +968,35 @@ NAP = {
 BSQ = {
 	color = rgb { 146 37 37 }
 	color_ui = rgb { 115 115 115 }
+	
+BRI = {
+	color = rgb { 165 156 156 }
+	color_ui = rgb { 115 115 115 }
+}
+
+COR = {
+	color = rgb { 197 242 120 }
+	color_ui = rgb { 115 115 115 }
+}
+
+OCC = {
+	color = rgb { 209 8 8 }
+	color_ui = rgb { 115 115 115 }
+}
+
+NOM = {
+	color = rgb { 245 245 76 }
+	color_ui = rgb { 115 115 115 }
+}
+
+SCO = {
+	color = rgb { 31 42 193 }
+	color_ui = rgb { 115 115 115 }
+}
+
+WAL = {
+	color = rgb { 31 193 31 }
+	color_ui = rgb { 115 115 115 }
 }
 
 BRI = {
@@ -1198,17 +1237,8 @@ YAK = {
 KRL = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 
 BSH = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
-}
-=======
-}
->>>>>>> parent of 49fc801... work 30/12/18
-=======
-}
->>>>>>> parent of 49fc801... work 30/12/18
