@@ -6,7 +6,7 @@ state={
 	state_category = state_level_1
 
 	history={
-		owner = USA
+		owner = PAN
 		victory_points = {
 			7617 5 
 		}

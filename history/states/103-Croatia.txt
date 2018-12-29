@@ -11,8 +11,7 @@ state={
 	}
 
 	history={
-		owner = YUG
-		add_core_of = YUG
+		owner = CRO
 		add_core_of = CRO
 		victory_points = { 3924 10 }		#Split
 		buildings = {
