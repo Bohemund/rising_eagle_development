@@ -187,7 +187,10 @@ NAP = "countries/Naples.txt"
 BSQ = "countries/Basque.txt"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 GLC = "countries/Galicia.txt"
+=======
+>>>>>>> parent of 49fc801... work 30/12/18
 =======
 >>>>>>> parent of 49fc801... work 30/12/18
 =======
@@ -270,11 +273,15 @@ KAL = "countries/Kalmykia.txt"
 DAG = "countries/Dagestan.txt"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 TAR = "countries/Tatarstan.txt"
 SOV = "countries/Soviet Union.txt"
 BSH = "countries/Bashkortostan.txt"
 TAR = "countries/Tatarstan.txt"
 BSH = "countries/Bashkortostan.txt"
+=======
+TAR = "countries/Tatarstan.txt"
+>>>>>>> parent of 49fc801... work 30/12/18
 =======
 TAR = "countries/Tatarstan.txt"
 >>>>>>> parent of 49fc801... work 30/12/18
