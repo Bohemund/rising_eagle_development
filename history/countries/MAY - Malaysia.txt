@@ -1,4 +1,4 @@
-capital = 816
+﻿capital = 816
 
 oob = "MAY_2010"
 

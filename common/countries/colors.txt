@@ -921,11 +921,41 @@ KRL = {
 }
 
 BSH = {
-	color = rgb { 0 154 0 }
-	color_ui = rgb { 0 154 0 }
+	color = rgb { 0 0 255 }
+	color_ui = rgb { 115 115 115 }
 }
 
 SOV = {
 	color = rgb { 183 18 6 }
 	color_ui = rgb { 115 115 115 }
 }	
+
+BUR = {
+	color = rgb { 171 190 152 }
+	color_ui = rgb { 115 115 115 }
+}
+
+TAR = {
+	color = rgb { 0 152 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+DAG = {
+	color = rgb { 0 147 61 }
+	color_ui = rgb { 115 115 115 }
+}
+
+KAL = {
+	color = rgb { 255 204 0 }
+	color_ui = rgb { 115 115 115 }
+}
+
+CHE = {
+	color = rgb { 43 115 56 }
+	color_ui = rgb { 115 115 115 }
+}
+
+BRY = {
+	color = rgb { 40 40 120 }
+	color_ui = rgb { 115 115 115 }
+}
