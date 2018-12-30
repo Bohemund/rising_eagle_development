@@ -35,6 +35,11 @@ set_technology = {
 	interwar_antitank = 1
 }
 
+create_faction = Union
+add_to_faction = RUS
+add_to_faction = BLR
+add_to_faction = UKR
+
 set_politics = {
 
 	parties = {

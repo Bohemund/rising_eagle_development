@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = GLC
 		victory_points = {
 			758 3 
 		}
@@ -26,7 +26,7 @@ state={
 			}
 		}
 		add_core_of = SPR
-		#add_core_of = GLC
+		add_core_of = GLC
 	}
 
 	provinces={

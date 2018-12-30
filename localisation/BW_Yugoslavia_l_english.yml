@@ -1,16 +1,16 @@
 ﻿l_english:
  
  #PARTIES
- YUG_ultranationalist_party:0 "National Movement"
- YUG_ultranationalist_party_long:0 "National Movement"
+ YUG_ultranationalist_party:0 "New National Party"
+ YUG_ultranationalist_party_long:0 "New National Party"
  YUG_monarchist_party:0 "Karađorđević Dynasty"
  YUG_monarchist_party_long:0 "Karađorđević Dynasty"
  YUG_nationalist_party:0 "People’s Resistance"
  YUG_nationalist_party_long:0 "People’s Resistance"
  YUG_conservative_party:0 "National Progressives"
  YUG_conservative_party_long:0 "National Progressive Party"
- YUG_centrist_party:0 "Agrarian Party"
- YUG_centrist_party_long:0 "Agrarian Party"
+ YUG_centrist_party:0 "Liberal Party"
+ YUG_centrist_party_long:0 "Liberal Party"
  YUG_liberal_party:0 "Unionist Party"
  YUG_liberal_party_long:0 "Unionist Party"
  YUG_social_democrat_party:0 "Democratic Party"

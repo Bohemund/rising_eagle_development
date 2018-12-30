@@ -635,6 +635,16 @@ SPR = {
 	color_ui = rgb { 115 115 115 }
 }
 
+BSQ = {
+	color = rgb { 0 156 70 }
+	color_ui = rgb { 0 156 70 }
+}
+
+GLC = {
+	color = rgb { 0 154 205 }
+	color_ui = rgb { 0 154 205 }
+}
+
 KAR = {
 	color = rgb { 183 18 6 }
 	color_ui = rgb { 115 115 115 }
@@ -815,11 +825,6 @@ UZB = {
 	color_ui = rgb { 115 115 115 }
 }
 
-BSQ = {
-	color = rgb { 146 37 37 }
-	color_ui = rgb { 115 115 115 }
-}
-
 SLO = {
 	color = rgb { 31 193 188 }
 	color_ui = rgb { 115 115 115 }
@@ -856,7 +861,7 @@ SLV = {
 }
 
 CAT = {
-	color = rgb { 255 197 34 }
+	color = rgb { 205 0 0 }
 	color_ui = rgb { 115 115 115 }
 }
 
