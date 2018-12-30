@@ -815,220 +815,8 @@ UZB = {
 	color_ui = rgb { 115 115 115 }
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
-PRS = {
-	color = rgb { 39 44 107 }
-	color_ui = rgb { 115 115 115 }
-}
-
-BAV = {
-	color = rgb { 68 228 239 }
-	color_ui = rgb { 115 115 115 }
-}
-
-HAN = {
-	color = rgb { 239 216 68 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SAX = {
-	color = rgb { 60 115 51 }
-	color_ui = rgb { 115 115 115 }
-}
-
-WUR = {
-	color = rgb { 112 8 64 }
-	color_ui = rgb { 115 115 115 }
-}
-
-RHN = {
-	color = rgb { 29 161 103 }
-	color_ui = rgb { 115 115 115 }
-}
-
-HLS = {
-	color = rgb { 165 120 120 }
-	color_ui = rgb { 115 115 115 }
-}
-
-VNT = {
-	color = rgb { 220 228 107 }
-	color_ui = rgb { 115 115 115 }
-}
-
-LOM = {
-	color = rgb { 47 169 67 }
-	color_ui = rgb { 115 115 115 }
-}
-
-PIE = {
-	color = rgb { 169 47 137 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SCY = {
-	color = rgb { 255 210 183 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SAR = {
-	color = rgb { 183 255 255 }
-	color_ui = rgb { 115 115 115 }
-}
-
-TUS = {
-	color = rgb { 230 93 13 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NAP = {
-	color = rgb { 99 37 146 }
-	color_ui = rgb { 115 115 115 }
-}
-
-<<<<<<< HEAD
 BSQ = {
 	color = rgb { 146 37 37 }
-=======
-BRI = {
-	color = rgb { 165 156 156 }
-	color_ui = rgb { 115 115 115 }
-}
-
-COR = {
-	color = rgb { 197 242 120 }
-	color_ui = rgb { 115 115 115 }
-}
-
-OCC = {
-	color = rgb { 209 8 8 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NOM = {
-	color = rgb { 245 245 76 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SCO = {
-	color = rgb { 31 42 193 }
-	color_ui = rgb { 115 115 115 }
-}
-
-WAL = {
-	color = rgb { 31 193 31 }
->>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
-	color_ui = rgb { 115 115 115 }
-	
-BRI = {
-	color = rgb { 165 156 156 }
-	color_ui = rgb { 115 115 115 }
-}
-
-COR = {
-	color = rgb { 197 242 120 }
-	color_ui = rgb { 115 115 115 }
-}
-
-OCC = {
-	color = rgb { 209 8 8 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NOM = {
-	color = rgb { 245 245 76 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SCO = {
-	color = rgb { 31 42 193 }
-	color_ui = rgb { 115 115 115 }
-}
-
-WAL = {
-	color = rgb { 31 193 31 }
-=======
-BSQ = {
-	color = rgb { 146 37 37 }
->>>>>>> parent of ddd9454... work to merge with Al's fixes
-	color_ui = rgb { 115 115 115 }
-}
-
-BRI = {
-	color = rgb { 165 156 156 }
-	color_ui = rgb { 115 115 115 }
-}
-
-COR = {
-	color = rgb { 197 242 120 }
-	color_ui = rgb { 115 115 115 }
-}
-
-OCC = {
-	color = rgb { 209 8 8 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NOM = {
-	color = rgb { 245 245 76 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SCO = {
-	color = rgb { 31 42 193 }
-	color_ui = rgb { 115 115 115 }
-}
-
-WAL = {
-	color = rgb { 31 193 31 }
-	color_ui = rgb { 115 115 115 }
-}
-
-BRI = {
-	color = rgb { 165 156 156 }
-	color_ui = rgb { 115 115 115 }
-}
-
-<<<<<<< HEAD
-COR = {
-	color = rgb { 197 242 120 }
-	color_ui = rgb { 115 115 115 }
-}
-
-OCC = {
-	color = rgb { 209 8 8 }
-	color_ui = rgb { 115 115 115 }
-}
-
-NOM = {
-	color = rgb { 245 245 76 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SCO = {
-	color = rgb { 31 42 193 }
-	color_ui = rgb { 115 115 115 }
-}
-
-WAL = {
-	color = rgb { 31 193 31 }
-=======
-BSQ = {
-	color = rgb { 146 37 37 }
->>>>>>> parent of 0dd8d6c... first push
-=======
-CAT = {
-	color = rgb { 255 197 34 }
->>>>>>> parent of ddd9454... work to merge with Al's fixes
-=======
-BSQ = {
-	color = rgb { 146 37 37 }
->>>>>>> parent of ddd9454... work to merge with Al's fixes
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -1042,7 +830,6 @@ AUS = {
 	color_ui = rgb { 115 115 115 }
 }
 
-<<<<<<< HEAD
 CRO = {
 	color = rgb { 223 68 197 }
 	color_ui = rgb { 115 115 115 }
@@ -1053,12 +840,8 @@ SER = {
 	color_ui = rgb { 115 115 115 }
 }
 
-MNT = {
-	color = rgb { 187 174 236 }
-=======
 NIC = {
 	color = rgb { 33 66 235 }
->>>>>>> parent of ddd9454... work to merge with Al's fixes
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -1077,7 +860,6 @@ CAT = {
 	color_ui = rgb { 115 115 115 }
 }
 
-<<<<<<< HEAD
 ALT = {
 	color = rgb { 206 89 22 }
 	color_ui = rgb { 115 115 115 }
@@ -1113,44 +895,6 @@ SUR = {
 	color_ui = rgb { 115 115 115 }
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-SUR = {
-	color = rgb { 47 183 38 }
-	color_ui = rgb { 115 115 115 }
-}
-
->>>>>>> parent of ddd9454... work to merge with Al's fixes
-=======
-GUN = {
-	color = rgb { 125 183 38 }
-	color_ui = rgb { 115 115 115 }
-}
-
-RIO = {
-	color = rgb { 105 35 56 }
-	color_ui = rgb { 115 115 115 }
-}
-
-YUC = {
-	color = rgb { 227 242 21 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SON = {
-	color = rgb { 183 196 255 }
-	color_ui = rgb { 115 115 115 }
-}
-
-CSD = {
-	color = rgb { 191 255 183 }
-	color_ui = rgb { 115 115 115 }
-}
-
->>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
-=======
->>>>>>> parent of ddd9454... work to merge with Al's fixes
 ERI = {
 	color = rgb { 37 172 96 }
 	color_ui = rgb { 115 115 115 }
@@ -1174,28 +918,14 @@ YAK = {
 KRL = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
-<<<<<<< HEAD
 }
 
 BSH = {
 	color = rgb { 0 154 0 }
 	color_ui = rgb { 0 154 0 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 }
->>>>>>> parent of 49fc801... work 30/12/18
-=======
-}
->>>>>>> parent of 0dd8d6c... first push
-=======
-}
->>>>>>> parent of ddd9454... work to merge with Al's fixes
-=======
-}
->>>>>>> parent of 730c6b5... Revert "work to merge with Al's fixes"
-=======
-}
->>>>>>> parent of ddd9454... work to merge with Al's fixes
+
+SOV = {
+	color = rgb { 183 18 6 }
+	color_ui = rgb { 115 115 115 }
+}	
