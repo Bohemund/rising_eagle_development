@@ -1,7 +1,8 @@
 ideas = {
 
-	      
-		idea_generic_privatisation_economy = {
+	 country = {
+     
+		idea_private = {
 			allowed = {
 				always = no
 			}
@@ -10,7 +11,7 @@ ideas = {
 				always = yes
 			}
 			
-			picture = idea_generic_privatisation_economy
+			picture = generic_goods_red_bonus
 			
 			removal_cost = -1
 			
@@ -22,10 +23,333 @@ ideas = {
 
 		
 		
+		idea_improve_consumer_industry = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			picture = generic_goods_red_bonus
+			
+			
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = -0.03
+			}
+		}
+		
+		
+		
+		
+		idea_balanced = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			picture = generic_goods_red_bonus
+			
+			
+			
+			removal_cost = -1
+		
+		
 	
+			
+			modifier = {
+				consumer_goods_factor = 0.05
+			    production_factory_max_efficiency_factor = 0.1
+			}
+		}
+
+		
+		
+		idea_national = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+				consumer_goods_factor = 0.1
+			    production_factory_efficiency_gain_factor = 0.1
+			}
+		}	
+		
+		idea_liberal_economy = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+				conversion_cost_civ_to_mil_factor = 0.2
+				line_change_production_efficiency_factor = 0.05
+			}
+		}
+		
+		idea_planned_economy_generic = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			conversion_cost_civ_to_mil_factor = -0.1
+			production_speed_buildings_factor = 0.05
+			}
+		}
+		
+		idea_nationalise_assets = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			conversion_cost_civ_to_mil_factor = -0.1
+			production_speed_buildings_factor = 0.05
+			}
+		}
+		
+	    government_planned = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			
+			production_speed_buildings_factor = 0.05
+			}
+		}
+		
+		balanced_economy = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			
+			industrial_capacity_factory  = 0.05
+			}
+		}
+		
+		mixed_planning = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			
+			line_change_production_efficiency_factor  = 0.05
+			}
+		}
+		
+		minor_planning = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			
+			industrial_capacity_factory  = 0.05
+			}
+		}
+		
+		
+		minor_privisation = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			 production_factory_max_efficiency_factor = 0.05
+			}
+		}
+		
+		
+		
+		great_minds = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			research_time_factor = -0.05 
+			}
+		}
+		
+		expand_universities = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			research_time_factor = -0.01
+			production_speed_buildings_factor = 0.1
+            			
+			}
+		}
+		
+		idea_dockyard_project = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+	
+	        picture = generic_goods_red_bonus
+	
+	
+	
+			
+			modifier = {
+			production_speed_dockyard_factor = 0.15
+            			
+			}
+		}
 		
 		
 		
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}	
 		
 }

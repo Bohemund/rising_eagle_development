@@ -12,7 +12,7 @@ focus_tree = {
 	
 	focus = {
 		id = expand_military
-		icon = allies_infantry
+		icon = GFX_goal_generic_defence
 		cost = 10
 		
 		x = 9
@@ -27,7 +27,7 @@ focus_tree = {
 	
 	focus = {
 		id = generic_land
-		icon = allies_infantry
+		icon = GFX_goal_generic_allies_build_infantry
 		cost = 10
 		prerequisite = {
 			focus = expand_military
@@ -42,7 +42,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_command
-		icon = generic_marching
+		icon = GFX_goal_generic_army_doctrines
 		cost = 10
 		prerequisite = {
 			focus = generic_land
@@ -62,7 +62,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_reformed_army_structure
-		icon = army_doctrine
+		icon = GFX_goal_generic_army_doctrines
 		cost = 10
 		prerequisite = {
 			focus = generic_command
@@ -88,7 +88,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_armor
-		icon = build_tank
+		icon = GFX_goal_generic_build_tank
 		cost = 10
 		prerequisite = {
 			focus = generic_land
@@ -108,7 +108,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_heavy_armor
-		icon = tanks
+		icon = GFX_goal_generic_army_tanks
 		cost = 10
 		prerequisite = {
 			focus = generic_armor
@@ -131,7 +131,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_force
-		icon = artillery_2
+		icon = GFX_goal_generic_army_artillery
 		cost = 10
 		prerequisite = {
 			focus = generic_land
@@ -151,7 +151,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_motorised
-		icon = motorised
+		icon = GFX_goal_generic_army_motorized
 		cost = 10
 		prerequisite = {
 			focus = generic_force
@@ -171,7 +171,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_special_forces
-		icon = special_forces
+		icon = GFX_goal_generic_special_forces
 		cost = 10
 		prerequisite = {
 			focus = generic_motorised
@@ -203,7 +203,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_light_armor
-		icon = cavalry
+		icon = GFX_goal_generic_cavalry
 		cost = 10
 		prerequisite = {
 			focus = generic_armor
@@ -225,7 +225,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_sea
-		icon = naval_occupation
+		icon = GFX_goal_generic_build_navy
 		cost = 10
 		prerequisite = {
 			focus = expand_military
@@ -239,7 +239,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_naval_doctrine
-		icon = navy_doctrine
+		icon = GFX_goal_generic_navy_doctrines_tactics
 		cost = 10
 		prerequisite = {
 			focus = generic_sea
@@ -259,7 +259,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_dockyard_project
-		icon = naval_dockyard
+		icon = GFX_goal_generic_construct_naval_dockyard
 		cost = 10
 		prerequisite = {
 			focus = generic_naval_doctrine
@@ -273,7 +273,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_naval_research
-		icon = build_navy
+		icon = GFX_goal_generic_navy_doctrines_tactics
 		cost = 10
 		prerequisite = {
 			focus = generic_sea
@@ -293,7 +293,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_naval_research_2
-		icon = battleship
+		icon = GFX_goal_generic_navy_battleship
 		cost = 10
 		prerequisite = {
 			focus = generic_naval_research
@@ -312,7 +312,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_air
-		icon = air_defense
+		icon = GFX_goal_generic_build_airforce
 		cost = 10
 		prerequisite = {
 			focus = expand_military
@@ -326,7 +326,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_air_bases
-		icon = build_airforce
+		icon = GFX_goal_generic_CAS
 		cost = 10
 		prerequisite = {
 			focus = generic_air
@@ -346,7 +346,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_air_doctrine
-		icon = air_doctrine
+		icon = GFX_goal_generic_air_doctrine
 		cost = 10
 		prerequisite = {
 			focus = generic_air_bases
@@ -366,7 +366,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_bombers
-		icon = generic_bomber
+		icon = GFX_goal_generic_air_bomber
 		cost = 10
 		prerequisite = {
 			focus = generic_air
@@ -386,7 +386,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_fighters
-		icon = generic_fighter
+		icon = GFX_goal_generic_air_fighter
 		cost = 10
 		prerequisite = {
 			focus = generic_air
@@ -407,7 +407,7 @@ focus_tree = {
 	}
 	focus = {
 		id = generic_reform_air_command
-		icon = close_air_support
+		icon = GFX_goal_generic_CAS
 		cost = 10
 		prerequisite = {
 			focus = generic_bombers
@@ -433,7 +433,7 @@ focus_tree = {
 	
 	focus = {
 		id = economic_policy
-		icon = focus_goal_unknown
+		icon = GFX_focus_generic_self_management
 		cost = 10
 		x = 35
 		y = 1
@@ -446,23 +446,32 @@ focus_tree = {
 	
 	focus = {
 		id =  privatisation_economy
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_wolf_pack
 		cost = 10
 		prerequisite = {
 			focus = economic_policy
+		}
+		available = {
+		    NOT = {
+			    has_government = communist
+				has_government = libertarian_socialist
+				has_government = democratic_socialist
+				has_government = social_democrat
+				
+			}
 		}
 		x = 26
 		y = 2
 		
 		completion_reward = {
-		    add_ideas = idea_generic_privatisation_economy
+		    add_ideas = idea_private
 		}
 
 	}
 	
 	focus = {
 		id =  coporate_support
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_positive_trade_relations
 		cost = 10
 		prerequisite = {
 			focus = privatisation_economy
@@ -478,7 +487,7 @@ focus_tree = {
 	
 	focus = {
 		id = improve_consumer_industry
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_production1
 		cost = 10
 		prerequisite = {
 			focus = privatisation_economy
@@ -487,6 +496,7 @@ focus_tree = {
 		y = 3
 		
 		completion_reward = {
+		add_ideas = idea_improve_consumer_industry
 		    
 		}
 
@@ -494,7 +504,7 @@ focus_tree = {
 	
 	focus = {
 		id = civillian_buildup_1
-		icon = focus_goal_unknown
+		icon = GFX_focus_focus_generic_industry_1
 		cost = 10
 		prerequisite = {
 			focus = privatisation_economy
@@ -518,7 +528,7 @@ focus_tree = {
 	
 	focus = {
 		id = civillian_buildup_2
-		icon = focus_goal_unknown
+		icon = GFX_focus_focus_generic_industry_1
 		cost = 10
 		prerequisite = {
 			focus = civillian_buildup_1
@@ -544,7 +554,7 @@ focus_tree = {
 	
 	focus = {
 		id =  liberal_economy
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_production2
 		cost = 10
 		prerequisite = {
 			focus = privatisation_economy
@@ -553,6 +563,7 @@ focus_tree = {
 		y = 3
 		
 		completion_reward = {
+		add_ideas = idea_liberal_economy
 		    
 		}
     }
@@ -560,7 +571,7 @@ focus_tree = {
 	
 	focus = {
 		id =  consumer_economy_1
-		icon = focus_goal_unknown
+		icon = GFX_focus_focus_generic_industry_1
 		cost = 10
 		prerequisite = {
 			focus = liberal_economy
@@ -582,7 +593,7 @@ focus_tree = {
 	
 	focus = {
 		id =  consumer_economy_2
-		icon = focus_goal_unknown
+		icon = GFX_focus_focus_generic_industry_1
 		cost = 10
 		prerequisite = {
 			focus = consumer_economy_1
@@ -605,10 +616,17 @@ focus_tree = {
 	
 	focus = {
 		id =  nationalisation_economy
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_soviet_construction
 		cost = 10
 		prerequisite = {
 			focus = economic_policy
+		}
+		available = {
+		    NOT = {
+			    
+				has_government = liberal
+				
+			}
 		}
 		x = 45
 		y = 2
@@ -621,7 +639,7 @@ focus_tree = {
 	
 	focus = {
 		id =  planned_economy
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_trade
 		cost = 10
 		prerequisite = {
 			focus = nationalisation_economy
@@ -630,14 +648,14 @@ focus_tree = {
 		y = 3
 		
 		completion_reward = {
-		    
+		 add_ideas = idea_planned_economy_generic   
 		}
 
 	}
 	
 	focus = {
 		id =  military_industry_1
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_mil_factory
 		cost = 10
 		prerequisite = {
 			focus = planned_economy
@@ -658,7 +676,7 @@ focus_tree = {
 	
 	focus = {
 		id =  military_industry_2
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_mil_factory
 		cost = 10
 		prerequisite = {
 			focus = military_industry_1
@@ -680,7 +698,7 @@ focus_tree = {
 	
 	focus = {
 		id =  nationalise_assets
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_civilian
 		cost = 10
 		prerequisite = {
 			focus = nationalisation_economy
@@ -689,14 +707,14 @@ focus_tree = {
 		y = 3
 		
 		completion_reward = {
-		    
+		add_ideas = idea_nationalise_assets
 		}
 
 	}
 	
 	focus = {
 		id =  government_planned
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_civilian
 		cost = 10
 		prerequisite = {
 			focus = nationalisation_economy
@@ -705,7 +723,7 @@ focus_tree = {
 		y = 3
 		
 		completion_reward = {
-		   
+		 add_ideas = government_planned  
 		}
 
 	}
@@ -715,24 +733,32 @@ focus_tree = {
 	
 	focus = {
 		id =  balanced_economy
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_consumer_goods
 		cost = 10
 		prerequisite = {
 			focus = economic_policy
+		}
+		available = {
+		    NOT = {
+			    has_government = communist
+				has_government = libertarian_socialist
+				has_government = liberal
+				has_government = democratic_socialist
+			}
 		}
 		x = 35
 		y = 3
 		
 		
 		completion_reward = {
-		    
+		add_ideas = balanced_economy   
 		}
 
 	}
 	
 	focus = {
 		id =  mixed_planning
-		icon = focus_goal_unknown
+		icon = GFX_goal_support_democracy
 		cost = 10
 		prerequisite = {
 			focus = balanced_economy
@@ -741,15 +767,15 @@ focus_tree = {
 		y = 4
 		
 		
-		completion_reward = {
-		    
+	completion_reward = {
+		add_ideas = mixed_planning    
 		}
 
 	}
 	
 	focus = {
-		id =  minor_planning
-		icon = focus_goal_unknown
+		id = minor_nationalisation
+		icon = GFX_goal_generic_consumer_goods
 		cost = 10
 		prerequisite = {
 			focus = mixed_planning
@@ -759,14 +785,14 @@ focus_tree = {
 		
 		
 		completion_reward = {
-		    
+		add_ideas = minor_planning    
 		}
 
 	}
 	
 	focus = {
 		id =  minor_privisation
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_trade
 		cost = 10
 		prerequisite = {
 			focus = mixed_planning
@@ -776,7 +802,7 @@ focus_tree = {
 		
 		
 		completion_reward = {
-		    
+		 add_ideas = minor_privisation   
 		}
 
 	}
@@ -786,7 +812,7 @@ focus_tree = {
 	
 	focus = {
 		id = military_buildup_1
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_mil_factory
 		cost = 10
 		prerequisite = {
 			focus = nationalisation_economy
@@ -809,7 +835,7 @@ focus_tree = {
 	
 	focus = {
 		id = military_buildup_2
-		icon = focus_goal_unknown
+		icon = GFX_goal_generic_construct_mil_factory
 		cost = 10
 		prerequisite = {
 			focus = military_buildup_1
@@ -819,7 +845,7 @@ focus_tree = {
 		y = 5
 		
 		completion_reward = {
-		random_owned_state
+		random_owned_state = {
 		  add_building_construction = {
                   type = arms_factory
                   level = 1
@@ -829,11 +855,11 @@ focus_tree = {
 		
 
 	}
-	
+}
 	
 	focus = {
 		id = domestic_policy
-		icon = allies_infantry
+		icon = GFX_focus_generic_self_management
 		cost = 10
 		
 		x = 60
@@ -848,7 +874,7 @@ focus_tree = {
 	
 	focus = {
 		id = stablilise_the_nation
-		icon = allies_infantry
+		icon = GFX_focus_generic_the_giant_wakes
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -867,7 +893,7 @@ focus_tree = {
 	
 	focus = {
 		id = support_war
-		icon = allies_infantry
+		icon = GFX_goal_generic_attack_allies
 		cost = 10
 		prerequisite = {
 			focus = stablilise_the_nation
@@ -886,7 +912,7 @@ focus_tree = {
 	
 	focus = {
 		id = infrastructure_dev_1
-		icon = allies_infantry
+		icon = GFX_goal_generic_construct_infrastructure
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -908,7 +934,7 @@ focus_tree = {
 	
 	focus = {
 		id = infrastructure_dev_2
-		icon = allies_infantry
+		icon = GFX_goal_generic_construct_infrastructure
 		cost = 10
 		prerequisite = {
 			focus = infrastructure_dev_1
@@ -932,7 +958,7 @@ focus_tree = {
 	
 	focus = {
 		id = infrastructure_dev_3
-		icon = allies_infantry
+		icon = GFX_goal_generic_construct_infrastructure
 		cost = 10
 		prerequisite = {
 			focus = infrastructure_dev_2
@@ -954,7 +980,7 @@ focus_tree = {
 		
 	focus = {
 		id = construction_bonus
-		icon = allies_infantry
+		icon = GFX_goal_generic_construction
 		cost = 10
 		prerequisite = {
 			focus = infrastructure_dev_2
@@ -978,7 +1004,7 @@ focus_tree = {
 	
 	focus = {
 		id = resource_bonus
-		icon = allies_infantry
+		icon = GFX_goal_generic_oil_refinery
 		cost = 10
 		prerequisite = {
 			focus = infrastructure_dev_2
@@ -1002,7 +1028,7 @@ focus_tree = {
 	
 	focus = {
 		id = halt_population_growth
-		icon = allies_infantry
+		icon = GFX_goal_generic_secret_weapon
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -1015,7 +1041,9 @@ focus_tree = {
 		x = 58
 		y = 5
 		completion_reward = {
-		    add_stability = 0.01
+		    add_stability = 0.10
+			MONTHLY_POPULATION = -0.05
+			consumer_goods_factor = -0.05
 		}
 		
 
@@ -1023,7 +1051,7 @@ focus_tree = {
 	
 	focus = {
 		id = support_population_growth
-		icon = allies_infantry
+		icon = GFX_focus_generic_diplomatic_treaty
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -1033,7 +1061,9 @@ focus_tree = {
 		x = 62
 		y = 5
 		completion_reward = {
-		    add_stability = 0.01
+		add_stability = -0.15
+	    consumer_goods_factor = 0.05
+		MONTHLY_POPULATION = 0.10
 		}
 		
 
@@ -1042,7 +1072,7 @@ focus_tree = {
 	
 	focus = {
 		id = build_schools
-		icon = allies_infantry
+		icon = GFX_goal_generic_national_unity
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -1052,7 +1082,7 @@ focus_tree = {
 		x = 65
 		y = 2
 		completion_reward = {
-		    add_stability = 0.01
+		    add_stability = 0.05
 		}
 		
 
@@ -1060,7 +1090,7 @@ focus_tree = {
 	
 	focus = {
 		id = expand_universities
-		icon = allies_infantry
+		icon = GFX_focus_research2
 		cost = 10
 		prerequisite = {
 			focus = build_schools
@@ -1070,7 +1100,7 @@ focus_tree = {
 		x = 65
 		y = 3
 		completion_reward = {
-		    add_stability = 0.01
+		    add_ideas = expand_universities
 		}
 		
 
@@ -1078,7 +1108,7 @@ focus_tree = {
 	
 	focus = {
 		id = extra_research_slot
-		icon = allies_infantry
+		icon = GFX_focus_research
 		cost = 10
 		prerequisite = {
 			focus = expand_universities
@@ -1096,7 +1126,7 @@ focus_tree = {
 	
 	focus = {
 		id = recruit_great_minds
-		icon = allies_infantry
+		icon = GFX_focus_research2
 		cost = 10
 		prerequisite = {
 			focus = domestic_policy
@@ -1106,15 +1136,15 @@ focus_tree = {
 		x = 68
 		y = 3
 		completion_reward = {
-		    add_stability = 0.01
+		add_ideas = great_minds
 		}
 		
 
 	}
 	
 	focus = {
-		id = industry_research
-		icon = allies_infantry
+		id = industral_research
+		icon = GFX_goal_generic_construction2
 		cost = 10
 		prerequisite = {
 			focus = recruit_great_minds
@@ -1137,10 +1167,10 @@ focus_tree = {
 	
 	focus = {
 		id = electronics_research
-		icon = allies_infantry
+		icon = GFX_goal_generic_construction
 		cost = 10
 		prerequisite = {
-			focus = industry_research
+			focus = industral_research
 	
 		}
 		
@@ -1157,6 +1187,12 @@ focus_tree = {
 		
 
 	}
+ 
+ 
+ 
+ 
+ 
+ 
  }	
 	
 	

@@ -34,9 +34,77 @@ spriteTypes = {
 	}	
 	
 	spriteType = {
-		name = "GFX_idea_idea_generic_privatisation_economy"
+		name = "GFX_idea_idea_private"
 		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
 	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_national"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	
+	spriteType = {
+		name = "GFX_idea_idea_improve_consumer_industry"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_balanced"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_liberal_economy"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_planned_economy_generic"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_nationalise_assets"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_government_planned"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_balanced_economy"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_mixed_planning"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_minor_planning"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_minor_privisation"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_great_minds"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_expand_universities"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}	
+	
+	
 	
 	spriteType = {
 		name = "GFX_idea_idea_CHI_legacy_of_Maoism"
