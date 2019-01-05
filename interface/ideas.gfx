@@ -22,3 +22,32 @@ spriteTypes = {
 		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
 		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
 	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_coalition_system"
+		texturefile = "gfx/interface/ideas/Grand_coalition_idea.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_recovery_of_china"
+		texturefile = "gfx/interface/ideas/generic_production_bonus.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_private"
+		texturefile = "gfx/interface/ideas/generic_goods_red_bonus.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_legacy_of_Maoism"
+		texturefile = "gfx/interface/ideas/CHI_legacy_of_mao.dds"
+	}	
+	
+	
+	
+	
+	
+	
+	
+}
+	
