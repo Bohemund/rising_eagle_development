@@ -1,7 +1,7 @@
 ideas = {
 
 	      
-		idea_private = {
+		idea_generic_privatisation_economy = {
 			allowed = {
 				always = no
 			}
@@ -10,7 +10,7 @@ ideas = {
 				always = yes
 			}
 			
-			picture = generic_goods_red_bonus
+			picture = idea_generic_privatisation_economy
 			
 			removal_cost = -1
 			
@@ -22,75 +22,7 @@ ideas = {
 
 		
 		
-		idea_ = {
-			allowed = {
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-			picture = generic_goods_red_bonus
-			
-			
-			
-			removal_cost = -1
-			
-			modifier = {
-				consumer_goods_factor = -0.03
-			}
-		}
-		
-		
-		
-		
-		idea_balanced = {
-			allowed = {
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-			
-			picture = generic_goods_red_bonus
-			
-			
-			
-			removal_cost = -1
-		
-		
 	
-			
-			modifier = {
-				consumer_goods_factor = 0.05
-			    production_factory_max_efficiency_factor = 0.1
-			}
-		}
-
-		
-		
-		idea_national = {
-			allowed = {
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-			
-			removal_cost = -1
-	
-	        picture = generic_goods_red_bonus
-	
-	
-	
-			
-			modifier = {
-				consumer_goods_factor = 0.1
-			    production_factory_efficiency_gain_factor = 0.1
-			}
-		}	
 		
 		
 		

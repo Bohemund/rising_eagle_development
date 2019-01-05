@@ -34,8 +34,8 @@ spriteTypes = {
 	}	
 	
 	spriteType = {
-		name = "GFX_idea_private"
-		texturefile = "gfx/interface/ideas/generic_goods_red_bonus.dds"
+		name = "GFX_idea_idea_generic_privatisation_economy"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
 	}	
 	
 	spriteType = {

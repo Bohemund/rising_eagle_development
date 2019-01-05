@@ -2,22 +2,37 @@
  
  #PARTIES
  CHI_ultranationalist_party:0 "Nationalist Party"
- CHI_ultranationalist_party_long:0 "Nationalist Party of China"
- CHI_monarchist_party:0 "House of Aisin Gioro"
- CHI_monarchist_party_long:0 "House of Aisin Gioro"
- CHI_nationalist_party:0 "National Army"
- CHI_nationalist_party_long:0 "National Army"
- CHI_conservative_party:0 "China Unitary Party"
- CHI_conservative_party_long:0 "China Unitary Party"
+ CHI_ultranationalist_party_long:0 " New Nationalist Party of China"
+ CHI_monarchist_party:0 "House of Zhu"
+ CHI_monarchist_party_long:0 "House of Zhu"
+ CHI_nationalist_party:0 "Democratic Coalition - Far Right"
+ CHI_nationalist_party_long:0 "Democratic Coalition - Far right"
+ CHI_conservative_party:0 "Democratic Coalition"
+ CHI_conservative_party_long:0 "Democratic Coalition - Conservatives"
  CHI_centrist_party:0 "Democratic Coalition"
- CHI_centrist_party_long:0 "Chinese Democratic Coalition"
- CHI_liberal_party:0 "People’s Party"
- CHI_liberal_party_long:0 "People’s Party - Liberals"
- CHI_social_democrat_party:0 "People’s Party"
- CHI_social_democrat_party_long:0 "People’s Party - Social Democrats"
- CHI_democratic_socialist_party:0 "New Socialist Party"
- CHI_democratic_socialist_party_long:0 "New Socialist Party"
+ CHI_centrist_party_long:0 "Democratic Coalition - Centrists"
+ CHI_liberal_party:0 "Democratic Coalition"
+ CHI_liberal_party_long:0 "Democratic Coalition - Liberals"
+ CHI_social_democrat_party:0 "Democratic Coalition"
+ CHI_social_democrat_party_long:0 "Democratic Coalition - Social Democrats"
+ CHI_democratic_socialist_party:0 "Democratic Coalition"
+ CHI_democratic_socialist_party_long:0 "Democratic Coalition - Socialists"
  CHI_libertarian_socialist_party:0 "Chinese Workers’ Party"
  CHI_libertarian_socialist_party_long:0 "Chinese Workers’ Party"
  CHI_communist_party:0 "Communist Party"
  CHI_communist_party_long:0 "Communist Party of the Republic of China"
+ 
+ 
+ 
+ idea_CHI_coalition_system:0 "Democratic Coalition System"
+ idea_CHI_coalition_system_desc:0 "The Democratic Coalition is a merger of all the political parties that took part in the White Flower Revolution, as proposed by then provisional President Deng Xiaoping to create a strong government free of political divisions to effectively rebuild the nation from civil war. For more than 30 years, the coalition has governed China effectively, though the factionalism divide in the coalition has resulted in Coalition members running against each other in regional elections.The Coalition has recently shown signs of divisions, and it will fall apart from just a small error."
+ 
+ idea_CHI_legacy_of_Maoism:0 "Legacy of Maoism"
+ idea_CHI_legacy_of_Maoism_desc:0 "The White Flower Revolution against the People's Republic has left China in ruins, the sheer brutality of the PLA and war casualities caused around 45 million deaths, which has severely damaged China. The people still remember the oppression of the communists in their minds,and swore never to let Communists control China again." 
+ 
+ idea_CHI_growing_economy:0 "Five Areas Of Progress"
+ idea_CHI_growing_economy_desc:0 "The Five Areas Of Progress is a political theory developed by the First President of the new Republic of China, Deng Xiaoping. It comprises of development in five areas: education,industry,human rights,welfare and national unity. As a result, China is steadily recovering from the Maoist policies and emerge as a global power.The Eastern Dragon's roar will soon be heard around the world!"
+ 
+ 
+ idea_CHI_recovery_of_china:0 "Recovering From the civil war"
+ idea_CHI_recovery_of_china_desc:0 "The Recovery from the Third Chinese Civil war is on it's finalising stages,soon China will be leave it's dark history behind and emerge into a prosperous future."
