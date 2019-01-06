@@ -460,7 +460,7 @@ focus_tree = {
 				
 			}
 		}
-		x = 26
+		x = 29
 		y = 2
 		
 		completion_reward = {
@@ -476,7 +476,7 @@ focus_tree = {
 		prerequisite = {
 			focus = privatisation_economy
 		}
-		x = 23
+		x = 26
 		y = 3
 		
 		completion_reward = {
@@ -492,7 +492,7 @@ focus_tree = {
 		prerequisite = {
 			focus = privatisation_economy
 		}
-		x = 29
+		x = 31
 		y = 3
 		
 		completion_reward = {
@@ -510,7 +510,7 @@ focus_tree = {
 			focus = privatisation_economy
 			focus = balanced_economy
 		}
-		x = 31
+		x = 32
 		y = 4
 		
 		completion_reward = {
@@ -533,7 +533,7 @@ focus_tree = {
 		prerequisite = {
 			focus = civillian_buildup_1
 		}
-		x = 31
+		x = 32
 		y = 5
 		
 		completion_reward = {
@@ -559,7 +559,7 @@ focus_tree = {
 		prerequisite = {
 			focus = privatisation_economy
 		}
-		x = 26
+		x = 29
 		y = 3
 		
 		completion_reward = {
@@ -576,7 +576,7 @@ focus_tree = {
 		prerequisite = {
 			focus = liberal_economy
 		}
-		x = 26
+		x = 29
 		y = 4
 		
 		completion_reward = {
@@ -598,7 +598,7 @@ focus_tree = {
 		prerequisite = {
 			focus = consumer_economy_1
 		}
-		x = 26
+		x = 29
 		y = 5
 		
 		completion_reward = {
@@ -628,7 +628,7 @@ focus_tree = {
 				
 			}
 		}
-		x = 45
+		x = 41
 		y = 2
 		
 		completion_reward = {
@@ -644,7 +644,7 @@ focus_tree = {
 		prerequisite = {
 			focus = nationalisation_economy
 		}
-		x = 45
+		x = 41
 		y = 3
 		
 		completion_reward = {
@@ -660,7 +660,7 @@ focus_tree = {
 		prerequisite = {
 			focus = planned_economy
 		}
-		x = 45
+		x = 41
 		y = 4
 		
 		completion_reward = {
@@ -681,7 +681,7 @@ focus_tree = {
 		prerequisite = {
 			focus = military_industry_1
 		}
-		x = 45
+		x = 41
 		y = 5
 		
 		completion_reward = {
@@ -703,7 +703,7 @@ focus_tree = {
 		prerequisite = {
 			focus = nationalisation_economy
 		}
-		x = 42`
+		x = 38
 		y = 3
 		
 		completion_reward = {
@@ -719,7 +719,7 @@ focus_tree = {
 		prerequisite = {
 			focus = nationalisation_economy
 		}
-		x = 48
+		x = 44
 		y = 3
 		
 		completion_reward = {
@@ -780,7 +780,7 @@ focus_tree = {
 		prerequisite = {
 			focus = mixed_planning
 		}
-		x = 33
+		x = 34
 		y = 5
 		
 		
@@ -797,7 +797,7 @@ focus_tree = {
 		prerequisite = {
 			focus = mixed_planning
 		}
-		x = 37
+		x = 36
 		y = 5
 		
 		
@@ -882,7 +882,7 @@ focus_tree = {
 		}
 		
 		x = 60
-		y = 3
+		y = 2
 		completion_reward = {
 		    add_stability = 0.1
 		}
@@ -901,7 +901,7 @@ focus_tree = {
 		}
 		
 		x = 60
-		y = 4
+		y = 3
 		completion_reward = {
 		    add_war_support = 0.1
 		}
@@ -918,7 +918,7 @@ focus_tree = {
 			focus = domestic_policy
 		}
 		
-		x = 54
+		x = 56
 		y = 2
 		completion_reward = {
 		random_owned_state = { 
@@ -940,7 +940,7 @@ focus_tree = {
 			focus = infrastructure_dev_1
 		}
 		
-		x = 54
+		x = 56
 		y = 3
 		completion_reward = {
 		 random_owned_state = { 
@@ -964,8 +964,8 @@ focus_tree = {
 			focus = infrastructure_dev_2
 		}
 		
-		x = 54
-		y = 4
+		x = 56
+		y = 5
 		completion_reward = {
 		random_owned_state = { 
 		 add_building_construction = {
@@ -1010,7 +1010,7 @@ focus_tree = {
 			focus = infrastructure_dev_2
 		}
 		
-		x = 52
+		x = 54
 		y = 4
 		completion_reward = {
 		 add_tech_bonus = {
@@ -1039,7 +1039,7 @@ focus_tree = {
 		}
 		
 		x = 58
-		y = 5
+		y = 4
 		completion_reward = {
 		    add_stability = 0.10
 			MONTHLY_POPULATION = -0.05
@@ -1059,7 +1059,7 @@ focus_tree = {
 		}
 		
 		x = 62
-		y = 5
+		y = 4
 		completion_reward = {
 		add_stability = -0.15
 	    consumer_goods_factor = 0.05
@@ -1079,7 +1079,7 @@ focus_tree = {
 	
 		}
 		
-		x = 65
+		x = 64
 		y = 2
 		completion_reward = {
 		    add_stability = 0.05
@@ -1097,7 +1097,7 @@ focus_tree = {
 	
 		}
 		
-		x = 65
+		x = 64
 		y = 3
 		completion_reward = {
 		    add_ideas = expand_universities
@@ -1115,7 +1115,7 @@ focus_tree = {
 	
 		}
 		
-		x = 65
+		x = 64
 		y = 4
 		completion_reward = {
 		   add_research_slot = 1
@@ -1133,7 +1133,7 @@ focus_tree = {
 	
 		}
 		
-		x = 68
+		x = 66
 		y = 3
 		completion_reward = {
 		add_ideas = great_minds
@@ -1151,7 +1151,7 @@ focus_tree = {
 	
 		}
 		
-		x = 68
+		x = 66
 		y = 4
 		completion_reward = {
 		 add_tech_bonus = {
@@ -1174,7 +1174,7 @@ focus_tree = {
 	
 		}
 		
-		x = 68
+		x = 66
 		y = 5
 		completion_reward = {
 		    add_tech_bonus = {
