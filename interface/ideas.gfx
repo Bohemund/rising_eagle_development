@@ -104,16 +104,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
 	}	
 	
-	
-	
 	spriteType = {
 		name = "GFX_idea_idea_CHI_legacy_of_Maoism"
 		texturefile = "gfx/interface/ideas/CHI_legacy_of_mao.dds"
 	}	
 	
+		spriteType = {
+		name = "GFX_idea_idea_milanese_recession"
+		texturefile = "gfx/interface/ideas/ITA_milanese_recession.tga"
+	}
 	
-	
-	
+		spriteType = {
+		name = "GFX_idea_idea_drift_towards_radicalism"
+		texturefile = "gfx/interface/ideas/ITA_drift_towards_radicalism.tga"
+	}
 	
 	
 	

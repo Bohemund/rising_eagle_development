@@ -75,3 +75,103 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Vladimir Voronin"
+	desc = ""
+	picture = "Portrait_MOL_Vladimir_Voronin.tga"
+	expire = "2050.1.1"
+	ideology = communalist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Igor Dodon"
+	desc = ""
+	picture = "Portrait_MOL_Igor_Dodon.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Marian Lupu"
+	desc = ""
+	picture = "Portrait_MOL_Marian_Lupu.tga"
+	expire = "2050.1.1"
+	ideology = moldovan_liberal_socialism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Igor Grosu"
+	desc = ""
+	picture = "Portrait_MOL_Igor_Grosu.tga"
+	expire = "2050.1.1"
+	ideology = national_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mihai Ghimpu"
+	desc = ""
+	picture = "Portrait_MOL_Mihai_Ghimpu.tga"
+	expire = "2050.1.1"
+	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Iurie Leancă"
+	desc = ""
+	picture = "Portrait_MOL_Iurie_Leancă.tga"
+	expire = "2050.1.1"
+	ideology = european_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mircea Druc"
+	desc = ""
+	picture = "Portrait_MOL_Mircea_Druc.tga"
+	expire = "2050.1.1"
+	ideology = authoritarian_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Daniel R. Ghica"
+	desc = ""
+	picture = "Portrait_MOL_Daniel_Ghica.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tudor Ionescu"
+	desc = ""
+	picture = "Portrait_MOL_Tudor_Ionescu.tga"
+	expire = "2050.1.1"
+	ideology = legionarist
+	traits = {
+		#
+	}
+}
+

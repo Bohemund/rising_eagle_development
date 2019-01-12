@@ -154,7 +154,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Bernie_Sanders.tga"
 	expire = "2050.1.1"
-	ideology = moderate_socialist
+	ideology = sanders_laborism
 	traits = {
 		#
 	}
