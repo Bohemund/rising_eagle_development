@@ -2,7 +2,7 @@
 state={
 	id=918
 	name="STATE_918"
-	manpower = 2794880
+	manpower = 647554
 	
 	state_category = state_level_5
 	
@@ -13,11 +13,10 @@ state={
 			industrial_complex = 2
 			air_base = 2
 		}
-		add_core_of = SPR
 		add_core_of = BSQ
 	}
 
 	provinces={
-		3737 6756 3933 3931 9857 932
+		3737 3933 3931 9857 932
 	}
 }

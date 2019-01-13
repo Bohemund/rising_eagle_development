@@ -13,7 +13,7 @@ state={
 	history={
 		owner = YAK
 		victory_points = {
-			10641 1
+			10641 5
 		}
 		buildings = {
 			infrastructure = 2

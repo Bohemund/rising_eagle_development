@@ -12,7 +12,6 @@ state={
 		}
 		add_core_of = KYR
 		victory_points = { 7706 3 }
-		victory_points = { 1591 1 }
 	}
 
 	provinces={

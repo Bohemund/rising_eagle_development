@@ -7,11 +7,11 @@ state={
 	state_category = state_level_1
 
 	history={
-		owner = ALT
+		owner = RUS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = ALT
+		add_core_of = RUS
 	}
 
 	provinces={

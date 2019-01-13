@@ -88,9 +88,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Tony Blair"
+	name = "Hilary Benn"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Tony_Blair.tga"
+	picture = "Portrait_ENG_Hilary_Benn.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

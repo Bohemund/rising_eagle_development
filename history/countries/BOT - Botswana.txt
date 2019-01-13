@@ -48,13 +48,13 @@ set_politics = {
 			popularity = 4
 		}
 		conservative = {
-			popularity = 31
+			popularity = 33
 		}
 		centrist = {
 			popularity = 7
 		}
 		liberal = {
-			popularity = 33
+			popularity = 31
 		}
 		social_democrat = {
 			popularity = 0
@@ -70,10 +70,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = conservative
 	last_election = "2009.10.16"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Slumber Tsogwane"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_BOT_Slumber_Tsogwane.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

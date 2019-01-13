@@ -7,9 +7,9 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = SOV
-		add_core_of = SOV
-		add_claim_by = JAP
+		owner = JAP
+		add_core_of = JAP
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 			1399 = {

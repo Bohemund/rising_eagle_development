@@ -30,6 +30,11 @@ set_technology = {
 	interwar_antitank = 1
 }
 
+create_faction = axis
+add_to_faction = PER
+add_to_faction = AZR
+add_to_faction = TRM
+
 set_politics = {
 
 	parties = {

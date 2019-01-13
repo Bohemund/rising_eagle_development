@@ -3,7 +3,7 @@ state={
 	name="STATE_832"
 
 	history={
-		owner = AZR
+		owner = NGK
 		add_core_of = AZR
 		add_core_of = NGK
 		buildings = {

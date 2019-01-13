@@ -1,16 +1,16 @@
 ﻿l_english:
  
  #PARTIES
- SOU_ultranationalist_party:0 "ARENA"
+ SOU_ultranationalist_party:0 "National Renewal"
  SOU_ultranationalist_party_long:0 "National Renewal Alliance"
- SOU_monarchist_party:0 "House of Orléans-Braganza"
+ SOU_monarchist_party:0 "Orléans-Braganza"
  SOU_monarchist_party_long:0 "House of Orléans-Braganza"
- SOU_nationalist_party:0 "Labour Renewal"
- SOU_nationalist_party_long:0 "Labour Renewal Party"
- SOU_conservative_party:0 "Republican Party"
- SOU_conservative_party_long:0 "Republican Party"
- SOU_centrist_party:0 "Social Democracy"
- SOU_centrist_party_long:0 "Social Democracy Party"
+ SOU_nationalist_party:0 "National Renewal"
+ SOU_nationalist_party_long:0 "National Renewal Alliance"
+ SOU_conservative_party:0 "National Renewal"
+ SOU_conservative_party_long:0 "National Renewal Alliance"
+ SOU_centrist_party:0 "National Renewal"
+ SOU_centrist_party_long:0 "National Renewal Alliance"
  SOU_liberal_party:0 "National Liberals"
  SOU_liberal_party_long:0 "National Liberal Party"
  SOU_social_democrat_party:0 "Democratic Movement"
@@ -21,3 +21,17 @@
  SOU_libertarian_socialist_party_long:0 "Patriotic Alliance"
  SOU_communist_party:0 "Communist Party"
  SOU_communist_party_long:0 "United South American Communist Party"
+
+
+ #IDEAS
+ SOU_military_power:0 "Military Power"
+ SOU_military_power_desc:0 "The South American Union is ruled by the military, more specifically the Brazilian military. Though the army is officially multilingual and open to all ethnicities the Brazilian officers still hold nearly all power in the army and exert enormous influence over the government. The president follows only their whims, the commands of other cliques and that of dark money. The military is the only thing that keeps the unstable union together and thus they have made investment in the arms industry one of the highest priorities for the government."
+
+ SOU_emerging_industry:0 "Emerging Industry"
+ SOU_emerging_industry_desc:0 "After the economic troubles of the early 80’s many European and American companies decided to seek new areas to expand to. With the service sector slowly outpacing the industrial sector in the western world the industry started moving south. The Union was the perfect place for this because of the lack of workers’ rights and opportunities for unionizing. Today the country is the second largest economy in the western hemisphere, after the United States, but the lack of a social safety net and protection for workers’ means most of the population is still poor."
+
+ SOU_corrupt_society:0 "Corrupt Society"
+ SOU_corrupt_society_desc:0 "Ever since the inception of our union in 1991 our society has been infested with corruption. From the highest officials to the lowest bureaucrats and business owners buying favor and influence is common. There have been a number of scandals over the years and many suspect even the president is involved in highly illegal activities. This problem is exacerbated by the lack of civil rights and civilian oversight in the government. If our union is to stay united this issue will have to be solved, either quietly or by force."
+
+ SOU_linguistic_divide:0 "Linguistic Divide"
+ SOU_linguistic_divide_desc:0 "Our country, though united in faith and destiny is divided among linguistic and ethnic lines. Almost three fourths of the union speak Portuguese, which has become the standard language for most official occasions. The remaining sixty million citizens speak Spanish, which greatly varies from north to south. Though internal boundaries within the Union were abolished in 1994 they still remain in practice, with local officials using the language most common in their area. While this has kept a lid on large separatist movements it has also furthered the divide between the government and the regions of Colombia, Paraguay and Uruguay. Integrating Spanish speakers into the military has been particularly troublesome."

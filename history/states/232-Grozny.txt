@@ -10,6 +10,7 @@ state={
 
 	history={
 		owner = DAG
+		victory_points = { 3668 5 }
 		buildings = {
 			infrastructure = 4
 

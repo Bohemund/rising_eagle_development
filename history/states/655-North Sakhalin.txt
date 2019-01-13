@@ -11,7 +11,8 @@ state={
 	}
 	
 	history={
-		owner = RUS
+		owner = JAP
+		add_core_of = JAP
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3

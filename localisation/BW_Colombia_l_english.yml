@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ COL_ultranationalist_party:0 "National Latin Movement"
+ COL_ultranationalist_party_long:0 "National Latin Movement"
+ COL_monarchist_party:0 "Royalists"
+ COL_monarchist_party_long:0 "Royalists"
+ COL_nationalist_party:0 "Democratic Center"
+ COL_nationalist_party_long:0 "Democratic Center"
+ COL_conservative_party:0 "Conservative Party"
+ COL_conservative_party_long:0 "Conservative Party"
+ COL_centrist_party:0 "Party of National Unity"
+ COL_centrist_party_long:0 "Party of National Unity"
+ COL_liberal_party:0 "Liberal Party"
+ COL_liberal_party_long:0 "Liberal Party"
+ COL_social_democrat_party:0 "Social Progressives"
+ COL_social_democrat_party_long:0 "Social Progressive Alliance"
+ COL_democratic_socialist_party:0 "Patriotic Union"
+ COL_democratic_socialist_party_long:0 "Patriotic Union"
+ COL_libertarian_socialist_party:0 "Communist Party"
+ COL_libertarian_socialist_party_long:0 "Colombian Communist Party"
+ COL_communist_party:0 "FARC-EP"
+ COL_communist_party_long:0 "Revolutionary Armed Forces of Colombia—People's Army"
