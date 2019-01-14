@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ GUI_ultranationalist_party:0 "National Council"
+ GUI_ultranationalist_party_long:0 "National Council for Democracy and Development"
+ GUI_monarchist_party:0 "Wassoulou Dynasty"
+ GUI_monarchist_party_long:0 "Wassoulou Dynasty"
+ GUI_nationalist_party:0 "Unity and Progress"
+ GUI_nationalist_party_long:0 "Unity and Progress Party"
+ GUI_conservative_party:0 "National Party"
+ GUI_conservative_party_long:0 "National Party for Hope and Development of Guinea"
+ GUI_centrist_party:0 "Republican Forces"
+ GUI_centrist_party_long:0 "Union of Republican Forces"
+ GUI_liberal_party:0 "Democratic Forces"
+ GUI_liberal_party_long:0 "Union of Democratic Forces of Guinea"
+ GUI_social_democrat_party:0 "Rally of the People"
+ GUI_social_democrat_party_long:0 "Rally of the Guinean People"
+ GUI_democratic_socialist_party:0 "Socialist Democracy"
+ GUI_democratic_socialist_party_long:0 "Socialist Democracy of Guinea"
+ GUI_libertarian_socialist_party:0 "Democratic Party"
+ GUI_libertarian_socialist_party_long:0 "Democratic Party of Guinea"
+ GUI_communist_party:0 "Revolutionary Party"
+ GUI_communist_party_long:0 "Revolutionary Party of Guinea"
