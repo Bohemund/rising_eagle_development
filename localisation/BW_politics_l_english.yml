@@ -3,7 +3,7 @@
  POLITICS_SUBGOAL:0 "Objective #$NUMBER$"
  DRIFT_DIM_RETURN:0 "Party Inertia: §R-$VAL$\n"
  POL_DAILY_CHANGE:0 "Daily Change: $VAL$"
- POLITICS_NOELECTIONS:0 ""
+ POLITICS_NOELECTIONS:0 "Any elections by event."
  POLITICS_NEXTELECTION:0 "Next Election"
  POLITICS_ELECTION_FREQUENCY:0 "Elections every $MONTHS|H$ years."
  POLITICS_HOLD_ELECTION:0 "Hold Election in $COUNTRY$"

@@ -24,7 +24,7 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-create_faction = NATO
+create_faction = nato
 add_to_faction = USA
 add_to_faction = CAN
 add_to_faction = ENG
@@ -166,6 +166,17 @@ create_country_leader = {
 	picture = "Portrait_USA_Noam_Chomsky.tga"
 	expire = "2050.1.1"
 	ideology = anarcho_syndicalist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kamala Harris"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_USA_Kamala_Harris.tga"
+	expire = "2050.1.1"
+	ideology = leninist
 	traits = {
 		#
 	}

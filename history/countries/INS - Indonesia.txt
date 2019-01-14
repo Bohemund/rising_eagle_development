@@ -2,10 +2,10 @@
 
 oob = "INS_2010"
 
-set_research_slots = 3
+set_research_slots = 4
 set_convoys = 150
-set_stability = 0.4
-set_war_support = 0.3
+set_stability = 0.5
+set_war_support = 0.4
 
 set_technology = {
 	support_weapons = 1
@@ -30,37 +30,35 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 25
-
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 39
+			popularity = 38
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 1
+			popularity = 4
 		}
 		conservative = {
-			popularity = 26
+			popularity = 16
 		}
 		centrist = {
-			popularity = 0
+			popularity = 3
 		}
 		liberal = {
-			popularity = 3
-		}
-		social_democrat = {
-			popularity = 28
-		}
-		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		social_democrat = {
+			popularity = 36
+		}
+		democratic_socialist = {
 			popularity = 3
+		}
+		libertarian_socialist = {
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
@@ -74,9 +72,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Wiranto"
+	name = "Prabowo Subianto"
 	desc = ""
-	picture = "Portrait_INS_Wiranto.tga"
+	picture = "Portrait_INS_Prabowo Subianto.tga"
 	expire = "2050.1.1"
 	ideology = military_statist
 	traits = {

@@ -2,12 +2,12 @@
 state={
 	id=172
 	name="STATE_172"
-	manpower = 2794880
+	manpower = 2189534
 	
-	state_category = state_level_5
+	state_category = state_level_7
 	
 	history={
-		owner = SPR
+		owner = BSQ
 		victory_points = {
 			740 3 
 		}
@@ -19,10 +19,10 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = SPR
+		add_core_of = BSQ
 	}
 
 	provinces={
-		738 740 3735 9703 11688 
+		740 3735 6756
 	}
 }

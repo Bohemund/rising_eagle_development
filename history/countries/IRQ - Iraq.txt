@@ -2,6 +2,11 @@
 
 oob = "IRQ_2010"
 
+set_research_slots = 4
+set_convoys = 60
+set_stability = 0.6
+set_war_support = 0.5
+
 set_technology = {
 	support_weapons = 1
 	infantry_weapons = 1
@@ -26,7 +31,9 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 5
+create_faction = arab
+add_to_faction = IRQ
+add_to_faction = KUW
 
 set_politics = {
 

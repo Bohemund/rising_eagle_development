@@ -8,5 +8,7 @@
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
  
  #FACTIONS
- NATO:0 "North Atlantic Treaty Organization"
- Union:0 "Union of Sovereign States"
+ nato:0 "North Atlantic Treaty Organization"
+ shield:0 "Peninsula Shield"
+ axis:0 "Islamic Axis"
+ arab:0 "Arab Renaissance Front"

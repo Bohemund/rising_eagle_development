@@ -30,7 +30,12 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
+add_ideas = {
+    SOU_linguistic_divide
+    SOU_military_power
+    SOU_emerging_industry
+    SOU_corrupt_society
+}
 
 set_politics = {
 
@@ -54,10 +59,10 @@ set_politics = {
 			popularity = 5
 		}
 		social_democrat = {
-			popularity = 32
+			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 12
+			popularity = 10
 		}
 		libertarian_socialist = {
 			popularity = 3
@@ -85,7 +90,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Luiz de Orléans-Bragança"
+	name = "Luiz I"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_SOU_Luiz_of_Orleans_Braganza.tga"
 	expire = "2050.1.1"
@@ -96,7 +101,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Antônio Hamilton Mourão"
+	name = "Hamilton Mourão"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
 	expire = "2050.1.1"

@@ -39,31 +39,31 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 15
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 2
+			popularity = 12
 		}
 		conservative = {
-			popularity = 29
+			popularity = 34
 		}
 		centrist = {
-			popularity = 7
+			popularity = 4
 		}
 		liberal = {
-			popularity = 5
+			popularity = 8
 		}
 		social_democrat = {
 			popularity = 27
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 9
 		}
 		libertarian_socialist = {
-			popularity = 11
+			popularity = 6
 		}
 		communist = {
 			popularity = 0
@@ -77,11 +77,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Janez Janša"
+	name = "Ljudmila Novak"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_SLV_Janez_Jansa.tga"
+	picture = "Portrait_SLV_Ljudmila_Novak.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = christian_democrat
 	traits = {
 		#
 	}

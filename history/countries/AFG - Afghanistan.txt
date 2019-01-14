@@ -4,7 +4,7 @@ oob = "AFG_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.6
+set_stability = 0.7
 set_war_support = 0.3
 
 set_technology = {
@@ -28,49 +28,49 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
-		}
-		conservative = {
 			popularity = 12
 		}
+		conservative = {
+			popularity = 23
+		}
 		centrist = {
-			popularity = 15
+			popularity = 31
 		}
 		liberal = {
-			popularity = 17
+			popularity = 4
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 15
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 10
+			popularity = 4
 		}
 		communist = {
-			popularity = 3
+			popularity = 8
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Abdullah Abdullah"
+	name = "Hamid Karzai"
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
-	picture = "Portrait_AFG_Abdullah_Abdullah.tga"
+	picture = "Portrait_AFG_Hamid_Karzai.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
+	ideology = centrist_populist
 	traits = {
 		#
 	}

@@ -5,7 +5,9 @@ state={
 
 	history={
 		owner = KAR
+		add_core_of = KAR
 		add_core_of = UZB
+		victory_points = { 12324 5 }
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -15,7 +17,7 @@ state={
 	}
 
 	provinces={
-		7541 7641 10395 10435 12233 12383 12454 12474 
+		7541 7641 10395 10435 12233 12383 12454 12474 1614 1479 12324 1576 4618 4488 13242 10348
 	}
 	manpower=2230300
 	buildings_max_level_factor=1.000

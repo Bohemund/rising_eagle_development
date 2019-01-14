@@ -1,0 +1,65 @@
+ideas = {
+
+    country = {
+	    
+		SOU_linguistic_divide = {
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.10
+				war_support_factor = -0.05
+				mobilization_speed = -0.1
+				planning_speed = -0.10
+				training_time_army_factor = 0.2
+			}
+		}
+
+		SOU_military_power = {
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				conscription = 0.010
+				stability_factor = 0.10
+				production_speed_arms_factory_factor = 0.2
+			}
+		}
+
+		SOU_emerging_industry = {
+			
+			allowed = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.05
+				production_factory_efficiency_gain_factor = 0.10
+				production_speed_industrial_complex_factor = 0.2
+			}
+		}
+
+		SOU_corrupt_society = {
+			
+			allowed = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.10
+				political_power_gain = -0.5
+				stability_factor = -0.20
+			}
+		}
+	}
+}

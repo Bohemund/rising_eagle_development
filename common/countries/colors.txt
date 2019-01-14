@@ -865,11 +865,6 @@ CAT = {
 	color_ui = rgb { 115 115 115 }
 }
 
-ALT = {
-	color = rgb { 206 89 22 }
-	color_ui = rgb { 115 115 115 }
-}
-
 TAN = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
@@ -892,11 +887,6 @@ COS = {
 
 HON = {
 	color = rgb { 106 51 161 }
-	color_ui = rgb { 115 115 115 }
-}
-
-SUR = {
-	color = rgb { 47 183 38 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -962,5 +952,10 @@ CHE = {
 
 BRY = {
 	color = rgb { 40 40 120 }
+	color_ui = rgb { 115 115 115 }
+}
+
+NGK = {
+	color = rgb { 242 169 0 }
 	color_ui = rgb { 115 115 115 }
 }
