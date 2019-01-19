@@ -1,0 +1,1075 @@
+focus_tree = {
+	id = CHI 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CHI 
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 10 y = 3000 }
+	
+	
+	focus = {
+		id = CHI_crisis_in_coalition
+		icon = 
+		cost = 2
+		x = 62
+		y = 1
+		completion_reward = {
+		    add_political_power = -100
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_coalition_falls
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_crisis_in_coalition
+		}
+		x = 60
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_call_new_election
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_coalition_falls
+		}
+		x = 60
+		y = 3
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_conservs_elected 
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_call_new_election
+		}
+		x = 50
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+		focus = {
+		id = CHI_right_wing_cabinet
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 54
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_the_dialect_issue
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 54
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_conservative_education
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_the_dialect_issue
+		}
+		x = 54
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_cultural_promotion
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 56
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_modernise_culture
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_cultural_promotion
+		}
+		x = 56
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_traditional_designs
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_modernise_culture
+		}
+		x = 56
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_promote_traditionalism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_traditional_designs
+		}
+		x = 56
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_elder_china
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_promote_traditionalism
+		}
+		x = 56
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_national_unity
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 58
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_new_consistution
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 58
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_first_republic_ideas
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 58
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_centralised_power
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 58
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_legacy_of_kmt
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_right_wing_cabinet
+		}
+		x = 58
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_government_strength
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 46
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_economic_council
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 46
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_coporate_seats
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 46
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_semi_planned_economy
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 46
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_new_tax_plan
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 46
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_military_expansion
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_modern_equipment
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_blueprints
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_industry_expansion
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_nationalist_army
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_advanced_officers
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_conservs_elected
+		}
+		x = 44
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	focus = {
+		id = CHI_liberals_elected 
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_call_new_election
+		}
+		x = 30
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_social_liberal
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 29
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_political_tolerance
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 29
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	focus = {
+		id = CHI_expanded_liberties
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 31
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_progressives
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 31
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_break_tradition
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 26
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_full_lgbt_rights
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 26
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_lower_taxation
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 26
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_lesser_welfare
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 26
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_pirating_laws
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 26
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+		id = CHI_free_market
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 34
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_privtisation
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 34
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_industry_concern
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 37
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_china_oppor
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 37
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_company_contracts
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 34
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_construction
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 34
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_coporate_influences_politics
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 34
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_liberal_china
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_liberals_elected
+		}
+		x = 30
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_socialists_elected 
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_call_new_election
+		}
+		x = 12
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_social_democracy
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_sanminzuyi
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_democracy
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_autonomus_provinces
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_bill_of_rights
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_direct_democracy
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_end_authoritarianism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_socialists_elected
+		}
+		x = 13
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+		id = CHI_socialism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 11
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_expand_social_services
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 6
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_healthcare_system
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 6
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+
+   focus = {
+		id = CHI_education_reform
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 6
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+
+     focus = {
+		id = CHI_infrastructure_projects
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 6
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+
+    focus = {
+		id = CHI_five_areas_of_progress
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 6
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+
+
+	
+	focus = {
+		id = CHI_nationalism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 20
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_five_races
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 20
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_end_separatism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 20
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_soft_nationalism
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 22
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_all_for_the_nation
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 22
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_chinese_identity
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_sanminzuyi
+		}
+		x = 20
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+		id = CHI_coalition_survives
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_crisis_in_coalition
+		}
+		x = 
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

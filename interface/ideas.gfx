@@ -3647,4 +3647,33 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/SOU_linguistic_divide.dds"
 	}
 	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_coalition_system"
+		texturefile = "gfx/interface/ideas/Grand_coalition_idea.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_broken"
+		texturefile = "gfx/interface/ideas/newchina_flag.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_legacy_of_Maoism"
+		texturefile = "gfx/interface/ideas/CHI_legacy_of_mao.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_growing_economy"
+		texturefile = "gfx/interface/ideas/five_areas_of_progress.dds"
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
