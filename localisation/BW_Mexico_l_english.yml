@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #PARTIES
- MEX_ultranationalist_party:0 "Synarchist Union"
+ MEX_ultranationalist_party:0 "National Synarchists"
  MEX_ultranationalist_party_long:0 "National Synarchist Union"
- MEX_monarchist_party:0 "House of Iturbide"
+ MEX_monarchist_party:0 "Iturbide"
  MEX_monarchist_party_long:0 "House of Iturbide"
  MEX_nationalist_party:0 "Nationalist Front"
  MEX_nationalist_party_long:0 "Nationalist Front of Mexico"
@@ -17,10 +17,7 @@
  MEX_social_democrat_party_long:0 "Party of the Democratic Revolution"
  MEX_democratic_socialist_party:0 "National Regeneration"
  MEX_democratic_socialist_party_long:0 "National Regeneration Movement"
- MEX_libertarian_socialist_party:0 "Zapatista Army of National Liberation"
+ MEX_libertarian_socialist_party:0 "Zapatistas"
  MEX_libertarian_socialist_party_long:0 "Zapatista Army of National Liberation"
- MEX_communist_party:0 "Party of Mexican Communists"
- MEX_libertarian_socialist_party:0 "Workers' Revolutionary Party"
- MEX_libertarian_socialist_party_long:0 "Workers' Revolutionary Party"
  MEX_communist_party:0 "Mexican Communists"
  MEX_communist_party_long:0 "Party of Mexican Communists"

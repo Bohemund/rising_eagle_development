@@ -19,9 +19,6 @@ ideologies = {
 			national_bolshevik = {				
 			} 
 
-			national_syndicalist = {	
-			}
-
 			eurasianist = {	
 			}
 
@@ -38,6 +35,9 @@ ideologies = {
 			}
 
 			imperial_japan = {	
+			}
+
+			mexican_synarchist = {	
 			}
 
 		}
@@ -74,6 +74,9 @@ ideologies = {
 		
 		types = {
 		
+			monarchist_ideology = {
+			}
+
 			absolute_monarchist = {
 			}
 
@@ -175,10 +178,10 @@ ideologies = {
 		
 		types = {
 		
-			american_republican = {
+			conservative_ideology = {
 			}
-			
-			european_conservative = {
+
+			american_republican = {
 			}
 			
 			agrarian_conservative = {
@@ -229,11 +232,14 @@ ideologies = {
 	centrist = {
 		
 		types = {
+
+			centrist_ideology = {
+			}
 		
 			libertarian = {
 			}
-			
-			centrist_ideology = {
+
+			national_liberal = {
 			}
 			
 			centrist_populist = {
@@ -243,6 +249,9 @@ ideologies = {
 			}
 
 			agrarian_populist = {
+			}
+
+			liberal_conservative = {
 			}
 			
 		}
@@ -278,11 +287,11 @@ ideologies = {
 	liberal = {
 		
 		types = {
+
+			liberal_ideology = {
+			}
 		
 			social_liberal = {
-			}
-
-			national_liberal = {
 			}
 			
 			radical = {
@@ -328,11 +337,14 @@ ideologies = {
 
 			social_democrat_ideology ={
 			}
-			
-			american_socialist = {
-			}
 
 			progressive = {
+			}
+
+			pancasila = {
+			}
+
+			kemalist = {
 			}
 
 		}
@@ -415,10 +427,10 @@ ideologies = {
 		
 		types = {
 		
-			luxemburgist = {
+			libertarian_socialist_ideology = {
 			}
 
-			libertarian_socialist_ideology = {
+			luxemburgist = {
 			}
 			
 			syndicalist = {
@@ -437,7 +449,13 @@ ideologies = {
 			}
 
 			democratic_confederalist = {
-			}	
+			}
+
+			neozapatist = {
+			}
+
+			bolivarianist = {
+			}
 			
 		}
 		
@@ -472,6 +490,9 @@ ideologies = {
 	communist = {
 		
 		types = {
+
+			communist_ideology = {
+			}
 		
 			marxist = {
 			}
@@ -480,6 +501,9 @@ ideologies = {
 			}
 			
 			stalinist = {
+			}
+
+			trotskyist = {
 			}
 			
 			maoist = {

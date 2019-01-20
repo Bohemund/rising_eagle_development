@@ -959,3 +959,8 @@ NGK = {
 	color = rgb { 242 169 0 }
 	color_ui = rgb { 115 115 115 }
 }
+
+KOM = {
+	color = rgb { 242 169 0 }
+	color_ui = rgb { 115 115 115 }
+}

@@ -71,9 +71,7 @@ bookmarks = {
 			history = JAP_RISING_EAGLE_DESC
 			ideology = ultranationalist
 			ideas={
-				JAP_stuck_coalition
-				JAP_Second_Day_of_the_Rising_Sun
-				JAP_Anti_American_Policy
+				
 			}	
 			focuses = {
 				

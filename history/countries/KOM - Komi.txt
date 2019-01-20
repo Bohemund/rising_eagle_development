@@ -1,0 +1,77 @@
+﻿capital = 397
+
+oob = "KOMI_2010"
+
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.4
+set_war_support = 0.1
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		ultranationalist = {
+			popularity = 3
+		}
+		monarchist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 26
+		}
+		conservative = {
+			popularity = 52
+		}
+		centrist = {
+			popularity = 12
+		}
+		liberal = {
+			popularity = 0
+		}
+		social_democrat = {
+			popularity = 7
+		}
+		democratic_socialist = {
+			popularity = 0
+		}
+		libertarian_socialist = {
+			popularity = 0
+		}
+		communist = {
+			popularity = 0
+		}
+	}
+	
+	ruling_party = conservative
+	last_election = "2007.4.20"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Vyacheslav Gayzer"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_KOM_Vyacheslav_Gayzer.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
+	traits = {
+		
+	}
+}

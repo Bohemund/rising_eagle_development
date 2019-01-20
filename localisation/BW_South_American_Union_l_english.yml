@@ -19,9 +19,11 @@
  SOU_democratic_socialist_party_long:0 "Workers' Party"
  SOU_libertarian_socialist_party:0 "Patriotic Alliance"
  SOU_libertarian_socialist_party_long:0 "Patriotic Alliance"
- SOU_communist_party:0 "Communist Party"
- SOU_communist_party_long:0 "United South American Communist Party"
+ SOU_communist_party:0 "Socialist Party"
+ SOU_communist_party_long:0 "Unified Workers’ Socialist Party"
 
+ #LEADERS
+ POLITICS_PAULO_MALUF_DESC:0 "Paulo Salim Maluf was born in São Paulo, the son of Lebanese immigrants. His family was by no means poor, they were friends and associates of President Artur da Costa e Silva. It was through this friendship that Maluf managed to be appointed as mayor of his hometown. He became known for his authoritarian governance and his fondness of large-scale infrastructure projects that his administration could not afford. With his built-up influence he managed to be appointed Governor of São Paulo. He tried to use his position as governor as a springboard for a presidential run, donating ambulances to impoverished communities and hosting influential politicians free of charge. After being elected as a federal deputy he tried to win the nomination for ARENA in the ‘85 election but he was snubbed by the civilian caucus for his immoderate and arrogant reputation and José Sarney was chosen instead. Maluf did not stop, however. He ran for mayor once more and secured his election that same year, building up a political legacy which came to be termed “malufismo” by journalists. After the creation of the South American Parliament he ran as the candidate for Southeast Brazil was elected as a deputy. In 2002 he defeated Senator José Agripino Maia for the ARENA nomination, eventually winning the election handily against Romero Jucá. Having achieved his desired post he worked even harder to keep it, gathering allies in the military, spending generously in the public sector and as described by foreign press “turning raw force into mob rule”. Despite being reelected in 2006 he faces a long list of issues including the unstable economy, continued hostility from the United States and the inability of both the opposition and some members of ARENA to cooperate with the President."
 
  #IDEAS
  SOU_military_power:0 "Military Power"

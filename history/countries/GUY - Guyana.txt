@@ -52,14 +52,14 @@ set_politics = {
 			popularity = 3
 		}
 		libertarian_socialist = {
-			popularity = 38
+			popularity = 32
 		}
 		communist = {
-			popularity = 32
+			popularity = 38
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = communist
 	last_election = "2006.8.28"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,7 +70,18 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GUY_David_Granger.tga"
 	expire = "2050.1.1"
-	ideology = communalist
+	ideology = libertarian_socialist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bharrat Jagdeo"
+	desc = ""
+	picture = "Portrait_GUY_Bharrat_Jagdeo.tga"
+	expire = "2050.1.1"
+	ideology = marxist
 	traits = {
 		#
 	}

@@ -15,22 +15,9 @@
  JAP_liberal_party_long:0 "Constitutional Democratic Party"
  JAP_social_democrat_party:0 "Social Democrats"
  JAP_social_democrat_party_long:0 "Social Democratic Party"
- JAP_democratic_socialist_party:0 "Japanese Communist Party"
- JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
- JAP_libertarian_socialist_party:0 "Japanese Communist Party"
- JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
- JAP_communist_party:0 "Japanese Communist Party"
- JAP_communist_party_long:0 "Japanese Communist Party - Radical Faction"
- 
- #Ideas 
-
- JAP_stuck_coalition:0 "Coalition deadlock"
- JAP_stuck_coalition_desc:0 "Disagreements between the various factions of the ruling parties have paralysed the governing coalition and, as a result, Japanese politics."
- JAP_Second_Day_of_the_Rising_Sun:0 "Second Day of the Rising Sun"
- JAP_Second_Day_of_the_Rising_Sun_desc:0 "The Sun shall rise again! We shall fulfill our destiny as the Masters of Asia!"
- JAP_Anti_American_Policy:0 "Anti-American Policy"
- JAP_Anti_American_Policy_desc:0 "The American Westerners have been meddling in Asian affairs for far too long. We will protect Asia from their imperialist influence!"
- JAP_Emperor_Akihito:0 "Emperor Akihito"
- JAP_Emperor_Akihito_desc:0 "While barely holding any power in politics, Emperor Akihito is a very popular figurehead nonetheless, as his ancestors before him were."
- 
- 
+ JAP_democratic_socialist_party:0 "Green Wind"
+ JAP_democratic_socialist_party_long:0 "Green Wind"
+ JAP_libertarian_socialist_party:0 "New Socialist Party"
+ JAP_libertarian_socialist_party_long:0 "New Socialist Party"
+ JAP_communist_party:0 "Communist Party"
+ JAP_communist_party_long:0 "Japanese Communist Party"

@@ -3,9 +3,9 @@
 oob = "SOU_2010"
 
 set_research_slots = 4
-set_convoys = 500
+set_convoys = 150
 set_stability = 0.6
-set_war_support = 0.1
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -80,7 +80,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Paulo Maluf"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	desc = "POLITICS_PAULO_MALUF_DESC"
 	picture = "Portrait_SOU_Paulo_Maluf.tga"
 	expire = "2050.1.1"
 	ideology = military_statist
@@ -178,11 +178,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Edmilson Costa"
+	name = "Clara Ant"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SOU_Edmilson_Costa.tga"
+	picture = "Portrait_SOU_Clara_Ant.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = trotskyist
 	traits = {
 		#
 	}
