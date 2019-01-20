@@ -3622,6 +3622,8 @@ spriteTypes = {
 		name = "GFX_idea_man_militarism"
 		texturefile = "gfx/interface/ideas/idea_man_militarism.dds"
 	}
+
+	### Blue World icons ###
 	spriteType = {
 		name = "GFX_idea_ROM_gheorghe_gheorghiu_dej"
 		texturefile = "gfx/interface/ideas/idea_generic_communist_europe.dds"
