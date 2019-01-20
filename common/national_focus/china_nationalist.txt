@@ -1055,13 +1055,172 @@ focus_tree = {
 		prerequisite = {
 			focus = CHI_crisis_in_coalition
 		}
-		x = 
+		x = 64
 		y = 2
 		completion_reward = {
 		    
 		}
 
 	}
+	
+	focus = {
+		id = CHI_leadership_question
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_coalition_survives
+		}
+		x = 64
+		y = 3
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_xu_remains
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_leadership_question
+		}
+		x = 67
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_xu_resigns
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_leadership_question
+		}
+		x = 90
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_vp_elected
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_leadership_question
+		}
+		x = 80
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_vp_iron_will
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_vp_elected
+		}
+		x = 80
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_government_reform
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_vp_elected
+		}
+		x = 83
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_anti_corrupt_lawa
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_vp_elected
+		}
+		x = 83
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	focus = {
+		id = CHI_centralise_government
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_vp_elected
+		}
+		x = 85
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = CHI_tech_dev
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_vp_elected
+		}
+		x = 80
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = CHI_cyberpunk_designs
+		icon = 
+		cost = 2
+		prerequisite = {
+			focus = CHI_tech_dev
+		}
+		x = 80
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
 	
 	
 	
