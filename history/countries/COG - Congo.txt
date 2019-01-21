@@ -1,9 +1,9 @@
 ﻿capital = 759
 
-oob = "AAA_2010"
+oob = "COG_2010"
 
 set_research_slots = 3
-set_convoys = 0
+set_convoys = 30
 set_stability = 0.6
 set_war_support = 0.3
 
@@ -28,39 +28,61 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 6
 		}
 		conservative = {
-			popularity = 12
+			popularity = 0
 		}
 		centrist = {
-			popularity = 15
+			popularity = 0
 		}
 		liberal = {
-			popularity = 17
+			popularity = 16
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 18
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 10
+			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 57
 		}
 	}
 	
-	ruling_party = conservative
-	last_election = "2009.8.20"
+	ruling_party = communist
+	last_election = "2009.7.12"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Frédéric Bintsamou"
+	desc = ""
+	picture = "Portrait_COG_Frederic_Bintsamou.tga"
+	expire = "2050.1.1"
+	ideology = clerical_fascist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Denis Sassou Nguesso"
+	desc = ""
+	picture = "Portrait_COG_Denis_Sassou_Nguesso.tga"
+	expire = "2050.1.1"
+	ideology = leninist
+	traits = {
+		#
+	}
 }

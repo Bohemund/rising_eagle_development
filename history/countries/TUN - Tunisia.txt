@@ -39,13 +39,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 3
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 25
+			popularity = 39
 		}
 		conservative = {
 			popularity = 6
@@ -63,17 +63,27 @@ set_politics = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 39
+			popularity = 21
 		}
 		communist = {
-			popularity = 23
+			popularity = 25
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = nationalist
 	last_election = "2009.7.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Hédi Baccouche"
+	picture = "Portrait_TUN_Hedi_Baccouche.tga"
+	expire = "2050.1.1"
+	ideology = authoritarian_democrat
+	traits = {
+		
+	}
 }
 
 create_country_leader = {

@@ -45,10 +45,10 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 16
+			popularity = 27
 		}
 		conservative = {
-			popularity = 27
+			popularity = 17
 		}
 		centrist = {
 			popularity = 0
@@ -66,7 +66,7 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 13
+			popularity = 12
 		}
 	}
 	
@@ -77,9 +77,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Abdul Majeed al-Zindani"
+	name = "Abdul-Malik Badreddin al-Houthi"
 	desc = "POLITICS_IMAM_YAHYA_DESC"
-	picture = "Portrait_YEM_Abdul_Majeed_al_Zindani.tga"
+	picture = "Portrait_YEM_Abdul_Malik.tga"
 	expire = "2050.1.1"
 	ideology = islamic_democrat
 	traits = {

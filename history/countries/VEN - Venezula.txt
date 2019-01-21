@@ -4,8 +4,8 @@ oob = "VEN_2010"
 
 set_research_slots = 4
 set_convoys = 90
-set_stability = 0.4
-set_war_support = 0.3
+set_stability = 0.6
+set_war_support = 0.4
 
 set_technology = {
 	support_weapons = 1
@@ -34,10 +34,10 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 17
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 33
+			popularity = 24
 		}
 		monarchist = {
 			popularity = 0
@@ -46,10 +46,10 @@ set_politics = {
 			popularity = 7
 		}
 		centrist = {
-			popularity = 9
+			popularity = 16
 		}
 		liberal = {
-			popularity = 4
+			popularity = 14
 		}
 		social_democrat = {
 			popularity = 0
@@ -58,14 +58,14 @@ set_politics = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 24
+			popularity = 33
 		}
 		communist = {
 			popularity = 6
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = libertarian_socialist
 	last_election = "2000.7.30"
 	election_frequency = 48
 	elections_allowed = no
@@ -77,6 +77,17 @@ create_country_leader = {
 	picture = "Portrait_VEN_Pedro_Carmona.tga"
 	expire = "2050.1.1"
 	ideology = authoritarian_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hugo Chávez"
+	desc = "POLITICS_ELEAZAR_LOPEZ_CONTRERAS_DESC"
+	picture = "Portrait_VEN_Hugo_Chavez.tga"
+	expire = "2050.1.1"
+	ideology = bolivarianist
 	traits = {
 		#
 	}

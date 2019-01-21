@@ -28,25 +28,25 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 8
 		}
 		monarchist = {
-			popularity = 2
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 29
+			popularity = 12
 		}
 		conservative = {
-			popularity = 8
+			popularity = 33
 		}
 		centrist = {
 			popularity = 6
 		}
 		liberal = {
-			popularity = 14
+			popularity = 16
 		}
 		social_democrat = {
-			popularity = 37
+			popularity = 25
 		}
 		democratic_socialist = {
 			popularity = 0
@@ -55,14 +55,25 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 4
+			popularity = 0
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = conservative
 	last_election = "2006.4.23"
 	election_frequency = 48
 	elections_allowed = n0
+}
+
+create_country_leader = {
+	name = "Zsolt Semjén"
+	desc = "POLITICS_MATYAS_RAKOSKI_DESC"
+	picture = "Portrait_HUN_Zsolt_Semjen.tga"
+	expire = "2050.1.1"
+	ideology = christian_democrat
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
