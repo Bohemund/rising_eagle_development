@@ -45,38 +45,60 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		conservative = {
-			popularity = 15
+			popularity = 19
 		}
 		centrist = {
-			popularity = 24
+			popularity = 27
 		}
 		liberal = {
 			popularity = 7
 		}
 		social_democrat = {
-			popularity = 28
+			popularity = 23
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 2
+			popularity = 3
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 #LEADERS
+
+create_country_leader = {
+	name = "Carlos María Abascal Carranza"
+	desc = ""
+	picture = "Portrait_MEX_Carlos_Maria_Abascal_Carranza.tga"
+	expire = "2050.1.1"
+	ideology = mexican_synarchist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Roberto Madrazo"
+	desc = ""
+	picture = "Portrait_MEX_Roberto_Madrazo.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		
+	}
+}
 
 create_country_leader = {
 	name = "Jesus Ortega"

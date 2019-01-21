@@ -15,12 +15,10 @@
  JAP_liberal_party_long:0 "Constitutional Democratic Party"
  JAP_social_democrat_party:0 "Social Democrats"
  JAP_social_democrat_party_long:0 "Social Democratic Party"
- JAP_democratic_socialist_party:0 "Japanese Communist Party"
- JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
- JAP_libertarian_socialist_party:0 "Japanese Communist Party"
- JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
- JAP_communist_party:0 "Japanese Communist Party"
- JAP_communist_party_long:0 "Japanese Communist Party - Radical Faction"
- 
- 
- 
+ JAP_democratic_socialist_party:0 "Green Wind"
+ JAP_democratic_socialist_party_long:0 "Green Wind"
+ JAP_libertarian_socialist_party:0 "New Socialist Party"
+ JAP_libertarian_socialist_party_long:0 "New Socialist Party"
+ JAP_communist_party:0 "Communist Party"
+ JAP_communist_party_long:0 "Japanese Communist Party"
+>>>>>>> 58bc1560442708c4634660a8846d21ed4d268c7f

@@ -43,7 +43,7 @@ set_politics = {
 			popularity = 9
 		}
 		conservative = {
-			popularity = 35 
+			popularity = 29
 		}
 		centrist = {
 			popularity = 10
@@ -52,7 +52,7 @@ set_politics = {
 			popularity = 4
 		}
 		social_democrat = {
-			popularity = 29
+			popularity = 35
 		}
 		democratic_socialist = {
 			popularity = 11
@@ -65,7 +65,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = social_democrat
 	last_election = "2009.9.27"
 	election_frequency = 48
 	elections_allowed = no
@@ -78,6 +78,16 @@ create_country_leader = {
 	picture = "Portrait_GER_Lothar_de_Maizierel.tga"
 	expire = "2050.1.1"
 	ideology = christian_democrat
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Oskar Lafontaine"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Oskar_Lafontaine.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
 	traits = {
 	}
 }

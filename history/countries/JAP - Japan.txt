@@ -92,3 +92,119 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+
+create_country_leader = {
+	name = "Kazuo Shii"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Kazuoshii.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology 
+	traits = {
+	}
+}
+
+
+      
+
+create_country_leader = {
+	name = "Tetsuzo Fuwa"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Tetzo_fuwa.tga"
+	expire = "2050.1.1"
+	ideology = libertarian_socialist_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Toshio Tamogami"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Toshio_Tamogami.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology 
+	traits = {
+	}
+}
+
+
+
+
+create_country_leader = {
+	name = "Aso Taro"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Taro_Aso.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative 
+	traits = {
+	}
+}
+
+
+create_country_leader = {
+	name = "Fusako Shigenobu"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_JRA_founder.tga"
+	expire = "2050.1.1"
+	ideology = marxist
+	traits = {
+	}
+}
+
+
+
+create_country_leader = {
+	name = "Yukio Edano"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Yuki_Edano.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal 
+	traits = {
+	}
+}
+
+
+
+create_country_leader = {
+	name = "Katsuya Okada"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_katsuya_okada.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology 
+	traits = {
+	}
+}
+
+
+
+
+create_country_leader = {
+	name = "Tadatomo Yoshida"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Tadatomo_Yoshida.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology 
+	traits = {
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

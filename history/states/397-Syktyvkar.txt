@@ -6,12 +6,12 @@ state={
 	state_category = state_level_2
 
 	history={
-		owner = RUS
+		owner = KOM
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SUS
+		add_core_of = KOM
 	}
 
 	provinces={

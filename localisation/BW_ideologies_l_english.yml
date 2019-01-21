@@ -46,6 +46,8 @@
  rexist_desc:0 "Rexism calls for the moral renewal of society through dominance of the Catholic church, by forming a corporatist society and abolishing liberal democracy. It rejects liberalism which it deems decadent and is strongly opposed to both Marxism and capitalism, instead striving for a corporatist economic model, idealsing rural life and traditional family values."
  baathist:0 "Ba'athism"
  baathist_desc:0 "Ba'athism is an Arab nationalist ideology that promotes the development and creation of a unified Arab state through the leadership of a vanguard party presiding over a progressive revolutionary government. Ba'athism supports socialist economics to a varying degree and supports public ownership over the heights of the economy."
+ mexican_synarchist:0 "Mexican Synarchism"
+ mexican_synarchist_desc:0 "Mexican Synarchism is a political movement of the Catholic extreme right, in ways similar to Clerical Fascism and Falangism. The ideology developed in opposition to the secular policies following the Mexican Revolution and the Cristero War. It has seen a revival following the end of the Cold War and the continued dominance of the Institutional Revolutionary Party."
 
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"
@@ -74,6 +76,8 @@
  libertarian_desc:0 "Libertarianism refers to libertarian beliefs that advocate negative rights, natural law and a radical reversal of the modern welfare state."
  centrist_populist:0 "Centrist Populism"
  centrist_populist_desc:0 "Centrist populism is a political doctrine that proposes that the common people are exploited by an elite, and which seeks to resolve this. Its goal is uniting the uncorrupt little man against the dominant elites."
+ liberal_conservative:0 "Liberal Conservatism"
+ liberal_conservative_desc:0 "Liberal conservatism is a political ideology combining conservative policies with liberal stances, especially on economic, social and ethical issues. Liberal conservatism incorporates the classical liberal view of minimal government intervention in the economy, according to which individuals should be free to participate in the market and generate wealth without government interference. However, individuals cannot be thoroughly depended on to act responsibly in other spheres of life, therefore liberal conservatives believe that a strong state is necessary to ensure law and order and social institutions are needed to nurture a sense of duty and responsibility to the nation."
 
  #LIBERALISM
  social_liberal:0 "Social Liberalism"
@@ -88,6 +92,10 @@
  social_democrat_ideology_desc:0 "Social Democracy is an ideology that supports economic and social interventions to promote social justice within the framework of a liberal democratic polity and capitalist economy."
  progressive:0 "Progressivism"
  progressive_desc:0 "Progressivism is a philosophy based on the idea of progress, which asserts that advancements in science, technology, economic development and social organisation are vital to the human condition."
+ pancasila:0 "Pancasila"
+ pancasila_desc:0 "Pancasila is the official, foundational philosophical theory of the Indonesian state. It is vaguely related to socialism, nationalism and is exclusively Indonesian in nature. The philosophy is composed of five principles and contends that they are inseparable and interrelated: Monotheism, a just and civilized humanity, a unified Indonesia, Democracy and Social Justice."
+ kemalist:0 "kemalism"
+ kemalist_desc:0 "Kemalism is the founding ideology of the Republic of Turkey. Based on the thoughts of Mustafa Kemal Atatürk who implemented sweeping political, social, cultural and religious reforms in order to modernize and westernize Turkey. It advocates democracy, laicism, support for sciences and education and the total political independence of Turkey."
 
  #DEMOCRATIC SOCIALISM
  democratic_socialist:0 "Democratic Socialism"
@@ -98,6 +106,12 @@
  #LIBERTARIAN SOCIALISM
  syndicalist:0 "Syndicalism"
  syndicalist_desc:0 "Syndicalists advocate for multiple cooperative productive units composed of specialists and representatives of workers in each field to negotiate and manage the economy. Labour unions are the potential means of both overcoming economic aristocracy and running society in the interest of informed and skilled majorities, through union democracy."
+ neozapatist:0 "Neozapatism"
+ neozapatist_desc:0 "Neozapatism is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
+ christian_socialist:0 "Christian Socialism"
+ christian_socialist_desc:0 "Christian socialism is a form of religious socialism, which followers believe to be based on the teachings of Jesus of Nazareth. Many Christian socialists believe capitalism to be idolatrous and rooted in greed, which is considered a mortal sin. Christian socialists identify the cause of inequality to be the greed that they associate with capitalism."
+ bolivarianist:0 "Bolivarianism"
+ bolivarianist_desc:0 "Bolivarianism is an ideology that mixes pan-American, socialist and national-patriotic ideals fixed against injustices of imperialism, inequality and corruption named after Simón Bolívar, who led the struggle for independence throughout much of South America. It is a left-wing political ideology that combines elements of socialism, populism, patriotism and Caribbean and Latin American integration."
 
  #COMMUNISM
  marxist:0 "Marxism"
@@ -106,6 +120,8 @@
  leninist_desc:0 "Leninism is the political theory for the organisation of a revolutionary vanguard party and the achievement of a dictatorship of the proletariat, as a political prelude to the establishment of socialism."
  stalinist:0 "Stalinism"
  stalinist_desc:0 "Stalinism is a general policy including state terror, rapid industrialisation, socialism in one country, a centralised state, collectivisation of agriculture and a cult of personality."
+ trotskyist:0 "Trotskyism"
+ trotskyist_desc:0 "Trotskyism is the theory of Marxism as advocated by Leon Trotsky. He supported founding a vanguard party of the proletariat, proletarian internationalism and a dictatorship of the proletariat based on working class self-emancipation and mass democracy. Trotskyists are critical of Stalinism as they oppose Joseph Stalin's theory of socialism in one country in favor of Trotsky's theory of permanent revolution."
  maoist:0 "Maoism"
  maoist_desc:0 "Maoism claims that peasants should be the essential revolutionary class, because, contrary to their industrial working comrades, they were more suited to establishing a successful revolution and socialist society."
  titoism:0 "Titoism"
@@ -134,8 +150,6 @@
  luxemburgism_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
  anarcho_syndicalism:0 "Anarcho-Syndicalism"
  anarcho_syndicalism_desc:0 "Anarcho-Syndicalism's basic principles are solidarity, direct action and direct democracy or workers' self-management. Reflecting the anarchist philosophy from which it draws its primary inspiration, anarcho-syndicalism is centred around the idea that power corrupts and that any hierarchy which cannot be ethically justified must either be dismantled or replaced by decentralised egalitarian control."
- neozapatismo:0 "Neozapatismo"
- neozapatismo_desc:0 "Neozapatismo is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
  buddhist_socialism:0 "Buddhist Socialism"
  buddhist_socialism_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
  islamic_socialism:0 "Islamic Socialism"

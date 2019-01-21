@@ -1,0 +1,19 @@
+focus_tree = {
+	id = FocusTree_0
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = KOR
+		}
+	}
+	default = no
+	focus = {
+		id = KOR_intro
+		icon = GFX_goal_anti_comintern_pact
+		cost = 0.00
+		x = 6
+		y = 1
+
+	}
+}
