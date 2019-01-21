@@ -11,13 +11,29 @@
  TUR_conservative_party_long:0 "Felicity Party"
  TUR_centrist_party:0 "Motherland Party"
  TUR_centrist_party_long:0 "Motherland Party"
- TUR_liberal_party:0 "Republican People's Party"
+ TUR_liberal_party:0 "People's Party"
  TUR_liberal_party_long:0 "Republican People's Party"
  TUR_social_democrat_party:0 "Democratic Left"
  TUR_social_democrat_party_long:0 "Democratic Left Party"
- TUR_democratic_socialist_party:0 "People's Democratic Congress"
+ TUR_democratic_socialist_party:0 "Democratic Congress"
  TUR_democratic_socialist_party_long:0 "People's Democratic Congress"
  TUR_libertarian_socialist_party:0 "Freedom and Solidarity"
  TUR_libertarian_socialist_party_long:0 "Freedom and Solidarity"
  TUR_communist_party:0 "Communist Party"
  TUR_communist_party_long:0 "Turkish Communist Party"
+
+ #LEADER DESCRIPTIONS
+ POLITICS_MESUT_YILMAZ_DESC:0 "Mesut Yılmaz’s meteoric rise to power when he was elected to represent the Black Sea province of Rize in the parliament and serving in Özal’s cabinet. He became the Minister for Information, then Minister of Culture and Tourism and Minister of Foreign Affairs. Upon Özal’s election to the presidency in 1989, Yılmaz became the leader of an intra-party opposition to the new Prime Minister, Yıldırım Akbulut. In the summer of 1991 he managed to discharge Yıldırım Akbulut. Because ANAP had the majority in the parliament, he subsequently became Prime Minister of Turkey. Yılmaz also made the Motherland Party more business-friendly and Europe-oriented, causing the more conservative, religious wing to switch to the Welfare Party of Necmettin Erbakan. By far his biggest success was his government negotiating Turkey into the European Commission in 2001, this major success gave him an incredible advantage in the polls but it still couldn’t overshadow the broken economy and ANAP fell to second place behind the DYP led by Tansu Çiller which formed a coalition with the Welfare Party and after 4 years out of power ANAP won 1st place again in 2007 and negotiated a coalition with DYP and the Young Party, now once again Mesut Yılmaz is the most powerful man in Turkey."
+
+ #IDEAS
+ TUR_unstable_coalition:0 "Unstable Coalition"
+ TUR_unstable_coalition_desc:0 "The ANAP-DYP-GP coalition has been ruling the country since the last general election, but the coalition is uneasy. Tensions between party lines have led the coalition to near collapse but with compromise and negatition the party leaders have managed to keep the coalition afloat, nevertheless this doesn‘t mean that major disagreements and conflict don’t exist within the coalition if radical action is not taken quick enough the coalition will surely collapse. "
+
+ TUR_unpredictable_economy:0 "Unpredictable Economy"
+ TUR_unpredictable_economy_desc:0 "The chaos in the political sphere has negatively affected our fiscal sphere. The Turkish economy is continuously collapsing and getting back up in little time. This has resulted in an economic bubble which will lead to inflation, unemployment and austerity if it pops. It has also led to countless protests, demonstrations, strikes and strengthening of unions, if nothing is done to fix the economy the country’s economical sector will collapse."
+
+ TUR_interventionist_military:0 "Interventionist Military"
+ TUR_interventionist_military_desc:0 "The Turkish military believes they are the protector of Kemalist principles and the nation's economic and political stability. This is why they believe it’s their duty to intervene and save their homeland from threats from both inside and outside. This situation has caused a lot of unpredictability in the political and fiscal spheres because no one know what move they will do next. This distrust between the military and the politicians may lead to conflict in the near future."
+
+ TUR_patriotic_society:0 "Patriotic Society"
+ TUR_patriotic_society_desc:0 "Even though the country has been divided politically, the nation is still united under the Turkish flag. The patriotic people of Turkey dont tend to pay attention if the government’s in chaos and danger but if there’s a threat to the state, the backbone of Turkish society, people rally around the country's best interests. "
