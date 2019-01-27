@@ -1,0 +1,17 @@
+﻿add_namespace = japanlore
+
+
+  country_event = { 
+  id = japanlore.1
+  title = japanlore.1.t
+  desc = japanlore.1.d
+  picture = GFX_American_scandal_1988
+  
+  
+  option = { 
+    name = japanlore.1.a 
+  }
+  
+  
+  
+ }

@@ -1,0 +1,682 @@
+focus_tree = {
+	id = JAP 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = JAP
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 10 y = 3000 }
+	
+	
+	focus = {
+		id = JAP_conference_meeting
+		icon = 
+		cost = 2
+		x = 62
+		y = 1
+		completion_reward = {
+		    add_political_power = 50
+		}
+
+	}
+	
+	focus = {
+		id = JAP_electoral_campagin
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_conference_meeting }
+		x = 62
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_silent_sabotage
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_electoral_campagin }
+		x = 62
+		y = 3
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_election_2010
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_silent_sabotage }
+		x = 62
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_conference_majority
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_election_2010 }
+		x = 25
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	focus = {
+		id = JAP_party_strength
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_conference_majority }
+		x = 23
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_new_cabinet
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_conference_majority }
+		x = 27
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_begin_reforms
+		icon = 
+		cost = 2
+			prerequisite = { focus = JAP_new_cabinet }
+			prerequisite = { focus = JAP_party_strength }
+		x = 25
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_military_support
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_begin_reforms }
+		x = 25
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_loyal_generals
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_military_support }
+		x = 25
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_naval_forces 
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_loyal_generals }
+		x = 23
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_air_forces 
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_naval_forces }
+		x = 23
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_aircraft_designs
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_air_forces }
+		x = 23
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_naval_capability
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_naval_forces }
+		x = 21
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_naval_doctrine
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_naval_forces }
+		x = 21
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_air_doctrine
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_new_aircraft_designs }
+		x = 23
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_military_cult
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_loyal_generals }
+		x = 27
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_samurais
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_military_cult }
+		x = 27
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_body_strength
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_samurais }
+		x = 27
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_tech_advantage
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_military_cult }
+		mutually_exclusive = { focus = JAP_body_strength }
+		x = 29
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_increase_military_funding
+		icon = 
+		cost = 2
+		prerequisite = {
+		focus = JAP_tech_advantage
+		focus = JAP_body_strength
+		}
+		x = 29
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_hire_militas
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_increase_military_funding }
+		x = 29
+		y = 14
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_economic_concerns
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_begin_reforms }
+		x = 23
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_japanese_militarism
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_hire_militas }
+		prerequisite = { focus = JAP_air_doctrine } 
+		prerequisite = { focus = JAP_naval_doctrine }
+		
+		x = 25
+		y = 15
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_public_support
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_begin_reforms }
+		x = 27
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_revive_nationalism
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_public_support }
+		x = 27
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_social_reforms
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_revive_nationalism }
+		x = 35
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_cut_welfare
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_social_reforms }
+		x = 33
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_high_taxes
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_social_reforms }
+		x = 33
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_secret_funds
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_high_taxes }
+		x = 33
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_new_curriculum
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_social_reforms }
+		x = 35
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_student_army
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_new_curriculum }
+		x = 35
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_student_culture
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_student_army }
+		x = 35
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_low_worker_piroity
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_social_reforms }
+		x = 37
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_work_work_work
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_low_worker_piroity }
+		x = 37
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_safe_work_steady_work
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_work_work_work }
+		x = 37
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_economic_concerns
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_begin_reforms }
+		x = 23
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_economic_plans
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_economic_concerns }
+		x = 23
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	focus = {
+		id = JAP_coporate_meeting
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_economic_plans }
+		x = 10
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_new_zaibatzu_plan
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_coporate_meeting }
+		x = 10
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_economic_plans
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_coporate_meeting }
+		x = 15
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_tighten_economy
+		icon = 
+		cost = 2
+		prerequisite = { focus = JAP_new_zaibatzu_plan }
+		prerequisite = { focus = JAP_new_economic_plans }
+		x = 7
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_megacorp_bias
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_tighten_economy }
+		x = 10
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_befriend_elite_families
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_megacorp_bias }
+		x = 12
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_blind_eye
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_befriend_elite_families }
+		x = 12
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	focus = {
+		id = JAP_secret_council
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_megacorp_bias }
+		x = 8
+		y = 12
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_industrial_development
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_secret_council }
+		x = 8
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_economic_dominance
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_industrial_development }
+		x = 8
+		y = 13
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

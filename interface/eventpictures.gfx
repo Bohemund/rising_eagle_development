@@ -1,0 +1,14 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_American_scandal_1988"
+		texturefile = "gfx/event_pictures/1988_scandal_japan.dds"
+	}
+	
+	
+	
+	
+}
+	
+	
+	

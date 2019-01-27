@@ -91,3 +91,15 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+
+
+create_country_leader = {
+	name = "Udo Voigt"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Udo_Voigt.tga"
+	expire = "2050.1.1"
+	ideology = national_socialist
+	traits = {
+	}
+}

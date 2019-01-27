@@ -108,3 +108,95 @@ create_country_leader = {
 		
 	}
 }
+
+
+create_country_leader = {
+	name = "Udayanraje Bhosale"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Monarchist.tga"
+	expire = "2050.1.1"
+	ideology = monarchist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Deve Gowda"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Monarchist.tga"
+	expire = "2050.1.1"
+	ideology = libertarian
+	traits = {
+		
+	}
+}
+
+
+
+create_country_leader = {
+	name = "Mayawati Da"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Mayawati_Da.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		
+	}
+}
+
+
+
+create_country_leader = {
+	name = "Amar Singh"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_demsocguy.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Arvind Kejriwa"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Arvind_Kejriwa.tga"
+	expire = "2050.1.1"
+	ideology = communalist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = " Pinarayi Vijayan"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Pinarayi_Vijayan.tga"
+	expire = "2050.1.1"
+	ideology = marxist
+	traits = {
+		
+	}
+}
+
+ 
+
+create_country_leader = {
+	name = "Bal Thackeray"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Bal_Thackeray.tga"
+	expire = "2050.1.1"
+	ideology = fascist
+	traits = {
+		
+	}
+}
+
+
+
+
+
+
+
+
