@@ -1,0 +1,93 @@
+spriteTypes = {
+<<<<<<< HEAD
+
+	spriteType = {
+		name = "GFX_sou_maluf_military"
+		texturefile = "gfx/event_pictures/report_event/sou_maluf_military.dds"
+	}
+
+	spriteType = {
+		name = "1952_us_election"
+		texturefile = "gfx/event_pictures/report_event/1952_us_election.dds"
+	}
+
+	spriteType = {
+		name = "surrender_at_hyesan"
+		texturefile = "gfx/event_pictures/report_event/surrender_at_hyesan.dds"
+	}
+
+	spriteType = {
+		name = "operation_ajax"
+		texturefile = "gfx/event_pictures/report_event/operation_ajax.dds"
+	}
+
+	spriteType = {
+		name = "1954_guatemala_coup"
+		texturefile = "gfx/event_pictures/report_event/1954_guatemala_coup.dds"
+	}
+
+	spriteType = {
+		name = "1956_us_election"
+		texturefile = "gfx/event_pictures/report_event/1956_us_election.dds"
+	}
+
+	spriteType = {
+		name = "civil_rights_movement"
+		texturefile = "gfx/event_pictures/report_event/civil_rights_movement.dds"
+	}
+
+	spriteType = {
+		name = "1960_us_election"
+		texturefile = "gfx/event_pictures/report_event/1960_us_election.dds"
+	}
+
+	spriteType = {
+		name = "cuban_missile_crisis"
+		texturefile = "gfx/event_pictures/report_event/cuban_missile_crisis.dds"
+	}
+
+	spriteType = {
+		name = "suez_crisis"
+		texturefile = "gfx/event_pictures/report_event/suez_crisis.dds"
+	}
+
+	spriteType = {
+		name = "gulf_of_tonkin"
+		texturefile = "gfx/event_pictures/report_event/gulf_of_tonkin.dds"
+	}
+
+	spriteType = {
+		name = "1964_us_election"
+		texturefile = "gfx/event_pictures/report_event/1964_us_election.dds"
+	}
+
+	spriteType = {
+		name = "new_frontier"
+		texturefile = "gfx/event_pictures/report_event/new_frontier.dds"
+	}
+
+	spriteType = {
+		name = "vietnam_war"
+		texturefile = "gfx/event_pictures/report_event/vietnam_war.dds"
+	}
+
+	spriteType = {
+		name = "1968_us_election"
+		texturefile = "gfx/event_pictures/report_event/1968_us_election.dds"
+	}
+}
+=======
+	
+	spriteType = {
+		name = "GFX_American_scandal_1988"
+		texturefile = "gfx/event_pictures/1988_scandal_japan.dds"
+	}
+	
+	
+	
+	
+}
+	
+	
+	
+>>>>>>> d985942d9bad5e04977563ddbedf489c39139e33

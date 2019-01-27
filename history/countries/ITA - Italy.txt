@@ -30,6 +30,11 @@ set_technology = {
 	interwar_antitank = 1
 }
 
+add_ideas = {
+	idea_milanese_recession
+	idea_drift_towards_radicalism
+}
+
 set_politics = {
 
 	parties = {

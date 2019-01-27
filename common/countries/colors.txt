@@ -685,11 +685,6 @@ TUR = {
 	color_ui = rgb { 115 115 115 }
 }
 
-TUV = {
-	color = rgb { 181 220 225 }
-	color_ui = rgb { 115 115 115 }
-}
-
 URG = {
 	color = rgb { 0 230 255 }
 	color_ui = rgb { 115 115 115 }
@@ -961,6 +956,11 @@ NGK = {
 }
 
 KOM = {
-	color = rgb { 242 169 0 }
+	color = rgb { 0 54 167 }
+	color_ui = rgb { 115 115 115 }
+}
+
+UDM = {
+	color = rgb { 222 29 9 }
 	color_ui = rgb { 115 115 115 }
 }

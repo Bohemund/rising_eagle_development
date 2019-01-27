@@ -34,25 +34,25 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 3
 		}
 		conservative = {
 			popularity = 17
 		}
 		centrist = {
-			popularity = 62
+			popularity = 25
 		}
 		liberal = {
-			popularity = 4
+			popularity = 14
 		}
 		social_democrat = {
 			popularity = 16
 		}
 		democratic_socialist = {
-			popularity = 2
+			popularity = 20
 		}
 		libertarian_socialist = {
-			popularity = 0
+			popularity = 5
 		}
 		communist = {
 			popularity = 0
@@ -65,10 +65,21 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = { 
+idea_CHI_coalition_system
+idea_CHI_legacy_of_Maoism
+idea_CHI_broken
+idea_CHI_growing_economy
+
+
+
+}
+
 create_country_leader = {
 	name = "Xu Wenli"
 	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
 	picture = "Portrait_CHI_Xu_Wenli.tga"
+	desc = "POLITICS_XU_WENLI_DESC"
 	expire = "2050.1.1"
 	ideology = market_liberal
 	traits = {

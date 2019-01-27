@@ -1,0 +1,197 @@
+﻿add_namespace = decision_event
+
+#1952 Presidential election
+country_event = {
+	id = decision_event.1
+	title = decision_event.1.t
+	desc = decision_event.1.d
+	picture = 1952_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.1.o1
+	}
+}
+
+#Surrender at Hyesan
+country_event = {
+	id = decision_event.2
+	title = decision_event.2.t
+	desc = decision_event.2.d
+	picture = surrender_at_hyesan
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.2.o1
+	}
+}
+
+#Operation Ajax
+country_event = {
+	id = decision_event.3
+	title = decision_event.3.t
+	desc = decision_event.3.d
+	picture = operation_ajax
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.3.o1
+	}
+}
+
+#1954 Guatemalan Coup D'etat
+country_event = {
+	id = decision_event.4
+	title = decision_event.4.t
+	desc = decision_event.4.d
+	picture = 1954_guatemala_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.4.o1
+	}
+}
+
+#Suez Crisis
+country_event = {
+	id = decision_event.9
+	title = decision_event.9.t
+	desc = decision_event.9.d
+	picture = suez_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.9.o1
+	}
+}
+
+#1956 Presidential Election
+country_event = {
+	id = decision_event.5
+	title = decision_event.5.t
+	desc = decision_event.5.d
+	picture = 1956_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.5.o1
+	}
+}
+
+#Civil Rights Movement
+country_event = {
+	id = decision_event.6
+	title = decision_event.6.t
+	desc = decision_event.6.d
+	picture = civil_rights_movement
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.6.o1
+	}
+}
+
+#1960 Presidential Election
+country_event = {
+	id = decision_event.7
+	title = decision_event.7.t
+	desc = decision_event.7.d
+	picture = 1960_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.7.o1
+	}
+}
+
+#Cuban Missile Crisis
+country_event = {
+	id = decision_event.8
+	title = decision_event.8.t
+	desc = decision_event.8.d
+	picture = cuban_missile_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.8.o1
+	}
+}
+
+#Gulf of Tonkin Incident
+country_event = {
+	id = decision_event.10
+	title = decision_event.10.t
+	desc = decision_event.10.d
+	picture = gulf_of_tonkin
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.10.o1
+	}
+}
+
+#1964 Presidential Election
+country_event = {
+	id = decision_event.11
+	title = decision_event.11.t
+	desc = decision_event.11.d
+	picture = 1964_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.11.o1
+	}
+}
+
+#New Frontier
+country_event = {
+	id = decision_event.12
+	title = decision_event.12.t
+	desc = decision_event.12.d
+	picture = new_frontier
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.12.o1
+	}
+}
+
+#Vietnam War
+country_event = {
+	id = decision_event.13
+	title = decision_event.13.t
+	desc = decision_event.13.d
+	picture = vietnam_war
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.13.o1
+	}
+}
+
+#1968 Presidential Election
+country_event = {
+	id = decision_event.14
+	title = decision_event.14.t
+	desc = decision_event.14.d
+	picture = 1968_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.14.o1
+	}
+}
