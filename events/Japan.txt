@@ -1,0 +1,17 @@
+﻿add_namespace = japan
+
+
+  country_event = { 
+  id = japan.1
+  title = japan.1.t
+  desc = japan.1.d
+  picture = GFX_American_scandal_1988
+  
+  
+  option = { 
+    name = japan.1.a 
+  }
+  
+  
+  
+ }

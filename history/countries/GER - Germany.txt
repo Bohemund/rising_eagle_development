@@ -103,3 +103,95 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+create_country_leader = {
+	name = "Wolfgang Rauls"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Wolfgang_Rauls.tga"
+	expire = "2050.1.1"
+	ideology = authoritarian_democrat
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Georg Friedrich"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Kaiser.tga"
+	expire = "2050.1.1"
+	ideology = privy_council
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Lothar de Maizière"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Lothar_Maizière.tga"
+	expire = "2050.1.1"
+	ideology = conservative
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wolfgang Gerhardt"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Wolfgang_Gerhardt.tga"
+	expire = "2050.1.1"
+	ideology = libertarian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Rainer Ortleb"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Rainer_Ortleb.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Lothar Bisky"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Herbert_Mies.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sahra Wagenknecht"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_commiemilf.tga"
+	expire = "2050.1.1"
+	ideology = marxist
+	traits = {
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -81,3 +81,115 @@ create_country_leader = {
 		#
 	}
 }
+
+
+create_country_leader = {
+	name = "Park Geun-hye"
+	desc = ""
+	picture = "Portrait_KOR_Park_Cheung_hye.tga"
+	expire = "1965.1.1"
+	ideology = military_statist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Han Min-Goo"
+	desc = ""
+	picture = "Portrait_KOR_Han_Min_goo.tga"
+	expire = "1965.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Yi Won"
+	desc = ""
+	picture = "POR_KOR-Yi.tga"
+	expire = "1965.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Yoo Seung-Min"
+	desc = ""
+	picture = "Portrait_KOR_yoo_seung_min.tga"
+	expire = "1965.1.1"
+	ideology = national_liberal
+	traits = {
+		#
+	}
+}
+
+
+create_country_leader = {
+	name = "Moon Jae-Inn"
+	desc = ""
+	picture = "Portrait_KOR_Moon.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ahn Cheol-soo"
+	desc = ""
+	picture = "Portrait_KOR_Cheol.tga"
+	expire = "1965.1.1"
+	ideology = progressive
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Sim Sang-jung"
+	desc = ""
+	picture = "Potrrait_KOR_demsoc.tga"
+	expire = "1965.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Lee Jung-hee"
+	desc = ""
+	picture = "Portrait_KOR_libsoc.tga"
+	expire = "1965.1.1"
+	ideology = democratic_confederalist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Pak Pong-ju"
+	desc = ""
+	picture = "Portrait_KOR_commie.tga"
+	expire = "1965.1.1"
+	ideology = marxist
+	traits = {
+		#
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
