@@ -710,6 +710,11 @@ VEN = {
 	color_ui = rgb { 115 115 115 }
 }
 
+BLT = {
+	color = rgb { 39 44 107 }
+	color_ui = rgb { 39 44 107 }
+}
+
 VIN = {
 	color = rgb { 255 189 16 }
 	color_ui = rgb { 115 115 115 }
@@ -963,4 +968,14 @@ KOM = {
 UDM = {
 	color = rgb { 222 29 9 }
 	color_ui = rgb { 115 115 115 }
+}
+
+CHU = {
+	color = rgb { 255 224 0 }
+	color_ui = rgb { 255 224 0 }
+}
+
+MAR = {
+	color = rgb { 170 29 9 }
+	color_ui = rgb { 170 29 9 }
 }

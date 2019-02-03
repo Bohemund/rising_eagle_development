@@ -195,3 +195,157 @@ country_event = {
 		name = decision_event.14.o1
 	}
 }
+
+#1964 Brazilian Coup D'état
+country_event = {
+	id = decision_event.15
+	title = decision_event.15.t
+	desc = decision_event.15.d
+	picture = brazilian_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.15.o1
+	}
+}
+
+#New Order
+country_event = {
+	id = decision_event.16
+	title = decision_event.16.t
+	desc = decision_event.16.d
+	picture = new_order
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.16.o1
+	}
+}
+
+#Assassination of Robert Kennedy
+country_event = {
+	id = decision_event.17
+	title = decision_event.17.t
+	desc = decision_event.17.d
+	picture = robert_kennedy
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.17.o1
+	}
+}
+
+#1972 Election
+country_event = {
+	id = decision_event.18
+	title = decision_event.18.t
+	desc = decision_event.18.d
+	picture = 1972_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.18.o1
+	}
+}
+
+#American Scandal
+country_event = {
+	id = decision_event.19
+	title = decision_event.19.t
+	desc = decision_event.19.d
+	picture = JAP_1988_scandal
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.19.o1
+	}
+}
+
+#Alliance for Progress
+country_event = {
+	id = decision_event.20
+	title = decision_event.20.t
+	desc = decision_event.20.d
+	picture = USA_alliance_for_progress
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.20.o1
+	}
+}
+
+#1960 Turkish Coup D'état
+country_event = {
+	id = decision_event.21
+	title = decision_event.21.t
+	desc = decision_event.21.d
+	picture = TUR_1960_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.21.o1
+	}
+}
+
+#Ho Chi Minh Campaign
+country_event = {
+	id = decision_event.22
+	title = decision_event.22.t
+	desc = decision_event.22.d
+	picture = VIN_ho_chi_minh_campaign
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.22.o1
+	}
+}
+
+#2000 Mexican General Election
+country_event = {
+	id = decision_event.23
+	title = decision_event.23.t
+	desc = decision_event.23.d
+	picture = MEX_2000_general_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.23.o1
+	}
+}
+
+#Chile 1973 Coup
+country_event = {
+	id = decision_event.24
+	title = decision_event.24.t
+	desc = decision_event.24.d
+	picture = CHL_1973_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.24.o1
+	}
+}
+
+#1976 US Presidential Election
+country_event = {
+	id = decision_event.25
+	title = decision_event.25.t
+	desc = decision_event.25.d
+	picture = USA_1976_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.25.o1
+	}
+}

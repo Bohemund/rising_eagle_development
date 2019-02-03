@@ -75,19 +75,64 @@ spriteTypes = {
 		name = "1968_us_election"
 		texturefile = "gfx/event_pictures/report_event/1968_us_election.dds"
 	}
-}
-=======
-	
+
 	spriteType = {
 		name = "GFX_American_scandal_1988"
 		texturefile = "gfx/event_pictures/1988_scandal_japan.dds"
 	}
 	
-	
-	
-	
+	spriteType = {
+		name = "new_order"
+		texturefile = "gfx/event_pictures/report_event/new_order.dds"
+	}
+
+	spriteType = {
+		name = "brazilian_coup"
+		texturefile = "gfx/event_pictures/report_event/brazilian_coup.dds"
+	}
+
+	spriteType = {
+		name = "robert_kennedy"
+		texturefile = "gfx/event_pictures/report_event/robert_kennedy.dds"
+	}
+
+	spriteType = {
+		name = "1972_us_election"
+		texturefile = "gfx/event_pictures/report_event/1972_us_election.dds"
+	}
+
+	spriteType = {
+		name = "JAP_1988_scandal"
+		texturefile = "gfx/event_pictures/report_event/JAP_1988_scandal.dds"
+	}
+
+	spriteType = {
+		name = "USA_alliance_for_progress"
+		texturefile = "gfx/event_pictures/report_event/USA_alliance_for_progress.dds"
+	}
+
+	spriteType = {
+		name = "VIN_ho_chi_minh_campaign"
+		texturefile = "gfx/event_pictures/report_event/VIN_ho_chi_minh_campaign.dds"
+	}
+
+	spriteType = {
+		name = "TUR_1960_coup"
+		texturefile = "gfx/event_pictures/report_event/TUR_1960_coup.dds"
+	}
+
+	spriteType = {
+		name = "MEX_2000_general_election"
+		texturefile = "gfx/event_pictures/report_event/MEX_2000_general_election.dds"
+	}
+
+	spriteType = {
+		name = "CHL_1973_coup"
+		texturefile = "gfx/event_pictures/report_event/CHL_1973_coup.dds"
+	}
+
+	spriteType = {
+		name = "USA_1976_election"
+		texturefile = "gfx/event_pictures/report_event/USA_1976_election.dds"
+	}
 }
-	
-	
-	
->>>>>>> d985942d9bad5e04977563ddbedf489c39139e33
