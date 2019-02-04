@@ -5,6 +5,10 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/1988_scandal_japan.dds"
 	}
 	
+	spriteType = {
+		name = "GFX_japan_intro"
+		texturefile = "gfx/event_pictures/japan_intro.dds"
+	}
 	
 	
 	
