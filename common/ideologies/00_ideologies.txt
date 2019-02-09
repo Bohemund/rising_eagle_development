@@ -456,9 +456,6 @@ ideologies = {
 
 			bolivarianist = {
 			}
-
-			african_socialist = {
-			}		
 			
 		}
 		
