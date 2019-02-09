@@ -7,7 +7,7 @@ add_ideas = {
 }    
 
 set_research_slots = 3
-set_convoys = 100
+set_convoys = 170
 set_stability = 0.3
 set_war_support = 0.1
 
@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 14
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 2
@@ -51,16 +51,16 @@ set_politics = {
 			popularity = 5
 		}
 		centrist = {
-			popularity = 14
+			popularity = 31
 		}
 		liberal = {
-			popularity = 3
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 7
+			popularity = 9
 		}
 		democratic_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		libertarian_socialist = {
 			popularity = 3

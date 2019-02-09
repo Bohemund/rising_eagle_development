@@ -4,7 +4,7 @@ oob = "SOM_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.3
+set_stability = 0.5
 set_war_support = 0.5
 
 set_technology = {
@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 36
+			popularity = 31
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 6
 		}
 		conservative = {
-			popularity = 14
+			popularity = 11
 		}
 		centrist = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 22
+			popularity = 10
 		}
 		social_democrat = {
-			popularity = 4
+			popularity = 3
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 17
+			popularity = 0
 		}
 		communist = {
-			popularity = 2
+			popularity = 39
 		}
 	}
 	
-	ruling_party = ultranationalist
+	ruling_party = communist
 	last_election = "2009.1.30"
 	election_frequency = 48
 	elections_allowed = no
@@ -82,6 +82,17 @@ create_country_leader = {
 	picture = "Portrait_SOM_Sharif_Sheikh_Ahmed.tga"
 	expire = "2050.1.1"
 	ideology = clerical_fascist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mohammed Said Hersi Morgan"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_SOM_Mohammed_Hersi_Morgan.tga"
+	expire = "2050.1.1"
+	ideology = leninist
 	traits = {
 		#
 	}

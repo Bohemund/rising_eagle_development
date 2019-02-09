@@ -1,14 +1,14 @@
 ﻿l_english:
  
  #PARTIES
- ENG_ultranationalist_party:0 "National Front"
- ENG_ultranationalist_party_long:0 "National Front"
- ENG_monarchist_party:0 "Windsor"
+ ENG_ultranationalist_party:0 "National Party"
+ ENG_ultranationalist_party_long:0 "British National Party"
+ ENG_monarchist_party:0 "House of Windsor"
  ENG_monarchist_party_long:0 "House of Windsor"
- ENG_nationalist_party:0 "New British Alliance"
- ENG_nationalist_party_long:0 "New British Alliance"
- ENG_conservative_party:0 "Conservative Party"
- ENG_conservative_party_long:0 "Conservative and Unionist Party"
+ ENG_nationalist_party:0 "Tory Independence League"
+ ENG_nationalist_party_long:0 "Conservative and Unionist Party - Independence League"
+ ENG_conservative_party:0 "Tory Cornerstone Group"
+ ENG_conservative_party_long:0 "Conservative and Unionist Party - Cornerstone Group"
  ENG_centrist_party:0 "Liberal Party"
  ENG_centrist_party_long:0 "Liberal Party"
  ENG_liberal_party:0 "Social Democrats"
@@ -20,4 +20,4 @@
  ENG_libertarian_socialist_party:0 "Independent Labour"
  ENG_libertarian_socialist_party_long:0 "Labour and Co-operative Party - Independent Labour"
  ENG_communist_party:0 "Communist Party"
- ENG_communist_party_long:0 "Communist Party of Great Britain"
+ ENG_communist_party_long:0 "Communist Party of Britain"

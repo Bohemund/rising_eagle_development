@@ -1,18 +1,18 @@
 ﻿l_english:
  
  #PARTIES
- SOU_ultranationalist_party:0 "National Renewal"
- SOU_ultranationalist_party_long:0 "National Renewal Alliance"
- SOU_monarchist_party:0 "Orléans-Braganza"
+ SOU_ultranationalist_party:0 "National Renewal - MC"
+ SOU_ultranationalist_party_long:0 "National Renewal Alliance - Military Clique"
+ SOU_monarchist_party:0 "House of Braganza"
  SOU_monarchist_party_long:0 "House of Orléans-Braganza"
- SOU_nationalist_party:0 "National Renewal"
- SOU_nationalist_party_long:0 "National Renewal Alliance"
- SOU_conservative_party:0 "National Renewal"
- SOU_conservative_party_long:0 "National Renewal Alliance"
- SOU_centrist_party:0 "National Renewal"
- SOU_centrist_party_long:0 "National Renewal Alliance"
- SOU_liberal_party:0 "National Liberals"
- SOU_liberal_party_long:0 "National Liberal Party"
+ SOU_nationalist_party:0 "National Renewal - M"
+ SOU_nationalist_party_long:0 "National Renewal Alliance - Malufists"
+ SOU_conservative_party:0 "National Renewal - R"
+ SOU_conservative_party_long:0 "National Renewal Alliance - Republicans"
+ SOU_centrist_party:0 "National Renewal - D"
+ SOU_centrist_party_long:0 "National Renewal Alliance - Democrats"
+ SOU_liberal_party:0 "Democratic Movement - L"
+ SOU_liberal_party_long:0 "Democratic Movement - Liberals"
  SOU_social_democrat_party:0 "Democratic Movement"
  SOU_social_democrat_party_long:0 "Democratic Movement"
  SOU_democratic_socialist_party:0 "Workers' Party"
@@ -23,7 +23,7 @@
  SOU_communist_party_long:0 "Unified Workers’ Socialist Party"
 
  #LEADERS
- POLITICS_PAULO_MALUF_DESC:0 "Paulo Salim Maluf was born in São Paulo, the son of Lebanese immigrants. His family was by no means poor, they were friends and associates of President Artur da Costa e Silva. It was through this friendship that Maluf managed to be appointed as mayor of his hometown. He became known for his authoritarian governance and his fondness of large-scale infrastructure projects that his administration could not afford. With his built-up influence he managed to be appointed Governor of São Paulo. He tried to use his position as governor as a springboard for a presidential run, donating ambulances to impoverished communities and hosting influential politicians free of charge. After being elected as a federal deputy he tried to win the nomination for ARENA in the ‘85 election but he was snubbed by the civilian caucus for his immoderate and arrogant reputation and José Sarney was chosen instead. Maluf did not stop, however. He ran for mayor once more and secured his election that same year, building up a political legacy which came to be termed “malufismo” by journalists. After the creation of the South American Parliament he ran as the candidate for Southeast Brazil was elected as a deputy. In 2002 he defeated Senator José Agripino Maia for the ARENA nomination, eventually winning the election handily against Romero Jucá. Having achieved his desired post he worked even harder to keep it, gathering allies in the military, spending generously in the public sector and as described by foreign press “turning raw force into mob rule”. Despite being reelected in 2006 he faces a long list of issues including the unstable economy, continued hostility from the United States and the inability of both the opposition and some members of ARENA to cooperate with the President."
+ POLITICS_PAULO_MALUF_DESC:0 "Paulo Salim Maluf was born in São Paulo, the son of Lebanese immigrants. His family was by no means poor, they were friends and associates of President Artur da Costa e Silva. It was through this friendship that Maluf managed to be appointed as mayor of his hometown. He became known for his authoritarian governance and his fondness of large-scale infrastructure projects that his administration could not afford. With his built-up influence he managed to be appointed Governor of São Paulo. He tried to use his position as governor as a springboard for a presidential run, donating ambulances to impoverished communities and hosting influential politicians free of charge. After being elected as a federal deputy he tried to win the nomination for ARENA in the ‘85 election but he was snubbed by the civilian caucus for his immoderate and arrogant reputation and José Sarney was chosen instead. Maluf did not stop, however. He ran for mayor once more and secured his election that same year, building up a political legacy which came to be termed “malufismo” by journalists. After the creation of the South American Parliament he ran as the candidate for Southeast Brazil was elected as a deputy. In 2002 he defeated Senator José Agripino Maia for the ARENA nomination, eventually winning the election handily against Romero Jucá. Having achieved his desired post he worked even harder to keep it, gathering allies in the military, spending generously in the public sector and as described by foreign press “turning raw force into mob rule”. Despite being reelected in 2006 he faces a long list of issues including the unstable economy, cold relations with the United States and the inability of both the opposition and some members of ARENA to cooperate with the President."
 
  #IDEAS
  SOU_military_power:0 "Military Power"
@@ -37,3 +37,10 @@
 
  SOU_linguistic_divide:0 "Linguistic Divide"
  SOU_linguistic_divide_desc:0 "Our country, though united in faith and destiny is divided among linguistic and ethnic lines. Almost three fourths of the union speak Portuguese, which has become the standard language for most official occasions. The remaining sixty million citizens speak Spanish, which greatly varies from north to south. Though internal boundaries within the Union were abolished in 1994 they still remain in practice, with local officials using the language most common in their area. While this has kept a lid on large separatist movements it has also furthered the divide between the government and the regions of Colombia, Paraguay and Uruguay. Integrating Spanish speakers into the military has been particularly troublesome."
+
+ #EVENTS
+
+ #Maluf talks to the military
+ south_america.1.t:0 "President Maluf speaks to the Military"
+ south_america.1.d:0 "Senior officials in the South American Union have approached President Maluf with matters regarding the scheduled election this year. The election was supposed to be held this January but concerns regarding protests led to it being postponed until June. The united opposition in the form of the Democratic Movement also voiced their concerns, saying elections during such instability would not be seen as legitimate and some rumors about a boycott even started appearing last year. Maluf spoke personally to General of the Army Enzo Martins Peri, trying to convince him that further disrupting the electoral cycle would only lead to stronger opposition against the government, something that they could not afford given the current unstable economic situation. Martins Peri is said to have left the meeting upset, stating to Maluf that if the civilian caucus abandons him the army will be the only support he has left."
+ south_america.1.o1:0 "One way or another they will have to agree"

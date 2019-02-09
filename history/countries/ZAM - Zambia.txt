@@ -1,6 +1,6 @@
 ﻿capital = 545
 
-oob = "ZAM_2010"
+oob = "AAA_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -28,50 +28,39 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 8
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 11
 		}
 		conservative = {
-			popularity = 0
-		}
-		centrist = {
-			popularity = 0
-		}
-		liberal = {
 			popularity = 12
 		}
+		centrist = {
+			popularity = 15
+		}
+		liberal = {
+			popularity = 17
+		}
 		social_democrat = {
-			popularity = 20
+			popularity = 24
 		}
 		democratic_socialist = {
-			popularity = 18
+			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 50
+			popularity = 10
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = libertarian_socialist
-	last_election = "2009.10.30"
+	ruling_party = conservative
+	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Kenneth Kaunda"
-	desc = ""
-	picture = "Portrait_ZAM_Kenneth_Kaunda.tga"
-	expire = "2050.1.1"
-	ideology = african_socialism
-	traits = {
-		#
-	}
 }
