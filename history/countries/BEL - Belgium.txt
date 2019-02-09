@@ -31,10 +31,10 @@ set_politics = {
 			popularity = 9
 		}
 		monarchist = {
-			popularity = 0
+			popularity = 5
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 6
 		}
 		conservative = {
 			popularity = 19

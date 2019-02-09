@@ -6,7 +6,8 @@ state= {
 	state_category = state_level_5
 
 	history= {
-		owner = RUS
+		owner = JAP
+		add_core_of = JAP
 		add_core_of = RUS
 		buildings = {
 			infrastructure = 3

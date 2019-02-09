@@ -3630,9 +3630,6 @@ spriteTypes = {
 		name = "GFX_idea_ROM_iuliu_maniu"
 		texturefile = "gfx/interface/ideas/idea_generic_democratic_europe.dds"
 	}
-
-# NEW RISING EAGLE SPIRITS #
-
 	spriteType = {
 		name = "GFX_idea_SOU_military_power"
 		texturefile = "gfx/interface/ideas/SOU_military_power.dds"
@@ -3670,6 +3667,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/five_areas_of_progress.dds"
 	}	
 	
+	
+	
 	spriteType = {
 		name = "GFX_idea_JAP_emperorakihito"
 		texturefile = "gfx/interface/ideas/Akihito.dds"
@@ -3688,21 +3687,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_JAP_stuckcoalition"
 		texturefile = "gfx/interface/ideas/TUR_unstable_coalition.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_idea_idea_queen_elizabeth_ii"
-		texturefile = "gfx/interface/ideas/queen_elizabeth_ii.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_idea_idea_rama_ix"
-		texturefile = "gfx/interface/ideas/rama_ix.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_idea_idea_carl_xvi_gustaf"
-		texturefile = "gfx/interface/ideas/carl_xvi_gustaf.dds"
 	}	
 	
 }

@@ -3,8 +3,8 @@
 oob = "GER_2010"
 
 set_research_slots = 4
-set_convoys = 100
-set_stability = 0.6
+set_convoys = 250
+set_stability = 0.4
 set_war_support = 0.1
 
 set_technology = {
@@ -58,10 +58,10 @@ set_politics = {
 			popularity = 11
 		}
 		libertarian_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 2
 		}
 	}
 	
@@ -70,16 +70,6 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 
-}
-
-create_country_leader = {
-	name = "Wolfgang Rauls"
-	desc = "POLITICS_KONRAD_ADENAUER_DESC"
-	picture = "Portrait_GER_Wolfgang_Rauls.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
-	traits = {
-	}
 }
 
 create_country_leader = {
