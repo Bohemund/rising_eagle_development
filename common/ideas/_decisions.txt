@@ -1,0 +1,54 @@
+ideas = {
+	decisions = { 
+		law = yes
+		
+		call_an_election = {
+			cost = 100
+			removal_cost = -1
+			level = 5
+			
+			picture = generic_democratic_drift_bonus
+			
+			available = {
+			    AND = {
+				    OR = {
+					    has_government = national_conservative
+						has_government = centrist
+						has_government = liberal
+						has_government = new_democrat
+						has_government = moderate_socialist
+					}
+					NOT = {
+					    OR = {
+						    tag = USA
+							tag = ENG
+						}
+					}
+					NOT = {
+					    AND = {
+						    tag = ITA 
+							OR = {
+							    has_completed_focus = ITA_the_merchant_republic_plan
+								has_completed_focus = ITA_solidarity_front_government
+							}
+						}
+					}
+					NOT = {
+				        has_country_flag = called_general_election
+				    }
+				}
+			}
+			
+			on_add = {
+				set_country_flag = called_general_election
+				country_event = { id = election.1 }
+				hidden_effect = {
+		            country_event = { days = 1095 id = election.2 } 
+		        }   
+			}
+			
+			
+		}
+		
+	}
+}

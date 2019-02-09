@@ -456,7 +456,9 @@ ideologies = {
 
 			bolivarianist = {
 			}
-			
+
+			african_socialism = {
+			}			
 		}
 		
 		dynamic_faction_names = {

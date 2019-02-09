@@ -8,7 +8,7 @@
  USA_nationalist_party:0 "Conservative GOP"
  USA_nationalist_party_long:0 "Republican Party - Conservative Caucus"
  USA_conservative_party:0 "Constitutionalist GOP"
- USA_conservative_party_long:0 "Republican Party - Constitutionalist Caucus"
+ USA_conservative_party_long:0 "Republican Party - Constitutionalist Caucus\n§gLiberal destroying enlightened neocon gang gang gang§!"
  USA_centrist_party:0 "Liberal GOP"
  USA_centrist_party_long:0 "Republican Party - Liberal Caucus"
  USA_liberal_party:0 "New Democrats"
@@ -21,3 +21,8 @@
  USA_libertarian_socialist_party_long:0 "Industrial Workers of the World"
  USA_communist_party:0 "Communist Party USA"
  USA_communist_party_long:0 "Communist Party of the United States of America"
+
+### Events
+USA.1.t:0 "Bernie Sanders Elected President"
+USA.1.d:0 "Senator from Vermont and self-described democratic socialist Bernie Sanders has been elected as the 46th President of the United States of America in a stunning culmination of an explosive and populist campaign that took relentless aim at the institutions and long-held ideals of American democracy. After the tragic and untimely death of President Baldwin fresh elections were called by acting President Jeff Sessions, Senator Sanders announced his candidacy for President and the formation of his new party, the “American Labor Party”, in a move that shocked the American political establishment. The suprise outcome of the election has shocked both the Democrats and the Republicans. Senator Sanders’ campaign managed to become a viable alternative to the two-party system, managing a rapidly growing grassroots movement. His victory is mostly attributed to the youth, liberal and mostly ignored blue-collar worker vote who felt that the American Dream had been betrayed amid decades of globalization and income inequality. His victory in 2010 could spell the death of the two-party system and the American political establishment, replaced by a more democratic system.
+USA.1.a:0 "Hail to the Chief!"
