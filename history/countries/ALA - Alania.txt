@@ -1,13 +1,11 @@
-﻿capital = 291
+﻿capital = 922
 
-oob = "IRQ_2010"
+oob = "ALA_2010"
 
-set_research_slots = 4
-set_convoys = 60
+set_research_slots = 3
+set_convoys = 0
 set_stability = 0.6
-set_war_support = 0.5
-
-puppet = KUW
+set_war_support = 0.3
 
 set_technology = {
 	support_weapons = 1
@@ -20,70 +18,59 @@ set_technology = {
 	basic_light_tank = 1 
 	gw_artillery = 1 
 	tech_mountaineers = 1
-	early_light_cruiser = 1
 	early_fighter = 1 
 	early_bomber = 1 
-	early_submarine = 1
-    transport = 1 
-	paratroopers = 1 
-	marines = 1
-	early_destroyer = 1 
-	atomic_research = 1 
 	interwar_antiair = 1
 	interwar_antitank = 1
 }
-
-create_faction = arab
-add_to_faction = IRQ
-add_to_faction = KUW
 
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 45
-		}
-		nationalist = {
 			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
-		conservative = {
-			popularity = 23
-		}
-		centrist = {
-			popularity = 2
-		}
-		liberal = {
-			popularity = 4
-		}
-		social_democrat = {
+		nationalist = {
 			popularity = 0
 		}
-		democratic_socialist = {
+		conservative = {
 			popularity = 19
+		}
+		centrist = {
+			popularity = 17
+		}
+		liberal = {
+			popularity = 5
+		}
+		social_democrat = {
+			popularity = 29
+		}
+		democratic_socialist = {
+			popularity = 6
 		}
 		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 7
+			popularity = 24
 		}
 	}
 	
-	ruling_party = ultranationalist
-	last_election = "1979.7.16"
+	ruling_party = social_democrat
+	last_election = "2005.3.6"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Saddam Hussein"
-	desc = "POLITICS_GHAZI_I_DESC"
-	picture = "Portrait_IRQ_Saddam_Hussein.tga"
+	name = "Taymuraz Mamsurov"
+	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
+	picture = "Portrait_ALA_Taymuraz_Mamsurov.tga"
 	expire = "2050.1.1"
-	ideology = baathist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

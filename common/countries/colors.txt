@@ -979,3 +979,23 @@ MAR = {
 	color = rgb { 170 29 9 }
 	color_ui = rgb { 170 29 9 }
 }
+
+ALA = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}
+
+CIR = {
+	color = rgb { 48 154 255 } #37 105 10 for the original Circassian flag
+	color_ui = rgb { 48 154 255 }
+}
+
+NAK = {
+	color = rgb { 0 187 229 }
+	color_ui = rgb { 0 187 229 }
+}
+
+MRD = {
+	color = rgb { (0 0 255 }
+	color_ui = rgb { 0 0 255 }
+}

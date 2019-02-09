@@ -232,7 +232,7 @@
  STATE_230:0 "Armenia"
  STATE_231:0 "Georgia"
  STATE_232:0 "Dagestan"
- STATE_233:0 "Caucasus Mountains"
+ STATE_233:0 "Nalchik"
  STATE_234:0 "Krasnodar"
  STATE_235:0 "Stravropol"
  STATE_236:0 "Astrakhan"
@@ -921,3 +921,4 @@
  STATE_919:0 "Nevajärvi"
  STATE_920:0 "Mari El"
  STATE_921:0 "Three Counties"
+ STATE_922:0 "Dzaeudzyqaeu"
