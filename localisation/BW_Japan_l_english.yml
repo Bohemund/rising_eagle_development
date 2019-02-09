@@ -1,51 +1,130 @@
 ﻿l_english:
  
- #PARTIES
- JAP_ultranationalist_party:0 "Japan Conference"
- JAP_ultranationalist_party_long:0 "Japan Conference"
- JAP_monarchist_party:0 "Chrysanthemum Throne"
- JAP_monarchist_party_long:0 "Chrysanthemum Throne"
- JAP_nationalist_party:0 "National Action"
- JAP_nationalist_party_long:0 "National Action Committee"
- JAP_conservative_party:0 "Liberal Democrats"
- JAP_conservative_party_long:0 "Liberal Democratic Party"
- JAP_centrist_party:0 "Democratic Party"
- JAP_centrist_party_long:0 "Democratic Party"
- JAP_liberal_party:0 "Constitutional Democrats"
- JAP_liberal_party_long:0 "Constitutional Democratic Party"
- JAP_social_democrat_party:0 "Social Democrats"
- JAP_social_democrat_party_long:0 "Social Democratic Party"
- JAP_democratic_socialist_party:0 "Communist Party"
- JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
- JAP_libertarian_socialist_party:0 "Communist Party"
- JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
- JAP_communist_party:0 "Japanese Red Army "
- JAP_communist_party_long:0 "Japanese Red Army"
+#PARTIES
+JAP_ultranationalist_party:0 "Japan Conference"
+JAP_ultranationalist_party_long:0 "Japan Conference"
+JAP_monarchist_party:0 "Chrysanthemum Throne"
+JAP_monarchist_party_long:0 "Chrysanthemum Throne"
+JAP_nationalist_party:0 "National Action"
+JAP_nationalist_party_long:0 "National Action Committee"
+JAP_conservative_party:0 "Liberal Democrats"
+JAP_conservative_party_long:0 "Liberal Democratic Party"
+JAP_centrist_party:0 "Democratic Party"
+JAP_centrist_party_long:0 "Democratic Party"
+JAP_liberal_party:0 "Constitutional Democrats"
+JAP_liberal_party_long:0 "Constitutional Democratic Party"
+JAP_social_democrat_party:0 "Social Democrats"
+JAP_social_democrat_party_long:0 "Social Democratic Party"
+JAP_democratic_socialist_party:0 "Communist Party"
+JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
+JAP_libertarian_socialist_party:0 "Communist Party"
+JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
+JAP_communist_party:0 "Japanese Red Army "
+JAP_communist_party_long:0 "Japanese Red Army"
 
  
  
- 
-  JAP_anti_american_stance:0 "Anti-American Policy"
-  JAP_anti_american_stance_desc:0 "Since the 1980s, the United States has been interfering in Japanese politics, whether foreign or domestic. This lead to a return of anti-western stance among the Japanese. Anti-American sentiment is at an all time high, the history between our nations only fueled it. No more will Japan bow down to the Western dogs, they will bow down to us instead!"  
-  JAP_stuckcoalition:0 "Coalition Government"
-  JAP_stuckcoalition_desc:0 "Japan Conference has to form a coalition with the conservative Liberal Democratic Party in order to effectively run a government. This coalition although effective, it has hindered radical reforms intended by Conference politicans to make Japan a global power, capable of spreading it's influence across the globe. This will soon change however..."
-  JAP_emperorakihito:0 "Emperor Akhito"
-  JAP_emperorakihito_desc:0 "Akihito acceded to the Chrysanthemum Throne on 12 November 1990. The 125th member of the world's oldest reigning dynasty, he is a symbol of Japan and it's culture, and a figure of unity among the Japanese people."
-  JAP_rising_ultnationalism:0 "Rising Nationalism"
-  JAP_rising_ultnationalism_desc:0 "As a result of Anti-American sentiment among the population, nationalism has made a swift return in Japan, preparing Japan to return to it's olden imperial roots."
+ #ideas 
+JAP_anti_american_stance:0 "Anti-American Policy"
+JAP_anti_american_stance_desc:0 "Since the 1980s, the United States has been interfering in Japanese politics, whether foreign or domestic. This lead to a return of anti-western stance among the Japanese. Anti-American sentiment is at an all time high, the history between our nations only fueled it. No more will Japan bow down to the Western dogs, they will bow down to us instead!"  
+JAP_stuckcoalition:0 "Coalition Government"
+JAP_stuckcoalition_desc:0 "Japan Conference has to form a coalition with the conservative Liberal Democratic Party in order to effectively run a government. This coalition although effective, it has hindered radical reforms intended by Conference politicans to make Japan a global power, capable of spreading it's influence across the globe. This will soon change however..."
+JAP_emperorakihito:0 "Emperor Akhito"
+JAP_emperorakihito_desc:0 "Akihito acceded to the Chrysanthemum Throne on 12 November 1990. The 125th member of the world's oldest reigning dynasty, he is a symbol of Japan and it's culture, and a figure of unity among the Japanese people."
+JAP_rising_ultnationalism:0 "Rising Nationalism"
+JAP_rising_ultnationalism_desc:0 "As a result of Anti-American sentiment among the population, nationalism has made a swift return in Japan, preparing Japan to return to it's olden imperial roots."
   
-  POLITICS_ABE_DESC:0 "Shinzo Abe is the grandson of Nobusuke Kishi, the first prime minister of Japan since its defeat in World War 2 and a notorious war criminal in China. Following his family’s political legacy, he joined the Liberal Democratic Party and held several government posts. When the American Scandal was discovered, he urged the LDP to adopt an anti-American stance. Over time, he became dissatisfied with the moderate policies of the LDP and left the party to join the Japan Conference in 2000. He assumed direct control of the organization and under Abe’s leadership; the Conference rose to become a real and major political party. After winning the largest number of seats in the House of Representatives without getting a majority, the Conference formed a coalition with the Liberal Democratic Party. As a compromise, Shinzo Abe was appointed Prime Minister while half of the cabinet is comprised of LDP politicians. Unlike the LDP, the Conference wishes to push for far-right reforms to reclaim Japan’s glory. Abe disguised himself as a patriotic conservative for his public image, hiding his closet ultranationalist beliefs. He plans to eliminate the Conference’s reliance on the LDP so his Imperial reforms can go unopposed and his dream of Japan becoming the strongest nation and dominating Asia again will finally come true."
+
+#leaders
+POLITICS_ABE_DESC:0 "Shinzo Abe is the grandson of Nobusuke Kishi, the first prime minister of Japan since its defeat in World War 2 and a notorious war criminal in China. Following his family’s political legacy, he joined the Liberal Democratic Party and held several government posts. When the American Scandal was discovered, he urged the LDP to adopt an anti-American stance. Over time, he became dissatisfied with the moderate policies of the LDP and left the party to join the Japan Conference in 2000. He assumed direct control of the organization and under Abe’s leadership; the Conference rose to become a real and major political party. After winning the largest number of seats in the House of Representatives without getting a majority, the Conference formed a coalition with the Liberal Democratic Party. As a compromise, Shinzo Abe was appointed Prime Minister while half of the cabinet is comprised of LDP politicians. Unlike the LDP, the Conference wishes to push for far-right reforms to reclaim Japan’s glory. Abe disguised himself as a patriotic conservative for his public image, hiding his closet ultranationalist beliefs. He plans to eliminate the Conference’s reliance on the LDP so his Imperial reforms can go unopposed and his dream of Japan becoming the strongest nation and dominating Asia again will finally come true."
   
+#events  
+japanlore.1.t:0 "The American Scandal"
+japanlore.1.d:0 "In 1988, An investigation onto Noboru Takeshita, the Prime Minister of Japan at that time was founded to be accepting bribes from the American company, General Motors for a low tariff on American goods, particulary cars. Known as the American Scandal in Japan, it forced the resignation of Noboru Takeshita and other several prominent Liberal Democratic Party members. Uno Sōsuke was then chosen as Prime Minister, however he was soon compelled to resign as a result of media reports that he had had an extramarital affair and by the Liberal-Democrats’ severe losses in the parliamentary elections of July 1989. Shortly after the American Scandal was revealed to the public, mass protests broke out among the nation against the United States and the American Embassy in Tokyo was subject to mob anger, causing it to close for a month. Notably enough, the American press never reported this scandal. It has been stated by protestors that they are protesting the United States' attempt to control Japan's policies. As anti-American sentiments among the Japanese people increased, right wing movements begin to soar in popularity, the most popular being Japan Conference. Although it was founded in 1997, it gained a massive following in a short time as people are losing faith in the current establishment. They played a major role in reviving Japanese nationalism."
+japanlore.1.a:0 "The Domino Effect has started."
+
+
+
+jap.1.t:0 "The State of Japan"
+jap.1.desc:0 "January 1st, 2010\nOn the last day of an eventful year, the world awaits the arrival of 2010 as a common thought is that there will be new eventful things awaiting them. I know for sure that this year will be special. Because starting from today, this will be the time where Japan will truly be reborn and take her place in the world.\n\nLast year, We have secured more support for Conference via our reforms of the economy. The shifting of markets from North America and Europe to Asia has been accomplished without major setbacks to the economy, something i thank my cabinet for. All of this is to counter Western influence in our nation. As such, we have the second most powerful economy in the world.  However, my true dream has yet to be accomplished, and it’s all because of the corrupt and incompetent LDP, I cant believe that i have to rely on them to get our bills passed! We wouldn’t be in this situation if not of their involvement in the American Scandal. Because of them, i had to postpone my desired reforms until we can properly dispose of them.  When it is advantageous to us and my contracts, i will call an election this year. 2010 will be the final year of the LDP controlling the government. Their existence is a major obstacle to the return of Japan’s glory!\n\nWhen i was a small child, my grandfather told me stories about Japan’s history and how it was brought down to its knees by the western dogs. He had to play along, else Japan would fall into a deeper humilation. I swore to end it all, and here i am holding the post of Prime Minister. With my leadership and allies, i will take revenge on the United States of America and their World Order, and create a new one led by Japan.\n\n\n-Shinzo Abe"
+jap.1.a:0 "The Sun shall rise again!"
+
+jap.2.t:0 "A Conference Meeting"
+jap.2.desc:0 "The first Japan Conference meeting of the year started with the opening of doors into the meeting room, followed by the flow of prominent Conference Politicans that took their repesctive seats. Once all of the attendants were confirmed present, i addressed my fellow allies about our current situation in the government. As they know, Conference has to rely on the Liberal Democratic Party to pass legalisation, something that hinders our reforms, and they are blocking our desired view for Japan. Thus, Conference party members discussed a few plans to eliminate our reliance on them. And how will we do that? Through sabotage, discrediting them and..reminding the population of history.\n\nSome members have raised their concerns about these methods, but i reassured them that this is all for the greater good of Japan. After all, what’s sucess without sacrifice? The rest of the meeting was reconfirming our contracts and influence in every sector, confirming the posts our members aim to run for, and discussing campaign locations.\n\nThe meeting went on for 10 hours, with most people being exhausted. When i announced the end of the meeting, most of them left the room with the exception of a few trusted allies. Once we had our privacy, we exchanged documents containing government secrets, personal information of our rivals and cash. To conclue the secret meeting, each of us swore an oath, to reassure our loyalty to the emperor, Japan and her glory."
+jap.2.a:0 "Now, things will get... interesting."
+
+jap.3.t:0 "We can become Greater"
+jap.3.desc:0 "\"My fellow citizens of Japan, i now ask you this question: How much can you achieve in life? Each of us have a dream of our own, and have always dreamt of fufilling it. Unfortunately, a significant amount of people dont. Why?\n\nObstacles. There are always obstacles in our way that block us from acheiving our dream. This is why you alone is not enough to achieve your dream. You need support from others to help you in your goals. Just think about it. We all recieve help to achieve our dreams in one way or another. Knowing that there are people who support you makes that dream more achievable.\n\nThis is why i am here today, my friends. I have a dream that this nation can become greater. Greater than anything accomplised by our ancestors. I dream of a Japan dominant in the World Economy, Global Politics and sheer power. There are numerous benifits to being a global power. Your Business will expand worldwide, our currency becomes more valuable and most importantly, everyone will be proud to say: I am Japanese. With your votes, Japan will achieve this!\""
+jap.3.a:0 "Vote Conference today!"
+
+jap.4.t:0 "The Dangers of Progression"
+jap.4.desc:0 "\"My fellow citizens, what makes Japan, Japan? The answer is our culture. We have a tradition of hard work, politeness and cleanliness.This is the reason why Japan is in it current form today. Our Japanese spirit and unity allows us to become a first world nation!\n\nLet me ask you, is there anything that should be changed? Think carefully. Waking up in a futon, eating rice and fried fish for breakfast, going to work by Train, have ramen for lunch, go back to your family is what our life consists of. Even daily activities have beauty.\n\nFutons show how talented Japanese silking are, they are comfortable than most western beds! Japanese rice, fish and ramen taste delicious till we never get bored of it, and trains show our technolgical capacity. Our family is the reason we work, live and die for, and is the most valuable thing in the world.\n\nHowever, take a look at the beast from the other side of the Pacific Ocean. Their degenerate culture has spread to our youth, among them free intercourse, the lgbt and the unhealthy foods! The degenerate American culture must be stopped from gaining popularity among our children! Remember what they have done to Japan! I swear, to my power i will purify our nation from the Western devils!\""
+jap.4.a:0 "Death to the West!"
+
+jap.5.t:0 "American Tourists Mistreated"
+jap.5.desc:0 "\"This morning, an American Tourist was trialed in Kyoto for allegedly raping a Japanese schoolgirl 2 months ago. The 27-year old tourist claimed that he had no idea about Japanese culture and thought the schoolgirl was being shy about it. Despite the pathetic pleas, he was sentenced to 30 years in Japanese prison, ignoring the American embassy’s attempts to subject him to American law. The official reason behind it was that American laws were too soft on rapists, and that justice could never be served properly under american law.\n\nThere has been debates regarding this trial, with some claiming that he should be sentenced to death for taking advantage of Japanese girls or be subject to a life sentence. Nevertheless, this added fuel to everising Anti-American stances on the population, reinforcing the general belief that Americans are nothing more than barbarians with no culture.\n\nThis case was heavily publicised by right wing Japanese media as expected given their anti-American stance, and more cases will be heavily publicised when it paints the USA in a bad light.\""
+jap.5.a:0 "Filthy Americans."
+
+jap.6.t:0 "We are still stuck"
+jap.6.desc:0 "Shinzo-san, i bring bad news. Despite our best efforts, we didnt manage to get a majority in Parliment. Meaning we have to continue relying on LDP support for another few years and will be a massive setback in our plans."
+jap.6.a:0 "Goddammit."
+
+jap.7.t:0 "Conference Victory"
+jap.7.desc:0 "The votes have been finalised, and Japan Conference came out as the largest party in parliment! We have gained the majority in Parliment, meaning we can pass legalisation without the LDP anymore. Now it is time for my dream to be accomplished, the first step to Japan’s glory!"
+jap.7.a:0 "Ever onwards, for Japan!"
+
+jap.8.t:0 "Akihito abdicates"
+jap.8.desc:0 "Today, the Heisei Era officially ends after more than 20 years. One month ago,  Emperor Akihito gave a televised address to the nation, in which he expressed concern that his age would one day stop him from fulfilling his official duties. This was an implication of his wish to retire. In the abdicaton process, The Retired Emperor personally handed over the sacred objects to his successor, Naruhito.  The visits to the Ise Shrine by Shinto Priests and Imperial representatives, as well as to the tombs of the three past late Emperors, will continue as in past enthronements.\n\nThe ceremony was televised live with a record number of 65 million viewers in Japan alone, and worldwide, it gathered 1 billion views, setting the record for the largest televised event in modern history. Public reaction to this ceremony have generally been grieving the abdication of the Retired Emperor, however deep down, the populace welcomes Naruhito as emperor due to his right wing views and promises to become more involved in Japanese politics."
+jap.8.a:0 "Glory to the Emperor."
+
+jap.9.t:0 "Naruhito's Enthronement Ceremony"
+jap.9.desc:0 "A new era begins today, the (*) Era. As per tradition, Japanese companies have been adjusting their production and expansion to follow Japanese customs. ; The enthronement of Emperor Naruhito, will featured five ceremonies, all of which was held as state acts. The first of them, Kenji to Shokei no Gi, a ceremony in which he inherited the Imperial Regalia, and the Privy Seal and State Seal of Japan.This was followed immediately by the Sokuigo Choken no Gi ceremony, in which the Emperor met for the first time with the heads of the administrative, judicial and legislative branches.\n\nThis was his enthronement speech.\n\nTODO"
+jap.9.a:0 "Long live the Emperor!"
+
+jap.10.t:0 "Naruhito dissolves Parliament"
+jap.10.desc:0 "I woke up, thinking this would be a normal day. I was wrong.The Emperor walked into a middle of a Parliment meeting with his army of Imperial Guards, carrying rifles. I could not forget the exact words his spokesman,no, His Imperial Majesty said to all of us.\n\n\"To all the politicans of Japan, today the Emperor came here to announce the dissolution of the National Diet. No elections will be held afterward, as the Emperor deemed it unnecessary. Instead, The Emperor will handpick members who remain loyal to the Chrysanthemum Throne. A generous request has been offered to all of you, subjects of the Emperor to resign when you are called upon to and your family will be spared.\n\nFor those who accepts the Emperor’s absolute rule, rejoice! He will bring Japan to the glory it truly deserves! A new dawn is upon us, where all of the Emperor’s subjects will live in prosperity, Japan’s enemies crushed under our overwhelming power and the world will bow down to us!\n\n\"I am proud to announce the dissolution of the old parlimentary system, and a new government will be formed in the Emperor’s name!"
+	jap.10.a:0 "A new age dawns for Japan..."
+
+  jap.11.t:0 "The Emperor's Might"
+  jap.11.desc:0 "As i boarded a train to work, my eyes were set on the traditional clothing of salarymen and women. Some of them held briefcases, traditional bags and a book. Some people were texting on their cell phones, other slept in their seats. Once the train reached my destination, i saw the Imperial Propaganda regarding the glory of Japan. When i stepped outside, the buildings containing telescreens showed the Emperor’s quotes and military enlistment ads. Everyone minded their own business as they passed by the Imperial Police, present in every streetcorner.\n\nI walked to my office, after passing the security customs in place. Heading to my office, i greeted my boss, the owner of Japan Daily News. \"Good morning. It seems that a few of our employees have been conspiring against our Emperor, and were thus taken away by the Imperial Police. Your task is to take over their jobs, which is to censor and edit any un-japanese news. Can i entrust you with that?\"\n\n\"Of Course, sir. You have my word.\"\n\nI hid the letter i recieved from the resistance and got to work."
+  jap.11.a:0 "TODO"
+
+  jap.12.t:0 "Diary Stolen"
+  jap.12.desc:0 "On the Prime Minister’s room, everything was in place. The bed has been arranged neatly, floors have been sweeped and mopped without a trace of dirt, and the curtains have been ironed. Except for one item. Prime Minister Shinzo Abe’s Diary is Missing!"
+  jap.12.a:0 "Where did it go?"
+
+  jap.13.t:0 "Diary Leaked"
+  jap.13.desc:0 "On a typical internet day, a PDF file containing Images of what appeared to be Shinzo Abe’s diary surfaced on the internet. Upon inspection, it was no doubt it was indeed Abe’s personal diary after comparing handwritings. Soon, it became the most talked subject in social media despite the government banning all mentions of it. The Government has issued a statement that the diary is a false flag, but many believed otherwise. Prime Minister Abe has refused to comment on this incident."
+  jap.13.a:0 "TODO"
+
+  jap.14.t:0 "Uncensored Diary Leaked"
+  jap.14.desc:0 "It seems that the Diary leaked around the internet was but a censored version, edited by an anonymous party to delete all mentions of scandals, shady contracts of Japanese politicans belonging to the anti-Conference faction. Today, another version of the diary was released online, with it having a statement that the diary was cencorsed to cover shady political dealings, and the real story will be exposed to the public, so they know the real truth. The contents in this diary could bring down an entire government!"
+  jap.14.a:0 "TODO"
+
+  jap.15.t:0 "Mass Chaos"
+  jap.15.desc:0 "Mass Demonstrations and riots broke out in several cities in Japan, protesting the corruption exposed by the uncensored diary. Multiple calls for the arrests of politicans were answered by the Japanese Police Department, and several major politicans in Japan were detained. The now defunctional government was now replaced by a military junta aimed to restore order to the streets.\n\nThe general announced the intention of an emergency election that will be held in a few months, but for now the army will dictate things. "
+  jap.15.a:0 "This is a disaster!"
+
+  jap.16.t:0 "Rising JCP Popularity"
+  jap.16.desc:0 "As national elections are being prepared, minor parties that escaped from being mentioned in the diary gathered large popularity among the Japanese population. Among the minor political parties that rose to prominence, the Japanese Communist Party has been the most popular party according to recent polls due to it’s previous anti-establishment stance and it’s pursuit for more workers’ rights.\n\n In an interview, the party leader, Kazuo Shii confirmed the JCP’s support for the monarchy as the Imperial Family is a figure of national unity for Japan.  JCP also strives to change the nation's economic policy of what it sees as serving the interests of large corporations and banks to one of defending the interests of the people and to establish democratic rule that will check the activities of large corporations and \"protect the lives and basic rights of the people\".\n\nIt seems that the JCP will have a high chance of winning the elections."
+  jap.16.a:0 "TODO"
+
+  jap.17.t:0 "JCP Wins the Elections"
+  jap.17.desc:0 "The votes have been finalised and as expected, the Japanese Communist Party has emerged victorious in the elections!\n\nWith their election, a new era will begin in Japan, the socialist era!"
+	jap.17.a:0 "The beginning of a new era?"
+
+  jap.18.t:0 "Shinto Socialism"
+  jap.18.desc:0 "A new policy has been announced by the Socialist Government: The Shinto Socialism Movement. This Movement encourages every Japanese citizen to follow socialist values in everyday life. Courses on Shinto Socialism is avaliable online for free, and free copies of the manual book can be issued upon request.\n\nThe basis of Shinto Socialism is founded on politeness, willingness to share, and unity in the workplace to ensure workers they get a fair share of their hard labour. It also promotes unity in all factors to unite Japan after the old government collapse."
+  jap.18.a:0 "Where have I heard this before..."
+
+  jap.19.t:0 "The Monarchy is Abolished"
+  jap.19.desc:0 "After 1500 years, the Japanese Monarchy will cease to exist. In an announcement by the government, the consistution will be revised and modified into a republican constitution. The abolishment of the monarchy will follow suit. In the same speech, Prime Minister Kazuo Shii proclaimed the Japanese Republic and the adoption of a new national flag.\n\nThe abolishment of the monarchy is justified by the Japanese Communist Party as a symbol to remove hierachy and give all Japanese people the feeling of equality. It is deemed necessary for further social progression, as people cannot hold on to tradition forever."
+  jap.19.a:0 "They lied to us!"
+
+  jap.20.t:0 "Civil War!"
+  jap.20.desc:0 "The Pro-monarchy forces declared an open revolt against the Japanese Republican government after several months of hidden resistance , declaring it a American puppet that seeks to eradicate Japanese culture. Already, right-wing civillians have taken up arms against the government and prepared to fight the Republican police force.\n\nA civil war is brooming, with the monarchist rebels securing their hold in West Japan and a portion of the military defecting to the rebels, this is will be a conflict to decide the final fate of Japan."
+  jap.20.a:0 "How did it come to this?"
   
-  jap.1.t:0 "A New Year, a New Nation" 
-  jap.1.d:0 "On the last day of an eventful year, the world awaits the arrival of a new year as a common thought is that there will be new eventful things awaiting them this year. I know for sure that this year will be special. Because this year will be the year where Japan will truly be reborn and take her place in the world.\n\n Last year, We have secured more support for Conference via our reforms of the economy. The shifting of markets from North America and Europe to Asia has been accomplished without major setbacks to the economy, something i thank my cabinet for. All of this is to counter Western influence in our nation. As such, we have the second most powerful economy in the world.  However, my true dream has yet to be accomplished, and it’s all because of the corrupt and incompetent LDP, I cant believe that i have to rely on them to get our bills passed! We wouldn’t be in this situation if not of their involvement in the American Scandal. Because of them, i had to postpone my desired reforms until we can properly dispose of them.  When it is advantageous to us and my contracts, i will call an election this year. 2010 will be the final year of the LDP controlling the government. Their existence is a major obstacle to the return of Japan’s glory!\n\n When i was a small child, my grandfather told me stories about Japan’s history and how it was brought down to its knees by the western dogs. He had to play along, else Japan would fall into a deeper humilation. I swore to end it all, and here i am holding the post of Prime Minister. With my leadership and allies, i will take revenge on the United States of America and their World Order, and create a new one led by Japan.\n\n Shinzo Abe"
-  jap.1.a:0 "The time is near."
-
-
-
-
-   
-   
-	
-	
-   
+  jap.21.t:0 "A New Year, a New Nation" 
+  jap.21.d:0 "On the last day of an eventful year, the world awaits the arrival of a new year as a common thought is that there will be new eventful things awaiting them this year. I know for sure that this year will be special. Because this year will be the year where Japan will truly be reborn and take her place in the world.\n\n Last year, We have secured more support for Conference via our reforms of the economy. The shifting of markets from North America and Europe to Asia has been accomplished without major setbacks to the economy, something i thank my cabinet for. All of this is to counter Western influence in our nation. As such, we have the second most powerful economy in the world.  However, my true dream has yet to be accomplished, and it’s all because of the corrupt and incompetent LDP, I cant believe that i have to rely on them to get our bills passed! We wouldn’t be in this situation if not of their involvement in the American Scandal. Because of them, i had to postpone my desired reforms until we can properly dispose of them.  When it is advantageous to us and my contracts, i will call an election this year. 2010 will be the final year of the LDP controlling the government. Their existence is a major obstacle to the return of Japan’s glory!\n\n When i was a small child, my grandfather told me stories about Japan’s history and how it was brought down to its knees by the western dogs. He had to play along, else Japan would fall into a deeper humilation. I swore to end it all, and here i am holding the post of Prime Minister. With my leadership and allies, i will take revenge on the United States of America and their World Order, and create a new one led by Japan.\n\n Shinzo Abe"
+  jap.21.a:0 "The time is near."  

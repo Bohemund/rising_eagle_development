@@ -1,0 +1,281 @@
+add_namespace = jap
+
+country_event = { #Japan Intro
+	id = jap.1
+	title = jap.1.t
+	desc = jap.1.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.1.a
+	}
+}
+
+country_event = { #Conference Meeting
+	id = jap.2
+	title = jap.2.t
+	desc = jap.2.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.2.a
+	}
+}
+
+country_event = { #We can become Greater
+	id = jap.3
+	title = jap.3.t
+	desc = jap.3.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.3.a
+	}
+}
+
+country_event = { #The Dangers of Progression
+	id = jap.4
+	title = jap.4.t
+	desc = jap.4.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.4.a
+	}
+}
+
+country_event = { #American Tourists Mistreated
+	id = jap.5
+	title = jap.5.t
+	desc = jap.5.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.5.a
+	}
+}
+
+country_event = { #We are still stuck
+	id = jap.6
+	title = jap.6.t
+	desc = jap.6.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.6.a
+	}
+}
+
+country_event = { #Conference Victory
+	id = jap.7
+	title = jap.7.t
+	desc = jap.7.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.7.a
+	}
+}
+
+country_event = { #Akihito Abdicates
+	id = jap.8
+	title = jap.8.t
+	desc = jap.8.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.8.a
+	}
+}
+
+country_event = { #Naruhito's Enthronement Ceremony
+	id = jap.9
+	title = jap.9.t
+	desc = jap.9.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.9.a
+	}
+}
+
+country_event = { #Naruhito Dissolves Parliament
+	id = jap.10
+	title = jap.10.t
+	desc = jap.10.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.10.a
+	}
+}
+
+country_event = { #The Emperor's Might
+	id = jap.11
+	title = jap.11.t
+	desc = jap.11.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.11.a
+	}
+}
+
+country_event = { #Diary Stolen
+	id = jap.12
+	title = jap.12.t
+	desc = jap.12.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.12.a
+	}
+}
+
+country_event = { #Diary Leaked
+	id = jap.13
+	title = jap.13.t
+	desc = jap.13.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.13.a
+	}
+}
+
+country_event = { #Uncensored Diary Leaked
+	id = jap.14
+	title = jap.14.t
+	desc = jap.14.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.14.a
+	}
+}
+
+country_event = { #Mass Chaos
+	id = jap.15
+	title = jap.15.t
+	desc = jap.15.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.15.a
+	}
+}
+
+country_event = { #Rising JCP Popularity
+	id = jap.16
+	title = jap.16.t
+	desc = jap.16.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.16.a
+	}
+}
+
+country_event = { #JCP wins Elections
+	id = jap.17
+	title = jap.17.t
+	desc = jap.17.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.17.a
+	}
+}
+
+country_event = { #Shinto Socialism
+	id = jap.18
+	title = jap.18.t
+	desc = jap.18.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.18.a
+	}
+}
+
+country_event = { #The Monarchy abolished 
+	id = jap.19
+	title = jap.19.t
+	desc = jap.19.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.19.a
+	}
+}
+
+country_event = { #Monarchist-Republican Civil War
+	id = jap.20
+	title = jap.20.t
+	desc = jap.20.desc 
+
+	is_triggered_only = yes 
+
+	fire_only_once = yes
+
+	option = {
+		name = jap.20.a
+	}
+}
