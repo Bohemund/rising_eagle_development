@@ -37,10 +37,10 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 15
+			popularity = 12
 		}
 		nationalist = {
-			popularity = 22
+			popularity = 26
 		}
 		conservative = {
 			popularity = 5
@@ -49,37 +49,26 @@ set_politics = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 0
+			popularity = 15
 		}
 		social_democrat = {
 			popularity = 8
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 34
 		}
 		libertarian_socialist = {
-			popularity = 38
+			popularity = 0
 		}
 		communist = {
-			popularity = 12
+			popularity = 0
 		}
 	}
 	
-	ruling_party = libertarian_socialist
-	last_election = "2007.10.9"
+	ruling_party = democratic_socialist
+	last_election = "2001.10.9"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Seyoum Mesfin"
-	desc = "POLITICS_HAILE_SELASSIE_DESC"
-	picture = "Portrait_ETH_Seyoum_Mesfin.tga"
-	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -88,6 +77,28 @@ create_country_leader = {
 	picture = "Portrait_ETH_Haile_Selassie.tga"
 	expire = "2050.1.1"
 	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Demeke Mekonnen"
+	desc = "POLITICS_HAILE_SELASSIE_DESC"
+	picture = "Portrait_ETH_Demeke_Mekonnen.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Seyoum Mesfin"
+	desc = "POLITICS_HAILE_SELASSIE_DESC"
+	picture = "Portrait_ETH_Seyoum_Mesfin.tga"
+	expire = "2050.1.1"
+	ideology = libertarian_socialist_ideology
 	traits = {
 		#
 	}

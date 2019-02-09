@@ -8,18 +8,18 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = CIR
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = SOV
+		add_core_of = CIR
 
 	}
 
 	provinces={
-		685 3698 6674 6692 6721 9628 9632 9647 9649 9663 9674 11609 11614 11664 
+		685 6674 9649 11633 6718 11664 6692
 	}
-	manpower=1463970
+	manpower=1209939
 	buildings_max_level_factor=1.000
 	state_category = state_level_5
 }

@@ -1,438 +1,351 @@
-﻿add_namespace = decisions
+﻿add_namespace = decision_event
 
-# Recruit general for civil war event
+#1952 Presidential election
 country_event = {
-	id = decisions.1
-	title = decisions.1.t
-	desc = decisions.1.desc
-	picture = GFX_report_event_hitler_handshake
-
-	is_triggered_only = yes
-
-	immediate = {
-		hidden_effect = {
-			if = {
-				limit = {
-					any_army_leader = {
-						average_stats < 2
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						average_stats < 2
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 2 }
-						average_stats < 3
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 2 }
-						average_stats < 3
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 3 }
-						average_stats < 4
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 3 }
-						average_stats < 4
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 4 }
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 4 }
-						is_field_marshal = no
-						NOT = { has_unit_leader_flag = hidden_sympathies }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies
-				}	
-			}
-		}
-	}
+	id = decision_event.1
+	title = decision_event.1.t
+	desc = decision_event.1.d
+	picture = 1952_us_election
 	
-	# Recruit weak leader
-	option = {
-		name = decisions.1.a
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = no
-				average_stats < 2
-				has_unit_leader_flag = hidden_sympathies
-			}
-		}
-		add_command_power = -1
-		random_army_leader = {
-			limit = {
-				is_field_marshal = no
-				average_stats < 2
-				has_unit_leader_flag = hidden_sympathies
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies
-				}
-				clr_unit_leader_flag = hidden_sympathies
-			}
-		}
-	}
-
-	# Recruit below mediocre leader
-	option = {
-		name = decisions.1.b
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = no
-				NOT = { average_stats < 2 }
-				average_stats < 3
-				has_unit_leader_flag = hidden_sympathies
-			}
-		}
-		add_command_power = -2
-		add_political_power = -10
-		random_army_leader = {
-			limit = {
-				is_field_marshal = no
-				NOT = { average_stats < 2 }
-				average_stats < 3
-				has_unit_leader_flag = hidden_sympathies
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies
-				}
-				clr_unit_leader_flag = hidden_sympathies
-			}
-		}
-	}
-
-	# Recruit above mediocre leader
-	option = {
-		name = decisions.1.c
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = no
-				NOT = { average_stats < 3 }
-				average_stats < 4
-				has_unit_leader_flag = hidden_sympathies
-			}
-		}
-		add_command_power = -3
-		add_political_power = -20
-		random_army_leader = {
-			limit = {
-				is_field_marshal = no
-				NOT = { average_stats < 3 }
-				average_stats < 4
-				has_unit_leader_flag = hidden_sympathies
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies
-				}
-				clr_unit_leader_flag = hidden_sympathies
-			}
-		}
-	}
-
-	# Recruit great leader
-	option = {
-		name = decisions.1.d
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = no
-				NOT = { average_stats < 4 }
-				has_unit_leader_flag = hidden_sympathies
-			}
-		}
-		add_command_power = -4
-		add_political_power = -30
-		random_army_leader = {
-			limit = {
-				is_field_marshal = no
-				NOT = { average_stats < 4 }
-				has_unit_leader_flag = hidden_sympathies
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies
-				}
-				clr_unit_leader_flag = hidden_sympathies
-			}
-		}
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.1.o1
 	}
 }
 
-# Recruit field marshal for civil war event
+#Surrender at Hyesan
 country_event = {
-	id = decisions.2
-	title = decisions.2.t
-	desc = decisions.2.desc
-	picture = GFX_report_event_hitler_handshake
-
-	is_triggered_only = yes
-
-	immediate = {
-		hidden_effect = {
-			if = {
-				limit = {
-					any_army_leader = {
-						average_stats < 2
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						average_stats < 2
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies_marshal
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 2 }
-						average_stats < 3
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 2 }
-						average_stats < 3
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies_marshal
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 3 }
-						average_stats < 4
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 3 }
-						average_stats < 4
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies_marshal
-				}	
-			}
-			if = {
-				limit = {
-					any_army_leader = {
-						NOT = { average_stats < 4 }
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-				}
-				random_army_leader = {
-					limit = {
-						NOT = { average_stats < 4 }
-						is_field_marshal = yes
-						NOT = { has_unit_leader_flag = hidden_sympathies_marshal }
-						NOT = { has_trait = hidden_sympathies }
-					}
-					set_unit_leader_flag = hidden_sympathies_marshal
-				}	
-			}
-		}
-	}
+	id = decision_event.2
+	title = decision_event.2.t
+	desc = decision_event.2.d
+	picture = surrender_at_hyesan
 	
-	# Recruit weak leader
-	option = {
-		name = decisions.1.a
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = yes
-				average_stats < 2
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
-		add_command_power = -1
-		random_army_leader = {
-			limit = {
-				is_field_marshal = yes
-				average_stats < 2
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies_marshal
-				}
-				clr_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.2.o1
 	}
+}
 
-	# Recruit below mediocre leader
-	option = {
-		name = decisions.1.b
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = yes
-				NOT = { average_stats < 2 }
-				average_stats < 3
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
-		add_command_power = -2
-		add_political_power = -10
-		random_army_leader = {
-			limit = {
-				is_field_marshal = yes
-				NOT = { average_stats < 2 }
-				average_stats < 3
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies_marshal
-				}
-				clr_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
+#Operation Ajax
+country_event = {
+	id = decision_event.3
+	title = decision_event.3.t
+	desc = decision_event.3.d
+	picture = operation_ajax
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.3.o1
 	}
+}
 
-	# Recruit above mediocre leader
-	option = {
-		name = decisions.1.c
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = yes
-				NOT = { average_stats < 3 }
-				average_stats < 4
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
-		add_command_power = -3
-		add_political_power = -20
-		random_army_leader = {
-			limit = {
-				is_field_marshal = yes
-				NOT = { average_stats < 3 }
-				average_stats < 4
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies_marshal
-				}
-				clr_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
+#1954 Guatemalan Coup D'etat
+country_event = {
+	id = decision_event.4
+	title = decision_event.4.t
+	desc = decision_event.4.d
+	picture = 1954_guatemala_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.4.o1
 	}
+}
 
-	# Recruit great leader
-	option = {
-		name = decisions.1.d
-		trigger = {
-			any_army_leader = {
-				is_field_marshal = yes
-				NOT = { average_stats < 4 }
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
-		add_command_power = -4
-		add_political_power = -30
-		random_army_leader = {
-			limit = {
-				is_field_marshal = yes
-				NOT = { average_stats < 4 }
-				has_unit_leader_flag = hidden_sympathies_marshal
-			}
-			add_unit_leader_trait = hidden_sympathies
-		}
-		hidden_effect = {
-			every_army_leader = {
-				limit = {
-					has_unit_leader_flag = hidden_sympathies_marshal
-				}
-				clr_unit_leader_flag = hidden_sympathies_marshal
-			}
-		}
+#Suez Crisis
+country_event = {
+	id = decision_event.9
+	title = decision_event.9.t
+	desc = decision_event.9.d
+	picture = suez_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.9.o1
+	}
+}
+
+#1956 Presidential Election
+country_event = {
+	id = decision_event.5
+	title = decision_event.5.t
+	desc = decision_event.5.d
+	picture = 1956_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.5.o1
+	}
+}
+
+#Civil Rights Movement
+country_event = {
+	id = decision_event.6
+	title = decision_event.6.t
+	desc = decision_event.6.d
+	picture = civil_rights_movement
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.6.o1
+	}
+}
+
+#1960 Presidential Election
+country_event = {
+	id = decision_event.7
+	title = decision_event.7.t
+	desc = decision_event.7.d
+	picture = 1960_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.7.o1
+	}
+}
+
+#Cuban Missile Crisis
+country_event = {
+	id = decision_event.8
+	title = decision_event.8.t
+	desc = decision_event.8.d
+	picture = cuban_missile_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.8.o1
+	}
+}
+
+#Gulf of Tonkin Incident
+country_event = {
+	id = decision_event.10
+	title = decision_event.10.t
+	desc = decision_event.10.d
+	picture = gulf_of_tonkin
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.10.o1
+	}
+}
+
+#1964 Presidential Election
+country_event = {
+	id = decision_event.11
+	title = decision_event.11.t
+	desc = decision_event.11.d
+	picture = 1964_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.11.o1
+	}
+}
+
+#New Frontier
+country_event = {
+	id = decision_event.12
+	title = decision_event.12.t
+	desc = decision_event.12.d
+	picture = new_frontier
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.12.o1
+	}
+}
+
+#Vietnam War
+country_event = {
+	id = decision_event.13
+	title = decision_event.13.t
+	desc = decision_event.13.d
+	picture = vietnam_war
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.13.o1
+	}
+}
+
+#1968 Presidential Election
+country_event = {
+	id = decision_event.14
+	title = decision_event.14.t
+	desc = decision_event.14.d
+	picture = 1968_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.14.o1
+	}
+}
+
+#1964 Brazilian Coup D'état
+country_event = {
+	id = decision_event.15
+	title = decision_event.15.t
+	desc = decision_event.15.d
+	picture = brazilian_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.15.o1
+	}
+}
+
+#New Order
+country_event = {
+	id = decision_event.16
+	title = decision_event.16.t
+	desc = decision_event.16.d
+	picture = new_order
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.16.o1
+	}
+}
+
+#Assassination of Robert Kennedy
+country_event = {
+	id = decision_event.17
+	title = decision_event.17.t
+	desc = decision_event.17.d
+	picture = robert_kennedy
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.17.o1
+	}
+}
+
+#1972 Election
+country_event = {
+	id = decision_event.18
+	title = decision_event.18.t
+	desc = decision_event.18.d
+	picture = 1972_us_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.18.o1
+	}
+}
+
+#American Scandal
+country_event = {
+	id = decision_event.19
+	title = decision_event.19.t
+	desc = decision_event.19.d
+	picture = JAP_1988_scandal
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.19.o1
+	}
+}
+
+#Alliance for Progress
+country_event = {
+	id = decision_event.20
+	title = decision_event.20.t
+	desc = decision_event.20.d
+	picture = USA_alliance_for_progress
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.20.o1
+	}
+}
+
+#1960 Turkish Coup D'état
+country_event = {
+	id = decision_event.21
+	title = decision_event.21.t
+	desc = decision_event.21.d
+	picture = TUR_1960_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.21.o1
+	}
+}
+
+#Ho Chi Minh Campaign
+country_event = {
+	id = decision_event.22
+	title = decision_event.22.t
+	desc = decision_event.22.d
+	picture = VIN_ho_chi_minh_campaign
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.22.o1
+	}
+}
+
+#2000 Mexican General Election
+country_event = {
+	id = decision_event.23
+	title = decision_event.23.t
+	desc = decision_event.23.d
+	picture = MEX_2000_general_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.23.o1
+	}
+}
+
+#Chile 1973 Coup
+country_event = {
+	id = decision_event.24
+	title = decision_event.24.t
+	desc = decision_event.24.d
+	picture = CHL_1973_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.24.o1
+	}
+}
+
+#1976 US Presidential Election
+country_event = {
+	id = decision_event.25
+	title = decision_event.25.t
+	desc = decision_event.25.d
+	picture = USA_1976_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.25.o1
 	}
 }
