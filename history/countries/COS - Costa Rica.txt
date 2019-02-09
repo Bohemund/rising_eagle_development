@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_COS_Oscar_Arias.tga"
 	expire = "2050.1.1"
-	ideology = national_liberal
+	ideology = liberal_ideology
 	traits = {
 		#
 	}

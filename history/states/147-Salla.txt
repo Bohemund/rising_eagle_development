@@ -11,11 +11,11 @@ state=
 	}
 	
 	history = {	
-		owner = KRL
+		owner = RUS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = KRL
+		add_core_of = RUS
 
 		victory_points = {
 			197 1
@@ -23,6 +23,6 @@ state=
 	}
 
 	provinces={
-		197 9158 11085 	
+		197 11085 	
 	}
 }

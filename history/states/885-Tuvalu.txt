@@ -5,8 +5,7 @@ state={
 		13229 
 	}
 	history = {
-		owner = TUV
-		add_core_of = TUV
+		owner = ENG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
