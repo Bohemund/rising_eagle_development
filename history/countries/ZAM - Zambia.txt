@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_ZAM_Kenneth_Kaunda.tga"
 	expire = "2050.1.1"
-	ideology = african_socialism
+	ideology = african_socialist
 	traits = {
 		#
 	}

@@ -3704,5 +3704,21 @@ spriteTypes = {
 		name = "GFX_idea_idea_carl_xvi_gustaf"
 		texturefile = "gfx/interface/ideas/carl_xvi_gustaf.dds"
 	}	
-	
+
+	spriteType = {
+		name = "GFX_idea_TUR_unstable_coalition"
+		texturefile = "gfx/interface/ideas/TUR_unstable_coalition.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_TUR_unpredictable_economy"
+		texturefile = "gfx/interface/ideas/TUR_unpredictable_economy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_TUR_interventionist_military"
+		texturefile = "gfx/interface/ideas/TUR_interventionist_military.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_TUR_patriotic_society"
+		texturefile = "gfx/interface/ideas/TUR_patriotic_society.dds"
+	}	
 }
