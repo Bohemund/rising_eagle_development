@@ -3,10 +3,10 @@
  #PARTIES
  BRA_ultranationalist_party:0 "Popular Representation"
  BRA_ultranationalist_party_long:0 "Party of Popular Representation"
- BRA_monarchist_party:0 "House of Braganza"
+ BRA_monarchist_party:0 "Orléans-Braganza"
  BRA_monarchist_party_long:0 "House of Orléans-Braganza"
- BRA_nationalist_party:0 "Military Clique"
- BRA_nationalist_party_long:0 "Military Clique"
+ BRA_nationalist_party:0 "Labour Renewal Party"
+ BRA_nationalist_party_long:0 "Labour Renewal Party"
  BRA_conservative_party:0 "Republican Party"
  BRA_conservative_party_long:0 "Republican Party"
  BRA_centrist_party:0 "Progressive Party"

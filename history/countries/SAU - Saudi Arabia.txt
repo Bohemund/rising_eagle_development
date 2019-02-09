@@ -44,34 +44,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 5
 		}
 		monarchist = {
-			popularity = 29
+			popularity = 31
 		}
 		nationalist = {
-			popularity = 4
+			popularity = 9
 		}
 		conservative = {
-			popularity = 21
+			popularity = 15
 		}
 		centrist = {
-			popularity = 10
+			popularity = 4
 		}
 		liberal = {
-			popularity = 28
+			popularity = 11
 		}
 		social_democrat = {
-			popularity = 8
+			popularity = 1
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		libertarian_socialist = {
-			popularity = 0
+			popularity = 18
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
@@ -82,7 +82,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Nayef bin Abdul-Aziz Al Saud"
+	name = "Bandar bin Saud bin Abdul Aziz Al-Saud"
 	desc = "POLITICS_ABDULAZIZ_DESC"
 	picture = "Portrait_SAU_Saudi_King.tga"
 	expire = "2050.1.1"

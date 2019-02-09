@@ -41,13 +41,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 10
+			popularity = 39
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 39
+			popularity = 0
 		}
 		conservative = {
 			popularity = 7
@@ -62,26 +62,26 @@ set_politics = {
 			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 3
+			popularity = 10
 		}
 		libertarian_socialist = {
-			popularity = 0
+			popularity = 3
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = nationalist
-	last_election = "2006.10.1"
+	ruling_party = ultranationalist
+	last_election = "1964.4.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Hamilton Mourão"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
+	name = "Paulo Maluf"
+	desc = "POLITICS_PAULO_MALUF_DESC"
+	picture = "Portrait_SOU_Paulo_Maluf.tga"
 	expire = "2050.1.1"
 	ideology = military_statist
 	traits = {
@@ -101,11 +101,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Paulo Maluf"
-	desc = "POLITICS_PAULO_MALUF_DESC"
-	picture = "Portrait_SOU_Paulo_Maluf.tga"
+	name = "Hamilton Mourão"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = military_junta
 	traits = {
 		#
 	}
@@ -123,22 +123,22 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ciro Nogueira Lima Filho"
+	name = "José Serra"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SOU_Ciro_Nogueira_Lima_Filho.tga"
+	picture = "Portrait_SOU_Jose_Serra.tga"
 	expire = "2050.1.1"
-	ideology = national_liberal
+	ideology = market_liberal
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Romero Jucá"
+	name = "Pablo Escobar"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SOU_Romero_Juca.tga"
+	picture = "Portrait_SOU_Pablo_Escobar.tga"
 	expire = "2050.1.1"
-	ideology = social_liberal
+	ideology = national_liberal
 	traits = {
 		#
 	}

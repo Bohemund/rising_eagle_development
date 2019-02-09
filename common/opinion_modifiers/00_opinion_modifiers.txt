@@ -160,4 +160,3 @@ opinion_modifiers = {
 	anti_american = { 
 	value = -50
 	}
-}	

@@ -1,0 +1,13 @@
+idea_categories = {
+	cabinet = {
+	    
+		slot = second_in_command
+		slot = foreign_minister
+		slot = industry_minister
+		slot = national_security_minister
+		slot = intelligence_minister
+		
+		cost = 150
+		removal_cost = 0
+	}
+}
