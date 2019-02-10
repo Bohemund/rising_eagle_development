@@ -1286,7 +1286,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_moderate_control }
-		x = 77
+		x = 76
 		y = 9
 		completion_reward = {
 		    
@@ -1457,7 +1457,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_resolidify_power }
-		x = 79
+		x = 77
 		y = 10
 		completion_reward = {
 		    
@@ -1471,7 +1471,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_try_new_policies }
-		x = 79
+		x = 77
 		y = 11
 		completion_reward = {
 		    
@@ -1485,7 +1485,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_work_act }
-		x = 79
+		x = 77
 		y = 12
 		completion_reward = {
 		    
@@ -1499,7 +1499,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_careful_infrastructure_plan }
-		x = 79
+		x = 77
 		y = 13
 		completion_reward = {
 		    
@@ -1602,7 +1602,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_reverse_all_reforms }
-		x = 88
+		x = 85
 		y = 9
 		completion_reward = {
 		    
@@ -1616,7 +1616,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_tone_down_nationalism }
-		x = 88
+		x = 85
 		y = 10
 		completion_reward = {
 		    
@@ -1630,7 +1630,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_plead_emperor_endorsing }
-		x = 88
+		x = 85
 		y = 11
 		completion_reward = {
 		    
@@ -1819,7 +1819,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_reverse_all_reforms }
-		x = 90
+		x = 87
 		y = 9
 		completion_reward = {
 		    
@@ -1833,7 +1833,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_free_company_act }
-		x = 90
+		x = 87
 		y = 10
 		completion_reward = {
 		    
@@ -1847,7 +1847,7 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_free_capitalism }
-		x = 90
+		x = 87
 		y = 11
 		completion_reward = {
 		    
@@ -2642,19 +2642,371 @@ focus_tree = {
 
 	}
 	
+	focus = {
+		id = JAP_begin_cult
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_hail_naruhito } 
+		x = 98
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_the_speech
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_begin_cult } 
+		x = 98
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_empower_royals 
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_hail_naruhito } 
+		x = 94
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_privelieged_class
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_empower_royals } 
+		x = 94
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+
+	focus = {
+		id = JAP_sun_rule
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_hail_naruhito } 
+		x = 96
+		y = 3
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_imperial_despotism
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_sun_rule } 
+		prerequisite = { focus = JAP_the_speech } 
+		prerequisite = { focus = JAP_privelieged_class } 
+		x = 96
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_enforce_japanese_traditions 
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_imperial_despotism } 
+		x = 98
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_remove_western_culture
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_enforce_japanese_traditions } 
+		x = 98
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_is_old_old_is_new
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_remove_western_culture } 
+		x = 98
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_indoctricate_the_youth
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_imperial_despotism } 
+		x = 100
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_brainwashing_through_education
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_indoctricate_the_youth } 
+		x = 100
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_student_militias
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_brainwashing_through_education } 
+		x = 100
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_mass_nationalisation
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_imperial_despotism } 
+		x = 94
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_proper_land_usage
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_mass_nationalisation } 
+		x = 94
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_emperors_land
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_proper_land_usage } 
+		x = 94
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_imperial_court
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_imperial_despotism } 
+		x = 92
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_loose_lips_lose_lives
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_imperial_court } 
+		x = 92
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_monitor_populaion
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_loose_lips_lose_lives } 
+		x = 92
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_a_traditional_japan
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_monitor_populaion } 
+		prerequisite = { focus = JAP_emperors_land } 
+		prerequisite = { focus = JAP_student_militias }
+		prerequisite = { focus = JAP_new_is_old_old_is_new } 
+		x = 96
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_autocratic_culture
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_monitor_populaion } 
+		prerequisite = { focus = JAP_emperors_land }
+		x = 93
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_thought_process
+		icon = 
+		cost = 2
+		
+	 
+		prerequisite = { focus = JAP_autocratic_culture }
+		x = 93
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_no_rebellion_concept
+		icon = 
+		cost = 2
+		
+	 
+		prerequisite = { focus = JAP_thought_process }
+		x = 93
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
 	
 	
 	
+	focus = {
+		id = JAP_japanese_ultra_spirit
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_student_militias } 
+		prerequisite = { focus = JAP_new_is_old_old_is_new }
+		x = 99
+		y = 9
+		completion_reward = {
+		    
+		}
+
+	}
 	
+	focus = {
+		id = JAP_anti_west_culture
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_japanese_ultra_spirit } 
+		
+		x = 99
+		y = 10
+		completion_reward = {
+		    
+		}
+
+	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
+	focus = {
+		id = JAP_japan_rules_asia
+		icon = 
+		cost = 2
+		
+		prerequisite = { focus = JAP_a_traditional_japan }
+        prerequisite = { focus = JAP_anti_west_culture } 
+        prerequisite = { focus = JAP_no_rebellion_concept }		
+		
+		x = 96
+		y = 11
+		completion_reward = {
+		    
+		}
+
+	}
 	
 	
 	
