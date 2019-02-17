@@ -1,4 +1,4 @@
-﻿capital = 259
+﻿capital = 295
 
 oob = "CDR_2010"
 

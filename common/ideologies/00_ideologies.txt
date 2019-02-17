@@ -15,9 +15,6 @@ ideologies = {
 			
 			falangist = {			
 			}
-			
-			national_bolshevik = {				
-			} 
 
 			eurasianist = {	
 			}
@@ -445,7 +442,7 @@ ideologies = {
 			anarcho_communist = {
 			}
 
-			christian_socialist = {
+			christian_communist = {
 			}
 
 			democratic_confederalist = {
@@ -455,6 +452,9 @@ ideologies = {
 			}
 
 			bolivarianist = {
+			}
+
+			african_socialist = {
 			}
 			
 		}
@@ -510,9 +510,6 @@ ideologies = {
 			}
 
 			titoist = {
-			}
-			
-			christian_communist = {
 			}
 			
 		}

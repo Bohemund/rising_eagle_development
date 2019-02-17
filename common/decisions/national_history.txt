@@ -53,7 +53,7 @@ fifties = {
 
 	1953_iranian_coup = {
 
-		icon = GFX_decision_generic_operation
+		icon = GFX_decision_generic_prepare_civil_war
 
 		allowed = {
 			OR = {
@@ -79,7 +79,7 @@ fifties = {
 
 	1954_guatemalan_coup = {
 
-		icon = GFX_decision_generic_operation
+		icon = GFX_decision_generic_prepare_civil_war
 
 		allowed = {
 			OR = {
@@ -100,6 +100,32 @@ fifties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.4 }
+		}
+	}
+
+	vietnam_war = {
+
+		icon = GFX_decision_generic_scorched_earth
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			    original_tag = VIN
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.13 }
 		}
 	}
 
@@ -156,9 +182,6 @@ fifties = {
 			country_event = { id = decision_event.5 }
 		}
 	}
-}
-
-sixties = {
 
 	civil_rights_movement = {
 
@@ -184,6 +207,9 @@ sixties = {
 			country_event = { id = decision_event.6 }
 		}
 	}
+}
+
+sixties = {
 
 	TUR_1960_turkish_coup = {
 
@@ -262,6 +288,31 @@ sixties = {
 		}
 	}
 
+	new_frontier = {
+
+		icon = GFX_decision_ger_mefo_bills
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.12 }
+		}
+	}
+
 	USA_alliance_for_progress = {
 
 		icon = GFX_decision_generic_decision
@@ -299,7 +350,7 @@ sixties = {
 
 	1964_brazil_coup = {
 
-		icon = GFX_decision_generic_tank
+		icon = GFX_decision_generic_prepare_civil_war
 
 		allowed = {
 			OR = {
@@ -375,31 +426,6 @@ sixties = {
 		}
 	}
 
-	new_frontier = {
-
-		icon = GFX_decision_generic_decision
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.12 }
-		}
-	}
-
 	new_order = {
 
 		icon = GFX_decision_generic_prepare_civil_war
@@ -426,14 +452,18 @@ sixties = {
 		}
 	}
 
-	vietnam_war = {
+	ISR_six_day_war = {
 
-		icon = GFX_decision_generic_scorched_earth
+		icon = GFX_decision_generic_tank
 
 		allowed = {
 			OR = {
+			    original_tag = ISR
 			    original_tag = USA
-			    original_tag = VIN
+			    original_tag = EGY
+			    original_tag = LEB
+			    original_tag = JOR
+			    original_tag = SYR
 			}
 		}
 
@@ -448,7 +478,7 @@ sixties = {
 		}
 
 		complete_effect = {
-			country_event = { id = decision_event.13 }
+			country_event = { id = decision_event.28 }
 		}
 	}
 
@@ -556,14 +586,21 @@ seventies = {
 		}
 	}
 
-	VIN_ho_chi_minh_campaign = {
+	USA_operation_condor = {
 
-		icon = GFX_decision_generic_scorched_earth
+		icon = GFX_decision_infiltrate_state
 
 		allowed = {
 			OR = {
-			    original_tag = VIN
 			    original_tag = USA
+			    original_tag = CHL
+			    original_tag = BOL
+			    original_tag = ARG
+			    original_tag = PAR
+			    original_tag = URG
+			    original_tag = BRA
+			    original_tag = COL
+			    original_tag = SOU
 			}
 		}
 
@@ -579,6 +616,60 @@ seventies = {
 
 		complete_effect = {
 			country_event = { id = decision_event.22 }
+		}
+	}
+
+	CHI_third_taiwan_strait_crisis = {
+
+		icon = GFX_decision_generic_naval
+
+		allowed = {
+			OR = {
+			    original_tag = CHI
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.26 }
+		}
+	}
+
+	CHI_white_flower_revolution = {
+
+		icon = GFX_decision_generic_nationalism
+
+		allowed = {
+			OR = {
+			    original_tag = CHI
+			    original_tag = USA
+			    original_tag = TIB
+			    original_tag = RUS
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.27 }
 		}
 	}
 

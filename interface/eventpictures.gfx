@@ -112,8 +112,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "VIN_ho_chi_minh_campaign"
-		texturefile = "gfx/event_pictures/report_event/VIN_ho_chi_minh_campaign.dds"
+		name = "USA_operation_condor"
+		texturefile = "gfx/event_pictures/report_event/USA_operation_condor.dds"
 	}
 
 	spriteType = {
@@ -134,5 +134,20 @@ spriteTypes = {
 	spriteType = {
 		name = "USA_1976_election"
 		texturefile = "gfx/event_pictures/report_event/USA_1976_election.dds"
+	}
+
+	spriteType = {
+		name = "CHI_third_taiwan_strait_crisis"
+		texturefile = "gfx/event_pictures/report_event/CHI_third_taiwan_strait_crisis.dds"
+	}
+
+	spriteType = {
+		name = "CHI_white_flower_revolution"
+		texturefile = "gfx/event_pictures/report_event/CHI_white_flower_revolution.dds"
+	}
+
+	spriteType = {
+		name = "ISR_six_day_war"
+		texturefile = "gfx/event_pictures/report_event/ISR_six_day_war.dds"
 	}
 }
