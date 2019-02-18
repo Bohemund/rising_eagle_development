@@ -1,0 +1,309 @@
+spriteTypes = {
+
+	
+	SpriteType = {
+        name = "GFX_JAP_electoralcampaign"
+        texturefile = "gfx/interface/goals/electoralcampaign.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_JAP_elections"
+        texturefile = "gfx/interface/goals/Voter_Fraud.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_JAP_imperial_cult"
+        texturefile = "gfx/interface/goals/Imperialcult.dds"		
+    }	
+	
+	
+	
+	SpriteType = {
+        name = "GFX_JAP_empower_royals"
+        texturefile = "gfx/interface/goals/Empowerroyals.dds"		
+    }	
+	
+	
+	SpriteType = {
+        name = "GFX_JAP_royal_heirachy"
+        texturefile = "gfx/interface/goals/focus_rom_parties_end.dds"		
+    }	
+	
+	
+	
+	SpriteType = {
+        name = "GFX_imperial_despotism"
+        texturefile = "gfx/interface/goals/imperialdespotism.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_destroywestvalues"
+        texturefile = "gfx/interface/goals/destroywesternculture.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_stateshinto"
+        texturefile = "gfx/interface/goals/stateshinto.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_authorty"
+        texturefile = "gfx/interface/goals/authorty.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Educationbrainwashing"
+        texturefile = "gfx/interface/goals/Educationbrainwashing.dds"		
+    }
+	
+	SpriteType = {
+        name = "GFX_studentarmy"
+        texturefile = "gfx/interface/goals/studentarmy.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_massnationalisation"
+        texturefile = "gfx/interface/goals/massnationalisation.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_resdistributeland"
+        texturefile = "gfx/interface/goals/resdistributeland.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_emperorsland"
+        texturefile = "gfx/interface/goals/emperorsland.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Imperialcourt"
+        texturefile = "gfx/interface/goals/Imperialcourt.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_silence"
+        texturefile = "gfx/interface/goals/chainborder.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_oppression"
+        texturefile = "gfx/interface/goals/oppression.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_thought_control"
+        texturefile = "gfx/interface/goals/thoughtcontrol.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_destroy_LDP"
+        texturefile = "gfx/interface/goals/destroyLDP.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_powergrab"
+        texturefile = "gfx/interface/goals/powergrab.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_newjapanmovement"
+        texturefile = "gfx/interface/goals/newjapanmovement.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_new_consistution"
+        texturefile = "gfx/interface/goals/newconsistution.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_honor_the_imperial_family"
+        texturefile = "gfx/interface/goals/honor_imperial_family.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_a_new_japan"
+        texturefile = "gfx/interface/goals/a_new_japan.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_protect_upper_class"
+        texturefile = "gfx/interface/goals/protectupperclass.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_imperial_cult"
+        texturefile = "gfx/interface/goals/Imperialcult.dds"		
+    }	
+	
+	
+	
+	
+	SpriteType = {
+        name = "GFX_state_shintoism"
+        texturefile = "gfx/interface/goals/Stateshintoism.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_heirachy"
+        texturefile = "gfx/interface/goals/heirachy.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_upper_class"
+        texturefile = "gfx/interface/goals/upperclass.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_restrictfreedom"
+        texturefile = "gfx/interface/goals/restrictfreedom.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_eternal_emperor"
+        texturefile = "gfx/interface/goals/emperoriswatchingyou.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_for_the_emperor"
+        texturefile = "gfx/interface/goals/fortheemperor.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_japanese_identity"
+        texturefile = "gfx/interface/goals/Japansovergin.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_japan_tradition"
+        texturefile = "gfx/interface/goals/Japanesetradition.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_honor_ancestors"
+        texturefile = "gfx/interface/goals/honorourancestors.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_visit_shrines"
+        texturefile = "gfx/interface/goals/visitstoshrines.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_cultural_fanaticism"
+        texturefile = "gfx/interface/goals/culturalfanaticism.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Japanese_culture"
+        texturefile = "gfx/interface/goals/japaneseculture.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_japan_inovation"
+        texturefile = "gfx/interface/goals/Japaneseinovation.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFXjapan_working_spirit"
+        texturefile = "gfx/interface/goals/japaneseworkingspirit.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_more_hours"
+        texturefile = "gfx/interface/goals/gettowork.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_olden_days"
+        texturefile = "gfx/interface/goals/justliketheolddays.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	
+}

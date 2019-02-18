@@ -1,0 +1,191 @@
+spriteTypes = {
+
+	SpriteType = {
+        name = "GFX_IBR_road_investigation"
+        texturefile = "gfx/interface/goals/GFX_IBR_road_investigation.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_burning_paperwork"
+        texturefile = "gfx/interface/goals/GFX_IBR_burning_paperwork.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_paperwork"
+        texturefile = "gfx/interface/goals/GFX_IBR_paperwork.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_open_road"
+        texturefile = "gfx/interface/goals/GFX_IBR_open_road.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Broken_Triumvirate"
+        texturefile = "gfx/interface/goals/GFX_IBR_Broken_Triumvirate.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Trade"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Trade.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Taxation"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Taxation.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Military"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Military.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Minorities"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Minorities.dds"
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_DamFunding"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_DamFunding.dds"	
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Siestas"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Siestas.dds"	
+    }
+	SpriteType = {
+        name = "GFX_IBR_Debate_Council"
+        texturefile = "gfx/interface/goals/GFX_IBR_Debate_Council.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_Puppet_Legislature"
+        texturefile = "gfx/interface/goals/GFX_IBR_Puppet_Legislature.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_Peace_At_Last"
+        texturefile = "gfx/interface/goals/GFX_IBR_Peace_At_Last.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_Opus_Dei_Influence"
+        texturefile = "gfx/interface/goals/GFX_IBR_Opus_Dei_Influence.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_Iberian_Council"
+        texturefile = "gfx/interface/goals/GFX_IBR_Iberian_Council.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_iberian_navy"
+        texturefile = "gfx/interface/goals/GFX_IBR_iberian_navy.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_saeta_program"
+        texturefile = "gfx/interface/goals/GFX_IBR_saeta_program.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_iberian_army"
+        texturefile = "gfx/interface/goals/GFX_IBR_iberian_army.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_Congress_Flag"
+        texturefile = "gfx/interface/goals/GFX_IBR_Congress_Flag.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_sever_economic_ties"
+        texturefile = "gfx/interface/goals/GFX_IBR_sever_economic_ties.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_letting_go"
+        texturefile = "gfx/interface/goals/GFX_IBR_letting_go.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_split_africa"
+        texturefile = "gfx/interface/goals/GFX_IBR_split_africa.dds"		
+    }
+	SpriteType = {
+        name = "GFX_IBR_azores"
+        texturefile = "gfx/interface/goals/GFX_IBR_azores.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_fernando_focus"
+        texturefile = "gfx/interface/goals/GFX_GIB_fernando_focus.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_better_idea"
+        texturefile = "gfx/interface/goals/GFX_GIB_better_idea.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_international_roulette"
+        texturefile = "gfx/interface/goals/GFX_GIB_international_roulette.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_winner_winner"
+        texturefile = "gfx/interface/goals/GFX_GIB_winner_winner.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_merchandise_secure"
+        texturefile = "gfx/interface/goals/GFX_GIB_merchandise_secure.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_med_cruises"
+        texturefile = "gfx/interface/goals/GFX_GIB_med_cruises.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_best_dressed"
+        texturefile = "gfx/interface/goals/GFX_GIB_best_dressed.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_private_islands"
+        texturefile = "gfx/interface/goals/GFX_GIB_private_islands.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_lights_camera"
+        texturefile = "gfx/interface/goals/GFX_GIB_lights_camera.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_call_to_world"
+        texturefile = "gfx/interface/goals/GFX_GIB_call_to_world.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_finest_clothing"
+        texturefile = "gfx/interface/goals/GFX_GIB_finest_clothing.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_worlds_greatest_show"
+        texturefile = "gfx/interface/goals/GFX_GIB_worlds_greatest_show.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_propaganda_for_pay"
+        texturefile = "gfx/interface/goals/GFX_GIB_propaganda_for_pay.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_selling_the_war"
+        texturefile = "gfx/interface/goals/GFX_GIB_selling_the_war.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_compete_for_airwaves"
+        texturefile = "gfx/interface/goals/GFX_GIB_compete_for_airwaves.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_televised_promotions"
+        texturefile = "gfx/interface/goals/GFX_GIB_televised_promotions.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_command_for_sale"
+        texturefile = "gfx/interface/goals/GFX_GIB_command_for_sale.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_messages_of_hope"
+        texturefile = "gfx/interface/goals/GFX_GIB_messages_of_hope.dds"		
+    }
+	SpriteType = {
+        name = "GFX_GIB_anyone_who_can_pay"
+        texturefile = "gfx/interface/goals/GFX_GIB_anyone_who_can_pay.dds"		
+    }
+	SpriteType = {
+        name = "GFX_CNT_the_conceptual_level"
+        texturefile = "gfx/interface/goals/GFX_CNT_the_conceptual_level.dds"		
+    }
+	SpriteType = {
+        name = "GFX_CNT_annihilate_anarchism"
+        texturefile = "gfx/interface/goals/GFX_CNT_annihilate_anarchism.dds"		
+    }
+	SpriteType = {
+        name = "GFX_CNT_meet_the_new_boss"
+        texturefile = "gfx/interface/goals/GFX_CNT_meet_the_new_boss.dds"		
+    }
+	SpriteType = {
+        name = "GFX_CNT_isolate_knowledge"
+        texturefile = "gfx/interface/goals/GFX_CNT_isolate_knowledge.dds"		
+    }	
+}
