@@ -2,6 +2,10 @@
 
 oob = "GRE_2010"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 60
 set_stability = 0.6

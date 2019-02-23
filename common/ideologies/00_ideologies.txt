@@ -25,7 +25,7 @@ ideologies = {
 			integralist = {	
 			}
 
-			military_statist = {	
+			military_dictator = {	
 			}
 			
 			baathist = {	
@@ -35,6 +35,12 @@ ideologies = {
 			}
 
 			mexican_synarchist = {	
+			}
+
+			revolutionary_islamist = {	
+			}
+
+			mobutist = {	
 			}
 
 		}
@@ -178,7 +184,7 @@ ideologies = {
 			conservative_ideology = {
 			}
 
-			american_republican = {
+			american_conservative = {
 			}
 			
 			agrarian_conservative = {
@@ -388,6 +394,9 @@ ideologies = {
 			}
 
 			nasserist = {
+			}
+
+			islamic_socialism = {
 			}
 			
 		}

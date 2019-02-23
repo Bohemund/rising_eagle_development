@@ -3703,6 +3703,41 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_idea_carl_xvi_gustaf"
 		texturefile = "gfx/interface/ideas/carl_xvi_gustaf.dds"
-	}	
+	}
+
+	spriteType = {
+		name = "GFX_idea_nordic_economic_community"
+		texturefile = "gfx/interface/ideas/nordic_economic_community.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_north_atlantic_treaty_organization"
+		texturefile = "gfx/interface/ideas/north_atlantic_treaty_organization.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_european_community"
+		texturefile = "gfx/interface/ideas/european_community.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_unstable_coalition"
+		texturefile = "gfx/interface/ideas/TUR_unstable_coalition.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_unpredictable_economy"
+		texturefile = "gfx/interface/ideas/TUR_unpredictable_economy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_interventionist_military"
+		texturefile = "gfx/interface/ideas/TUR_interventionist_military.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_patriotic_society"
+		texturefile = "gfx/interface/ideas/TUR_patriotic_society.dds"
+	}
 	
 }

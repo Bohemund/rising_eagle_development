@@ -2,6 +2,10 @@
 
 oob = "ITA_2010"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 80
 set_stability = 0.4

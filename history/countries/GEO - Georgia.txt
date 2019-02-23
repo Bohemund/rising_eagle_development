@@ -77,7 +77,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GEO_Vladimer_Chachibaia.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		#
 	}
