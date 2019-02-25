@@ -1,53 +1,48 @@
 ﻿l_english:
  
 #PARTIES
-JAP_ultranationalist_party:0 "Japan Conference"
-JAP_ultranationalist_party_long:0 "Japan Conference"
-JAP_monarchist_party:0 "Chrysanthemum Throne"
-JAP_monarchist_party_long:0 "Chrysanthemum Throne"
-JAP_nationalist_party:0 "National Action"
-JAP_nationalist_party_long:0 "National Action Committee"
-JAP_conservative_party:0 "Liberal Democrats"
-JAP_conservative_party_long:0 "Liberal Democratic Party"
-JAP_centrist_party:0 "Democratic Party"
-JAP_centrist_party_long:0 "Democratic Party"
-JAP_liberal_party:0 "Constitutional Democrats"
-JAP_liberal_party_long:0 "Constitutional Democratic Party"
-JAP_social_democrat_party:0 "Social Democrats"
-JAP_social_democrat_party_long:0 "Social Democratic Party"
-JAP_democratic_socialist_party:0 "Communist Party"
-JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
-JAP_libertarian_socialist_party:0 "Communist Party"
-JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
-JAP_communist_party:0 "Japanese Red Army "
-JAP_communist_party_long:0 "Japanese Red Army"
+ JAP_ultranationalist_party:0 "Japan Conference"
+ JAP_ultranationalist_party_long:0 "Japan Conference"
+ JAP_monarchist_party:0 "Chrysanthemum Throne"
+ JAP_monarchist_party_long:0 "Chrysanthemum Throne"
+ JAP_nationalist_party:0 "National Action"
+ JAP_nationalist_party_long:0 "National Action Committee"
+ JAP_conservative_party:0 "Liberal Democrats"
+ JAP_conservative_party_long:0 "Liberal Democratic Party"
+ JAP_centrist_party:0 "Democratic Party"
+ JAP_centrist_party_long:0 "Democratic Party"
+ JAP_liberal_party:0 "Constitutional Democrats"
+ JAP_liberal_party_long:0 "Constitutional Democratic Party"
+ JAP_social_democrat_party:0 "Social Democrats"
+ JAP_social_democrat_party_long:0 "Social Democratic Party"
+ JAP_democratic_socialist_party:0 "Communist Party"
+ JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
+ JAP_libertarian_socialist_party:0 "Communist Party"
+ JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
+ JAP_communist_party:0 "Japanese Red Army "
+ JAP_communist_party_long:0 "Japanese Red Army"
 
+  JAP_descsions_global_opinions:0 "Global Opinions"
+  our_opinion:0 "Current Global Opinion of Japan is [Var.GetValue}"
  
- 
- #ideas 
-JAP_anti_american_stance:0 "Anti-American Policy"
-JAP_anti_american_stance_desc:0 "Since the 1980s, the United States has been interfering in Japanese politics, whether foreign or domestic. This lead to a return of anti-western stance among the Japanese. Anti-American sentiment is at an all time high, the history between our nations only fueled it. No more will Japan bow down to the Western dogs, they will bow down to us instead!"  
-JAP_stuckcoalition:0 "Coalition Government"
-JAP_stuckcoalition_desc:0 "Japan Conference has to form a coalition with the conservative Liberal Democratic Party in order to effectively run a government. This coalition although effective, it has hindered radical reforms intended by Conference politicans to make Japan a global power, capable of spreading it's influence across the globe. This will soon change however..."
-JAP_emperorakihito:0 "Emperor Akhito"
-JAP_emperorakihito_desc:0 "Akihito acceded to the Chrysanthemum Throne on 12 November 1990. The 125th member of the world's oldest reigning dynasty, he is a symbol of Japan and it's culture, and a figure of unity among the Japanese people."
-JAP_rising_ultnationalism:0 "Rising Nationalism"
-JAP_rising_ultnationalism_desc:0 "As a result of Anti-American sentiment among the population, nationalism has made a swift return in Japan, preparing Japan to return to it's olden imperial roots."
+  JAP_anti_american_stance:0 "Anti-American Policy"
+  JAP_anti_american_stance_desc:0 "Since the 1980s, the United States has been interfering in Japanese politics, whether foreign or domestic. This lead to a return of anti-western stance among the Japanese. Anti-American sentiment is at an all time high, the history between our nations only fueled it. No more will Japan bow down to the Western dogs, they will bow down to us instead!"  
+  JAP_stuckcoalition:0 "Coalition Government"
+  JAP_stuckcoalition_desc:0 "Japan Conference has to form a coalition with the conservative Liberal Democratic Party in order to effectively run a government. This coalition although effective, it has hindered radical reforms intended by Conference politicans to make Japan a global power, capable of spreading it's influence across the globe. This will soon change however..."
+  JAP_emperorakihito:0 "Emperor Akhito"
+  JAP_emperorakihito_desc:0 "Akihito acceded to the Chrysanthemum Throne on 12 November 1990. The 125th member of the world's oldest reigning dynasty, he is a symbol of Japan and it's culture, and a figure of unity among the Japanese people."
+  JAP_rising_ultnationalism:0 "Rising Nationalism"
+  JAP_rising_ultnationalism_desc:0 "As a result of Anti-American sentiment among the population, nationalism has made a swift return in Japan, preparing Japan to return to it's olden imperial roots."
   
 
-#leaders
-POLITICS_ABE_DESC:0 "Shinzo Abe is the grandson of Nobusuke Kishi, the first prime minister of Japan since its defeat in World War 2 and a notorious war criminal in China. Following his family’s political legacy, he joined the Liberal Democratic Party and held several government posts. When the American Scandal was discovered, he urged the LDP to adopt an anti-American stance. Over time, he became dissatisfied with the moderate policies of the LDP and left the party to join the Japan Conference in 2000. He assumed direct control of the organization and under Abe’s leadership; the Conference rose to become a real and major political party. After winning the largest number of seats in the House of Representatives without getting a majority, the Conference formed a coalition with the Liberal Democratic Party. As a compromise, Shinzo Abe was appointed Prime Minister while half of the cabinet is comprised of LDP politicians. Unlike the LDP, the Conference wishes to push for far-right reforms to reclaim Japan’s glory. Abe disguised himself as a patriotic conservative for his public image, hiding his closet ultranationalist beliefs. He plans to eliminate the Conference’s reliance on the LDP so his Imperial reforms can go unopposed and his dream of Japan becoming the strongest nation and dominating Asia again will finally come true."
-  
-#events  
-japanlore.1.t:0 "The American Scandal"
-japanlore.1.d:0 "In 1988, An investigation onto Noboru Takeshita, the Prime Minister of Japan at that time was founded to be accepting bribes from the American company, General Motors for a low tariff on American goods, particulary cars. Known as the American Scandal in Japan, it forced the resignation of Noboru Takeshita and other several prominent Liberal Democratic Party members. Uno Sōsuke was then chosen as Prime Minister, however he was soon compelled to resign as a result of media reports that he had had an extramarital affair and by the Liberal-Democrats’ severe losses in the parliamentary elections of July 1989. Shortly after the American Scandal was revealed to the public, mass protests broke out among the nation against the United States and the American Embassy in Tokyo was subject to mob anger, causing it to close for a month. Notably enough, the American press never reported this scandal. It has been stated by protestors that they are protesting the United States' attempt to control Japan's policies. As anti-American sentiments among the Japanese people increased, right wing movements begin to soar in popularity, the most popular being Japan Conference. Although it was founded in 1997, it gained a massive following in a short time as people are losing faith in the current establishment. They played a major role in reviving Japanese nationalism."
-japanlore.1.a:0 "The Domino Effect has started."
+  POLITICS_ABE_DESC:0 "Shinzo Abe is the grandson of Nobusuke Kishi, the first prime minister of Japan since its defeat in World War 2 and a notorious war criminal in China. Following his family’s political legacy, he joined the Liberal Democratic Party and held several government posts. When the American Scandal was discovered, he urged the LDP to adopt an anti-American stance. Over time, he became dissatisfied with the moderate policies of the LDP and left the party to join the Japan Conference in 2000. He assumed direct control of the organization and under Abe’s leadership; the Conference rose to become a real and major political party. After winning the largest number of seats in the House of Representatives without getting a majority, the Conference formed a coalition with the Liberal Democratic Party. As a compromise, Shinzo Abe was appointed Prime Minister while half of the cabinet is comprised of LDP politicians. Unlike the LDP, the Conference wishes to push for far-right reforms to reclaim Japan’s glory. Abe disguised himself as a patriotic conservative for his public image, hiding his closet ultranationalist beliefs. He plans to eliminate the Conference’s reliance on the LDP so his Imperial reforms can go unopposed and his dream of Japan becoming the strongest nation and dominating Asia again will finally come true."
+   
+  japanlore.1.t:0 "The American Scandal"
+  japanlore.1.d:0 "In 1988, An investigation onto Noboru Takeshita, the Prime Minister of Japan at that time was founded to be accepting bribes from the American company, General Motors for a low tariff on American goods, particulary cars. Known as the American Scandal in Japan, it forced the resignation of Noboru Takeshita and other several prominent Liberal Democratic Party members. Uno Sōsuke was then chosen as Prime Minister, however he was soon compelled to resign as a result of media reports that he had had an extramarital affair and by the Liberal-Democrats’ severe losses in the parliamentary elections of July 1989. Shortly after the American Scandal was revealed to the public, mass protests broke out among the nation against the United States and the American Embassy in Tokyo was subject to mob anger, causing it to close for a month. Notably enough, the American press never reported this scandal. It has been stated by protestors that they are protesting the United States' attempt to control Japan's policies. As anti-American sentiments among the Japanese people increased, right wing movements begin to soar in popularity, the most popular being Japan Conference. Although it was founded in 1997, it gained a massive following in a short time as people are losing faith in the current establishment. They played a major role in reviving Japanese nationalism."
+  japanlore.1.a:0 "The Domino Effect has started."
 
 
 
-
-
-<<<<<<< HEAD
   JAP_conference_meeting:0 "The Meeting" 
   JAP_conference_meeting_desc:0 "To ensure this year's election turn out in our favour, we will hold a meeting discussing campaign starategies. And other issues as well.."
   JAP_conference_victory:0 "We Have Won"
@@ -101,10 +96,126 @@ japanlore.1.a:0 "The Domino Effect has started."
   JAP_free_time_is_not_free:0 "Extra Effort on Labour"
   JAP_free_time_is_not_free_desc:0 "We dont need huge entertainment, its a mere distraction to our work."
   JAP_olden_glory_new_days:0 "Just Like the Old Days"
-   
-	
-	
-   
-
-
-
+  JAP_a_new_education:0 "New Education Techniques"
+  JAP_a_new_education_desc:0 "the Education System must be changed to fit the new era."
+  JAP_revise_syllabus:0 "New Education Material"
+  JAP_revise_syllabus_desc:0 "New subjects and topics will be introduced."
+  JAP_spiritual_education:0 "Spiritual Education"
+  JAP_spiritual_education_desc:0 "Every student must be prepared for the new Japan!"
+  JAP_spirit_of_war:0 "Warring Spirits"
+  JAP_spirit_of_war_desc:0 "Conflict is a part of life, after all."
+  JAP_ultranat_students:0 "Nationalist Students"
+  JAP_ultranat_students_desc:0 "The youth shall see their nation's glory!"
+  JAP_student_acticism:0 "Encourage Student Activism"
+  JAP_student_acticism_desc:0 "They will get rid of our opponents for us."
+  JAP_youth_activities:0 "Youth Pairing Activities"
+  JAP_youth_activities_desc:0 "Our population needs a slight boost."
+  JAP_student_militias:0 "Student Militias"
+  JAP_student_militias_desc:0 "Let them know what is to be like part of an army."
+  JAP_loyalty:0 "Assure Loyalty"
+  JAP_loyalty_desc:0 "Students who do not follow their classmates shall be dealt with."
+  JAP_physical_education:0 "Physical Education"
+  JAP_physical_education_desc:0 "The body must be strong for every student!"
+  JAP_train_the_strongest:0 "Train the Strongest Warriors"
+  JAP_train_the_strongest_desc:0 "They will be the new samurais."
+  JAP_complusury_service:0 "Mandatory Military Service"
+  JAP_complusury_service_desc:0 "No matter male or female,everyone must serve in the military!"
+  JAP_sports_activism:0 "New Sports"
+  JAP_sports_activism_desc:0 "More violent types of sports shall be introduced."
+  JAP_only_the_best_survive:0 "Only The Best Survive"
+  JAP_only_the_best_survive_desc:0 "The weak have no place in our society."  
+  JAP_armed_population:0 "Armed Population"
+  JAP_armed_population_desc:0 "Our citizens must be entirely commited to the nation!"
+  JAP_mental_education:0 "Mental Education"
+  JAP_mental_education_desc:0 "The mind strengthens the body."
+  JAP_the_sciences:0 "The Sciences"
+  JAP_the_sciences_desc:0 "Science plays a crucial part in the world now."
+  JAP_research_centres:0 "Expand research centres"
+  JAP_research_centres_desc:0 "More centres,more tech for the military."
+  JAP_the_arts:0 "Design and Manufacturing"
+  JAP_the_arts_desc:0 "They are both essential for the war economy."
+  JAP_new_designs:0 "New Designs"
+  JAP_new_designs_desc:0 "a modern tech will strike fear into our enemies."
+  JAP_knowledge_is_power:0 "Knowledge is power"
+  JAP_too_much_knowledge:0 "Too much knowledge is harmful"
+  JAP_a_new_political_system:0 "Peoples' Politics"
+  JAP_a_new_political_system_desc:0 "Its the thought that counts."
+  JAP_reform_government_branches:0 "Reform Government Branches"
+  JAP_reform_government_branches_desc:0 "Reorganisation of the Branches allows us to exert more power."
+  JAP_expand_security_ministers:0 "Ministry of Security"
+  JAP_expand_security_ministers_desc:0 "Keeping Japan and its people safe."
+  JAP_state_propaganda:0 "Supress Protestors"
+  JAP_state_propaganda_desc:0 "Do not allow their ideas to spread."
+  JAP_secrret_police:0 "NINJA"
+  JAP_lock_opponents:0 "Imprison Political Opponents"
+  JAP_lock_opponents_desc:0 "Keep them away."
+  JAP_authority_respect:0 "Respect For Authority"
+  JAP_authority_respect_desc:0 "Do not resist, accept."
+  JAP_anti_democratic_thought:0 "Anti-democratic Mindsets"
+  JAP_anti_democratic_thought_desc:0 "Democracy is not necessary for a functioning and stable society."
+  JAP_minister_of_fiance:0 "Ministry Of Finance"
+  JAP_minister_of_fiance_desc:0 "Its all about the money,money,money"
+  JAP_work_with_banks:0 "Work With Banks"
+  JAP_work_with_banks_Desc:0 "Banking companies can be a great ally to our cause."
+  JAP_increase_taxes:0 "Increase Taxes"
+  JAP_increase_taxes_desc:0 "More money for the state."
+  JAP_secret_funds:0 "Secret Funds"
+  JAP_secret_funds_desc:0 "Add them to the Swiss accounts."
+  JAP_war_bonds:0 "War Bonds"
+  JAP_war_bonds_desc:0 "Buy Bonds for Japan!"
+  JAP_money_and_handshakes:0 "Money and Handshakes"
+  JAP_money_and_handshakes_desc:0 "Who said bribery is harmful to the government?"
+  JAP_minister_of_information:0 "Ministry Of Information and Technology"
+  JAP_nationalise_media_outlets:0 "Nationalise Media Outlets"
+  JAP_mass_propaganda:0 "Mass Propaganda"
+  JAP_false_information:0 "False Information"
+  JAP_cencsor_internet:0 "Censor The Internet"
+  JAP_block_social_media:0 "Block American Media"
+  JAP_our_own_websites:0 "Our Own Websites"
+  JAP_lips_shut:0 "Keep Quiet and Nobody Gets Hurt"
+  JAP_the_state_economy:0 "Reform The Economy"
+  JAP_the_state_economy_desc:0 "The Economy must be reformed to suit our needs."
+  JAP_the_big_offer:0 "The Offer"
+  JAP_the_big_offer_desc:0 "The Zaibatzu system will be revived, this time with better plans."
+  JAP_softbank:0 "Softbank"
+  JAP_nissan:0 "Nissan"
+  JAP_toyota:0 "Toyota"
+  JAP_military_designs:0 "Modern Military Designs"
+  JAP_mitsubishi:0 "Mitsubishi"
+  JAP_kddi:0 "KDDI"
+  JAP_post_holdings:0 "Japan Post Holdings"
+  JAP_ntt:0 "Nippon Telegraph"
+  JAP_logistics_and_supplies:0 "Logistics and supplies"
+  JAP_new_state_economics:0 "The New Economy"
+  
+  
+  jap.1.t:0 "Japan's Destiny"
+  jap.1.d:0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

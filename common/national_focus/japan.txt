@@ -31,8 +31,8 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_2010_elections } 
-		x = 40
-		y = 3
+		x = 33
+		y = 4
 		completion_reward = {
 		   
 		}
@@ -45,8 +45,8 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_conference_victory } 
-		x = 41
-		y = 4
+		x = 34
+		y = 5
 		completion_reward = {
 		   
 		}
@@ -59,8 +59,8 @@ focus_tree = {
 		cost = 2
 		
 		prerequisite = { focus = JAP_conference_victory } 
-		x = 39
-		y = 4
+		x = 32
+		y = 5
 		completion_reward = {
 		   
 		}
@@ -422,11 +422,845 @@ focus_tree = {
 
 	}
 	
+	focus = {
+		id = JAP_a_new_education
+		icon = GFX_new_education
+		cost = 2
+		
+		prerequisite = { focus = JAP_new_japan_movement } 
+		
+		x = 49
+		y = 7
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_revise_syllabus
+		icon = GFX_new_syllabus
+		cost = 2
+		
+		prerequisite = { focus = JAP_a_new_education } 
+		
+		x = 49
+		y = 8
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_spiritual_education
+		icon = GFX_spiritual_education
+		cost = 2
+		
+		prerequisite = { focus = JAP_revise_syllabus } 
+		
+		x = 49
+		y = 9
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_spirit_of_war
+		icon = GFX_newjapanmovement
+		cost = 2
+		
+		prerequisite = { focus = JAP_spiritual_education } 
+		
+		x = 48
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_ultranat_students
+		icon = GFX_student_ultnats
+		cost = 2
+		
+		prerequisite = { focus = JAP_spiritual_education } 
+		
+		x = 50
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_student_acticism
+		icon = GFX_student_activitsm
+		cost = 2
+		
+		prerequisite = { focus = JAP_ultranat_students } 
+		
+		x = 51
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_youth_activities
+		icon = GFX_student_ultnats
+		cost = 2
+		
+		prerequisite = { focus = JAP_spirit_of_war } 
+		prerequisite = { focus = JAP_ultranat_students } 
+		x = 49
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_student_militias
+		icon = GFX_studentarmy
+		cost = 2
+		
+		prerequisite = { focus = JAP_spirit_of_war } 
+		 
+		x = 47
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_loyalty
+		icon = GFX_olden_days
+		cost = 2
+		
+		prerequisite = { focus = JAP_student_militias } 
+		prerequisite = { focus = JAP_youth_activities } 
+		prerequisite = { focus = JAP_student_acticism } 
+		x = 49
+		y = 12
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	
+	
+	
+	focus = {
+		id = JAP_physical_education
+		icon = GFX_physicaleducation
+		cost = 2
+		
+		prerequisite = { focus = JAP_a_new_education } 
+		
+		x = 52
+		y = 9
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_train_the_strongest
+		icon = GFX_Train_the_strongest
+		cost = 2
+		
+		prerequisite = { focus = JAP_physical_education } 
+		
+		x = 53
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_complusury_service
+		icon = GFX_Military_service
+		cost = 2
+		
+		prerequisite = { focus = JAP_train_the_strongest } 
+		
+		x = 53
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_sports_activism
+		icon = GFX_fighting_lessons
+		cost = 2
+		
+		prerequisite = { focus = JAP_physical_education } 
+		
+		x = 55
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_only_the_best_survive
+		icon = GFX_survival
+		cost = 2
+		
+		prerequisite = { focus = JAP_sports_activism } 
+		
+		x = 55
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_armed_population
+		icon = GFX_physicaleducation
+		cost = 2
+		
+		prerequisite = { focus = JAP_only_the_best_survive } 
+		prerequisite = { focus = JAP_complusury_service } 
+		x = 54
+		y = 12
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_mental_education
+		icon = GFX_mental_education
+		cost = 2
+		
+		prerequisite = { focus = JAP_a_new_education } 
+		
+		x = 46
+		y = 9
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_the_sciences
+		icon = GFX_sceince
+		cost = 2
+		
+		prerequisite = { focus = JAP_mental_education } 
+		
+		x = 45
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_research_centres
+		icon = GFX_goal_continuous_research
+		cost = 2
+		
+		prerequisite = { focus = JAP_the_sciences } 
+		
+		x = 45
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_the_arts
+		icon = GFX_designnmanus
+		cost = 2
+		
+		prerequisite = { focus = JAP_mental_education } 
+		
+		x = 43
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_designs
+		icon = GFX_designs
+		cost = 2
+		
+		prerequisite = { focus = JAP_the_arts } 
+		
+		x = 43
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_knowledge_is_power
+		icon = GFX_knowledge_is_power
+		cost = 2
+		
+		prerequisite = { focus = JAP_new_designs } 
+		prerequisite = { focus = JAP_research_centres } 
+		x = 45
+		y = 12
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_too_much_knowledge
+		icon = GFX_toomuchknowlege
+		cost = 2
+		
+		prerequisite = { focus = JAP_knowledge_is_power } 
+		
+		x = 45
+		y = 13
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_a_new_political_system
+		icon = GFX_Peoples_politics
+		cost = 2
+		
+		prerequisite = { focus = JAP_new_japan_movement } 
+		
+		x = 19
+		y = 7
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_reform_government_branches
+		icon = GFX_reform_government
+		cost = 2
+		
+		prerequisite = { focus = JAP_a_new_political_system } 
+		
+		x = 19
+		y = 8
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_expand_security_ministers
+		icon = GFX_security_ministry
+		cost = 2
+		
+		prerequisite = { focus = JAP_reform_government_branches } 
+		
+		x = 23
+		y = 9
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_state_propaganda
+		icon = GFX_supression
+		cost = 2
+		
+		prerequisite = { focus = JAP_expand_security_ministers } 
+		
+		x = 22
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_secrret_police
+		icon = GFX_ninja
+		cost = 2
+		
+		prerequisite = { focus = JAP_expand_security_ministers } 
+		
+		x = 24
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_lock_opponents
+		icon = GFX_authorty
+		cost = 2
+		
+		prerequisite = { focus = JAP_secrret_police } 
+		
+		x = 23
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_authority_respect
+		icon = GFX_japnat
+		cost = 2
+		
+		prerequisite = { focus = JAP_state_propaganda } 
+		 
+		x = 25
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_anti_democratic_thought
+		icon = GFX_restrictfreedom
+		cost = 2
+		
+		prerequisite = { focus = JAP_state_propaganda } 
+		 
+		x = 21
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_minister_of_fiance
+		icon = GFX_Fiance_minsiter
+		cost = 2
+		
+		prerequisite = { focus = JAP_reform_government_branches } 
+		
+		x = 15
+		y = 9
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_work_with_banks
+		icon = GFX_work_withbanks
+		cost = 2
+		
+		prerequisite = { focus = JAP_minister_of_fiance } 
+		
+		x = 15
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_increase_taxes
+		icon = GFX_Japan_funds
+		cost = 2
+		
+		prerequisite = { focus = JAP_minister_of_fiance } 
+		
+		x = 17
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_secret_funds
+		icon = GFX_secret_funds
+		cost = 2
+		
+		prerequisite = { focus = JAP_minister_of_fiance } 
+		
+		x = 13
+		y = 10
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_war_bonds
+		icon = GFX_Military_service
+		cost = 2
+		
+		prerequisite = { focus = JAP_increase_taxes } 
+		prerequisite = { focus = JAP_work_with_banks } 
+		x = 16
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_money_and_handshakes
+		icon = GFX_Fiance_minsiter
+		cost = 2
+		
+		prerequisite = { focus = JAP_secret_funds } 
+		prerequisite = { focus = JAP_work_with_banks } 
+		x = 14
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_minister_of_information
+		icon = GFX_info_minister
+		cost = 2
+		
+		prerequisite = { focus = JAP_reform_government_branches } 
+		
+		x = 19
+		y = 11
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_nationalise_media_outlets
+		icon = GFX_powergrab
+		cost = 2
+		
+		prerequisite = { focus = JAP_minister_of_information } 
+		
+		x = 20
+		y = 12
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_mass_propaganda
+		icon = GFX_JAP_electoralcampaign
+		cost = 2
+		
+		prerequisite = { focus = JAP_nationalise_media_outlets } 
+		
+		x = 20
+		y = 13
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_false_information
+		icon = GFX_JAP_elections
+		cost = 2
+		
+		prerequisite = { focus = JAP_nationalise_media_outlets } 
+		
+		x = 22
+		y = 13
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_cencsor_internet
+		icon = GFX_Censor_internet
+		cost = 2
+		
+		prerequisite = { focus = JAP_minister_of_information } 
+		
+		x = 18
+		y = 12
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_block_social_media
+		icon = GFX_block_american_media
+		cost = 2
+		
+		prerequisite = { focus = JAP_cencsor_internet } 
+		
+		x = 18
+		y = 13
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_our_own_websites
+		icon = GFX_our_internet
+		cost = 2
+		
+		prerequisite = { focus = JAP_cencsor_internet } 
+		
+		x = 16
+		y = 13
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_lips_shut
+		icon = GFX_silence
+		cost = 2
+		
+		prerequisite = { focus = JAP_our_own_websites } 
+		prerequisite = { focus = JAP_block_social_media } 
+		prerequisite = { focus = JAP_false_information } 
+		prerequisite = { focus = JAP_mass_propaganda } 
+		x = 19
+		y = 14
+		completion_reward = {
+		   
+		}
+
+	}
+	
+	focus = {
+		id = JAP_the_state_economy
+		icon = GFX_designs
+		cost = 2
+		x = 6
+		y = 2
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	focus = {
+		id = JAP_the_big_offer
+		icon = GFX_massnationalisation
+		cost = 2
+		prerequisite = { focus = JAP_the_state_economy } 
+		x = 6
+		y = 3
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_softbank
+		icon = GFX_softbank
+		cost = 2
+		prerequisite = { focus = JAP_the_big_offer } 
+		x = 6
+		y = 6
+		completion_reward = {
+		    
+		}
+
+	}
+	
+		focus = {
+		id = JAP_nissan
+		icon = GFX_nissan
+		cost = 2
+		prerequisite = { focus = JAP_the_big_offer } 
+		x = 7
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_toyota
+		icon = GFX_Toyota
+		cost = 2
+		prerequisite = { focus = JAP_nissan } 
+		prerequisite = { focus = JAP_mitsubishi }
+		x = 8
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_military_designs
+		icon = GFX_goal_generic_army_tanks
+		cost = 2
+		prerequisite = { focus = JAP_toyota } 
+		
+		x = 8
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
 	
 	
 	
 	
 	
+	
+	focus = {
+		id = JAP_mitsubishi
+		icon = GFX_Mitshuishi
+		cost = 2
+		prerequisite = { focus = JAP_the_big_offer } 
+		x = 9
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	focus = {
+		id = JAP_kddi
+		icon = GFX_kddi
+		cost = 2
+		prerequisite = { focus = JAP_the_big_offer } 
+		x = 5
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_post_holdings
+		icon = GFX_jpholds
+		cost = 2
+		prerequisite = { focus = JAP_the_big_offer } 
+		x = 3
+		y = 4
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_ntt
+		icon = GFX_ntt
+		cost = 2
+		prerequisite = { focus = JAP_post_holdings } 
+		prerequisite = { focus = JAP_kddi }
+		x = 4
+		y = 5
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_logistics_and_supplies
+		icon = GFX_goal_generic_army_artillery
+		cost = 2
+		prerequisite = { focus = JAP_ntt } 
+		
+		x = 4
+		y = 7
+		completion_reward = {
+		    
+		}
+
+	}
+	
+	focus = {
+		id = JAP_new_state_economics
+		icon = GFX_focus_generic_industry_3
+		cost = 2
+		prerequisite = { focus = JAP_logistics_and_supplies } 
+		prerequisite = { focus = JAP_military_designs  }
+		x = 6
+		y = 8
+		completion_reward = {
+		    
+		}
+
+	}
 	
 	
 	

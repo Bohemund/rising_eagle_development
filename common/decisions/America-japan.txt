@@ -1,0 +1,17 @@
+JAP_global_opinions = { 
+
+
+  	our_opinion = {
+
+
+	icon = generic_political_actions
+
+	allowed = {
+		always = yes
+	}
+	
+	
+
+	}	
+	
+}

@@ -220,6 +220,262 @@ spriteTypes = {
     }	
 	
 	SpriteType = {
+        name = "GFX_new_education"
+        texturefile = "gfx/interface/goals/new_education.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_new_syllabus"
+        texturefile = "gfx/interface/goals/newsyllabus.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_spiritual_education"
+        texturefile = "gfx/interface/goals/spiritualeducation.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_physicaleducation"
+        texturefile = "gfx/interface/goals/physicaleducationdds.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Train_the_strongest"
+        texturefile = "gfx/interface/goals/train_the_strongest.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Military_service"
+        texturefile = "gfx/interface/goals/militaryservice.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_fighting_lessons"
+        texturefile = "gfx/interface/goals/fightinglessons.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_survival"
+        texturefile = "gfx/interface/goals/survival.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_mental_education"
+        texturefile = "gfx/interface/goals/mentaleducation.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_sceince"
+        texturefile = "gfx/interface/goals/thesciences.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_designnmanus"
+        texturefile = "gfx/interface/goals/designsandmanfacturedds.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_toomuchknowlege"
+        texturefile = "gfx/interface/goals/toomuchknowledge.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_student_activitsm"
+        texturefile = "gfx/interface/goals/studentactivitism.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_knowledge_is_power"
+        texturefile = "gfx/interface/goals/knowlegeispower.dds"		
+    }	
+	
+	
+	SpriteType = {
+        name = "GFX_designs"
+        texturefile = "gfx/interface/goals/designs.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_student_ultnats"
+        texturefile = "gfx/interface/goals/ultranats.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Fiance_minsiter"
+        texturefile = "gfx/interface/goals/fianceminister.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_work_withbanks"
+        texturefile = "gfx/interface/goals/workwithbanks.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Japan_funds"
+        texturefile = "gfx/interface/goals/japanfunds.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_secret_funds"
+        texturefile = "gfx/interface/goals/secretfunds.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Peoples_politics"
+        texturefile = "gfx/interface/goals/peoplespolitics.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_reform_government"
+        texturefile = "gfx/interface/goals/reformgovernment.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_security_ministry"
+        texturefile = "gfx/interface/goals/securityministry.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_ninja"
+        texturefile = "gfx/interface/goals/NINJA.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_supression"
+        texturefile = "gfx/interface/goals/supression.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_japnat"
+        texturefile = "gfx/interface/goals/natjaps2.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_info_minister"
+        texturefile = "gfx/interface/goals/informationminister.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Censor_internet"
+        texturefile = "gfx/interface/goals/censorinternet.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_block_american_media"
+        texturefile = "gfx/interface/goals/downwiththeusa.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_our_internet"
+        texturefile = "gfx/interface/goals/ourowninternet.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Economy_concerns"
+        texturefile = "gfx/interface/goals/econmyconcerns.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_softbank"
+        texturefile = "gfx/interface/goals/softbank.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_nissan"
+        texturefile = "gfx/interface/goals/nissan.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Toyota"
+        texturefile = "gfx/interface/goals/toyota.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_Mitshuishi"
+        texturefile = "gfx/interface/goals/mitsubishi.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_kddi"
+        texturefile = "gfx/interface/goals/kddi.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_jpholds"
+        texturefile = "gfx/interface/goals/jpholdings.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX_ntt"
+        texturefile = "gfx/interface/goals/nippotele.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
         name = "GFX"
         texturefile = "gfx/interface/goals/.dds"		
     }	
@@ -289,6 +545,20 @@ spriteTypes = {
         texturefile = "gfx/interface/goals/.dds"		
     }	
 	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
 	
 	SpriteType = {
         name = "GFX"
@@ -304,6 +574,18 @@ spriteTypes = {
         name = "GFX"
         texturefile = "gfx/interface/goals/.dds"		
     }	
+	
+	SpriteType = {
+        name = "GFX"
+        texturefile = "gfx/interface/goals/.dds"		
+    }	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 }

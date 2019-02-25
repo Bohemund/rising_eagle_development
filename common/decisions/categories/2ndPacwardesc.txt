@@ -1,0 +1,6 @@
+JAP_global_opinions  =  {
+		icon  =  generic_propaganda
+		
+		
+}
+
