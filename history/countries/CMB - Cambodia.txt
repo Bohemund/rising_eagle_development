@@ -28,41 +28,52 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 16
 		}
 		monarchist = {
 			popularity = 15
 		}
 		nationalist = {
-			popularity = 0
-		}
-		conservative = {
-			popularity = 20
-		}
-		centrist = {
 			popularity = 28
 		}
-		liberal = {
-			popularity = 5
+		conservative = {
+			popularity = 18
 		}
-		social_democrat = {
+		centrist = {
 			popularity = 4
 		}
+		liberal = {
+			popularity = 0
+		}
+		social_democrat = {
+			popularity = 0
+		}
 		democratic_socialist = {
-			popularity = 6
+			popularity = 0
 		}
 		libertarian_socialist = {
 			popularity = 4
 		}
 		communist = {
-			popularity = 18
+			popularity = 15
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2008.7.27"
 	election_frequency = 60
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Norodom Arunrasmy"
+	desc = ""
+	picture = "Portrait_CMB_Norodom_Arunrasmy.tga"
+	expire = "2050.1.1"
+	ideology = authoritarian_democrat
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
