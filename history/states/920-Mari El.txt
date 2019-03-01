@@ -1,0 +1,24 @@
+
+state={
+	id=920
+	name="STATE_920"
+	manpower = 696459
+	
+	state_category = state_level_3
+	
+	resources = {
+		steel = 2
+	}
+
+	history={
+		owner = MAR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = MAR
+	}
+
+	provinces={
+		11387 3315 9305 6307 325 6403 9280 3361 9402 282 9381 11286 9390 11263
+	}
+}
