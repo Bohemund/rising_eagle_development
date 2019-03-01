@@ -1,4 +1,4 @@
-﻿capital = 230
+﻿capital = 96
 
 oob = "LIT_2010"
 
@@ -43,22 +43,22 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 21
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 14
+			popularity = 4
 		}
 		conservative = {
-			popularity = 21
+			popularity = 16
 		}
 		centrist = {
-			popularity = 11
+			popularity = 25
 		}
 		liberal = {
-			popularity = 16
+			popularity = 0
 		}
 		social_democrat = {
 			popularity = 23
@@ -67,17 +67,28 @@ set_politics = {
 			popularity = 6
 		}
 		libertarian_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
 			popularity = 5
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2008.10.26"
 	election_frequency = 96
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ramūnas Karbauskis"
+	desc = ""
+	picture = "Portrait_LIT_Ramunas_Karbauskis.tga"
+	expire = "2050.1.1"
+	ideology = agrarian_populist
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
