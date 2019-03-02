@@ -77,17 +77,6 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Rafael López-Diéguez"
-	desc = "POLITICS_MANUEL_AZANA_DESC"
-	picture = "Portrait_SPR_Rafael_Lopez_Dieguez.tga"
-	expire = "2050.1.1"
-	ideology = falangist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Mariano Rajoy"
 	desc = "POLITICS_MANUEL_AZANA_DESC"
 	picture = "Portrait_SPR_Mariano_Rajoy.tga"

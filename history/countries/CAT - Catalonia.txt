@@ -2,10 +2,6 @@
 
 oob = "BRY_2010"
 
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 4
 set_convoys = 50
 set_stability = 0.9
@@ -43,34 +39,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		conservative = {
-			popularity = 20
+			popularity = 14
 		}
 		centrist = {
 			popularity = 4
 		}
 		liberal = {
-			popularity = 28
+			popularity = 22
 		}
 		social_democrat = {
-			popularity = 32
+			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 11
 		}
 		libertarian_socialist = {
-			popularity = 7
+			popularity = 4
 		}
 		communist = {
-			popularity = 0
+			popularity = 7
 		}
 	}
 	
@@ -81,9 +77,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Oriol Junqueras"
+	name = "Pere Aragonès"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_CAT_Oriol_Junqueras.tga"
+	picture = "Portrait_CAT_Pere_Aragones.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

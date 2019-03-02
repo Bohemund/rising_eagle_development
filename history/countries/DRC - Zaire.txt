@@ -1,4 +1,4 @@
-﻿capital = 295
+﻿capital = 259
 
 oob = "CDR_2010"
 
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
 	picture = "Portrait_DRC_Nzanga_Mobutu.tga"
 	expire = "2050.1.1"
-	ideology = mobutist
+	ideology = military_statist
 	traits = {
 		#
 	}

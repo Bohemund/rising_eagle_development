@@ -1014,6 +1014,11 @@ spriteTypes = {
 		name = "news_jindal_inauguration"
 		texturefile = "gfx/event_pictures/news_event/news_jindal_inauguration.dds"
 	}
+	
+	spriteType = {
+		name = "news_rising_eagle_release"
+		texturefile = "gfx/event_pictures/news_event/news_rising_eagle_release.dds"
+	}
 
 
 
