@@ -1,12 +1,12 @@
 ﻿l_english:
  
  #PARTIES
- ITA_ultranationalist_party:0 "Italian Social Movement"
- ITA_ultranationalist_party_long:0 "Italian Social Movement"
+ ITA_ultranationalist_party:0 "Democratic Fascists"
+ ITA_ultranationalist_party_long:0 "Democratic Fascist Party"
  ITA_monarchist_party:0 "House of Savoy"
  ITA_monarchist_party_long:0 "House of Savoy"
- ITA_nationalist_party:0 "National Alliance"
- ITA_nationalist_party_long:0 "National Alliance"
+ ITA_nationalist_party:0 "Social Movement"
+ ITA_nationalist_party_long:0 "Italian Social Movement"
  ITA_conservative_party:0 "National Democracy"
  ITA_conservative_party_long:0 "National Democracy"
  ITA_centrist_party:0 "Christian Democracy"

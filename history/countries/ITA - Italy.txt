@@ -81,9 +81,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Fausto Bertinotti"
+	name = "Oliviero Diliberto"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Fausto_Bertinotti.tga"
+	picture = "Portrait_ITA_Oliviero_Diliberto.tga"
 	expire = "2050.1.1"
 	ideology = marxist
 	traits = {
@@ -114,9 +114,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Matteo Renzi"
+	name = "Riccardo Nencini"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Matteo_Renzi.tga"
+	picture = "Portrait_ITA_Riccardo_Necini.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {
@@ -147,20 +147,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Silvio Berlusconi"
+	name = "Giorgia Meloni"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Silvio_Berlisconi.tga"
+	picture = "Portrait_ITA_Giorgia_Meloni.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = european_conservative
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Giorgia Meloni"
+	name = "Giancarlo Giorgetti"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Giorgia_Meloni.tga"
+	picture = "Portrait_ITA_Giancarlo_Giorgetti.tga"
 	expire = "2050.1.1"
 	ideology = authoritarian_democrat
 	traits = {
@@ -180,9 +180,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Luca Romagnoli"
+	name = "Simon Di Stefano"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Luca_Romagnoli.tga"
+	picture = "Portrait_ITA_Simon_Stefano.tga"
 	expire = "2050.1.1"
 	ideology = national_socialist
 	traits = {
