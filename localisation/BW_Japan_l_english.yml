@@ -15,9 +15,29 @@
  JAP_liberal_party_long:0 "Constitutional Democratic Party"
  JAP_social_democrat_party:0 "Social Democrats"
  JAP_social_democrat_party_long:0 "Social Democratic Party"
- JAP_democratic_socialist_party:0 "Green Wind"
- JAP_democratic_socialist_party_long:0 "Green Wind"
- JAP_libertarian_socialist_party:0 "New Socialist Party"
- JAP_libertarian_socialist_party_long:0 "New Socialist Party"
- JAP_communist_party:0 "Communist Party"
- JAP_communist_party_long:0 "Japanese Communist Party"
+ JAP_democratic_socialist_party:0 "Communist Party"
+ JAP_democratic_socialist_party_long:0 "Japanese Communist Party"
+ JAP_libertarian_socialist_party:0 "Communist Party"
+ JAP_libertarian_socialist_party_long:0 "Japanese Communist Party - Republican Faction"
+ JAP_communist_party:0 "Japanese Red Army "
+ JAP_communist_party_long:0 "Japanese Red Army"
+
+ 
+ 
+ 
+  JAP_anti_american_stance:0 "Anti-American Policy"
+  JAP_anti_american_stance_desc:0 "Since the 1980s, the United States has been interfering in Japanese politics, whether foreign or domestic. This lead to a return of anti-western stance among the Japanese. Anti-American sentiment is at an all time high, the history between our nations only fueled it. No more will Japan bow down to the Western dogs, they will bow down to us instead!"  
+  JAP_stuckcoalition:0 "Coalition Government"
+  JAP_stuckcoalition_desc:0 "Japan Conference has to form a coalition with the conservative Liberal Democratic Party in order to effectively run a government. This coalition although effective, it has hindered radical reforms intended by Conference politicans to make Japan a global power, capable of spreading it's influence across the globe. This will soon change however..."
+  JAP_emperorakihito:0 "Emperor Akhito"
+  JAP_emperorakihito_desc:0 "Akihito acceded to the Chrysanthemum Throne on 12 November 1990. The 125th member of the world's oldest reigning dynasty, he is a symbol of Japan and it's culture, and a figure of unity among the Japanese people."
+  JAP_rising_ultnationalism:0 "Rising Nationalism"
+  JAP_rising_ultnationalism_desc:0 "As a result of Anti-American sentiment among the population, nationalism has made a swift return in Japan, preparing Japan to return to it's olden imperial roots."
+  
+  POLITICS_ABE_DESC:0 "Shinzo Abe is the grandson of Nobusuke Kishi, the first prime minister of Japan since its defeat in World War 2 and a notorious war criminal in China. Following his family’s political legacy, he joined the Liberal Democratic Party and held several government posts. When the American Scandal was discovered, he urged the LDP to adopt an anti-American stance. Over time, he became dissatisfied with the moderate policies of the LDP and left the party to join the Japan Conference in 2000. He assumed direct control of the organization and under Abe’s leadership; the Conference rose to become a real and major political party. After winning the largest number of seats in the House of Representatives without getting a majority, the Conference formed a coalition with the Liberal Democratic Party. As a compromise, Shinzo Abe was appointed Prime Minister while half of the cabinet is comprised of LDP politicians. Unlike the LDP, the Conference wishes to push for far-right reforms to reclaim Japan’s glory. Abe disguised himself as a patriotic conservative for his public image, hiding his closet ultranationalist beliefs. He plans to eliminate the Conference’s reliance on the LDP so his Imperial reforms can go unopposed and his dream of Japan becoming the strongest nation and dominating Asia again will finally come true."
+   
+   
+   
+	
+	
+   

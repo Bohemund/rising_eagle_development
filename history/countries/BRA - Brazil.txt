@@ -88,6 +88,28 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "José Agripino Maia"
+	desc = "POLITICS_GETULIO_VARGAS_DESC"
+	picture = "Portrait_BRA_Jose_Agripino_Maia.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Romero Jucá"
+	desc = "POLITICS_GETULIO_VARGAS_DESC"
+	picture = "Portrait_BRA_Romero_Juca.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Michel Temer"
 	desc = "POLITICS_GETULIO_VARGAS_DESC"
 	picture = "Portrait_BRA_Michel_Temer.tga"

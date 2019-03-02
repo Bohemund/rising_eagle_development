@@ -2,6 +2,10 @@
 
 oob = "ITA_2010"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 80
 set_stability = 0.4
@@ -28,6 +32,11 @@ set_technology = {
 	early_destroyer = 1 
 	interwar_antiair = 1
 	interwar_antitank = 1
+}
+
+add_ideas = {
+	idea_milanese_recession
+	idea_drift_towards_radicalism
 }
 
 set_politics = {

@@ -2,6 +2,10 @@
 
 oob = "AUS_201"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.8
@@ -83,6 +87,17 @@ create_country_leader = {
 	picture = "Portrait_AUS_Wilhelm_Molterer.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Sebastian Kurz"
+	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
+	picture = "Portrait_AUS_Sebastian_Kurz.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
 	traits = {
 		#
 	}

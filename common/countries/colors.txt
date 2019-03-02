@@ -685,11 +685,6 @@ TUR = {
 	color_ui = rgb { 115 115 115 }
 }
 
-TUV = {
-	color = rgb { 181 220 225 }
-	color_ui = rgb { 115 115 115 }
-}
-
 URG = {
 	color = rgb { 0 230 255 }
 	color_ui = rgb { 115 115 115 }
@@ -713,6 +708,11 @@ USA = {
 VEN = {
 	color = rgb { 174 53 81 }
 	color_ui = rgb { 115 115 115 }
+}
+
+BLT = {
+	color = rgb { 39 44 107 }
+	color_ui = rgb { 39 44 107 }
 }
 
 VIN = {
@@ -961,6 +961,41 @@ NGK = {
 }
 
 KOM = {
-	color = rgb { 242 169 0 }
+	color = rgb { 0 54 167 }
 	color_ui = rgb { 115 115 115 }
+}
+
+UDM = {
+	color = rgb { 222 29 9 }
+	color_ui = rgb { 115 115 115 }
+}
+
+CHU = {
+	color = rgb { 255 224 0 }
+	color_ui = rgb { 255 224 0 }
+}
+
+MAR = {
+	color = rgb { 170 29 9 }
+	color_ui = rgb { 170 29 9 }
+}
+
+ALA = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
+}
+
+CIR = {
+	color = rgb { 48 154 255 } #37 105 10 for the original Circassian flag
+	color_ui = rgb { 48 154 255 }
+}
+
+NAK = {
+	color = rgb { 0 187 229 }
+	color_ui = rgb { 0 187 229 }
+}
+
+MRD = {
+	color = rgb { 210 0 0 }
+	color_ui = rgb { 210 0 0 }
 }

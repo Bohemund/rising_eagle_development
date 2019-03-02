@@ -1,6 +1,14 @@
-﻿capital = 219
+﻿capital = 195
 
 oob = "RUS_2010"
+
+add_ideas = {
+    RUS_boris_nemtsov
+    RUS_dmitry_medvedev
+    RUS_mikhail_prokhorov
+    RUS_viktor_zubkov
+    RUS_nikolai_patrushev
+}
 
 set_research_slots = 4
 set_convoys = 50

@@ -2,6 +2,10 @@
 
 oob = "BEL_2010"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 45
 set_stability = 0.6
@@ -31,10 +35,10 @@ set_politics = {
 			popularity = 9
 		}
 		monarchist = {
-			popularity = 5
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 6
+			popularity = 11
 		}
 		conservative = {
 			popularity = 19
