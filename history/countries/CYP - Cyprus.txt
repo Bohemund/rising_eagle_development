@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 3
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 23
 		}
 		communist = {
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = radical_socialist
 	last_election = "2006.5.21"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_CYP_Izzet_Izcan.tga"
 	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
+	ideology = radical_socialist_ideology
 	traits = {
 		#
 	}

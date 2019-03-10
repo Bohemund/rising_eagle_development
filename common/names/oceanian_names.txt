@@ -1,0 +1,30 @@
+﻿AST = {
+	male = {
+		names = {  
+			John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie
+	
+	 }
+	callsigns = { }
+}
+NZL = {
+	male = {
+		names = {  
+			John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie
+	
+	 }
+	callsigns = { }
+}

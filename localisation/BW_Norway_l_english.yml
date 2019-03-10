@@ -17,7 +17,12 @@
  NOR_social_democrat_party_long:0 "Labour Party"
  NOR_democratic_socialist_party:0 "Socialist Left Party"
  NOR_democratic_socialist_party_long:0 "Socialist Left Party"
- NOR_libertarian_socialist_party:0 "Society Party"
- NOR_libertarian_socialist_party_long:0 "Society Party"
+ NOR_radical_socialist_party:0 "Society Party"
+ NOR_radical_socialist_party_long:0 "Society Party"
  NOR_communist_party:0 "Communist Party"
  NOR_communist_party_long:0 "Communist Party of Norway"
+
+ #IDEAS
+
+ harald_v:0 "Harald V"
+ harald_v_desc:0 "Harald V is the King of the Kingdom of Norway."

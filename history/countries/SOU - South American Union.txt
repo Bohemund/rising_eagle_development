@@ -64,7 +64,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 3
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		#
 	}

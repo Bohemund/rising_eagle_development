@@ -1,4 +1,4 @@
-﻿add_namespace = decision_event
+add_namespace = decision_event
 
 #1952 Presidential election
 country_event = {
@@ -294,12 +294,12 @@ country_event = {
 	}
 }
 
-#Ho Chi Minh Campaign
+#Operation Condor
 country_event = {
 	id = decision_event.22
 	title = decision_event.22.t
 	desc = decision_event.22.d
-	picture = VIN_ho_chi_minh_campaign
+	picture = USA_operation_condor
 	
 	is_triggered_only = yes
 	
@@ -336,6 +336,34 @@ country_event = {
 	}
 }
 
+#Third Taiwan Straits Crisis
+country_event = {
+	id = decision_event.26
+	title = decision_event.26.t
+	desc = decision_event.26.d
+	picture = CHI_third_taiwan_strait_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.26.o1
+	}
+}
+
+#White Flower Revolution
+country_event = {
+	id = decision_event.27
+	title = decision_event.27.t
+	desc = decision_event.27.d
+	picture = CHI_white_flower_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.27.o1
+	}
+}
+
 #1976 US Presidential Election
 country_event = {
 	id = decision_event.25
@@ -347,5 +375,47 @@ country_event = {
 	
 	option = {   
 		name = decision_event.25.o1
+	}
+}
+
+#1976 US Presidential Election
+country_event = {
+	id = decision_event.28
+	title = decision_event.28.t
+	desc = decision_event.28.d
+	picture = ISR_six_day_war
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.28.o1
+	}
+}
+
+#Almaty Summit
+country_event = {
+	id = decision_event.29
+	title = decision_event.29.t
+	desc = decision_event.29.d
+	picture = RUS_almaty_summit
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.29.o1
+	}
+}
+
+#1986 Russian Election
+country_event = {
+	id = decision_event.30
+	title = decision_event.30.t
+	desc = decision_event.30.d
+	picture = RUS_1986_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.30.o1
 	}
 }

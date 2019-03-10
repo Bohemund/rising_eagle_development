@@ -2,20 +2,14 @@ ideas = {
 
     country = {
 	    
-		idea_milanese_recession = {
+		milanese_recession = {
 			allowed = {
 				always = no
 			}
 			
-			
 			removal_cost = -1
 			
-			allowed_civil_war = {
-				always = yes
-			}
-			
 			modifier = {
-				stability_factor = -0.3
 				production_speed_industrial_complex_factor = -0.50
 				production_speed_arms_factory_factor = -0.50
 				production_speed_infrastructure_factor = -0.2
@@ -23,32 +17,23 @@ ideas = {
 				industrial_capacity_factory = -0.20
 				research_time_factor = 0.20
 				industrial_capacity_dockyard = -0.10
-
+				stability_factor = -0.3
 			}
 		}
 
-		idea_drift_towards_radicalism = {
+		drift_towards_radicalism = {
 			allowed = {
 				always = no
 			}
 			
-			
 			removal_cost = -1
 			
-			allowed_civil_war = {
-				always = yes
-			}
-			
 			modifier = {
-			nationalist_drift = 0.03
 			ultranationalist_drift = 0.01
-			democratic_socialist_drift = 0.02
-			libertarian_socialist_drift = 0.02
-
+			nationalist_drift = 0.01
+			democratic_socialist_drift = 0.01
+			communist_drift = 0.01
 			}
 		}
-
-
-
-		}
-		}
+	}
+}
