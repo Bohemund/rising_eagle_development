@@ -1,0 +1,21 @@
+
+state={
+	id=582
+	name="STATE_582" # Magnitogorsk
+	manpower = 1044991
+	
+	state_category = state_level_1
+	
+	
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = RUS
+	}
+
+	provinces={
+		1334 4215 4261 4265 4411 7281 7328 7401 10185 10224 10256
+	}
+}

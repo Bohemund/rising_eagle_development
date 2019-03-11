@@ -1,0 +1,24 @@
+
+state={
+	id=256
+	name="STATE_256"
+	manpower = 1240000
+	
+	state_category = state_level_4
+	
+	resources = {
+		steel = 2
+	}
+
+	history={
+		owner = CHU
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = CHU
+	}
+
+	provinces={
+		3282 6253 6312 6357 9244 9259 9307 9373 11356
+	}
+}
