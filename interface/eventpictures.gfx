@@ -179,5 +179,9 @@ spriteTypes = {
 		name = "RUS_1986_election"
 		texturefile = "gfx/event_pictures/report_event/RUS_1986_election.dds"
 	}
-	
+
+	spriteType = {
+		name = "RUS_putschist_trials"
+		texturefile = "gfx/event_pictures/report_event/RUS_putschist_trials.dds"
+	}	
 }

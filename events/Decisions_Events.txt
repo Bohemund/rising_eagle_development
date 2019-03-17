@@ -419,3 +419,17 @@ country_event = {
 		name = decision_event.30.o1
 	}
 }
+
+#Putschist Trials
+country_event = {
+	id = decision_event.31
+	title = decision_event.31.t
+	desc = decision_event.31.d
+	picture = RUS_putschist_trials
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.31.o1
+	}
+}

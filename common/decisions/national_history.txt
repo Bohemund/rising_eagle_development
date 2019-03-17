@@ -348,6 +348,36 @@ sixties = {
 		}
 	}
 
+	ISR_six_day_war = {
+
+		icon = GFX_decision_generic_tank
+
+		allowed = {
+			OR = {
+			    original_tag = ISR
+			    original_tag = USA
+			    original_tag = EGY
+			    original_tag = LEB
+			    original_tag = JOR
+			    original_tag = SYR
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.28 }
+		}
+	}
+
 	1964_brazil_coup = {
 
 		icon = GFX_decision_generic_prepare_civil_war
@@ -449,36 +479,6 @@ sixties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.16 }
-		}
-	}
-
-	ISR_six_day_war = {
-
-		icon = GFX_decision_generic_tank
-
-		allowed = {
-			OR = {
-			    original_tag = ISR
-			    original_tag = USA
-			    original_tag = EGY
-			    original_tag = LEB
-			    original_tag = JOR
-			    original_tag = SYR
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.28 }
 		}
 	}
 
@@ -778,6 +778,31 @@ eighties = {
 		}
 	}
 
+	RUS_putschist_trials = {
+
+		icon = GFX_decision_oppression
+
+		allowed = {
+			OR = {
+			    original_tag = RUS
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.31 }
+		}
+	}
+
 	JAP_1988_scandal = {
 
 		icon = GFX_decision_generic_political_discourse
@@ -806,7 +831,6 @@ eighties = {
 }
 
 nineties = {
-	
 	
 }
 

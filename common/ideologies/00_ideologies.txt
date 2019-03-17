@@ -135,18 +135,14 @@ ideologies = {
 			authoritarian_democrat = {
 			}
 
-			religious_traditionalist = {
+			lebanese_nationalist = {
 			}
 
             national_conservative = {
 			}
 
             military_junta = {
-			}
-
-            islamist = {
-			}
-			
+			}	
 		}
 		
 		dynamic_faction_names = {
@@ -255,8 +251,7 @@ ideologies = {
 			}
 
 			liberal_conservative = {
-			}
-			
+			}	
 		}
 		
 		dynamic_faction_names = {
