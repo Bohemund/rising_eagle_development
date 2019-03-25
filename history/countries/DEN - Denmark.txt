@@ -2,6 +2,11 @@
 
 oob = "DEN_2010"
 
+add_ideas = {
+    nordic_economic_community
+    ingolf
+}
+
 set_research_slots = 4
 set_convoys = 50
 set_stability = 0.8
@@ -34,16 +39,16 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 17
+			popularity = 26
 		}
 		conservative = {
-			popularity = 12
+			popularity = 7
 		}
 		centrist = {
-			popularity = 25
+			popularity = 19
 		}
 		liberal = {
-			popularity = 8
+			popularity = 10
 		}
 		social_democrat = {
 			popularity = 28
@@ -51,7 +56,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 2
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 8
 		}
 		communist = {
@@ -66,9 +71,31 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Helle Thorning-Schmidt"
+	name = "Ingolf I"
 	desc = "POLITICS_THORVALD_STAUNING_DESC"
-	picture = "Portrait_DEN_Helle_Thorning_Schmidt.tga"
+	picture = "Portrait_DEN_Ingolf.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kristian Thulesen Dahl"
+	desc = "POLITICS_THORVALD_STAUNING_DESC"
+	picture = "Portrait_DEN_Kristian_Thulesen_Dahl.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mogens Lykketoft"
+	desc = "POLITICS_THORVALD_STAUNING_DESC"
+	picture = "Portrait_DEN_Mogens_Lykketoft.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 39
+			popularity = 0
 		}
 		conservative = {
-			popularity = 6
+			popularity = 27
 		}
 		centrist = {
-			popularity = 0
+			popularity = 24
 		}
 		liberal = {
-			popularity = 4
+			popularity = 3
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 9
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 21
+		radical_socialist = {
+			popularity = 3
 		}
 		communist = {
-			popularity = 25
+			popularity = 30
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = communist
 	last_election = "2009.7.14"
 	election_frequency = 48
 	elections_allowed = no
@@ -100,7 +100,7 @@ create_country_leader = {
 	name = "Hamma Hammami"
 	picture = "Portrait_TUN_Hamma_Hammami.tga"
 	expire = "2050.1.1"
-	ideology = maoist
+	ideology = stalinist
 	traits = {
 		
 	}

@@ -2,6 +2,10 @@
 
 oob = "HUN_2010"
 
+add_ideas = {
+    european_community
+}
+
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.7
@@ -51,7 +55,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {

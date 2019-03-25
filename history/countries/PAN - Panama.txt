@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = ultranationalist
 	last_election = "2009.5.3"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	name = "Manuel Noriega"
 	picture = "Portrait_PAN_Manuel_Noriga.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		
 	}

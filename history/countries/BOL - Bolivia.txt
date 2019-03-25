@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 31
 		}
 		communist = {
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = radical_socialist
 	last_election = "2009.12.6"
 	election_frequency = 72
 	elections_allowed = no
@@ -92,7 +92,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSE_LUIS_TEJADA_SORZANO_DESC"
 	picture = "Portrait_BOL_Evo_Morales.tga"
 	expire = "2050.1.1"
-	ideology = christian_socialist
+	ideology = bolivarianist
 	traits = {
 		#
 	}

@@ -3,6 +3,7 @@
 oob = "SWE_2010"
 
 add_ideas = {
+    nordic_economic_community
     idea_carl_xvi_gustaf
 }
 
@@ -62,7 +63,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 11
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 2
 		}
 		communist = {
