@@ -45,10 +45,10 @@ set_politics = {
 			popularity = 8
 		}
 		nationalist = {
-			popularity = 29
+			popularity = 22
 		}
 		conservative = {
-			popularity = 34
+			popularity = 29
 		}
 		centrist = {
 			popularity = 0
@@ -62,15 +62,15 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
-			popularity = 22
+		libertarian_socialist = {
+			popularity = 34
 		}
 		communist = {
 			popularity = 3
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = libertarian_socialist
 	last_election = "2005.11.3"
 	election_frequency = 48
 	elections_allowed = no
@@ -103,7 +103,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_CHE_Dzhokhar_Dudayev.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = libertarian_socialist_ideology
 	traits = {
 		#
 	}

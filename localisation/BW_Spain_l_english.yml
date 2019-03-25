@@ -1,8 +1,8 @@
 ﻿l_english:
  
  #PARTIES
- SPR_ultranationalist_party:0 "National Front"
- SPR_ultranationalist_party_long:0 "Spanish National Front"
+ SPR_ultranationalist_party:0 "New Force"
+ SPR_ultranationalist_party_long:0 "New Force"
  SPR_monarchist_party:0 "House of Bourbon"
  SPR_monarchist_party_long:0 "House of Bourbon"
  SPR_nationalist_party:0 "Republican Movement"
@@ -17,7 +17,7 @@
  SPR_social_democrat_party_long:0 "Socialist Workers’ Party"
  SPR_democratic_socialist_party:0 "Radical Socialists"
  SPR_democratic_socialist_party_long:0 "Radical Socialist Movement"
- SPR_radical_socialist_party:0 "United Left"
- SPR_radical_socialist_party_long:0 "United Left"
+ SPR_libertarian_socialist_party:0 "United Left"
+ SPR_libertarian_socialist_party_long:0 "United Left"
  SPR_communist_party:0 "Communist Party"
  SPR_communist_party_long:0 "Communist Party of Spain"

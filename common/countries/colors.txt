@@ -996,6 +996,6 @@ NAK = {
 }
 
 MRD = {
-	color = rgb { 210 0 0 }
-	color_ui = rgb { 210 0 0 }
+	color = rgb { (0 0 255 }
+	color_ui = rgb { 0 0 255 }
 }

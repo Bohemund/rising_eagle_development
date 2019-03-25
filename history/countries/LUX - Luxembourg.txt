@@ -2,10 +2,6 @@
 
 oob = "LUX_2010"
 
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 3
 set_convoys = 20
 set_stability = 0.4
@@ -66,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 5
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {

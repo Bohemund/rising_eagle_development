@@ -2,10 +2,6 @@
 
 oob = "POL_2010"
 
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 4
 set_convoys = 40
 set_stability = 0.8
@@ -61,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 34
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 1
 		}
 		communist = {

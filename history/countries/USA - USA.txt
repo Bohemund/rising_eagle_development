@@ -41,7 +41,6 @@ add_to_faction = LIT
 add_to_faction = GRE
 add_to_faction = ITA
 add_to_faction = TUR
-add_to_faction = CZE
 
 set_politics = {
 
@@ -70,7 +69,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 2
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -89,7 +88,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Richard_Spencer.tga"
 	expire = "2050.1.1"
-	ideology = national_socialist
+	ideology = national_bolshevik
 	traits = {
 		#
 	}
@@ -108,10 +107,10 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Chuck Baldwin"
-	desc = "POLITICS_CHUCK_BALDWIN_DESC"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Chuck_Baldwin.tga"
 	expire = "2050.1.1"
-	ideology = american_conservative
+	ideology = american_republican
 	traits = {
 		#
 	}

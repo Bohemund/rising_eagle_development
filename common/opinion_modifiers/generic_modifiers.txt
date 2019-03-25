@@ -61,15 +61,6 @@ opinion_modifiers = {
 		trade = yes
 	}
 	
-	terrorist_menace = {
-		value = -100
-	}
-	
-	terrorist_menace_trade = {
-		value = -100
-		trade = yes
-	}
-	
 	tolerates_totalitarians_in_faction_faction_member = {
 		value = -10
 	}

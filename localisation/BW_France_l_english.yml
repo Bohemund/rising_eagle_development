@@ -17,12 +17,7 @@
  FRA_social_democrat_party_long:0 "Socialist Party"
  FRA_democratic_socialist_party:0 "Communist Party - R"
  FRA_democratic_socialist_party_long:0 "Communist Party - Reformists"
- FRA_radical_socialist_party:0 "Confederation of Labour"
- FRA_radical_socialist_party_long:0 "General Confederation of Labour"
+ FRA_libertarian_socialist_party:0 "Confederation of Labour"
+ FRA_libertarian_socialist_party_long:0 "General Confederation of Labour"
  FRA_communist_party:0 "Communist Party - EU"
  FRA_communist_party_long:0 "Communist Party - Eurocommunists"
-
- #IDEAS
-
- european_community:0 "European Community Member"
- european_community_desc:0 "This nation is a member of the European Community."
