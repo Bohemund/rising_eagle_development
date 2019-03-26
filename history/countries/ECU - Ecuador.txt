@@ -28,41 +28,52 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 18
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 2
+			popularity = 35
 		}
 		conservative = {
-			popularity = 7
+			popularity = 5
 		}
 		centrist = {
-			popularity = 27
+			popularity = 8
 		}
 		liberal = {
-			popularity = 2
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 4
+			popularity = 23
 		}
 		democratic_socialist = {
-			popularity = 17
+			popularity = 10
 		}
-		libertarian_socialist = {
-			popularity = 21
+		radical_socialist = {
+			popularity = 19
 		}
 		communist = {
-			popularity = 2
+			popularity = 0
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2009.4.26"
 	election_frequency = 84
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Lucio Gutiérrez"
+	desc = "POLITICS_FEDERICO_PAEZ_DESC"
+	picture = "Portrait_ECU_Lucio_Gutierrez.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

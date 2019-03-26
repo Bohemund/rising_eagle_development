@@ -1,4 +1,4 @@
-﻿add_namespace = decision_event
+add_namespace = decision_event
 
 #1952 Presidential election
 country_event = {
@@ -389,5 +389,47 @@ country_event = {
 	
 	option = {   
 		name = decision_event.28.o1
+	}
+}
+
+#Almaty Summit
+country_event = {
+	id = decision_event.29
+	title = decision_event.29.t
+	desc = decision_event.29.d
+	picture = RUS_almaty_summit
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.29.o1
+	}
+}
+
+#1986 Russian Election
+country_event = {
+	id = decision_event.30
+	title = decision_event.30.t
+	desc = decision_event.30.d
+	picture = RUS_1986_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.30.o1
+	}
+}
+
+#Putschist Trials
+country_event = {
+	id = decision_event.31
+	title = decision_event.31.t
+	desc = decision_event.31.d
+	picture = RUS_putschist_trials
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.31.o1
 	}
 }

@@ -61,7 +61,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 11
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 2
 		}
 		communist = {

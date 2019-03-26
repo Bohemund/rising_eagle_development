@@ -41,6 +41,7 @@ add_to_faction = LIT
 add_to_faction = GRE
 add_to_faction = ITA
 add_to_faction = TUR
+add_to_faction = CZE
 
 set_politics = {
 
@@ -69,7 +70,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 2
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {

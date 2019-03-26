@@ -1,10 +1,50 @@
 spriteTypes = {
-<<<<<<< HEAD
+
+### SOUTH AMERICAN UNION ####
 
 	spriteType = {
 		name = "GFX_sou_maluf_military"
 		texturefile = "gfx/event_pictures/report_event/sou_maluf_military.dds"
 	}
+
+	spriteType = {
+		name = "GFX_SOU_protests_for_democracy"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_for_democracy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_protests_suppressed"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_suppressed.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_president_meets_opposition"
+		texturefile = "gfx/event_pictures/report_event/SOU_president_meets_opposition.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_opposition_leader_stabbed"
+		texturefile = "gfx/event_pictures/report_event/SOU_opposition_leader_stabbed.dds"
+	}
+
+### TURKEY ####
+
+	spriteType = {
+		name = "nationalists_challenge_ciller"
+		texturefile = "gfx/event_pictures/report_event/nationalists_challenge_ciller.dds"
+	}
+	
+	spriteType = {
+		name = "dyp_extraordinary_congress"
+		texturefile = "gfx/event_pictures/report_event/dyp_extraordinary_congress.dds"
+	}	
+
+	spriteType = {
+		name = "erbakan_resigns"
+		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"
+	}
+
+### NATIONAL HISTORY ####
 
 	spriteType = {
 		name = "1952_us_election"
@@ -20,7 +60,12 @@ spriteTypes = {
 		name = "operation_ajax"
 		texturefile = "gfx/event_pictures/report_event/operation_ajax.dds"
 	}
-
+	
+	spriteType = {
+		name = "1956_us_election"
+		texturefile = "gfx/event_pictures/report_event/1956_us_election.dds"
+	}
+	
 	spriteType = {
 		name = "1954_guatemala_coup"
 		texturefile = "gfx/event_pictures/report_event/1954_guatemala_coup.dds"
@@ -35,7 +80,7 @@ spriteTypes = {
 		name = "civil_rights_movement"
 		texturefile = "gfx/event_pictures/report_event/civil_rights_movement.dds"
 	}
-
+	
 	spriteType = {
 		name = "1960_us_election"
 		texturefile = "gfx/event_pictures/report_event/1960_us_election.dds"
@@ -44,7 +89,7 @@ spriteTypes = {
 	spriteType = {
 		name = "cuban_missile_crisis"
 		texturefile = "gfx/event_pictures/report_event/cuban_missile_crisis.dds"
-	}
+	}		
 
 	spriteType = {
 		name = "suez_crisis"
@@ -150,4 +195,19 @@ spriteTypes = {
 		name = "ISR_six_day_war"
 		texturefile = "gfx/event_pictures/report_event/ISR_six_day_war.dds"
 	}
+
+	spriteType = {
+		name = "RUS_almaty_summit"
+		texturefile = "gfx/event_pictures/report_event/RUS_almaty_summit.dds"
+	}
+
+	spriteType = {
+		name = "RUS_1986_election"
+		texturefile = "gfx/event_pictures/report_event/RUS_1986_election.dds"
+	}
+
+	spriteType = {
+		name = "RUS_putschist_trials"
+		texturefile = "gfx/event_pictures/report_event/RUS_putschist_trials.dds"
+	}	
 }

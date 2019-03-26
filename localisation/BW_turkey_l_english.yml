@@ -2,23 +2,23 @@
  
  #Parties
  TUR_ultranationalist_party:0 "Nationalist Movement"
- TUR_ultranationalist_party_long:0 "Nationalist Movement"
+ TUR_ultranationalist_party_long:0 "Nationalist Movement Party"
  TUR_monarchist_party:0 "House of Osman"
  TUR_monarchist_party_long:0 "House of Osman"
  TUR_nationalist_party:0 "True Path Party"
  TUR_nationalist_party_long:0 "True Path Party"
- TUR_conservative_party:0 "Felicity Party"
- TUR_conservative_party_long:0 "Felicity Party"
+ TUR_conservative_party:0 "Welfare Party"
+ TUR_conservative_party_long:0 "Welfare Party"
  TUR_centrist_party:0 "Motherland Party"
  TUR_centrist_party_long:0 "Motherland Party"
- TUR_liberal_party:0 "People's Party"
- TUR_liberal_party_long:0 "Republican People's Party"
- TUR_social_democrat_party:0 "Democratic Left"
- TUR_social_democrat_party_long:0 "Democratic Left Party"
+ TUR_liberal_party:0 "Young Party"
+ TUR_liberal_party_long:0 "Young Party"
+ TUR_social_democrat_party:0 "People's Party"
+ TUR_social_democrat_party_long:0 "Republican People's Party"
  TUR_democratic_socialist_party:0 "Democratic Congress"
  TUR_democratic_socialist_party_long:0 "People's Democratic Congress"
- TUR_libertarian_socialist_party:0 "Freedom and Solidarity"
- TUR_libertarian_socialist_party_long:0 "Freedom and Solidarity"
+ TUR_radical_socialist_party:0 "Freedom and Solidarity"
+ TUR_radical_socialist_party_long:0 "Freedom and Solidarity"
  TUR_communist_party:0 "Communist Party"
  TUR_communist_party_long:0 "Turkish Communist Party"
 
@@ -37,3 +37,18 @@
 
  TUR_patriotic_society:0 "Patriotic Society"
  TUR_patriotic_society_desc:0 "Even though the country has been divided politically, the nation is still united under the Turkish flag. The patriotic people of Turkey dont tend to pay attention if the government’s in chaos and danger but if there’s a threat to the state, the backbone of Turkish society, people rally around the country's best interests. "
+
+ #EVENTS
+ turkey.1.t:0 "Nationalist Faction Challenges Çiller"
+ turkey.1.d:0 "The new nationalist faction of the True Path Party was founded when many Nationalist Movement members felt threatened by Bahçeli's rising ultranationalism and anti-American sentiment thus left. The leader of this faction, Meral Akşener, has announced that she'll be running for Chairwoman of the party citing Çiller's inability to represent her voters and her party well enough in the coalition. However her announcment has been met with mixed signals from the party, Çiller denounced Akşener calling her a "power hungry demagogue" and the challange "an act of cowardice", on the other hand other Nationalist faction members such as Yusuf Halaçoğlu applauded her for this "act of bravery" and announced their full support. Other party leaders and Prime Minister Yılmaz have refrained from making any comments on the situation. It seems that there may be an Extraordinary Congress any day now."
+ turkey.1.o1:0 "Damn it Meral!"
+
+ turkey.2.t:0 "True Path Extraordinary Congress"
+ turkey.2.d:0 "Tansu Çiller, chairwoman of the True Path Party, ruled out any possibility of resigning her position in the party, despite facing a leadership challenge from Meral Akşener. This however could not quell further unrest within the party, with several party members declaring their support for opposing candidates. Under the leadership of opposing candidates, delegates critical of Çiller began collecting signatures to force an Extraordinary Congress. On 1 March, Akşener announced that she had successfully collected over 400 signatures, enough to call a congress. The party leadership accepted the outcome and decided to host the Congress. \n\nOf the five contenders announcing their candidacy for the leadership, only two, namely Tansu Çiller and Meral Akşener, appeared to have obtained the required 127 signatures from delegates to formally nominate themselves. The run up to the convention saw fierce infighting between the nationalist and centrist factions of the party. With Akşener scoring a majority of 650 delegates, she is now the Chairwoman of the True Path Party."
+ turkey.2.o1:0 "Congratulations, Asena"
+
+ turkey.3.t:0 "Erbakan Resigns"
+ turkey.3.d:0 "Today Necmettin Erbakan, the leader of the Welfare Party since 1983 and the “father of Turkish political Islam” has announced that he’s resigning due to his poor health. \n\nThis unfortunate announcement has created a leadership contest in the party. The main candidates are Recep Tayyip Erdoğan, the ex-Mayor of Istanbul and an outspoken reformist, Recai Kutan, a trusted friend of Erbakan with ties to conservative traditionalist groups and Aykut Edibali, a rising star in the party and a noted political moderate. Each candidate has accused each other of disrespecting Erbakan’s legacy, meanwhile the former leader has refused to make any endorsements.\n\nErdoğan, described as a very charismatic personality by the political establishment, took his cause to the public, holding rallies for his supporters in Istanbul. Meanwhile Kutan, who has been labeled an insider, visited many distinguished delegates. Edibali on the other hand held meetings with business leaders to raise his funding. \n\nThe delegates voted, and the winner is…"
+ turkey.3.o1:0 "Recep Tayyip Erdoğan"
+ turkey.3.o2:0 "Recai Kutan"
+ turkey.3.o3:0 "Aykut Edibali"

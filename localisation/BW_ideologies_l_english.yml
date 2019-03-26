@@ -24,9 +24,9 @@
  democratic_socialist:0 "Democratic Socialist"
  democratic_socialist_noun:0 "Democratic Socialism"
  democratic_socialist_desc:0 "Democratic Socialist Government"
- libertarian_socialist:0 "Libertarian Socialist"
- libertarian_socialist_noun:0 "Libertarian Socialism"
- libertarian_socialist_desc:0 "Libertarian Socialist Regime"
+ radical_socialist:0 "Radical Socialist"
+ radical_socialist_noun:0 "Radical Socialism"
+ radical_socialist_desc:0 "Radical Socialist Regime"
  communist:0 "Communist"
  communist_noun:0 "Communism"
  communist_desc:0 "Communist Regime"
@@ -38,8 +38,8 @@
  ultranationalist_ideology_desc:0 "Ultranationalism is the most extreme side of nationalism, essentially believing the nation state's strength and health is more important than anyone residing within it."
  national_socialist:0 "National Socialism"
  national_socialist_desc:0 "National Socialism is the ideology and practice characterised as a form of fascism that incorporates scientific racism and antisemitism. It subscribes to theories of racial heirarchy, supposedly aiming to overcome social divisions and create a society unified on the basis of racial purity."
- fascist_ideology:0 "Fascism"
- fascist_ideology_desc:0 "Fascism is a form of radical authoritarian nationalism, believing that liberal democracy is obsolete and regarding the complete mobilisation of society under a totalitarian state as necessary to prepare a nation for armed conflict."
+ fascist:0 "Fascism"
+ fascist_desc:0 "Fascism is a form of radical authoritarian nationalism, believing that liberal democracy is obsolete and regarding the complete mobilisation of society under a totalitarian state as necessary to prepare a nation for armed conflict."
  falangist:0 "Falangism"
  falangist_desc:0 "Falangism places a strong emphasis on Catholic religious identity, emphasising the need for authority, heirarchy and order in society. Falangism is anti-communist, anti-capitalist, anti-democratic and anti-liberal."
  rexist:0 "Rexism"
@@ -52,6 +52,8 @@
  revolutionary_islamist_desc:0 "Revolutionary Islamism is the most radical form of Islamism born out of the 1979 Islamic Revolution. In contrast to the more widespread Islamic Democrat thought, Revolutionary Islamism is much more radical, seeking power through populism and revolution. The ideology advocates subordinating the state and the economy to Islamic clerics and is fiercely opposed to Western culture and America in particular."
  mobutist:0 "Mobutism"
  mobutist_desc:0 "Mobutism is the official state ideology of the Republic of Zaire. Mobutism encompasses and glorifies the thoughts, visions, and policies of Zairian president and self-proclaimed Father of the Nation, Mobutu Sese Seko. The ideology calls for the repudiation of both capitalism and communism and favours national revolution."
+ third_international_theory:0 "Third International Theory"
+ third_international_theory_desc:0 "The Third International Theory was the style of government that Muammar Gaddafi advocated during his rule of the Great Socialist People's Libyan Arab Jamahiriya and the Arab Islamic Republic. The ideology was partly inspired by Islamic socialism, Arab nationalism, African nationalism and partly by the principles of direct democracy. It was proposed by Gaddafi as an alternative to capitalism and communism for Third World countries, based on the stated belief that both of these ideologies had been proven invalid."
 
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"
@@ -62,6 +64,8 @@
  nationalist_ideology_desc:0 "Nationalism is oriented towards gaining and maintaining self-governance, or full sovereignty. It holds that a nation should govern itself, free from unwanted outside interference, and is linked to the concept of self-determination."
  military_junta:0 "Military Junta"
  military_junta_desc:0 "A military junta is a government led by a committee of military leaders."
+ lebanese_nationalist:0 "Lebanese Nationalism"
+ lebanese_nationalist_desc:0 "Lebanese nationalism an ideology that considers the Lebanese people and Maronite Catholics in particular to be direct descendants of the Phoenician people. It asserts that Lebanon is a distinct nation, independent from the Arab world. The ideology is strongly opposed to Pan-Arabism, Arab nationalism and communism."
 
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
@@ -124,6 +128,9 @@
  luxemburgism_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
  anarcho_syndicalism:0 "Anarcho-Syndicalism"
  anarcho_syndicalism_desc:0 "Anarcho-Syndicalism's basic principles are solidarity, direct action and direct democracy or workers' self-management. Reflecting the anarchist philosophy from which it draws its primary inspiration, anarcho-syndicalism is centred around the idea that power corrupts and that any hierarchy which cannot be ethically justified must either be dismantled or replaced by decentralised egalitarian control."
+ buddhist_socialism:0 "Buddhist Socialism"
+ buddhist_socialism_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
+
 
  #COMMUNISM
  marxist:0 "Marxism"
@@ -152,10 +159,6 @@
  left_libertarian_desc:0 "Left-Libertarianism names several related but distinct approaches to political theory, which stresses both individual freedom and social equality."
  european_moderate_socialist:0 "European Moderate Socialism"
  european_moderate_socialist_desc:0 "European moderate socialism is an ideology in opposition to the Soviet order and pre-Cold War ideologies. It aims to create a new socialist order within Europe."
- revolutionary_socialist_ideology:0 "Revolutionary Socialism"
- revolutionary_socialist_ideology_desc:0 "Revolutionary socialism is a radical far-left ideology that remains in opposition to the Soviet order and in general communism. Originating in the collapse of the United States, this form of socialism is a catch-all for ideologies ranging from those seeking maximum liberties for their citizens, to authoritarian systems. In general, most revolutionary socialists advocate for limited political freedoms, but there are exceptions throughout the world and in each country."
- buddhist_socialism:0 "Buddhist Socialism"
- buddhist_socialism_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
  
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"
@@ -166,5 +169,5 @@
  liberal_drift:0 "Drift to Liberalism"
  social_democrat_drift:0 "Drift to Social Democracy"
  democratic_socialist_drift:0 "Drift to Democratic Socialism"
- libertarian_socialist_drift:0 "Drift to Libertarian Socialism"
+ radical_socialist_drift:0 "Drift to Radical Socialism"
  communist_drift:0 "Drift to Communism"

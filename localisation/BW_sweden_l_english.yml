@@ -15,12 +15,12 @@
  SWE_liberal_party_long:0 "People’s Party"
  SWE_social_democrat_party:0 "Social Democratic Party"
  SWE_social_democrat_party_long:0 "Social Democratic Party"
- SWE_democratic_socialist_party:0 "Left Party"
- SWE_democratic_socialist_party_long:0 "Left Party"
- SWE_libertarian_socialist_party:0 "Union Confederation"
- SWE_libertarian_socialist_party_long:0 "Trade Union Confederation"
- SWE_communist_party:0 "Communist Party"
- SWE_communist_party_long:0 "Communist Party"
+ SWE_democratic_socialist_party:0 "Democratic Left Party"
+ SWE_democratic_socialist_party_long:0 "Democratic Left Party"
+ SWE_radical_socialist_party:0 "Workers of Sweden"
+ SWE_radical_socialist_party_long:0 "Central Organisation of the Workers of Sweden"
+ SWE_communist_party:0 "Socialist Justice"
+ SWE_communist_party_long:0 "Socialist Justice Party"
 
  #IDEAS
  nordic_economic_community:0 "Nordic Economic Community Member"

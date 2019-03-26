@@ -1,0 +1,185 @@
+﻿LIB = {
+	male = {
+		names = {  
+			Aaron Alexander Andre Benton Caesar Cathay Charles Colin Ebenezer Edgar
+			Edward Frederick George Henry James Joseph Lewis Lloyd Matin Michael 
+			Milton Osborne  Robert Samuel Stewart Thomas William Wilson
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Anderson Antoine Augusta Basset Beaty Blake Brooks Brown Cailloux Carney
+		Delany Douglass  Fields Flipper Gardner Griffin Hawkins Holland Jackson
+		King Mink Nell Pinn Ratcliff Remond Smith Stukes Tubman Veale
+	 }
+	callsigns = { }
+}
+ANG = {
+	male = {
+		names = {  
+			Weza Lukeny Loide Abilio Denzel Shelby Johnson Nomita Vianney Armando
+			Chase Delvanio Elaisa Helmer Ilidio Keter Nimi Nkrumah Sim Wilmer 
+			Zulu Adilson Alakai Auren Charlon Chael Dinho Divon Dominick Edmar 
+			Eser Euclides Francisco Hasiel Ido Isidro Itzaina Ivandro Janison Jesualdo 
+			Josemar Joseth Jovani Kinza Kwame Lenz Mario Medard Onika Ramiro Sanjar 
+			Vassily Yakir Yassine Abu Adao Adelard Aden Adriano Aidan Aldo Anders
+		 }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Abraao Adao Assis Alfredo Airosas Ambrosio Barbosa Belarmino Brandao Braz
+		Bernardo Bonga Branco Calandula Chakussanga Carneiro Cazanga Delgado Diakite
+		Diniz Duarte Elisio Estevao Ferraz Freitas Fortuna Figueiredo Fofana Gama
+		Guilherme Guimaraes Hipolito Jaga Jamba Jamuana Jordao Joaquim Jeronimo Kabangu
+		Kadu Kalanga Kamata Kamwenho Kulaxingo Kuyenga Kusunga Lama Linares Lara Lando Lupapa
+		Loco Lima Mabululu Macaba Manuel Mascarenhas Manucho Miloy Mwanga Moreira Menga Mendosa
+		Mbilingi Mawete Mavunza Nascimento Neblina Nunes Nsuki Nobre Nyumbu Nzinga Oliveira Ompuff Ondjaki 
+        Pacavira Pacheco Pahiama Paulo Patricio Placido Pena Pedro Pataca Quiame Quimbamba Ramos Rebel Rebelo
+        Reis Ribas Roque Sa Salessu Samakuva Sozinho Swingue Soares Simao Seninho Santos Tati Tiago Trindade
+        Vunguidica Vita Vidigal Viegas Vicente Victoriano Vetokele Valdinho Vahekeni Wanga Webba Wykes Xitu 
+        Yano Zowa Zuela		
+	 }
+	callsigns = { }
+}
+ETH = {
+	male = {
+		names = {
+			Amare Bekele Berhanu Saleh Haile Berihun Demissie Desta Geteye Girma Kelile Negasi
+		   }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Selassie Mikael Mariam Melekot Seged Wossen Makonnen
+	 }
+	callsigns = { }
+}
+SWZ = {
+	male = {
+		names = { 
+			Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys  }
+	callsigns = { }
+}
+LES = {
+	male = {
+		names = { 
+			Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys  }
+	callsigns = { }
+}
+SAF = {
+	male = {
+		names = { 
+			Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys  }
+	callsigns = { }
+}
+NAM = {
+	male = {
+		names = { 
+			Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys  }
+	callsigns = { }
+}
+DRC = {
+	male = {
+		names = {
+			Adam Adrien Alex Alexis Alexandre Alphonse Anthony Antoine Arthur Arnaud Aurélien Axel
+			Benjamin Benoit Bastien
+			Cédric Corentin Clement
+			Damien Daniel David Denis Dorian Dylan
+			Enzo
+			Felix François Frédéric Florian Franck
+			Gabriel Georges Grégory Guillaume Gustave
+			Henri Hubert Hugo
+			Jacques Jean Jérémy Joseph
+			Kevin
+			Loïc
+			Mathieu Mathis Maxence Maxime
+			Paul
+			Robin Romain
+			Tanguy Theo Thibault
+			Valentin Vincent
+			Xavier
+		}
+	}
+	female = {
+		names = {
+			Alice Amandine Amélie Anaïs Audrey Aurélie
+			Camille Caroline Célia Céline Charlotte Chloé Claire Clara Clémence
+			Elisa Elise Elodie Emilie Emma Estelle Eva
+			Fanny
+			Inès
+			Jade Jeanne Josephine Julie Juliette Justine
+			Laura Léa Lisa Louise Lucie
+			Maéva Manon Margaux Margot Marie Marine Marion Mathilde Mélanie Melissa Morgane
+			Noémie
+			Océane
+			Pauline
+			Romane
+			Sarah Sophie
+		}
+	}
+	surnames = {
+		Andre
+		Bernard Bertrand Blanc Bonnet
+		Chirac
+		David Dubois Dupont Durand
+		Faure Fournier Francois
+		Garcia Garnier Guerin
+		Hollande
+		Lambert Laurent "Le Pen" Lefebvre Lefevre Legrand Leroy
+		Martin Martinez Mercier Michel Morel Moreau
+		Rousseau Roux
+		Sarkozy Simon
+		Thomas
+		Vincent
+	}
+	callsigns = {
+		Adolphe Afrique Alsace Atlante Azalee Azur
+		Baliste Barkhane Bison Bizerte Bretagne Brochet "Burkina Faso"
+		Camargue Cameroun Castor Ceinture Chamall Condor Corsica "Côte d'Ivoire"
+		Draco
+		Épaulard Épervier
+		France
+		Gabon Guinea
+		Harmattan Hirondelle
+		Jersey Jumelles
+		Kinshasa Kongo Kongo-Wara
+		Lamantin Larache Léa "Linda Nchi" Lorraine
+		Madagascar Madama Manta Medak Mouette
+		Niger
+		Oriental
+		Panther Papillon
+		Quentin
+		Sahara Sentinelle Schlieffen Séisme Serval
+		Tacaud Tiger Turquoise
+		Unicorn
+	}
+}

@@ -7,8 +7,8 @@ state={
 	}
 	
 	history = {
-		owner = MAY
-		add_core_of = MAY
+		owner = SAR
+		add_core_of = SAR
 		buildings = {
 			industrial_complex = 3
 			arms_factory = 1

@@ -1,11 +1,11 @@
 ﻿capital = 116
 
-oob = "AAA_2010"
+oob = "MLT_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.6
-set_war_support = 0.3
+set_stability = 0.8
+set_war_support = 0.1
 
 set_technology = {
 	support_weapons = 1
@@ -28,39 +28,50 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
-		}
-		monarchist = {
 			popularity = 0
 		}
+		monarchist = {
+			popularity = 15
+		}
 		nationalist = {
-			popularity = 11
+			popularity = 4
 		}
 		conservative = {
 			popularity = 12
 		}
 		centrist = {
-			popularity = 15
+			popularity = 34
 		}
 		liberal = {
-			popularity = 17
+			popularity = 6
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 29
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 10
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = centrist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Eddie Fenech Adami"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_MLT_Edward_Fenech_Adami.tga"
+	expire = "2050.1.1"
+	ideology = national_liberal
+	traits = {
+		#
+	}
 }

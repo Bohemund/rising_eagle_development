@@ -357,4 +357,47 @@ spriteTypes = {
 		name = "GFX_idea_RUS_viktor_zubkov"
 		texturefile = "gfx/interface/ideas/advisors/russia/RUS_viktor_zubkov.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_RUS_alexei_kudrin"
+		texturefile = "gfx/interface/ideas/advisors/russia/RUS_alexei_kudrin.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_RUS_alexei_navalny"
+		texturefile = "gfx/interface/ideas/advisors/russia/RUS_alexei_navalny.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_RUS_boris_titov"
+		texturefile = "gfx/interface/ideas/advisors/russia/RUS_boris_titov.dds"
+	}
+
+	#### SOUTH AMERICAN UNION ADVISORS ####
+
+	spriteType = {
+		name = "GFX_idea_SOU_enzo_martins_peri"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_enzo_martins_peri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_ernesto_araujo"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_ernesto_araujo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Francisco_Dornelles"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Francisco_Dornelles.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Jose_Agripino_Maia"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Jose_Agripino_Maia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Rogerio_Galloro"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Rogerio_Galloro.dds"
+	}
+
 }

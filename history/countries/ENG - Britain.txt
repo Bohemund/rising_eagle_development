@@ -63,7 +63,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 3
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 7
 		}
 		communist = {
@@ -75,6 +75,17 @@ set_politics = {
 	last_election = "2005.5.5"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Nick Griffin"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_Nick_Griffin.tga"
+	expire = "2050.1.1"
+	ideology = fascist
+	traits = {
+		
+	}
 }
 
 create_country_leader = {
@@ -104,7 +115,7 @@ create_country_leader = {
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "Portrait_ENG_Jeremy_Corbyn.tga"
 	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
+	ideology = radical_socialist_ideology
 	traits = {
 		
 	}

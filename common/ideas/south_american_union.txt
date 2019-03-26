@@ -1,5 +1,118 @@
 ideas = {
 
+	second_in_command = {
+
+		SOU_Jose_Agripino_Maia = {
+
+			picture = SOU_Jose_Agripino_Maia
+			
+			allowed = {
+				original_tag = SOU
+			}
+			
+			available = {
+			    OR = {
+					has_government = nationalist
+					has_government = conservative
+					has_government = centrist
+				} 
+			}
+
+			traits = { political_protege }
+		}
+	}
+
+	foreign_minister = {
+
+		SOU_ernesto_araujo = {
+
+			picture = SOU_ernesto_araujo
+			
+			allowed = {
+				original_tag = SOU
+			}
+
+			available = {
+			    OR = {
+					has_government = ultranationalist
+					has_government = nationalist
+				} 
+			}
+			
+			traits = { biased_intellectual }
+		}
+	}
+
+	industry_minister = {
+
+		SOU_Francisco_Dornelles = {
+
+			picture = SOU_Francisco_Dornelles
+			
+			allowed = {
+				original_tag = SOU
+			}
+
+			available = {
+			    OR = {
+			        has_government = nationalist
+			        has_government = conservative
+					has_government = centrist
+				} 
+			}
+			
+			traits = { corrupt_kleptocrat }
+		}
+	}
+
+	interior_minister = {
+
+		SOU_enzo_martins_peri = {
+
+			picture = SOU_enzo_martins_peri
+			
+			allowed = {
+				original_tag = SOU
+			}
+
+			available = {
+			    OR = {
+			        has_government = ultranationalist
+			        has_government = nationalist
+					has_government = conservative
+					has_government = centrist
+				} 
+			}
+			
+			traits = { prince_of_terror }
+		}
+	}
+
+	intelligence_minister = {
+
+		SOU_Rogerio_Galloro = {
+
+			picture = SOU_Rogerio_Galloro
+			
+			allowed = {
+				original_tag = SOU
+			}
+
+			available = {
+			    OR = {
+			        has_government = nationalist
+			        has_government = conservative
+					has_government = centrist
+					has_government = liberal
+					has_government = social_democrat
+					has_government = democratic_socialist
+				} 
+			}
+			
+			traits = { intelligence_director }
+		}
+	}
+
     country = {
 	    
 		SOU_linguistic_divide = {
@@ -57,7 +170,7 @@ ideas = {
 			
 			modifier = {
 				consumer_goods_factor = 0.10
-				political_power_gain = -0.5
+				political_power_gain = -0.8
 				stability_factor = -0.20
 			}
 		}

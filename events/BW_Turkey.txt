@@ -1,0 +1,118 @@
+﻿add_namespace = turkey
+
+#Nationalists Challenge Çiller
+country_event = {
+	id = turkey.1
+	title = turkey.1.t
+	desc = turkey.1.d
+	picture = nationalists_challenge_ciller
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TUR
+		date > 2010.2.1
+		date < 2010.2.30
+	}
+	
+	option = {
+		name = turkey.1.o1
+		hidden_effect = {
+		    TUR = {
+		        country_event = { days = 15 id = turkey.2 } 
+		    }
+		}
+	}
+}
+
+#DYP Extraordinary Congress
+country_event = {
+	id = turkey.2
+	title = turkey.2.t
+	desc = turkey.2.d
+	picture = dyp_extraordinary_congress
+	
+	is_triggered_only = yes
+	
+	
+	option = {  
+		name = turkey.2.o1
+		create_country_leader = {
+    	    name = "Meral Akşener"
+	        desc = ""
+	        picture = "Portrait_TUR_Meral_Aksener.tga"
+	        expire = "2050.1.1"
+	        ideology = nationalist_ideology
+	        traits = {
+		        #
+	         }
+        }
+    }		
+}
+
+#Erbakan Resigns
+country_event = {
+	id = turkey.3
+	title = turkey.3.t
+	desc = turkey.3.d
+	picture = erbakan_resigns
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TUR
+		date > 2010.1.1
+		date < 2010.2.1
+	}
+	
+	option = {   #Recep Tayyip Erdoğan
+		name = turkey.3.o1
+		create_country_leader = {
+    	    name = "Recep Tayyip Erdoğan"
+	        desc = ""
+	        picture = "Portrait_TUR_Recep_Tayyip_Erdogan.tga"
+	        expire = "2050.1.1"
+	        ideology = social_conservative
+	        traits = {
+		        #
+	         }		
+		ai_chance = {
+			factor = 34
+		}
+	}
+}	
+	option = {   #Recai Kutan
+		name = turkey.3.o2
+		create_country_leader = {
+    	    name = "Recai Kutan"
+	        desc = ""
+	        picture = "Portrait_TUR_Recai_Kutan.tga"
+	        expire = "2050.1.1"
+	        ideology = islamic_democrat
+	        traits = {
+		        #
+	         }
+        }
+		ai_chance = {
+			factor = 33
+		}
+	}
+	
+	option = {   #Aykut Edibali
+		name = turkey.3.o3
+		create_country_leader = {
+    	    name = "Aykut Edibali"
+	        desc = ""
+	        picture = "Portrait_TUR_Aykut_Edibali.tga"
+	        expire = "2050.1.1"
+	        ideology = fiscal_conservative
+	        traits = {
+		        #
+	         }
+        }
+		ai_chance = {
+			factor = 33
+		}
+	}
+}
+

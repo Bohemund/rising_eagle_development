@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 9
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -79,7 +79,7 @@ set_politics = {
 create_country_leader = {
 	name = "Qasem Soleimani"
 	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Qasem Soleimani.tga"
+	picture = "Portrait_PER_Qasem_Soleimani.tga"
 	expire = "2050.1.1"
 	ideology = revolutionary_islamist
 	traits = {

@@ -999,3 +999,13 @@ MRD = {
 	color = rgb { 210 0 0 }
 	color_ui = rgb { 210 0 0 }
 }
+
+SAR = {
+	color = rgb { 252 210 15 }
+	color_ui = rgb { 252 210 15 }
+}
+
+BAH = {
+	color = rgb { 240 130 220 }
+	color_ui = rgb { 220 110 200 }
+}

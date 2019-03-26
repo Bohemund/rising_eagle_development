@@ -26,7 +26,7 @@ leader_traits = {
 		}
 	}
 	
-	defense_minister = {
+	interior_minister = {
 		random = no
 		
 		ai_will_do = {
@@ -365,7 +365,7 @@ leader_traits = {
 	
 	## END OF INDUSTRY MINISTER ##
 	
-	## NATIONAL SECURITY MINISTER ## 
+	## INTERIOR MINISTER ## 
 	
 	silent_lawyer = {
 		random = no
@@ -428,7 +428,7 @@ leader_traits = {
 		}
 	}
 	
-	## END OF NATIONAL SECURITY MINISTER ##
+	## END OF INTERIOR MINISTER ##
 	
 	## INTELLIGENCE MINISTER ## 
 	

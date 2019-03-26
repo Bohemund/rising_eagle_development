@@ -1,0 +1,408 @@
+﻿#English Language
+XXX_ENG = {
+	male = {
+		names = {
+			Aaron Alex Alexander Averell
+			Benedict Bob
+			Christopher Colin
+			David Derek Dwight "Dwight D."
+			Edgar Elliott Eugene
+			Frederick
+			George "George W."
+			Harold "Harold Richard" Henry
+			Indiana
+			Jack James Jim Joe Johan
+			Lewis Lloyd
+			Martin Maximilian Michael
+			Nicholas Nick Nigel
+			Osborne
+			Patrick Paul
+			Quentin
+			Rand Richard Ron Ronald
+			Simon
+			Thomas Tom
+			Ulysses "Ulysses S."
+			Victor
+			William
+			Xylander
+			Zacharias Zack
+		}
+	}
+	female = {
+		names = {
+			Amelia Anna Anne
+			Barbara Beth
+			Carina
+			Daria
+			Emma
+			Felicia Felicity
+			Henriette
+			Joan Joanne Josephine
+			Mary Mia
+			Tess Theresa
+			Vanessa Victoria
+			Yolanda
+		}
+	}
+	surnames = {
+		Alexander
+		Baron Brown Bush
+		"of Cambridge" Camelot Cameron Canterlot Clinton
+		Donut
+		Earhart Eisenhower
+		Farage
+		Grant Gray Grey Green
+		Holland
+		Irvine
+		Jackson Johnson
+		Karol
+		Lewis Louis Luna
+		Mattis May
+		Nick
+		Obama Osborne
+		Paul
+		Quentinson
+		Rick
+		Smith "Smith IV"
+		Taylor "Taylor III"
+		Ulreich
+		Vandal
+		Wanda Williamson
+		Xylander
+		Yole
+		Zacharias
+	}
+	callsigns = {
+		007 666
+		America Arumba Autumn
+		Biscuit Brass Brittania
+		Canada Champion Christmas Conspiracy Cox Crendor
+		Diligence Dodger
+		Emperor England
+		Fall Fury
+		Greatness God-Emperor
+		Hero Henry "High Energy"
+		Ironforge Irvine
+		Jane Jazz
+		King "King George" "King William"
+		Lake Lightning Lion London
+		Mountain Mouse
+		Nautilus Neptune "Northern Lion"
+		Ontario Ottawa Ozzy
+		Plaza Pizza
+		Quantum
+		Ra Rat "Righteous Fury"
+		Scotland Sheep Shitpost Spring Springtime Stormwind Strippin
+		Theresa Thompson Thunder Thunderclap Thunderstrike Tiger
+		Utah
+		Victory Virtue
+		Washington Winter Winterspring Winterstrike
+		XY
+		Y01
+		Zealous Zacharias
+	}
+}
+#French Language
+XXX_FRA = {
+	male = {
+		names = {
+			Adam Adrien Alex Alexis Alexandre Alphonse Anthony Antoine Arthur Arnaud Aurélien Axel
+			Benjamin Benoit Bastien
+			Cédric Corentin Clement
+			Damien Daniel David Denis Dorian Dylan
+			Enzo
+			Felix François Frédéric Florian Franck
+			Gabriel Georges Grégory Guillaume Gustave
+			Henri Hubert Hugo
+			Jacques Jean Jérémy Joseph
+			Kevin
+			Loïc
+			Mathieu Mathis Maxence Maxime
+			Paul
+			Robin Romain
+			Tanguy Theo Thibault
+			Valentin Vincent
+			Xavier
+		}
+	}
+	female = {
+		names = {
+			Alice Amandine Amélie Anaïs Audrey Aurélie
+			Camille Caroline Célia Céline Charlotte Chloé Claire Clara Clémence
+			Elisa Elise Elodie Emilie Emma Estelle Eva
+			Fanny
+			Inès
+			Jade Jeanne Josephine Julie Juliette Justine
+			Laura Léa Lisa Louise Lucie
+			Maéva Manon Margaux Margot Marie Marine Marion Mathilde Mélanie Melissa Morgane
+			Noémie
+			Océane
+			Pauline
+			Romane
+			Sarah Sophie
+		}
+	}
+	surnames = {
+		Andre
+		Bernard Bertrand Blanc Bonnet
+		Chirac
+		David Dubois Dupont Durand
+		Faure Fournier Francois
+		Garcia Garnier Guerin
+		Hollande
+		Lambert Laurent "Le Pen" Lefebvre Lefevre Legrand Leroy
+		Martin Martinez Mercier Michel Morel Moreau
+		Rousseau Roux
+		Sarkozy Simon
+		Thomas
+		Vincent
+	}
+	callsigns = {
+		Adolphe Afrique Alsace Atlante Azalee Azur
+		Baliste Barkhane Bison Bizerte Bretagne Brochet "Burkina Faso"
+		Camargue Cameroun Castor Ceinture Chamall Condor Corsica "Côte d'Ivoire"
+		Épaulard Épervier
+		France
+		Gabon Guinea
+		Harmattan Hirondelle
+		Jersey Jumelles
+		Kinshasa Kongo Kongo-Wara
+		Lamantin Larache Léa "Linda Nchi" Lorraine
+		Madagascar Madama Manta Medak Mouette
+		Niger
+		Oriental
+		Panther Papillon
+		Quentin
+		Sahara Sentinelle Schlieffen Séisme Serval
+		Tacaud Turquoise
+		Unicorn
+	}
+}
+#Spanish Language
+XXX_SPA = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#German Language
+XXX_GER = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Chinese Language
+XXX_CHI = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Portuguese Language
+XXX_POR = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Dutch Language
+XXX_NED = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Hungarian Language
+XXX_HUN = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Romanian Language
+XXX_ROM = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#West Slavic Language
+XXX_WSL = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#East Slavic Language
+XXX_ESL = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Hindi Language
+XXX_RAJ = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Japanese Language
+XXX_JAP = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}
+#Korean Language
+XXX_KOR = {
+	male = {
+		names = {
+			
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+	
+	}
+	callsigns = {
+	
+	}
+}

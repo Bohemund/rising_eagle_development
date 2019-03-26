@@ -106,5 +106,44 @@ spriteTypes = {
 		name = "GFX_idea_TUR_patriotic_society"
 		texturefile = "gfx/interface/ideas/TUR_patriotic_society.dds"
 	}
-	
+
+	spriteType = {
+		name = "GFX_idea_ingolf"
+		texturefile = "gfx/interface/ideas/ingolf.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_harald_v"
+		texturefile = "gfx/interface/ideas/harald_v.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_the_drug_war"
+		texturefile = "gfx/interface/ideas/MEX_the_drug_war.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_radicalization_of_the_right"
+		texturefile = "gfx/interface/ideas/MEX_radicalization_of_the_right.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_election_rigging_allegations"
+		texturefile = "gfx/interface/ideas/MEX_election_rigging_allegations.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_substantial_american_influence"
+		texturefile = "gfx/interface/ideas/MEX_substantial_american_influence.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_milanese_recession"
+		texturefile = "gfx/interface/ideas/ITA_milanese_recession.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_drift_towards_radicalism"
+		texturefile = "gfx/interface/ideas/ITA_radical_drift.dds"
+	}
 }

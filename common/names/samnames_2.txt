@@ -1,0 +1,314 @@
+﻿GNS = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+FAL = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+ISL = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+RAL = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+ACS = {
+	male = {
+		names = {  
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { 
+		"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			"al-Najdi" "al-Hijazi"   
+	
+	}
+	callsigns = { }
+}
+MLT = {
+	male = {
+		names = {
+			Ayden Carmelo Nathan Mawru Spiru Leon Matthias Xand Nosi Joseph Samuel
+			Oliver Saverju Karistu Lewis Jacques Anglu Zaru Salvinu Pawl Marjanu
+			Kaiden Bernard Rokku Ruzar Pietru Nestu Marku Mason Antonio Kristofru
+			Gabrijel Danzel Arturo William Vittor Frangisk Benjamin Lawrenz
+		}
+	}
+	female = {
+		names = {
+			Keira Yasmine Alaya Mariah Nina Eliza Katya Karmena
+		}
+	}
+	surnames = {
+		Romolo Delorenzo Grimaud "De Martino" Manzoni Marshall Toledano Bugeja Gafa
+		Bellanti Tedesco Tabone Ceravolo "De Gabriele" Sillato Apap Ripard Tirekett
+		Zerafa Simiana Tirchett Slythe Surdo Sabatier Inglott Faraci Baldacchino
+		Deidun Scalpello Pullicino "De Carlo" Chevalier
+	}
+	callsigns = { }
+}
+ZIM = {
+	male = {
+		names = {
+			Tapfumaneyi Zimba Munashi Nhamoinesu Tendai Munonzwa Anesu Takura Dzingai
+			Musafare Rudzi Pikirayi Mhuvi Muchafara Takudzwa Taurai Garikai Muchengeti
+			Mhara Taropafadzwa Jongwe Nyika Tonderai Mbada Tapfuma Shingai Tsuru Zivorashe
+			Takakunda Kuseka Bastirai Muchaneta Kusvika Rupenyu
+		}
+	}
+	female = {
+		names = {
+			Idai Dudzai Chidao Nyarai Tapuwa Yananiso Anesu Shingai
+		}
+	}
+	surnames = {
+		Chigwedere Malianga Samkange Dabengwa Mhlanga Kumbula Muchinguri Nhiwatiw Dongo
+		Tsvangirai Hunzvi Dangarembga Mwayenga Rusere Matongo Mubako Muzanenhamo
+	}
+	callsigns = { }
+}
+KZH = {
+	male = {
+		names = {
+			Baurzhan Aidyn Madi Samat Ablai Ardager Amir Serikbek Nurlan Nurbek Yeldos
+			Magjan Fomenko Yerbolat Kholmatzhon Daniar Talgat Nurbolat Baltabek Almas
+			Iskander Assylhan Islam Kuanysh Nursultan Kapan
+		}
+	}
+	female = {
+		names {
+			Meyramgul Jazira Qalima Hadisha Aiman Tursinai Aksamal Binagurung Leyla
+		}
+	}
+	surnames = {
+		Baltabekov Assylev Ericov Yerikev Olzhasev Fomenkoev Garriov Akmetzhanev Tarasev
+		Olzhasov Aniyarov Daurenov Yerzhanov Zhandos Medetov Azamatov Serikev Rustemev
+		Talgatov Kuanyshev Ruslanev
+	}
+	callsigns = { }
+}
+TJI = {
+	male = {
+		names = {
+			Human Fariborz Housyar Khashyar Hurmoz Suhrab Farzann Pazhman Emomali
+			Kaikhosrow Atash Omaid Kosha Poya Awrang Kianoosh Buzurgmehr Sougand
+			Namvar Saman Shaya Giv Zal Kaiqubad Islam
+		}
+	}
+	female = {
+		names = {
+			Sheeva "Zarrin Dokht" Gulnar Gulpari Niki
+		}
+	}
+	surnames = {
+		Abdulayev Burkhanov Kadyrov Majidov Ramazonov Sultonov Yusufi
+	}
+	callsigns = { }
+}
+UZB = {
+	male = {
+		names = {
+			Shovruk Zahid Mirzali Ulfat Hasan Batir Tohta Tahir Shadman Rahmat Abdulqhafur
+			Yarmat Ali Ilyas Qasim Hilol Jora Elyor Malik Onar Komil Surat Tesha Aminjon
+			Nurmat Usmon Yusuf Orif Abdulaziz Latif Alisher Abubakir Kimsan Parpi Qodir
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		Abdulayev Burkhanov Kadyrov Majidov Ramazonov Sultonov Yusufi
+	}
+	callsigns = { }
+}
+KYR = {
+	male = {
+		names = {
+			Adilet Aibek Jyrgal Ruslan Sukhrab Taalay
+		}
+	}
+	female = {
+		names = {
+			Adilet Anara Bermet Cholpon Gulnara Jyrgal
+		}
+	}
+	surnames = {
+		Abdulayev Abdulin Abdulov Aytmatov Bayzhanov Beshimov Ibragimov Nogoyev Usenov
+	}
+	callsigns = { }
+}
+TRM = {
+	male = {
+		names = {
+			Arslan Azat Eziz Mergen Suleyman Yusup Gurbanguly Saparmurat Han
+		}
+	}
+	female = {
+		names = {
+			Annagul Ayna Aynabat Bahargul Nyazik Sona
+		}
+	}
+	surnames = {
+		Berdimuhamedow Niyazov Ahmedow Abdulin Ashyrow Babayev Bashimow Garayev Ibragimov
+		Jumayew Kadyrov Kurbanov Musaev Omarov Orazgeldiyew Orazow Ramazanov Sultanov Umarov
+		Yusupov
+	}
+	callsigns = { }
+}
+INS = {
+	male = {
+		names = {
+			Susanto Raharjo Eko Djaja Sriwidadi Purwodarminto Hamdani Cahya Suharto Suratman
+			Agung Bima Slamet Purnama Krisna Suryadi Tirto Iskandar Sukarno Adi Bambang
+		}
+	}
+	female = {
+		names = {
+			Eka Melati Lestari Tuminindyah Inge Shinta Sriningsih
+		}
+	}
+	surnames = {
+		" " Budiaman Indrajaya Kurnia Salim Santoso Lesmono Pranata
+	}
+	callsigns = { }
+}
+PAP = {
+	male = {
+		names = {
+			Bosai Kut "Gaima-Yokumul" Kaglnogl Braydon Xavi Billy Leo Morgan London Milo
+			"Mirani-Gena" "Nambuka-Titip" "KopiaKerika-Kubal" Pokanas "Komp-Nikints" Lee
+			Bopau Teagan Killian "Gavey-Akamo"
+		}
+	}
+	female = {
+		names = {
+			Palantina Kumbi Evelyn "Kundika-Marpa" Ngasu Kandra
+		}
+	}
+	surnames = {
+		Lama Pombo Wala Kariko Tamarua Taligatus Renagi Maino Ako Pala Gari Rawali Biri
+		Pulu Pomat
+	}
+	callsigns = { }
+}
+CMB = {
+	male = {
+		names = {
+			Jin Long Jen Dith Sat Chhoub Nhek Mao Um Lim Bun Phann Chen Eav Ros Sin Yim
+			Sieng Yous Seang Chim Chhorn Ben On Chhan Chhim Jay Mul Muoy Mon Noung
+		}
+	}
+	female = {
+		names = {
+			Jan Uch Tep Yim Touch Din
+		}
+	}
+	surnames = {
+		Munny Chamroeun Pisey Kosal Bourey Samlain Sothea Narith Rithipol Phirun Rotha
+		Ponlok Setha Sraem Kunthea Darareaksmey
+	}
+	callsigns = { }
+}
+MAY = {
+	male = {
+		names = {
+			Kaatima Suhaa Hadeel Sanad Atiyya Nirmala Melati Surintan Nawar Mahura
+			Aaida Rabdaa Afraah Bongsu Yati Masayu Indah Mayang
+		}
+	}
+	female = {
+		names = {
+			
+		}
+	}
+	surnames = {
+		"bin Misbaah" "bin Zuhaira" "bin Intisaar" "bin Israa" "bin Mariah"
+		"bin Kartika" "bin Hamda" "bin Ghuzaila" "bin Sepiah" "bin Mariam"
+	}
+	callsigns = { }
+}

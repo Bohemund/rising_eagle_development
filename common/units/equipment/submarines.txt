@@ -1,0 +1,190 @@
+equipments = {
+
+	submarine = {
+		year = 1922
+
+		is_archetype = yes
+		is_buildable = no
+		type = submarine
+		group_by = archetype
+		
+		upgrades = {
+			ship_reliability_upgrade
+			sub_engine_upgrade
+			sub_stealth_upgrade
+			sub_torpedo_upgrade
+		}
+		
+		interface_category = interface_category_other_ships
+
+		ap_attack = 0
+		attack = 0
+		fire_range = 8
+		torpedo_attack = 20
+		
+		anti_air_attack = 1.5
+		
+		armor_value = 0
+		evasion = 40
+		
+		surface_detection = 30
+		sub_detection = 60
+		surface_visibility = 10
+		sub_visibility = 15
+		naval_speed = 16
+		reliability = 0.75
+		
+		naval_range = 5000
+		
+		max_strength = 30
+
+		port_capacity_usage = 0.5
+		
+		build_cost_ic = 550
+		resources = {
+			oil = 2
+			steel = 2
+		}
+		
+		manpower = 200
+	}
+
+	submarine_1 = {
+		year = 1922
+
+		archetype = submarine
+		priority = 80
+
+		resources = {
+			oil = 1
+			steel = 1
+		}
+		type = { 
+			submarine
+		}
+
+	}
+	
+	submarine_2 = {
+		year = 1936
+
+		archetype = submarine
+		parent = submarine_1
+		priority = 80
+		
+		ap_attack = 0
+		attack = 0
+		fire_range = 13
+		torpedo_attack = 30
+		
+		anti_air_attack = 1.75
+		
+		armor_value = 0
+		evasion = 60
+		
+		surface_detection = 41
+		sub_detection = 70
+		surface_visibility = 7
+		sub_visibility = 9
+		naval_speed = 20
+		reliability = 0.80
+
+		naval_range = 8000
+		
+		max_strength = 35
+		
+		port_capacity_usage = 0.5
+		
+		build_cost_ic = 1000
+		resources = {
+			oil = 2
+			steel = 3
+			chromium = 1
+		}
+		type = { 
+			submarine
+		}		
+	}
+	
+	submarine_3 = {
+		year = 1940
+
+		archetype = submarine
+		parent = submarine_2
+		priority = 80
+		
+		ap_attack = 0
+		attack = 0
+		fire_range = 15
+		torpedo_attack = 45
+		
+		anti_air_attack = 1.75
+		
+		armor_value = 0
+		evasion = 65
+		
+		surface_detection = 45
+		sub_detection = 70
+		surface_visibility = 6
+		sub_visibility = 9
+		naval_speed = 20
+		reliability = 0.80
+
+		naval_range = 8000
+		
+		max_strength = 35
+		
+		port_capacity_usage = 0.75
+		
+		build_cost_ic = 1700
+		resources = {
+			oil = 3
+			steel = 3
+			chromium = 1
+		}
+		type = { 
+			submarine
+		}		
+	}
+	
+	submarine_4 = {
+		year = 1944
+
+		archetype = submarine
+		parent = submarine_3
+		priority = 80
+		
+		ap_attack = 0
+		attack = 0
+		fire_range = 15
+		torpedo_attack = 45
+		
+		anti_air_attack = 1.75
+		
+		armor_value = 0
+		evasion = 65
+		
+		surface_detection = 50
+		sub_detection = 75
+		surface_visibility = 7
+		sub_visibility = 9
+		naval_speed = 25
+		reliability = 0.80
+
+		naval_range = 8000
+		
+		max_strength = 35
+		
+		port_capacity_usage = 0.75
+		
+		build_cost_ic = 1700
+		resources = {
+			oil = 3
+			steel = 3
+			chromium = 1
+		}
+		type = { 
+			submarine
+		}		
+	}
+}

@@ -43,6 +43,9 @@ ideologies = {
 			mobutist = {	
 			}
 
+			third_international_theory = {	
+			}
+
 		}
 		
 		dynamic_faction_names = {
@@ -54,7 +57,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 70 70 70 }
+		color = { 82 51 28 } # ORIGINAL RE COLOR 70 70 70
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -135,18 +138,14 @@ ideologies = {
 			authoritarian_democrat = {
 			}
 
-			religious_traditionalist = {
+			lebanese_nationalist = {
 			}
 
             national_conservative = {
 			}
 
             military_junta = {
-			}
-
-            islamist = {
-			}
-			
+			}	
 		}
 		
 		dynamic_faction_names = {
@@ -213,7 +212,7 @@ ideologies = {
 			"FACTION_NAME_CONSERVATIVE_6"
 		}
 		
-		color = { 0 60 180 }
+		color = { 62 53 198 } # 0 60 180 ORIGINAL RE COLOR
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -255,8 +254,7 @@ ideologies = {
 			}
 
 			liberal_conservative = {
-			}
-			
+			}	
 		}
 		
 		dynamic_faction_names = {
@@ -429,11 +427,11 @@ ideologies = {
 		
 	}
 
-	libertarian_socialist = {
+	radical_socialist = {
 		
 		types = {
 		
-			libertarian_socialist_ideology = {
+			radical_socialist_ideology = {
 			}
 
 			luxemburgist = {
@@ -454,7 +452,7 @@ ideologies = {
 			christian_communist = {
 			}
 
-			democratic_confederalist = {
+			buddhist_socialism = {
 			}
 
 			neozapatist = {

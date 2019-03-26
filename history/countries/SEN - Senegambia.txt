@@ -40,7 +40,7 @@ set_politics = {
 			popularity = 0
 		}
 		centrist = {
-			popularity = 15
+			popularity = 16
 		}
 		liberal = {
 			popularity = 60
@@ -51,7 +51,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 14
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
