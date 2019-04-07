@@ -78,6 +78,12 @@
  agrarian_conservative_desc:0 "Agrarian conservatism is a conservative ideology based on support for rural families and Christian values in agrarian society."
  american_conservative:0 "American Conservatism"
  american_conservative_desc:0 "American conservatism is a broad system of political beliefs that is characterised by respect for American traditions, support for Christian values, economic liberalism, anti-Communism and a defense of Western culture against Communism, Islamism and any other ideology that threatens it."
+ social_conservative:0 "Social Conservatism"
+ social_conservative_desc:0 "Social conservatism encompasses a range of what may be thought of as reactionary positions on social issues. The ideology is generally skeptical of social change, and believes in maintaining the status quo concerning social issues such as family life, sexual relations, and patriotism."
+ national_conservative:0 "National Conservatism"
+ national_conservative_desc:0 "National conservatism is a variant of conservatism that concentrates on national interests and upholding cultural or ethnic identity. National conservatives support the traditional family, social stability, as well as limiting immigration and enacting law-and-order policies."
+ reactionary:0 "Reactionary"
+ reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
 
  #CENTRISM
  centrist_ideology:0 "Centrism"
@@ -115,22 +121,19 @@
  islamic_socialism:0 "Islamic Socialism"
  islamic_socialism_desc:0 "Islamic socialism is a term coined by various Muslim leaders to describe a more spiritual form of socialism. Muslim socialists believe that the teachings of the Qur'an and Muhammad are compatible with the principles of economic and social equality."
 
- #LIBERTARIAN SOCIALISM
+ #RADICAL SOCIALISM
  syndicalist:0 "Syndicalism"
  syndicalist_desc:0 "Syndicalists advocate for multiple cooperative productive units composed of specialists and representatives of workers in each field to negotiate and manage the economy. Labour unions are the potential means of both overcoming economic aristocracy and running society in the interest of informed and skilled majorities, through union democracy."
- neozapatist:0 "Neozapatism"
- neozapatist_desc:0 "Neozapatism is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
+ neozapatismo:0 "Neozapatismo"
+ neozapatismo_desc:0 "Neozapatismo is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
  christian_communist:0 "Christian Communism"
  christian_communist_desc:0 "Christian communism is a theological and political theory based upon the view that the teachings of Jesus Christ compel Christians to support communism as the ideal social system. Many Christian communists assert that evidence from the Bible suggests the first Christians, including the Apostles, established their own small communist society in the years following Jesus' death and resurrection."
  bolivarianist:0 "Bolivarianism"
  bolivarianist_desc:0 "Bolivarianism is an ideology that mixes pan-American, socialist and national-patriotic ideals fixed against injustices of imperialism, inequality and corruption named after Simón Bolívar, who led the struggle for independence throughout much of South America. It is a left-wing political ideology that combines elements of socialism, populism, patriotism and Caribbean and Latin American integration."
- luxemburgism:0 "Luxemburgism"
- luxemburgism_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
- anarcho_syndicalism:0 "Anarcho-Syndicalism"
- anarcho_syndicalism_desc:0 "Anarcho-Syndicalism's basic principles are solidarity, direct action and direct democracy or workers' self-management. Reflecting the anarchist philosophy from which it draws its primary inspiration, anarcho-syndicalism is centred around the idea that power corrupts and that any hierarchy which cannot be ethically justified must either be dismantled or replaced by decentralised egalitarian control."
- buddhist_socialism:0 "Buddhist Socialism"
- buddhist_socialism_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
-
+ luxemburgist:0 "Luxemburgism"
+ luxemburgist_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
+ buddhist_socialist:0 "Buddhist Socialism"
+ buddhist_socialist_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
 
  #COMMUNISM
  marxist:0 "Marxism"
@@ -146,20 +149,6 @@
  titoism:0 "Titoism"
  titoism_desc:0 "Elements of Titoism are characterised by policies and practices based on the principle that in each country, the means of attaining ultimate communist goals must be dictated by the conditions of that particular country, rather than a pattern set in another country. Some of Tito's policies also included self-management."
 
- #subideologies that aren't done and aren't sorted (remove this line after all are done)
- imperial_japan_:0 "Imperial Japan"
- imperial_japan_desc:0 "The followers of Imperial Japan espouse both nationalist, monarchist and jingoist rhetoric, claiming total rule over East Asia and the divine right of their Emperor."
- american_nationalist:0 "American Nationalism"
- american_nationalist_desc:0 "American nationalism is the extreme side of patriotism for the United States."
- reactionary:0 "Reactionary"
- reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
- european_conservative:0 "European Conservatism"
- european_conservative_desc:0 "European conservatives wish for a return to the politics of the early cold war era, before the liberals took control of many governments."
- left_libertarian:0 "Left-Wing Libertarianism"
- left_libertarian_desc:0 "Left-Libertarianism names several related but distinct approaches to political theory, which stresses both individual freedom and social equality."
- european_moderate_socialist:0 "European Moderate Socialism"
- european_moderate_socialist_desc:0 "European moderate socialism is an ideology in opposition to the Soviet order and pre-Cold War ideologies. It aims to create a new socialist order within Europe."
- 
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"
  nationalist_drift:0 "Drift to Nationalism"

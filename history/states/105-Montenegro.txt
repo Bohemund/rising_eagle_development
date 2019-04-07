@@ -12,9 +12,9 @@ state={
 			9809 = {
 				naval_base = 1
 			}
-		add_core_of = YUG
-		add_core_of = MNT
 		}
+		add_core_of = MNT
+		add_core_of = YUG
 		
 		victory_points = { 9809 10 }	#Podgorica
 	}

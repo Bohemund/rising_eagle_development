@@ -2,7 +2,7 @@ ideas = {
 
     country = {
 	    
-		european_community = {
+		european_union = {
 			allowed = {
 				always = no
 			}

@@ -200,6 +200,9 @@ ideologies = {
 
 			islamic_democrat = {
 			}
+
+			reactionary = {
+			}
 			
 		}
 		
@@ -250,9 +253,6 @@ ideologies = {
 			market_liberal = {
 			}
 
-			agrarian_populist = {
-			}
-
 			liberal_conservative = {
 			}	
 		}
@@ -300,8 +300,7 @@ ideologies = {
 			
 			american_democrat = {
 			}
-			
-			
+				
 		}
 		
 		dynamic_faction_names = {
@@ -433,14 +432,11 @@ ideologies = {
 		
 			radical_socialist_ideology = {
 			}
-
-			luxemburgist = {
-			}
 			
 			syndicalist = {
 			}
-			
-			anarcho_syndicalist = {
+
+			luxemburgist = {
 			}
 
 			communalist = {
@@ -452,10 +448,10 @@ ideologies = {
 			christian_communist = {
 			}
 
-			buddhist_socialism = {
+			buddhist_socialist = {
 			}
 
-			neozapatist = {
+			neozapatismo = {
 			}
 
 			bolivarianist = {

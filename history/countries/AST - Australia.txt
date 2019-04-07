@@ -72,6 +72,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Bob Katter"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Bob_Katter.tga"
+	expire = "2050.1.1"
+	ideology = reactionary
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Tanya Plibersek"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_AST_Tanya_Plibersek.tga"

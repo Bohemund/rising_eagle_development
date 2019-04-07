@@ -77,9 +77,6 @@ set_politics = {
 	elections_allowed = no
 }
 
-set_convoys = 25
-set_stability = 0.9
-
 #LEADERS
 
 create_country_leader = {

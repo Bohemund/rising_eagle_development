@@ -3,7 +3,7 @@
 oob = "HUN_2010"
 
 add_ideas = {
-    european_community
+    european_union
 }
 
 set_research_slots = 4
@@ -32,13 +32,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 13
 		}
 		conservative = {
 			popularity = 33
@@ -53,7 +53,7 @@ set_politics = {
 			popularity = 25
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 4
 		}
 		radical_socialist = {
 			popularity = 0

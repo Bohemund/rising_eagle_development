@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_YAK_Yegor_Borisov.tga"
 	expire = "2050.1.1"
-	ideology = agrarian_populist
+	ideology = centrist_populist
 	traits = {
 		
 	}

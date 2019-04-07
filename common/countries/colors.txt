@@ -145,6 +145,11 @@ CHL = {
 	color_ui = rgb { 115 115 115 }
 }
 
+CHP = {
+	color = rgb { 207 9 33 }
+	color_ui = rgb { 207 9 33 }
+}
+
 CMB = {
 	color = rgb { 178 0 59 }
 	color_ui = rgb { 115 115 115 }
@@ -345,6 +350,11 @@ KUW = {
 	color_ui = rgb { 170 200 70 }
 }
 
+KUR = {
+	color = rgb { 182 214 208 }
+	color_ui = rgb { 182 214 208 }
+}
+
 KEN = {
 	color = rgb { 78 0 44 }
 	color_ui = rgb { 115 115 115 }
@@ -502,11 +512,6 @@ KOR = {
 
 PHI = {
 	color = rgb { 43 32 198 }
-	color_ui = rgb { 115 115 115 }
-}
-
-PRC = {
-	color = rgb { 205 0 0 }
 	color_ui = rgb { 115 115 115 }
 }
 
