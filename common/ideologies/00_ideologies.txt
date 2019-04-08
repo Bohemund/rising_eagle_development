@@ -242,6 +242,9 @@ ideologies = {
 			national_liberal = {
 			}
 			
+			centrist_christian_democrat = {
+			}
+
 			centrist_populist = {
 			}
 
