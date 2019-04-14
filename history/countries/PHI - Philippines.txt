@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
 	picture = "Portrait_PHI_Bongbong_Marcos.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = national_conservative
 	traits = {
 		#
 	}

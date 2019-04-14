@@ -89,6 +89,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Pier Ferdinando Casini"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Pier_Ferdinando_Casini.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Matteo Renzi"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_ITA_Matteo_Renzi.tga"
@@ -115,7 +126,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_ITA_Fausto_Bertinotti.tga"
 	expire = "2050.1.1"
-	ideology = marxist
+	ideology = eurocommunist
 	traits = {
 		
 	}

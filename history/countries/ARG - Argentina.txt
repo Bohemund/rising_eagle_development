@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
 	picture = "Portrait_ARG_Nestor_Kirchner.tga"
 	expire = "2050.1.1"
-	ideology = nationalist_ideology
+	ideology = peronist
 	traits = {
 		#
 	}

@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_HAI_Jean_Claude_Duvalier.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = african_nationalist
 	traits = {
 		#
 	}

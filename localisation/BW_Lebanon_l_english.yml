@@ -21,3 +21,10 @@
  LEB_radical_socialist_party_long:0 "Progressive Socialist Party"
  LEB_communist_party:0 "Communist Party"
  LEB_communist_party_long:0 "Lebanese Communist Party"
+
+ #MINISTERS
+ LEB_rafic_hariri:0 "Rafic Hariri"
+ LEB_gebran_bassil:0 "Gebran Bassil"
+ LEB_fouad_siniora:0 "Fouad Siniora"
+ LEB_samir_gagea:0 "Samir Gagea"
+ LEB_michel_aoun:0 "Michel Aoun"

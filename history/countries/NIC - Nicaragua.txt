@@ -89,7 +89,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Daniel Ortega"
-	desc = "POLITICS_JUAN_BAUTISTA_SACASA_DESC"
+	desc = "POLITICS_DANIEL_ORTEGA_DESC"
 	picture = "Portrait_NIC_Daniel_Ortega.tga"
 	expire = "2050.1.1"
 	ideology = radical_socialist_ideology

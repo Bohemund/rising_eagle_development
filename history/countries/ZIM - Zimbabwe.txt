@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_ZIM_Robert_Mugabe.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = african_nationalist
 	traits = {
 		#
 	}

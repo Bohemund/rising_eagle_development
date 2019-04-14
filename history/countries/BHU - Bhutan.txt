@@ -78,7 +78,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jigme Singye Wangchuck"
-	desc = "POLITICS_JIGME_WANGCHUCK_DESC"
+	desc = "POLITICS_JIGME_SINGYE_WANGCHUCK_DESC"
 	picture = "Portrait_BHU_Jigme_Singye_Wangchuck.tga"
 	expire = "2050.1.1"
 	ideology = absolute_monarchist

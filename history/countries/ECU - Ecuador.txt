@@ -86,3 +86,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Rafael Correa"
+	desc = "POLITICS_FEDERICO_PAEZ_DESC"
+	picture = "Portrait_ECU_Rafael_Correa.tga"
+	expire = "2050.1.1"
+	ideology = bolivarianist
+	traits = {
+		#
+	}
+}

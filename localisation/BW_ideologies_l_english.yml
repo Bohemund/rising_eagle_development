@@ -31,7 +31,7 @@
  communist_noun:0 "Communism"
  communist_desc:0 "Communist Regime"
 
- #SUBIDEOLOGIES (that are done)
+ #SUBIDEOLOGIES
 
  #ULTRANATIONALISM
  ultranationalist_ideology:0 "Ultranationalism"
@@ -58,14 +58,24 @@
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"
  absolute_monarchist_desc:0 "Absolute monarchy is a form of monarchy in which one ruler has supreme authority that is not restricted by any written laws, legislature or customs."
+ carlist:0 "Carlism"
+ carlist_desc:0 "Carlism is a traditionalist and legitimist political movement that seeks to take the Spanish throne for a line of the Bourbon dynasty descended from Don Carlos, Count of Molina. Carlism advocates self-management socialism, federalism and the establishment of democratic party of the masses which aspired to a socialist-based monarchy in a pact between the dynasty and the people."
 
  #NATIONALISM
  nationalist_ideology:0 "Nationalism"
  nationalist_ideology_desc:0 "Nationalism is oriented towards gaining and maintaining self-governance, or full sovereignty. It holds that a nation should govern itself, free from unwanted outside interference, and is linked to the concept of self-determination."
+ national_conservative:0 "National Conservatism"
+ national_conservative_desc:0 "National conservatism is a variant of conservatism that concentrates on national interests and upholding cultural or ethnic identity. National conservatives support the traditional family, social stability, as well as limiting immigration and enacting law-and-order policies."
  military_junta:0 "Military Junta"
  military_junta_desc:0 "A military junta is a government led by a committee of military leaders."
  lebanese_nationalist:0 "Lebanese Nationalism"
  lebanese_nationalist_desc:0 "Lebanese nationalism an ideology that considers the Lebanese people and Maronite Catholics in particular to be direct descendants of the Phoenician people. It asserts that Lebanon is a distinct nation, independent from the Arab world. The ideology is strongly opposed to Pan-Arabism, Arab nationalism and communism."
+ african_nationalist:0 "African Nationalism"
+ african_nationalist_desc:0 "African nationalism refers to a group of political ideologies, mainly within Sub-Saharan Africa, which are based on the idea of national self-determination and the creation of African nation states."
+ fujimorist:0 "Fujimorism"
+ fujimorist_desc:0 "Fujimorism denotes the policies and the political ideology of former President of Peru Alberto Fujimori as well as the personality cult built around him, his policies and his family. The ideology is defined by its support for social conservatism and free market economics, as well as its opposition to both the far-left and far-right."
+ peronist:0 "Peronism"
+ peronist_desc:0 "Peronism is an Argentine political movement based on the political ideology and legacy of former President Juan Domingo Perón and his wife Isabel Martínez de Perón. The pillars of the Peronist ideal, known as the "three flags", are social justice, economic independence and political sovereignty. Peronism espouses corporatism and thus aims to mediate tensions between the classes of society, with the state responsible for negotiating compromise in conflicts between managers and workers."
 
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
@@ -80,8 +90,6 @@
  american_conservative_desc:0 "American conservatism is a broad system of political beliefs that is characterised by respect for American traditions, support for Christian values, economic liberalism, anti-Communism and a defense of Western culture against Communism, Islamism and any other ideology that threatens it."
  social_conservative:0 "Social Conservatism"
  social_conservative_desc:0 "Social conservatism encompasses a range of what may be thought of as reactionary positions on social issues. The ideology is generally skeptical of social change, and believes in maintaining the status quo concerning social issues such as family life, sexual relations, and patriotism."
- national_conservative:0 "National Conservatism"
- national_conservative_desc:0 "National conservatism is a variant of conservatism that concentrates on national interests and upholding cultural or ethnic identity. National conservatives support the traditional family, social stability, as well as limiting immigration and enacting law-and-order policies."
  reactionary:0 "Reactionary"
  reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
 
@@ -102,6 +110,8 @@
  radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism. Now it is a progressive liberal ideology."
  american_democrat:0 "American Democrat"
  american_democrat_desc:0 "American Democrats are supporters of the Democratic Party. The Democratic Party's advocates liberalism, social and economic equality, along with support for the welfare state. It seeks to provide government intervention and regulation in the economy."
+ classical_liberal:0 "Classical Liberal"
+ classical_liberal_desc:0 "Classical liberalism is a political ideology which advocates civil liberties under the rule of law with an emphasis on economic freedom."
 
  #SOCIAL DEMOCRACY
  social_democrat_ideology:0 "Social Democracy"
@@ -148,6 +158,8 @@
  maoist_desc:0 "Maoism claims that peasants should be the essential revolutionary class, because, contrary to their industrial working comrades, they were more suited to establishing a successful revolution and socialist society."
  titoism:0 "Titoism"
  titoism_desc:0 "Elements of Titoism are characterised by policies and practices based on the principle that in each country, the means of attaining ultimate communist goals must be dictated by the conditions of that particular country, rather than a pattern set in another country. Some of Tito's policies also included self-management."
+ eurocommunist:0 "Eurocommunism"
+ eurocommunist_desc:0 "Eurocommunism is a revisionist trend within various Western European communist parties, which say they have developed a theory and practice of social transformation more relevant for Western Europe. Eurocommunist parties support democratic institutions, public sector middle-class workers and greater independence for their respective countries."
 
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"

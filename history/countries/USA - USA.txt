@@ -166,7 +166,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Noam_Chomsky.tga"
 	expire = "2050.1.1"
-	ideology = anarcho_syndicalist
+	ideology = syndicalist
 	traits = {
 		#
 	}

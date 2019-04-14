@@ -400,4 +400,31 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Rogerio_Galloro.dds"
 	}
 
+	#### LEBANON ADVISORS ####
+
+	spriteType = {
+		name = "GFX_idea_LEB_fouad_siniora"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_fouad_siniora.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_michel_aoun"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_michel_aoun.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_rafic_hariri"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_rafic_hariri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_samir_gagea"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_samir_gagea.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_gebran_bassil"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_gebran_bassil.dds"
+	}
+
 }

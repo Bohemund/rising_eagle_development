@@ -84,6 +84,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Benjamin Netanyahu"
+	desc = ""
+	expire = "2050.1.1"
+	picture = "Portrait_ISR_Benjamin_Netanyahu.tga"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Ehud Barak"
 	desc = ""
 	expire = "2050.1.1"
