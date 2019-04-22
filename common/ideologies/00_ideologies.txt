@@ -296,9 +296,6 @@ ideologies = {
 			classical_liberal = {
 			}
 			
-			radical = {
-			}
-			
 			american_democrat = {
 			}
 				
@@ -346,6 +343,9 @@ ideologies = {
 			}
 
 			kemalist = {
+			}
+
+			radical = {
 			}
 
 		}

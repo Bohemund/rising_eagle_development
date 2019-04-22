@@ -106,8 +106,6 @@
  #LIBERALISM
  social_liberal:0 "Social Liberalism"
  social_liberal_desc:0 "Social liberalism is an ideology that believes individual liberty requires a level of social justice. Like classical liberalism, social liberalism endorses a market economy and the expansion of civil and political rights and liberties."
- radical:0 "Radicalism"
- radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism. Now it is a progressive liberal ideology."
  american_democrat:0 "American Democrat"
  american_democrat_desc:0 "American Democrats are supporters of the Democratic Party. The Democratic Party's advocates liberalism, social and economic equality, along with support for the welfare state. It seeks to provide government intervention and regulation in the economy."
  classical_liberal:0 "Classical Liberal"
@@ -122,6 +120,8 @@
  pancasila_desc:0 "Pancasila is the official, foundational philosophical theory of the Indonesian state. It is vaguely related to socialism, nationalism and is exclusively Indonesian in nature. The philosophy is composed of five principles and contends that they are inseparable and interrelated: Monotheism, a just and civilized humanity, a unified Indonesia, Democracy and Social Justice."
  kemalist:0 "Kemalism"
  kemalist_desc:0 "Kemalism is the founding ideology of the Republic of Turkey. Based on the thoughts of Mustafa Kemal Atatürk who implemented sweeping political, social, cultural and religious reforms in order to modernize and westernize Turkey. It advocates democracy, laicism, support for sciences and education and the total political independence of Turkey."
+ radical:0 "Radicalism"
+ radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism."
 
  #DEMOCRATIC SOCIALISM
  democratic_socialist:0 "Democratic Socialism"

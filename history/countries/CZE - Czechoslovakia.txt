@@ -81,7 +81,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Václav Klaus"
+	name = "Václav Klaus Jr."
 	desc = "POLITICS_EDVARD_BENES_DESC"
 	picture = "Portrait_CZE_Vaclav_Klaus.tga"
 	expire = "2050.1.1"

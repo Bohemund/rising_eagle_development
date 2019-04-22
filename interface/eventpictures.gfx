@@ -209,5 +209,15 @@ spriteTypes = {
 	spriteType = {
 		name = "RUS_putschist_trials"
 		texturefile = "gfx/event_pictures/report_event/RUS_putschist_trials.dds"
-	}	
+	}
+
+	spriteType = {
+		name = "BOL_national_revolution"
+		texturefile = "gfx/event_pictures/report_event/BOL_national_revolution.dds"
+	}
+
+	spriteType = {
+		name = "AZR_islamic_revolution"
+		texturefile = "gfx/event_pictures/report_event/AZR_islamic_revolution.dds"
+	}
 }

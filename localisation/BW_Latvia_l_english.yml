@@ -1,12 +1,12 @@
 ﻿l_english:
  
  #PARTIES
- LAT_ultranationalist_party:0 "Thunder Cross"
- LAT_ultranationalist_party_long:0 "Thunder Cross"
+ LAT_ultranationalist_party:0 "National Council"
+ LAT_ultranationalist_party_long:0 "National Council of the Armed Forces"
  LAT_monarchist_party:0 "Regency Council"
  LAT_monarchist_party_long:0 "Regency Council"
- LAT_nationalist_party:0 "National Council"
- LAT_nationalist_party_long:0 "National Council"
+ LAT_nationalist_party:0 "Fatherland and Freedom"
+ LAT_nationalist_party_long:0 "Fatherland and Freedom"
  LAT_conservative_party:0 "Christian Democrats"
  LAT_conservative_party_long:0 "Christian Democratic Union"
  LAT_centrist_party:0 "Farmers’ Union"
