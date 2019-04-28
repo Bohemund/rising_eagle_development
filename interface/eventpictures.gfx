@@ -27,6 +27,11 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/report_event/SOU_opposition_leader_stabbed.dds"
 	}
 
+	spriteType = {
+		name = "GFX_SOU_protests_into_riots"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_into_riots.dds"
+	}
+
 ### TURKEY ####
 
 	spriteType = {

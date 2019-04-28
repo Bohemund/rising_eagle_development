@@ -36,7 +36,7 @@ country_event = {
 	
 	option = {
 		name = south_america.2.o1
-		add_political_power = -30
+		add_political_power = -50
 		hidden_effect = {
 		    SOU = {
 		        country_event = { days = 10 id = south_america.3 } 
@@ -104,7 +104,32 @@ country_event = {
 	        ideology = social_liberal
 	        traits = {
 		        #
-	        }
+		    }
+		}
+	    hidden_effect = {
+		    SOU = {
+		        country_event = { days = 15 id = south_america.6 }
+		    }
         }
     }		
+}
+
+# Protests turn into riots
+country_event = {
+	id = south_america.6
+	title = south_america.6.t
+	desc = south_america.6.d
+	picture = GFX_SOU_protests_into_riots
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.6.o1
+		add_political_power = -100
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 30 id = south_america.7 } 
+		    }
+		}
+	}
 }

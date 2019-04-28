@@ -172,17 +172,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Fernando Lugo"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_SOU_Fernando_Lugo.tga"
-	expire = "2050.1.1"
-	ideology = christian_communist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Clara Ant"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_SOU_Clara_Ant.tga"

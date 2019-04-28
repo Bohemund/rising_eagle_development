@@ -17,8 +17,8 @@
  SOU_social_democrat_party_long:0 "Democratic Movement"
  SOU_democratic_socialist_party:0 "Workers' Party"
  SOU_democratic_socialist_party_long:0 "Workers' Party"
- SOU_radical_socialist_party:0 "Patriotic Alliance"
- SOU_radical_socialist_party_long:0 "Patriotic Alliance"
+ SOU_radical_socialist_party:0 "United Socialists"
+ SOU_radical_socialist_party_long:0 "United Socialists"
  SOU_communist_party:0 "Socialist Party"
  SOU_communist_party_long:0 "Unified Workers’ Socialist Party"
 
@@ -65,4 +65,8 @@
  #Opposition leader assassinated
  south_america.5.t:0 "Opposition Leader Stabbed"
  south_america.5.d:0 "Terrifying news from Rio de Janeiro. The leader of the Democratic Movement, Romero Jucá has been stabbed in the streets. The candidate had just held a speech in a small suburb and was greeting a crowd of supporters when a young assailant ran up to him and stabbed him in the stomach. Security forces were not able to act in time and the supporters of Jucá attacked the assassin, beating him to the verge of death. In the chaos that ensued the wounded presidential hopeful was trampled by his supporters. Ambulances were able to arrive quickly and brought both men to the nearest hospital. Jucá struggled for his life for hours but unfortunately, despite the efforts of the doctors and nurses at the Samaritano hospital, passed away at 4:24 this morning. Rumors have already spread about the assassin, who is still in a medically induced coma at the same hospital. A few have blamed communist guerillas from the outer regions of the union, some have blamed the CIA. But the majority blame the government. Protestors have already begun pouring into the streets again. Numerous cabinet members have advised that the president declare a national emergency and cancel elections all together."
- south_america.5.o1:0 "Horrible"
+ south_america.5.o1:0 "Terrible"
+ #Protests turn into riots
+ south_america.6.t:0 "Protests Turn Into Riots"
+ south_america.6.d:0 "The stabbing of Romero Jucá sent shockwaves throughout the union. The weeks following the incident have been wrought with violence and social upheaval, as protestors have turned into rioters. Entire neighborhoods have been destroyed and the death count lies in the double digits. The Union Security Service has been unable to identify any links between the perpetrator of the stabbing and any known organizations operating within or outside the country. The stabber himself proved uncooperative, as he remained in a vegetative state for several days before finally passing away from his wounds. All of this comes as bad news for President Maluf, who has been struggling to keep his position intact. Many protestors have called for his resignation, indictment and even his death. These threats were naturally handled by the police but there are still many who would wish harm on the president, even some within the government. The congress has even begun discussions whether the decision to postpone elections was legal, while some congressmen have outright called for the president’s resignation."
+ south_america.6.o1:0 "Horrible"
