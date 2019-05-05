@@ -3,7 +3,7 @@
 oob = "CYP_2010"
 
 add_ideas = {
-    european_union
+    #
 }
 
 set_research_slots = 3
@@ -52,7 +52,7 @@ set_politics = {
 			popularity = 15
 		}
 		conservative = {
-			popularity = 24
+			popularity = 29
 		}
 		centrist = {
 			popularity = 12
@@ -61,7 +61,7 @@ set_politics = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 29
+			popularity = 24
 		}
 		democratic_socialist = {
 			popularity = 3
@@ -74,10 +74,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = conservative
 	last_election = "2006.5.21"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Averof Neofytou"
+	desc = ""
+	picture = "Portrait_CYP_Averof_Neofytou.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

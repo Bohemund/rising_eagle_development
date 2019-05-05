@@ -77,6 +77,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Geert Wilders"
+	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
+	picture = "Portrait_HOL_Geert_Wilders.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Mark Rutte"
 	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
 	picture = "Portrait_HOL_Mark_Rutte.tga"
