@@ -184,4 +184,9 @@ spriteTypes = {
 		name = "RUS_putschist_trials"
 		texturefile = "gfx/event_pictures/report_event/RUS_putschist_trials.dds"
 	}	
+
+    spriteType = {
+		name = "resignation_of_baykal.dds"
+		texturefile = "gfx/event_pictures/report_event/resignation_of_baykal.dds.dds"
+	}	
 }
