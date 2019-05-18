@@ -2,10 +2,6 @@
 
 oob = "ROM_2010"
 
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 4
 set_convoys = 45
 set_stability = 0.6
@@ -66,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 4
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {

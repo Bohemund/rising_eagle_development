@@ -57,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 34
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -98,7 +98,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_ETH_Seyoum_Mesfin.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = libertarian_socialist_ideology
 	traits = {
 		#
 	}

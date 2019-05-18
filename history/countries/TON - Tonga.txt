@@ -1,6 +1,6 @@
 ﻿capital = 883
 
-oob = "TON_2010"
+oob = "AAA_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -28,50 +28,39 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 8
 		}
 		monarchist = {
-			popularity = 100
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 11
 		}
 		conservative = {
-			popularity = 0
+			popularity = 12
 		}
 		centrist = {
-			popularity = 0
+			popularity = 15
 		}
 		liberal = {
-			popularity = 0
+			popularity = 17
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 24
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
-			popularity = 0
+		libertarian_socialist = {
+			popularity = 10
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = monarchist
+	ruling_party = conservative
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "George Tupou V"
-	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
-	picture = "Portrait_TON_George_Tupou.tga"
-	expire = "2050.1.1"
-	ideology = absolute_monarchist
-	traits = {
-		#
-	}
 }

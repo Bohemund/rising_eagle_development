@@ -2,10 +2,6 @@
 
 oob = "AUS_201"
 
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.8
@@ -66,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 6
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {

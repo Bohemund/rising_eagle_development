@@ -3,7 +3,6 @@
 oob = "ENG_2010"
 
 add_ideas = {
-    european_community
     idea_queen_elizabeth_ii
 }    
 
@@ -63,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 3
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 7
 		}
 		communist = {
@@ -104,7 +103,7 @@ create_country_leader = {
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "Portrait_ENG_Jeremy_Corbyn.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = libertarian_socialist_ideology
 	traits = {
 		
 	}

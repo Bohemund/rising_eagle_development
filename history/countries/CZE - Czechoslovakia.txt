@@ -1,11 +1,5 @@
 ﻿capital = 9
 
-oob = "CZE_2010"
-
-add_ideas = {
-    european_community
-}
-
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.5
@@ -43,34 +37,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 3
 		}
 		conservative = {
-			popularity = 17
+			popularity = 15
 		}
 		centrist = {
-			popularity = 25
+			popularity = 20
 		}
 		liberal = {
-			popularity = 4
+			popularity = 6
 		}
 		social_democrat = {
-			popularity = 26
+			popularity = 27
 		}
 		democratic_socialist = {
-			popularity = 9
+			popularity = 4
 		}
-		radical_socialist = {
-			popularity = 2
+		libertarian_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 6
+			popularity = 22
 		}
 	}
 	
@@ -92,22 +86,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jan Veleba"
-	desc = "POLITICS_EDVARD_BENES_DESC"
-	picture = "Portrait_CZE_Jan_Veleba.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Miloš Zeman"
 	desc = "POLITICS_EDVARD_BENES_DESC"
 	picture = "Portrait_CZE_Milos_Zeman.tga"
 	expire = "2050.1.1"
-	ideology = democratic_socialist_ideology
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}
