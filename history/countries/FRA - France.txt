@@ -3,7 +3,7 @@
 oob = "FRA_2010"
 
 add_ideas = {
-    european_community
+    european_union
 }
 
 set_research_slots = 4
@@ -38,13 +38,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 13
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 10
+			popularity = 5
 		}
 		conservative = {
 			popularity = 34
@@ -124,7 +124,7 @@ create_country_leader = {
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_FRA_Francois_Hollande.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = eurocommunist
 	traits = {
 		#
 	}

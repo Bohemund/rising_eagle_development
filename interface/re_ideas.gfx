@@ -83,8 +83,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_idea_european_community"
-		texturefile = "gfx/interface/ideas/european_community.dds"
+		name = "GFX_idea_european_union"
+		texturefile = "gfx/interface/ideas/european_union.dds"
 	}
 
 	spriteType = {
@@ -145,5 +145,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_drift_towards_radicalism"
 		texturefile = "gfx/interface/ideas/ITA_radical_drift.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
+		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
 	}
 }

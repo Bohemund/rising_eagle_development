@@ -75,6 +75,16 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Saif al-Islam Gaddafi"
+	desc = ""
+	picture = "Portrait_LBA_Saif_al_Islam_Gaddafi.tga"
+	ideology = third_international_theory
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Mustafa Abdul Jalil"
 	desc = ""
 	picture = "Portrait_LBA_Mustafa_Abdul_Jalil.tga"

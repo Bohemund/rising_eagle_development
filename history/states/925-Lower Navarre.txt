@@ -1,0 +1,22 @@
+
+state={
+	id=925
+	name="STATE_925"
+	manpower = 273466
+	
+	state_category = state_level_6
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = FRA
+		add_core_of = BSQ
+	}
+
+	provinces={
+		743
+	}
+}

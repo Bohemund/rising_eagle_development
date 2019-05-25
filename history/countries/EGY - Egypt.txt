@@ -11,38 +11,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 22
+			popularity = 10
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 4
+			popularity = 0
 		}
 		conservative = {
-			popularity = 24
+			popularity = 23
 		}
 		centrist = {
-			popularity = 28
+			popularity = 7
 		}
 		liberal = {
-			popularity = 6
+			popularity = 26
 		}
 		social_democrat = {
-			popularity = 11
+			popularity = 12
 		}
 		democratic_socialist = {
-			popularity = 5
+			popularity = 19
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = liberal
 	last_election = "2007.7.11"
 	election_frequency = 48
 	elections_allowed = no
@@ -87,6 +87,17 @@ create_country_leader = {
 	picture = "Portrait_EGY_Abdel_Moneim_Aboul_Fotouh.tga"
 	expire = "2050.1.1"
 	ideology = centrist_populist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Naguib Sawiris"
+	desc = ""
+	picture = "Portrait_EGY_Naguib_Sawiris.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
 	traits = {
 		#
 	}

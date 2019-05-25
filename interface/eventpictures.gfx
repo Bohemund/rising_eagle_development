@@ -1,9 +1,55 @@
 spriteTypes = {
 
+### SOUTH AMERICAN UNION ####
+
 	spriteType = {
 		name = "GFX_sou_maluf_military"
 		texturefile = "gfx/event_pictures/report_event/sou_maluf_military.dds"
 	}
+
+	spriteType = {
+		name = "GFX_SOU_protests_for_democracy"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_for_democracy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_protests_suppressed"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_suppressed.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_president_meets_opposition"
+		texturefile = "gfx/event_pictures/report_event/SOU_president_meets_opposition.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_opposition_leader_stabbed"
+		texturefile = "gfx/event_pictures/report_event/SOU_opposition_leader_stabbed.dds"
+	}
+
+	spriteType = {
+		name = "GFX_SOU_protests_into_riots"
+		texturefile = "gfx/event_pictures/report_event/SOU_protests_into_riots.dds"
+	}
+
+### TURKEY ####
+
+	spriteType = {
+		name = "nationalists_challenge_ciller"
+		texturefile = "gfx/event_pictures/report_event/nationalists_challenge_ciller.dds"
+	}
+	
+	spriteType = {
+		name = "dyp_extraordinary_congress"
+		texturefile = "gfx/event_pictures/report_event/dyp_extraordinary_congress.dds"
+	}	
+
+	spriteType = {
+		name = "erbakan_resigns"
+		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"
+	}
+
+### NATIONAL HISTORY ####
 
 	spriteType = {
 		name = "1952_us_election"
@@ -48,21 +94,6 @@ spriteTypes = {
 	spriteType = {
 		name = "cuban_missile_crisis"
 		texturefile = "gfx/event_pictures/report_event/cuban_missile_crisis.dds"
-	}
-
-	spriteType = {
-		name = "nationalists_challenge_ciller"
-		texturefile = "gfx/event_pictures/report_event/nationalists_challenge_ciller.dds"
-	}
-	
-	spriteType = {
-		name = "dyp_extraordinary_congress"
-		texturefile = "gfx/event_pictures/report_event/dyp_extraordinary_congress.dds"
-	}	
-
-	spriteType = {
-		name = "erbakan_resigns"
-		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"
 	}		
 
 	spriteType = {
@@ -183,10 +214,15 @@ spriteTypes = {
 	spriteType = {
 		name = "RUS_putschist_trials"
 		texturefile = "gfx/event_pictures/report_event/RUS_putschist_trials.dds"
-	}	
+	}
 
-    spriteType = {
-		name = "resignation_of_baykal.dds"
-		texturefile = "gfx/event_pictures/report_event/resignation_of_baykal.dds.dds"
-	}	
+	spriteType = {
+		name = "BOL_national_revolution"
+		texturefile = "gfx/event_pictures/report_event/BOL_national_revolution.dds"
+	}
+
+	spriteType = {
+		name = "AZR_islamic_revolution"
+		texturefile = "gfx/event_pictures/report_event/AZR_islamic_revolution.dds"
+	}
 }

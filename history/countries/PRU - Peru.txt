@@ -37,31 +37,31 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 37
+			popularity = 55
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 11
+			popularity = 14
 		}
 		centrist = {
-			popularity = 17
+			popularity = 0
 		}
 		liberal = {
-			popularity = 4
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 15
+			popularity = 10
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 0
+			popularity = 16
 		}
 		communist = {
-			popularity = 16
+			popularity = 5
 		}
 	}
 	
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = "POLITICS_OSCAR_BENAVIDES_DESC"
 	picture = "Portrait_PRU_Keiko_Fujimori.tga"
 	expire = "2050.1.1"
-	ideology = national_conservative
+	ideology = fujimorist
 	traits = {
 		#
 	}
@@ -88,6 +88,17 @@ create_country_leader = {
 	picture = "Portrait_PRU_Alejandro_Toledo.tga"
 	expire = "2050.1.1"
 	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ollanta Humala"
+	desc = "POLITICS_OSCAR_BENAVIDES_DESC"
+	picture = "Portrait_PRU_Ollanta_Humala.tga"
+	expire = "2050.1.1"
+	ideology = radical_socialist_ideology
 	traits = {
 		#
 	}

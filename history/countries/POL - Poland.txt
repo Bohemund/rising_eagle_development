@@ -3,7 +3,7 @@
 oob = "POL_2010"
 
 add_ideas = {
-    european_community
+    european_union
 }
 
 set_research_slots = 4

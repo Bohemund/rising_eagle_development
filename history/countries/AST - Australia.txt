@@ -34,34 +34,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 3
 		}
 		monarchist = {
-			popularity = 1
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 15
+			popularity = 12
 		}
 		conservative = {
-			popularity = 20
+			popularity = 15
 		}
 		centrist = {
-			popularity = 5
+			popularity = 20
 		}
 		liberal = {
-			popularity = 2
+			popularity = 3
 		}
 		social_democrat = {
-			popularity = 38
+			popularity = 37
 		}
 		democratic_socialist = {
 			popularity = 10
 		}
 		radical_socialist = {
-			popularity = 3
+			popularity = 0
 		}
 		communist = {
-			popularity = 1
+			popularity = 0
 		}
 	}
 	
@@ -69,6 +69,17 @@ set_politics = {
 	last_election = "2006.9.21"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Bob Katter"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Bob_Katter.tga"
+	expire = "2050.1.1"
+	ideology = agrarian_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

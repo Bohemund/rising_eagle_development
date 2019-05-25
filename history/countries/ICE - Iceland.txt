@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_ICE_Bjarni_Benediktsson.tga"
 	expire = "2050.1.1"
-	ideology = european_conservative
+	ideology = fiscal_conservative
 	traits = {
 		#
 	}

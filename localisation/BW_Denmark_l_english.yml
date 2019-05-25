@@ -7,10 +7,10 @@
  DEN_monarchist_party_long:0 "House of Glücksburg"
  DEN_nationalist_party:0 "Progress Party"
  DEN_nationalist_party_long:0 "Danish People's Progress Party"
- DEN_conservative_party:0 "People's Party"
+ DEN_conservative_party:0 "Conservative Party"
  DEN_conservative_party_long:0 "Conservative People's Party"
- DEN_centrist_party:0 "Left Liberal Party"
- DEN_centrist_party_long:0 "Left Liberal Party"
+ DEN_centrist_party:0 "Left"
+ DEN_centrist_party_long:0 "Left"
  DEN_liberal_party:0 "Radical Left"
  DEN_liberal_party_long:0 "Radical Left"
  DEN_social_democrat_party:0 "Social Democracy"
@@ -25,3 +25,6 @@
  #IDEAS
  ingolf:0 "Ingolf I"
  ingolf_desc:0 "Ingolf I is the King of the Kingdom of Denmark."
+
+ #LEADERS
+ POLITICS_MOGENS_LYKKETOFT_DESC:0 "Mogens Lykketoft is perhaps the second best known Social Democrat in Danish history, second only to Thorvald Stauning himself. Lykketoft is a life-long Social Democrat, having been engaged in union organization by the age of twenty and quickly rising through the ranks of the Danish Confederation of Trade Unions. He ran for parliament in 1980 and was elected, becoming the Minister of Taxation in the ensuing Social Democratic government, which reclaimed the government after a short-lived and ineffectual Conservative government that took power in 1976. Mogens Lykketoft remained a minor, if notable minister during his tenure, until he during the early 90s was promoted to Minister of Finance. There, he made a name for himself as he oversaw numerous reforms to Danish labour legislation, where he carefully handled the demands of the disparate coalition members. When the Social Democratic party leader Svend Auken retired in 1997, Lykketoft was in an excellent position to take the reigns. His early party leadership was marked by an effective opposition that managed to retake the Government from the disintegrating right-wing in the 2001 election. As the opposition shattered over disagreements between the nationalist Danish People's Progress Party and the Old Right, most of Mogens Lykketoft's tenure as Prime Minister has been marked by smooth sailing. That only lasted until the 2009 Parliamentary Elections, where the DPPP made huge gains, forcing Lykketoft to form a wide-tent government to retain power."

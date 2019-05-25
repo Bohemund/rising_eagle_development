@@ -72,6 +72,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Tomislav Nikolić"
+	desc = "POLITICS_PRINCE_PAUL_DESC"
+	picture = "Portrait_YUG_Tomislav_Nikolic.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Željko Komšić"
 	desc = "POLITICS_PRINCE_PAUL_DESC"
 	picture = "Portrait_YUG_Zeljko_Komsic.tga"

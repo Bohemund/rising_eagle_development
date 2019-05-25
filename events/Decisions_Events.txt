@@ -56,20 +56,6 @@ country_event = {
 	}
 }
 
-#Suez Crisis
-country_event = {
-	id = decision_event.9
-	title = decision_event.9.t
-	desc = decision_event.9.d
-	picture = suez_crisis
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.9.o1
-	}
-}
-
 #1956 Presidential Election
 country_event = {
 	id = decision_event.5
@@ -123,6 +109,20 @@ country_event = {
 	
 	option = {   
 		name = decision_event.8.o1
+	}
+}
+
+#Suez Crisis
+country_event = {
+	id = decision_event.9
+	title = decision_event.9.t
+	desc = decision_event.9.d
+	picture = suez_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.9.o1
 	}
 }
 
@@ -431,5 +431,33 @@ country_event = {
 	
 	option = {   
 		name = decision_event.31.o1
+	}
+}
+
+#Bolivian National Revolution
+country_event = {
+	id = decision_event.32
+	title = decision_event.32.t
+	desc = decision_event.32.d
+	picture = BOL_national_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.32.o1
+	}
+}
+
+#Azerbaijan Islamic Revolution
+country_event = {
+	id = decision_event.33
+	title = decision_event.33.t
+	desc = decision_event.33.d
+	picture = AZR_islamic_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.33.o1
 	}
 }

@@ -48,16 +48,16 @@ set_politics = {
 			popularity = 5
 		}
 		conservative = {
-			popularity = 16
+			popularity = 31
 		}
 		centrist = {
-			popularity = 31
+			popularity = 13
 		}
 		liberal = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 16
+			popularity = 19
 		}
 		democratic_socialist = {
 			popularity = 0
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 		
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2008.3.9"
 	election_frequency = 60
 	elections_allowed = no
@@ -88,11 +88,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mariano Rajoy"
+	name = "Ignacio Cosidó"
 	desc = "POLITICS_MANUEL_AZANA_DESC"
-	picture = "Portrait_SPR_Mariano_Rajoy.tga"
+	picture = "Portrait_SPR_Ignacio_Cosido.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = reactionary
 	traits = {
 		#
 	}

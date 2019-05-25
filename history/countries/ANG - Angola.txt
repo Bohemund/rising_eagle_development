@@ -78,10 +78,10 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jonas Savimbi"
-	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	desc = "POLITICS_JONAS_SAVIMBI_DESC"
 	picture = "Portrait_ANG_Jonas_Savimbi.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = military_junta
 	traits = {
 		#
 	}

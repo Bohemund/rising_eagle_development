@@ -45,28 +45,28 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 15
+			popularity = 14
 		}
 		conservative = {
-			popularity = 7
+			popularity = 24
 		}
 		centrist = {
-			popularity = 21
+			popularity = 7
 		}
 		liberal = {
-			popularity = 3
-		}
-		social_democrat = {
 			popularity = 4
 		}
+		social_democrat = {
+			popularity = 0
+		}
 		democratic_socialist = {
-			popularity = 18
+			popularity = 5
 		}
 		radical_socialist = {
-			popularity = 26
+			popularity = 43
 		}
 		communist = {
-			popularity = 6
+			popularity = 3
 		}
 	}
 	
@@ -89,7 +89,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Daniel Ortega"
-	desc = "POLITICS_JUAN_BAUTISTA_SACASA_DESC"
+	desc = "POLITICS_DANIEL_ORTEGA_DESC"
 	picture = "Portrait_NIC_Daniel_Ortega.tga"
 	expire = "2050.1.1"
 	ideology = radical_socialist_ideology

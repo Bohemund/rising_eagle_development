@@ -372,4 +372,59 @@ spriteTypes = {
 		name = "GFX_idea_RUS_boris_titov"
 		texturefile = "gfx/interface/ideas/advisors/russia/RUS_boris_titov.dds"
 	}
+
+	#### SOUTH AMERICAN UNION ADVISORS ####
+
+	spriteType = {
+		name = "GFX_idea_SOU_enzo_martins_peri"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_enzo_martins_peri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_ernesto_araujo"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_ernesto_araujo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Francisco_Dornelles"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Francisco_Dornelles.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Jose_Agripino_Maia"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Jose_Agripino_Maia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_SOU_Rogerio_Galloro"
+		texturefile = "gfx/interface/ideas/advisors/south_american_union/SOU_Rogerio_Galloro.dds"
+	}
+
+	#### LEBANON ADVISORS ####
+
+	spriteType = {
+		name = "GFX_idea_LEB_fouad_siniora"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_fouad_siniora.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_michel_aoun"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_michel_aoun.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_rafic_hariri"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_rafic_hariri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_samir_gagea"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_samir_gagea.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_LEB_gebran_bassil"
+		texturefile = "gfx/interface/ideas/advisors/lebanon/LEB_gebran_bassil.dds"
+	}
+
 }

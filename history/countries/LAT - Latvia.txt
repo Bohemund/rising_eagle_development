@@ -39,49 +39,49 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 6
+			popularity = 45
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 38
+			popularity = 8
 		}
 		conservative = {
-			popularity = 12
+			popularity = 11
 		}
 		centrist = {
-			popularity = 26
+			popularity = 18
 		}
 		liberal = {
-			popularity = 4
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 10
+			popularity = 15
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 0
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = ultranationalist
 	last_election = "1989.4.11"
 	election_frequency = 108
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Igors Šiškins"
+	name = "Dainis Turlais"
 	desc = "POLITICS_KARLIS_ULMANIS_DESC"
-	picture = "Portrait_LAT_Igors_Siskins.tga"
+	picture = "Portrait_LAT_Dainis_Turlais.tga"
 	expire = "2050.1.1"
-	ideology = national_socialist
+	ideology = military_dictator
 	traits = {
 		#
 	}

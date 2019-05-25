@@ -39,41 +39,52 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 21
+			popularity = 6
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 27
+			popularity = 13
 		}
 		conservative = {
-			popularity = 10
+			popularity = 27
 		}
 		centrist = {
-			popularity = 4
+			popularity = 19
 		}
 		liberal = {
-			popularity = 24
+			popularity = 4
 		}
 		social_democrat = {
-			popularity = 12
+			popularity = 22
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 9
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = conservative
 	last_election = "2004.5.10"
 	election_frequency = 72
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Rodrigo Duterte"
+	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
+	picture = "Portrait_PHI_Rodrigo_Duterte.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -81,7 +92,18 @@ create_country_leader = {
 	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
 	picture = "Portrait_PHI_Bongbong_Marcos.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Eduardo Cojuangco Jr."
+	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
+	picture = "Portrait_PHI_Eduardo_Danding_Cojuangco.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
 	traits = {
 		#
 	}

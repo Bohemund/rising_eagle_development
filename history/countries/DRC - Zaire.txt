@@ -28,13 +28,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 38
+			popularity = 54
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 18
+			popularity = 12
 		}
 		conservative = {
 			popularity = 0
@@ -43,19 +43,19 @@ set_politics = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 5
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 9
+			popularity = 13
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 9
+			popularity = 5
 		}
 		communist = {
-			popularity = 21
+			popularity = 16
 		}
 	}
 	
@@ -67,7 +67,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Nzanga Mobutu"
-	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	desc = "POLITICS_NZANGA_MOBUTU_DESC"
 	picture = "Portrait_DRC_Nzanga_Mobutu.tga"
 	expire = "2050.1.1"
 	ideology = mobutist
