@@ -2,6 +2,11 @@
 
 oob = "NOR_2010"
 
+add_ideas = {
+    nordic_economic_community
+    harald_v
+}
+
 set_research_slots = 4
 set_convoys = 200
 set_stability = 0.7
@@ -57,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 1
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 9
 		}
 		communist = {
