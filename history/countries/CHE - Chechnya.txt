@@ -45,10 +45,10 @@ set_politics = {
 			popularity = 8
 		}
 		nationalist = {
-			popularity = 22
+			popularity = 29
 		}
 		conservative = {
-			popularity = 29
+			popularity = 34
 		}
 		centrist = {
 			popularity = 0
@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = conservative
 	last_election = "2005.11.3"
 	election_frequency = 48
 	elections_allowed = no

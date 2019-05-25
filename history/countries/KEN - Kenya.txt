@@ -39,28 +39,28 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 18
+			popularity = 32
 		}
 		conservative = {
-			popularity = 22
+			popularity = 21
 		}
 		centrist = {
 			popularity = 6
 		}
 		liberal = {
-			popularity = 27
-		}
-		social_democrat = {
 			popularity = 16
 		}
+		social_democrat = {
+			popularity = 14
+		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 6
 		}
 		radical_socialist = {
 			popularity = 0
@@ -70,10 +70,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = nationalist
 	last_election = "2007.12.27"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Uhuru Kenyatta"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_KEN_Uhuru_Kenyatta.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

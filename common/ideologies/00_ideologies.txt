@@ -15,9 +15,6 @@ ideologies = {
 			
 			falangist = {			
 			}
-			
-			national_bolshevik = {				
-			} 
 
 			eurasianist = {	
 			}
@@ -28,7 +25,7 @@ ideologies = {
 			integralist = {	
 			}
 
-			military_statist = {	
+			military_dictator = {	
 			}
 			
 			baathist = {	
@@ -48,6 +45,7 @@ ideologies = {
 
 			third_international_theory = {	
 			}
+
 		}
 		
 		dynamic_faction_names = {
@@ -185,7 +183,7 @@ ideologies = {
 			conservative_ideology = {
 			}
 
-			american_republican = {
+			american_conservative = {
 			}
 			
 			agrarian_conservative = {
@@ -395,6 +393,9 @@ ideologies = {
 
 			nasserist = {
 			}
+
+			islamic_socialism = {
+			}
 			
 		}
 		
@@ -445,7 +446,7 @@ ideologies = {
 			anarcho_communist = {
 			}
 
-			christian_socialist = {
+			christian_communist = {
 			}
 
 			buddhist_socialist = {
@@ -459,6 +460,7 @@ ideologies = {
 
 			african_socialist = {
 			}
+			
 		}
 		
 		dynamic_faction_names = {
@@ -515,9 +517,6 @@ ideologies = {
 			}
 
 			eurocommunist = {
-			}
-			
-			christian_communist = {
 			}
 			
 		}

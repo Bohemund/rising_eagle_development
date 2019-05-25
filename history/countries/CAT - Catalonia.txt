@@ -43,34 +43,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 4
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 5
 		}
 		conservative = {
-			popularity = 14
+			popularity = 20
 		}
 		centrist = {
 			popularity = 4
 		}
 		liberal = {
-			popularity = 22
+			popularity = 28
 		}
 		social_democrat = {
-			popularity = 34
+			popularity = 32
 		}
 		democratic_socialist = {
-			popularity = 11
+			popularity = 4
 		}
 		radical_socialist = {
 			popularity = 7
 		}
 		communist = {
-			popularity = 7
+			popularity = 0
 		}
 	}
 	
@@ -81,9 +81,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Pere Aragonès"
+	name = "Oriol Junqueras"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_CAT_Pere_Aragones.tga"
+	picture = "Portrait_CAT_Oriol_Junqueras.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

@@ -2,6 +2,11 @@
 
 oob = "FIN_2010"
 
+add_ideas = {
+    nordic_economic_community
+}
+
+
 set_research_slots = 3
 set_convoys = 400
 set_stability = 0.7
@@ -50,16 +55,6 @@ set_politics = {
 		}
 		liberal = {
 			popularity = 24
-			popularity = 4
-		}
-		conservative = {
-			popularity = 24
-		}
-		centrist = {
-			popularity = 15
-		}
-		liberal = {
-			popularity = 22
 		}
 		social_democrat = {
 			popularity = 21

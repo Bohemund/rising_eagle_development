@@ -92,7 +92,7 @@ create_country_leader = {
 	desc = "POLITICS_EVO_MORALES_DESC"
 	picture = "Portrait_BOL_Evo_Morales.tga"
 	expire = "2050.1.1"
-	ideology = christian_socialist
+	ideology = bolivarianist
 	traits = {
 		#
 	}

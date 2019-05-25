@@ -28,25 +28,25 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 3
 		}
 		conservative = {
-			popularity = 12
+			popularity = 41
 		}
 		centrist = {
-			popularity = 15
+			popularity = 19
 		}
 		liberal = {
-			popularity = 17
+			popularity = 7
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 25
 		}
 		democratic_socialist = {
 			popularity = 0
@@ -55,7 +55,7 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
@@ -63,4 +63,15 @@ set_politics = {
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ali Bongo Ondimba"
+	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
+	picture = "Portrait_GAB_Ali_Bongo_Ondimba.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
+	traits = {
+		#
+	}
 }

@@ -34,7 +34,7 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 2
+			popularity = 36
 		}
 		conservative = {
 			popularity = 13
@@ -42,11 +42,8 @@ set_politics = {
 		centrist = {
 			popularity = 0
 		}
-		centrist = {
-			popularity = 6
-		}
 		liberal = {
-			popularity = 37
+			popularity = 31
 		}
 		social_democrat = {
 			popularity = 0
@@ -62,10 +59,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Lino Oviedo"
+	desc = "POLITICS_RAFAEL_FRANCO_DESC"
+	picture = "Portrait_PAR_Lino_Oviedo.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

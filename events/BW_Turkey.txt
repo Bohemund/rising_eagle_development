@@ -61,8 +61,8 @@ country_event = {
 	
 	trigger = {
 		tag = TUR
-		date > 2010.3.1
-		date < 2010.4.1
+		date > 2010.1.1
+		date < 2010.2.1
 	}
 	
 	option = {   #Recep Tayyip Erdoğan
@@ -116,32 +116,3 @@ country_event = {
 	}
 }
 
-#Resignation of Deniz Baykal
-country_event = {
-	id = turkey.4
-	title = turkey.4.t
-	desc = turkey.4.d
-	picture = resignation_of_baykal
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = TUR
-		date > 2010.4.1
-		date < 2010.5.1
-	}
-
-	option = {  
-		name = turkey.4.o1
-		create_country_leader = {
-    	    name = "Muharrem İnce"
-	        desc = ""
-	        picture = "Portrait_TUR_Muharrem_Ince.tga"
-	        expire = "2050.1.1"
-	        ideology = kemalist
-	        traits = {
-		        #
-	         }
-        }
-    }		
-}
