@@ -97,6 +97,21 @@ spriteTypes = {
 	}		
 
 	spriteType = {
+		name = "nationalists_challenge_ciller"
+		texturefile = "gfx/event_pictures/report_event/nationalists_challenge_ciller.dds"
+	}
+	
+	spriteType = {
+		name = "dyp_extraordinary_congress"
+		texturefile = "gfx/event_pictures/report_event/dyp_extraordinary_congress.dds"
+	}	
+
+	spriteType = {
+		name = "erbakan_resigns"
+		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"
+	}		
+
+	spriteType = {
 		name = "suez_crisis"
 		texturefile = "gfx/event_pictures/report_event/suez_crisis.dds"
 	}
