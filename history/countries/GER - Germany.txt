@@ -44,28 +44,28 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 9
-		}
-		conservative = {
-			popularity = 29
-		}
-		centrist = {
-			popularity = 10
-		}
-		liberal = {
-			popularity = 4
-		}
-		social_democrat = {
-			popularity = 35
-		}
-		democratic_socialist = {
 			popularity = 11
 		}
+		conservative = {
+			popularity = 30
+		}
+		centrist = {
+			popularity = 9
+		}
+		liberal = {
+			popularity = 5
+		}
+		social_democrat = {
+			popularity = 32
+		}
+		democratic_socialist = {
+			popularity = 10
+		}
 		radical_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
@@ -74,6 +74,16 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 
+}
+
+create_country_leader = {
+	name = "Udo Voigt"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Udo_Voigt.tga"
+	expire = "2050.1.1"
+	ideology = national_socialist
+	traits = {
+	}
 }
 
 create_country_leader = {
@@ -87,9 +97,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Lothar de Maizière"
+	name = "Edmund Stoiber"
 	desc = "POLITICS_KONRAD_ADENAUER_DESC"
-	picture = "Portrait_GER_Lothar_de_Maizierel.tga"
+	picture = "Portrait_GER_Edmund_Stoiber.tga"
 	expire = "2050.1.1"
 	ideology = christian_democrat
 	traits = {
@@ -102,18 +112,6 @@ create_country_leader = {
 	picture = "Portrait_GER_Oskar_Lafontaine.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
-	traits = {
-	}
-}
-
-
-
-create_country_leader = {
-	name = "Udo Voigt"
-	desc = "POLITICS_KONRAD_ADENAUER_DESC"
-	picture = "Portrait_GER_Udo_Voigt.tga"
-	expire = "2050.1.1"
-	ideology = national_socialist
 	traits = {
 	}
 }
