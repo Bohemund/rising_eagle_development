@@ -34,7 +34,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 33
+			popularity = 36
 		}
 		monarchist = {
 			popularity = 0
@@ -43,16 +43,16 @@ set_politics = {
 			popularity = 4
 		}
 		conservative = {
-			popularity = 21
+			popularity = 24
 		}
 		centrist = {
-			popularity = 8
-		}
-		liberal = {
 			popularity = 3
 		}
+		liberal = {
+			popularity = 0
+		}
 		social_democrat = {
-			popularity = 31
+			popularity = 33
 		}
 		democratic_socialist = {
 			popularity = 0
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_INS_Prabowo Subianto.tga"
 	expire = "2050.1.1"
-	ideology = military_dictator
+	ideology = military_statist
 	traits = {
 		
 	}

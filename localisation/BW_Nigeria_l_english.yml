@@ -1,7 +1,7 @@
 ﻿l_english:
  
  #PARTIES
- NGR_ultranationalist_party:0 "Republican Convention"
+ NGR_ultranationalist_party:0 "National Republicans"
  NGR_ultranationalist_party_long:0 "National Republican Convention"
  NGR_monarchist_party:0 "Royalists"
  NGR_monarchist_party_long:0 "Royalists"
@@ -9,13 +9,13 @@
  NGR_nationalist_party_long:0 "All Nigeria Peoples Party"
  NGR_conservative_party:0 "Justice Party"
  NGR_conservative_party_long:0 "Justice Party"
- NGR_centrist_party:0 "Democratic Party"
+ NGR_centrist_party:0 "People’s Democrats"
  NGR_centrist_party_long:0 "People’s Democratic Party"
  NGR_liberal_party:0 "Action Congress"
  NGR_liberal_party_long:0 "Action Congress"
  NGR_social_democrat_party:0 "Progressive Change"
  NGR_social_democrat_party_long:0 "Progressive Change"
- NGR_democratic_socialist_party:0 "Social Democratic Party"
+ NGR_democratic_socialist_party:0 "Social Democrats"
  NGR_democratic_socialist_party_long:0 "Social Democratic Party"
  NGR_radical_socialist_party:0 "Socialist Movement"
  NGR_radical_socialist_party_long:0 "Democratic Socialist Movement"

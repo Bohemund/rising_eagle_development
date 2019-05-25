@@ -28,38 +28,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 16
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 15
 		}
 		nationalist = {
-			popularity = 28
+			popularity = 0
 		}
 		conservative = {
-			popularity = 18
+			popularity = 20
 		}
 		centrist = {
-			popularity = 4
+			popularity = 28
 		}
 		liberal = {
-			popularity = 0
+			popularity = 5
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 4
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 6
 		}
 		radical_socialist = {
 			popularity = 4
 		}
 		communist = {
-			popularity = 15
+			popularity = 18
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = centrist
 	last_election = "2008.7.27"
 	election_frequency = 60
 	elections_allowed = no

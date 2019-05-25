@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GUI_Moussa_Dadis_Camara.tga"
 	expire = "2050.1.1"
-	ideology = military_dictator
+	ideology = military_statist
 	traits = {
 		#
 	}

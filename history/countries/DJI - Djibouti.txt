@@ -28,50 +28,39 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 36
+			popularity = 8
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 11
 		}
 		conservative = {
-			popularity = 14
+			popularity = 12
 		}
 		centrist = {
-			popularity = 0
+			popularity = 15
 		}
 		liberal = {
-			popularity = 20
+			popularity = 17
 		}
 		social_democrat = {
-			popularity = 3
+			popularity = 24
 		}
 		democratic_socialist = {
-			popularity = 27
+			popularity = 0
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = ultranationalist
+	ruling_party = conservative
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Arayta Houmed Ebile"
-	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
-	picture = "Portrait_DJI_Arayta_Houmed_Ebile.tga"
-	expire = "2050.1.1"
-	ideology = military_dictator
-	traits = {
-		#
-	}
 }

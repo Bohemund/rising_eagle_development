@@ -8,6 +8,11 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_sou_maluf_military"
+		texturefile = "gfx/event_pictures/report_event/sou_maluf_military.dds"
+	}
+
+	spriteType = {
 		name = "GFX_SOU_protests_for_democracy"
 		texturefile = "gfx/event_pictures/report_event/SOU_protests_for_democracy.dds"
 	}
@@ -51,6 +56,10 @@ spriteTypes = {
 
 ### NATIONAL HISTORY ####
 
+		name = "assassination_of_jfk"
+		texturefile = "gfx/event_pictures/report_event/assassination_of_jfk.dds"
+	}
+	
 	spriteType = {
 		name = "1952_us_election"
 		texturefile = "gfx/event_pictures/report_event/1952_us_election.dds"
@@ -60,12 +69,22 @@ spriteTypes = {
 		name = "surrender_at_hyesan"
 		texturefile = "gfx/event_pictures/report_event/surrender_at_hyesan.dds"
 	}
-
+	
+	spriteType = {
+		name = "surrender_at_okpo_dong"
+		texturefile = "gfx/event_pictures/report_event/surrender_at_okpo_dong.dds"
+	}
+	
 	spriteType = {
 		name = "operation_ajax"
 		texturefile = "gfx/event_pictures/report_event/operation_ajax.dds"
 	}
-	
+
+	spriteType = {
+		name = "1954_guatemala_coup"
+		texturefile = "gfx/event_pictures/report_event/1954_guatemala_coup.dds"
+	}
+
 	spriteType = {
 		name = "1956_us_election"
 		texturefile = "gfx/event_pictures/report_event/1956_us_election.dds"
@@ -85,7 +104,7 @@ spriteTypes = {
 		name = "civil_rights_movement"
 		texturefile = "gfx/event_pictures/report_event/civil_rights_movement.dds"
 	}
-	
+
 	spriteType = {
 		name = "1960_us_election"
 		texturefile = "gfx/event_pictures/report_event/1960_us_election.dds"
@@ -97,6 +116,411 @@ spriteTypes = {
 	}		
 
 	spriteType = {
+		name = "suez_crisis"
+		texturefile = "gfx/event_pictures/report_event/suez_crisis.dds"
+	}
+
+	spriteType = {
+		name = "gulf_of_tonkin"
+		texturefile = "gfx/event_pictures/report_event/gulf_of_tonkin.dds"
+	}
+
+	spriteType = {
+		name = "1964_us_election"
+		texturefile = "gfx/event_pictures/report_event/1964_us_election.dds"
+	}
+
+	spriteType = {
+		name = "new_frontier"
+		texturefile = "gfx/event_pictures/report_event/new_frontier.dds"
+	}
+
+	spriteType = {
+		name = "vietnam_war"
+		texturefile = "gfx/event_pictures/report_event/vietnam_war.dds"
+	}
+
+	spriteType = {
+		name = "1968_us_election"
+		texturefile = "gfx/event_pictures/report_event/1968_us_election.dds"
+	}
+
+	spriteType = {
+		name = "GFX_American_scandal_1988"
+		texturefile = "gfx/event_pictures/1988_scandal_japan.dds"
+	}
+	
+	spriteType = {
+		name = "new_order"
+		texturefile = "gfx/event_pictures/report_event/new_order.dds"
+	}
+
+	spriteType = {
+		name = "brazilian_coup"
+		texturefile = "gfx/event_pictures/report_event/brazilian_coup.dds"
+	}
+
+	spriteType = {
+		name = "robert_kennedy"
+		texturefile = "gfx/event_pictures/report_event/robert_kennedy.dds"
+	}
+
+	spriteType = {
+		name = "1972_us_election"
+		texturefile = "gfx/event_pictures/report_event/1972_us_election.dds"
+	}
+
+	spriteType = {
+		name = "JAP_1988_scandal"
+		texturefile = "gfx/event_pictures/report_event/JAP_1988_scandal.dds"
+	}
+
+	spriteType = {
+		name = "USA_alliance_for_progress"
+		texturefile = "gfx/event_pictures/report_event/USA_alliance_for_progress.dds"
+	}
+
+	spriteType = {
+		name = "VIN_ho_chi_minh_campaign"
+		texturefile = "gfx/event_pictures/report_event/VIN_ho_chi_minh_campaign.dds"
+	}
+
+	spriteType = {
+		name = "TUR_1960_coup"
+		texturefile = "gfx/event_pictures/report_event/TUR_1960_coup.dds"
+	}
+
+	spriteType = {
+		name = "MEX_2000_general_election"
+		texturefile = "gfx/event_pictures/report_event/MEX_2000_general_election.dds"
+	}
+
+	spriteType = {
+		name = "CHL_1973_coup"
+		texturefile = "gfx/event_pictures/report_event/CHL_1973_coup.dds"
+	}
+
+	spriteType = {
+		name = "USA_1976_election"
+		texturefile = "gfx/event_pictures/report_event/USA_1976_election.dds"
+	}
+	
+	spriteType = {
+		name = "assassination_of_richard_nixon"
+		texturefile = "gfx/event_pictures/report_event/assassination_of_richard_nixon.dds"
+	}
+	
+	spriteType = {
+		name = "thirtieth_uapr_congress"
+		texturefile = "gfx/event_pictures/report_event/thirtieth_uapr_congress.dds"
+	}
+	
+	spriteType = {
+		name = "wenatchee_revolt"
+		texturefile = "gfx/event_pictures/report_event/wenatchee_revolt.dds"
+	}
+	
+	spriteType = {
+		name = "yakima_self_immolation"
+		texturefile = "gfx/event_pictures/report_event/yakima_self_immolation.dds"
+	}
+	
+	spriteType = {
+		name = "hop_farmers_rebel"
+		texturefile = "gfx/event_pictures/report_event/hop_farmers_rebel.dds"
+	}
+	
+	spriteType = {
+		name = "the_great_beer_strike"
+		texturefile = "gfx/event_pictures/report_event/the_great_beer_strike.dds"
+	}
+	
+	spriteType = {
+		name = "cascadian_rebels_forest"
+		texturefile = "gfx/event_pictures/report_event/cascadian_rebels_forest.dds"
+	}
+	
+	spriteType = {
+		name = "leavnworth_occupied"
+		texturefile = "gfx/event_pictures/report_event/leavnworth_occupied.dds"
+	}
+	
+	spriteType = {
+		name = "the_treaty_of_seattle"
+		texturefile = "gfx/event_pictures/report_event/the_treaty_of_seattle.dds"
+	}
+	
+	spriteType = {
+		name = "gloria_la_riva_elected"
+		texturefile = "gfx/event_pictures/report_event/gloria_la_riva_elected.dds"
+	}
+	
+	spriteType = {
+		name = "kamala_harris_deputy_secretary"
+		texturefile = "gfx/event_pictures/report_event/kamala_harris_deputy_secretary.dds"
+	}
+	
+	spriteType = {
+		name = "nevada_independence_party"
+		texturefile = "gfx/event_pictures/report_event/nevada_independence_party.dds"
+	}
+	
+	spriteType = {
+		name = "los_angeles_attack"
+		texturefile = "gfx/event_pictures/report_event/los_angeles_attack.dds"
+	}
+	
+	spriteType = {
+		name = "kamala_harris_president"
+		texturefile = "gfx/event_pictures/report_event/kamala_harris_president.dds"
+	}
+	
+	spriteType = {
+		name = "angela_davis_women"
+		texturefile = "gfx/event_pictures/report_event/angela_davis_women.dds"
+	}
+	
+	spriteType = {
+		name = "new_casinos_vegas"
+		texturefile = "gfx/event_pictures/report_event/new_casinos_vegas.dds"
+	}
+	
+	spriteType = {
+		name = "nevada_hyperloop"
+		texturefile = "gfx/event_pictures/report_event/nevada_hyperloop.dds"
+	}
+	
+	spriteType = {
+		name = "las_vegas_opens"
+		texturefile = "gfx/event_pictures/report_event/las_vegas_opens.dds"
+	}
+	
+	spriteType = {
+		name = "vegas_demolition"
+		texturefile = "gfx/event_pictures/report_event/vegas_demolition.dds"
+	}
+	
+	spriteType = {
+		name = "let_vegas_rot"
+		texturefile = "gfx/event_pictures/report_event/let_vegas_rot.dds"
+	}
+	
+	spriteType = {
+		name = "las_vegas_suburbs"
+		texturefile = "gfx/event_pictures/report_event/las_vegas_suburbs.dds"
+	}
+	
+	spriteType = {
+		name = "hoover_dam_restarts"
+		texturefile = "gfx/event_pictures/report_event/hoover_dam_restarts.dds"
+	}
+	
+	spriteType = {
+		name = "gun_control_loosened"
+		texturefile = "gfx/event_pictures/report_event/gun_control_loosened.dds"
+	}
+	
+	spriteType = {
+		name = "paradise_hotel_heist"
+		texturefile = "gfx/event_pictures/report_event/paradise_hotel_heist.dds"
+	}
+	
+	spriteType = {
+		name = "kamala_harris_steps_aside"
+		texturefile = "gfx/event_pictures/report_event/kamala_harris_steps_aside.dds"
+	}
+	
+	spriteType = {
+		name = "kamala_harris_president_again"
+		texturefile = "gfx/event_pictures/report_event/kamala_harris_president_again.dds"
+	}
+	
+	spriteType = {
+		name = "president_harris_assassinated"
+		texturefile = "gfx/event_pictures/report_event/president_harris_assassinated.dds"
+	}
+	
+	spriteType = {
+		name = "evan_low_resignation"
+		texturefile = "gfx/event_pictures/report_event/evan_low_resignation.dds"
+	}
+	
+	spriteType = {
+		name = "robert_garcia_is_president"
+		texturefile = "gfx/event_pictures/report_event/robert_garcia_is_president.dds"
+	}
+	
+	spriteType = {
+		name = "dispute_between_walden_and_ross"
+		texturefile = "gfx/event_pictures/report_event/dispute_between_walden_and_ross.dds"
+	}
+	
+	spriteType = {
+		name = "rumours_ross_leaving"
+		texturefile = "gfx/event_pictures/report_event/rumours_ross_leaving.dds"
+	}
+	
+	spriteType = {
+		name = "wagner_press_conference"
+		texturefile = "gfx/event_pictures/report_event/wagner_press_conference.dds"
+	}
+	
+	spriteType = {
+		name = "cascadia_marching"
+		texturefile = "gfx/event_pictures/report_event/cascadia_marching.dds"
+	}
+	
+	spriteType = {
+		name = "labor_front_leaves_parliament"
+		texturefile = "gfx/event_pictures/report_event/labor_front_leaves_parliament.dds"
+	}
+	
+	spriteType = {
+		name = "ross_wagner_alliance"
+		texturefile = "gfx/event_pictures/report_event/ross_wagner_alliance.dds"
+	}
+	
+	spriteType = {
+		name = "brown_addresses_parliament"
+		texturefile = "gfx/event_pictures/report_event/brown_addresses_parliament.dds"
+	}
+	
+	spriteType = {
+		name = "washington_governor_mansion"
+		texturefile = "gfx/event_pictures/report_event/washington_governor_mansion.dds"
+	}
+	
+	spriteType = {
+		name = "brown_fires_walden"
+		texturefile = "gfx/event_pictures/report_event/brown_fires_walden.dds"
+	}
+	
+	spriteType = {
+		name = "coalition_for_freedom_cascadia"
+		texturefile = "gfx/event_pictures/report_event/coalition_for_freedom_cascadia.dds"
+	}
+	
+	spriteType = {
+		name = "coalition_with_greens_cascadia"
+		texturefile = "gfx/event_pictures/report_event/coalition_with_greens_cascadia.dds"
+	}
+	
+	spriteType = {
+		name = "dennis_richardson_speech"
+		texturefile = "gfx/event_pictures/report_event/dennis_richardson_speech.dds"
+	}
+	
+	spriteType = {
+		name = "gun_rights_restored"
+		texturefile = "gfx/event_pictures/report_event/gun_rights_restored.dds"
+	}
+	
+	spriteType = {
+		name = "walden_environmentalist_speech"
+		texturefile = "gfx/event_pictures/report_event/walden_environmentalist_speech.dds"
+	}
+	
+	spriteType = {
+		name = "cascadian_nationalism"
+		texturefile = "gfx/event_pictures/report_event/cascadian_nationalism.dds"
+	}
+	
+	spriteType = {
+		name = "drugs_legalised"
+		texturefile = "gfx/event_pictures/report_event/drugs_legalised.dds"
+	}
+	
+	spriteType = {
+		name = "cascadian_confederation"
+		texturefile = "gfx/event_pictures/report_event/cascadian_confederation.dds"
+	}
+	
+	spriteType = {
+		name = "orecorp_factory"
+		texturefile = "gfx/event_pictures/report_event/orecorp_factory.dds"
+	}
+	
+	spriteType = {
+		name = "washington_state_capitol"
+		texturefile = "gfx/event_pictures/report_event/washington_state_capitol.dds"
+	}
+	
+	spriteType = {
+		name = "president_brown_approves_inquiry"
+		texturefile = "gfx/event_pictures/report_event/president_brown_approves_inquiry.dds"
+	}
+	
+	spriteType = {
+		name = "brown_true_justice"
+		texturefile = "gfx/event_pictures/report_event/brown_true_justice.dds"
+	}
+	
+	spriteType = {
+		name = "orecorp_abandoned"
+		texturefile = "gfx/event_pictures/report_event/orecorp_abandoned.dds"
+	}
+	
+	spriteType = {
+		name = "united_bio_region_rally"
+		texturefile = "gfx/event_pictures/report_event/united_bio_region_rally.dds"
+	}
+	
+	spriteType = {
+		name = "portland_election"
+		texturefile = "gfx/event_pictures/report_event/portland_election.dds"
+	}
+	
+	spriteType = {
+		name = "ted_wheeler_portland"
+		texturefile = "gfx/event_pictures/report_event/ted_wheeler_portland.dds"
+	}
+	
+	spriteType = {
+		name = "oregon_bus_crash"
+		texturefile = "gfx/event_pictures/report_event/oregon_bus_crash.dds"
+	}
+	
+	spriteType = {
+		name = "marysville_shooting"
+		texturefile = "gfx/event_pictures/report_event/marysville_shooting.dds"
+	}
+	
+	spriteType = {
+		name = "parliament_rejects_cascadia_flag_change"
+		texturefile = "gfx/event_pictures/report_event/parliament_rejects_cascadia_flag_change.dds"
+	}
+	
+	spriteType = {
+		name = "white_supremacists_washington"
+		texturefile = "gfx/event_pictures/report_event/white_supremacists_washington.dds"
+	}
+	
+	spriteType = {
+		name = "easton_washington"
+		texturefile = "gfx/event_pictures/report_event/easton_washington.dds"
+	}
+	
+	spriteType = {
+		name = "tabb_calls_for_action"
+		texturefile = "gfx/event_pictures/report_event/tabb_calls_for_action.dds"
+	}
+	
+	spriteType = {
+		name = "white_supremacist_confesses"
+		texturefile = "gfx/event_pictures/report_event/white_supremacist_confesses.dds"
+	}
+	
+	spriteType = {
+		name = "kkk_arrest_celebration"
+		texturefile = "gfx/event_pictures/report_event/kkk_arrest_celebration.dds"
+	}
+	
+	spriteType = {
+		name = "rising_eagle"
+		texturefile = "gfx/event_pictures/report_event/rising_eagle.dds"
+	}
+
+	spriteType = {
 		name = "nationalists_challenge_ciller"
 		texturefile = "gfx/event_pictures/report_event/nationalists_challenge_ciller.dds"
 	}
@@ -106,6 +530,11 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/report_event/dyp_extraordinary_congress.dds"
 	}	
 
+    spriteType = {
+		name = "resignation_of_baykal.dds"
+		texturefile = "gfx/event_pictures/report_event/resignation_of_baykal.dds.dds"
+	}	
+}
 	spriteType = {
 		name = "erbakan_resigns"
 		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"

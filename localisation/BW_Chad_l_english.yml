@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ CHD_ultranationalist_party:0 "National Union"
+ CHD_ultranationalist_party_long:0 "National Union for Independence and Revolution"
+ CHD_monarchist_party:0 "Royalists"
+ CHD_monarchist_party_long:0 "Royalists"
+ CHD_nationalist_party:0 "Patriotic Salvation"
+ CHD_nationalist_party_long:0 "Patriotic Salvation Movement"
+ CHD_conservative_party:0 "Conservative Coalition"
+ CHD_conservative_party_long:0 "Independent Conservative Coalition"
+ CHD_centrist_party:0 "Rally for Democracy"
+ CHD_centrist_party_long:0 "National Rally for Democracy in Chad"
+ CHD_liberal_party:0 "Development & Progress"
+ CHD_liberal_party_long:0 "National Rally for Development and Progress"
+ CHD_social_democrat_party:0 "Democracy and Renewal"
+ CHD_social_democrat_party_long:0 "National Union for Democracy and Renewal"
+ CHD_democratic_socialist_party:0 "Popular Movement"
+ CHD_democratic_socialist_party_long:0 "Popular Movement for the Liberation of Chad"
+ CHD_radical_socialist_party:0 "National Liberation"
+ CHD_radical_socialist_party_long:0 "National Liberation Front of Chad"
+ CHD_communist_party:0 "Unity and Socialism"
+ CHD_communist_party_long:0 "Chadian Action for Unity and Socialism"
