@@ -7,10 +7,10 @@
  PER_monarchist_party_long:0 "Pahlavi Dynasty"
  PER_nationalist_party:0 "Unity Party"
  PER_nationalist_party_long:0 "Unity Party"
- PER_conservative_party:0 "Islamic Coalition Party"
- PER_conservative_party_long:0 "Islamic Coalition Party"
- PER_centrist_party:0 "Green Path"
- PER_centrist_party_long:0 "Green Path"
+ PER_conservative_party:0 "Islamic Coalition"
+ PER_conservative_party_long:0 "Islamic Coalition"
+ PER_centrist_party:0 "Reformist Bloc"
+ PER_centrist_party_long:0 "Reformist Bloc"
  PER_liberal_party:0 "National Front"
  PER_liberal_party_long:0 "National Front"
  PER_social_democrat_party:0 "Islamic Labour Party"
@@ -21,3 +21,10 @@
  PER_radical_socialist_party_long:0 "Left Association"
  PER_communist_party:0 "Tudeh Party"
  PER_communist_party_long:0 "Tudeh Party"
+
+ #LEADERS
+ POLITICS_MOHAMMAD_KHATAMI_DESC:0 "Unlike his predecessor, Sayyid Mohammad Khatami was not a major figure in the Iranian Revolution. During that time he served as the leader of an Islamic centre in Germany. He returned a year after the revolution to serve in the Majlis, the parliament of Iran, then as Minister of Culture and Islamic Guidance. In 1989 he joined the newly-formed Islamic Coalition, a party that sought to unite all wings of the Islamic movement into one political force. He rose through the ranks of the party while serving as a member of the Supreme Council of the Cultural Revolution. After gaining support from the party’s smaller reformist wing he was nominated to be their candidate in 2004. His election was called “remarkable” and “an upset” as the hardline conservative Mahmoud Ahmadinejad was expected to win. Instead Khatami became Iran’s first reformist president. The focus of his campaign and administration has been democracy, the rule of law and political inclusion. He continued his predecessor’s liberalization and privatization of the economy and despite clashes with conservatives he was reelected in 2008. With Khatami’s final term drawing to a close his focus will be on the legacy of reformism in the Islamic Republic, and keeping the presidency from falling into the hands of radicals."
+
+ #IDEAS
+ ayatollah_montazeri:0 "Grand Ayatollah Hussein-Ali Montazeri"
+ ayatollah_montazeri_desc:0 "Grand Ayatollah Hussein-Ali Montazeri is the second Supreme Leader of Iran, serving since the death of Ayatollah Khomeini in 1989. As Supreme Leader Montazeri has overseen Iran’s slow reform and modernization under the administrations of Akbar Hashemi Rafsanjani and Mohammad Khatami. Preferring to remain a religious and spiritual leader, Ayatollah Montazeri has turned the office of Supreme Leader from a position based on the charisma and authority of Ayatollah Khomeini to a constitutional position. Political issues like foreign policy and the armed forces has often been left to the president. Though relinquishing some power the Supreme Leader has been steadfast in upholding Islamic democracy in Iran and despite his age Ayatollah Montazeri is still active in governing the country and consulting the president."

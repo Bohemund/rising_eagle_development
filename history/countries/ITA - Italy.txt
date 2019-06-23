@@ -40,7 +40,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 12
+			popularity = 9
 		}
 		monarchist = {
 			popularity = 0
@@ -49,29 +49,29 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 11
+			popularity = 15
 		}
 		centrist = {
-			popularity = 23
+			popularity = 31
 		}
 		liberal = {
-			popularity = 6
+			popularity = 5
 		}
 		social_democrat = {
-			popularity = 12
+			popularity = 6
 		}
 		democratic_socialist = {
-			popularity = 26
+			popularity = 11
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 10
+			popularity = 23
 		}
 	}
 	
-	ruling_party = democratic_socialist
+	ruling_party = centrist
 	last_election = "2008.4.14"
 	election_frequency = 60
 	elections_allowed = no

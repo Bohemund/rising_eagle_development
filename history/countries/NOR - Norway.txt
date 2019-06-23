@@ -42,35 +42,35 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 21
+			popularity = 30
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 11
+			popularity = 18
 		}
 		centrist = {
-			popularity = 22
+			popularity = 7
 		}
 		liberal = {
 			popularity = 4
 		}
 		social_democrat = {
-			popularity = 32
+			popularity = 29
 		}
 		democratic_socialist = {
-			popularity = 3
+			popularity = 4
 		}
 		radical_socialist = {
-			popularity = 7
+			popularity = 8
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2009.9.14"
 	election_frequency = 36
 	elections_allowed = no

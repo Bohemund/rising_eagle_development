@@ -151,4 +151,9 @@ spriteTypes = {
 		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
 		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_ayatollah_montazeri"
+		texturefile = "gfx/interface/ideas/ayatollah_montazeri.dds"
+	}
 }
