@@ -1,16 +1,16 @@
 ﻿l_english:
  
  #PARTIES
- CZE_ultranationalist_party:0 "Social Justice Party"
- CZE_ultranationalist_party_long:0 "Social Justice Party"
- CZE_monarchist_party:0 "House of Schwarzenberg"
- CZE_monarchist_party_long:0 "House of Schwarzenberg"
+ CZE_ultranationalist_party:0 "Workers Party"
+ CZE_ultranationalist_party_long:0 "Workers Party of Czechoslovakia"
+ CZE_monarchist_party:0 "House of Lobkowicz"
+ CZE_monarchist_party_long:0 "House of Lobkowicz"
  CZE_nationalist_party:0 "Rally for the Republic"
  CZE_nationalist_party_long:0 "Rally for the Republic"
  CZE_conservative_party:0 "People’s Party"
  CZE_conservative_party_long:0 "Czechoslovak People’s Party"
- CZE_centrist_party:0 "National Social Party"
- CZE_centrist_party_long:0 "Czechoslovak National Social Party"
+ CZE_centrist_party:0 "National Front for Democracy"
+ CZE_centrist_party_long:0 "National Front for Democracy"
  CZE_liberal_party:0 "Liberal Reform"
  CZE_liberal_party_long:0 "Liberal Reform"
  CZE_social_democrat_party:0 "Social Democratic Party"
