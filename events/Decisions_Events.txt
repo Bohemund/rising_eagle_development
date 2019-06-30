@@ -461,3 +461,31 @@ country_event = {
 		name = decision_event.33.o1
 	}
 }
+
+#Assassination of John Ashbrook
+country_event = {
+	id = decision_event.34
+	title = decision_event.34.t
+	desc = decision_event.34.d
+	picture = USA_ashbrook_assassination
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.34.o1
+	}
+}
+
+#Iranian Revolution
+country_event = {
+	id = decision_event.35
+	title = decision_event.35.t
+	desc = decision_event.35.d
+	picture = PER_iranian_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.35.o1
+	}
+}

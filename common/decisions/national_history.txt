@@ -723,6 +723,56 @@ seventies = {
 		}
 	}
 
+	USA_ashbrook_assassination = {
+
+		icon = GFX_decision_generic_ignite_civil_war
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.34 }
+		}
+	}
+
+	PER_iranian_revolution = {
+
+		icon = GFX_decision_generic_nationalism
+
+		allowed = {
+			OR = {
+			    original_tag = PER
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.35 }
+		}
+	}
+
 }
 
 eighties = {

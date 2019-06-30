@@ -77,9 +77,31 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Narendra Modi"
+	name = "Uddhav Thackeray"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Narendra_Modi.tga"
+	picture = "Portrait_RAJ_Uddhav_Thackeray.tga"
+	expire = "2050.1.1"
+	ideology = fascist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Udayanraje Bhosale"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Monarchist.tga"
+	expire = "2050.1.1"
+	ideology = monarchist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mohan Bhagwat"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Mohan_Bhagwat.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {
@@ -88,34 +110,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Rajnath Singh"
+	name = "Narendra Modi"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Rajnath_Singh.tga"
+	picture = "Portrait_RAJ_Narendra_Modi.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Manmohan Singh"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Manmohan_Singh.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		
-	}
-}
-
-
-create_country_leader = {
-	name = "Udayanraje Bhosale"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Monarchist.tga"
-	expire = "2050.1.1"
-	ideology = monarchist_ideology
 	traits = {
 		
 	}
@@ -133,7 +132,6 @@ create_country_leader = {
 }
 
 
-
 create_country_leader = {
 	name = "Mayawati Da"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
@@ -145,7 +143,16 @@ create_country_leader = {
 	}
 }
 
-
+create_country_leader = {
+	name = "Manmohan Singh"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Manmohan_Singh.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		
+	}
+}
 
 create_country_leader = {
 	name = "Amar Singh"
@@ -179,24 +186,3 @@ create_country_leader = {
 		
 	}
 }
-
- 
-
-create_country_leader = {
-	name = "Bal Thackeray"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Bal_Thackeray.tga"
-	expire = "2050.1.1"
-	ideology = fascist
-	traits = {
-		
-	}
-}
-
-
-
-
-
-
-
-

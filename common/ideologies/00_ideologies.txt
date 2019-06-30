@@ -394,7 +394,7 @@ ideologies = {
 			nasserist = {
 			}
 
-			islamic_socialism = {
+			islamic_socialist = {
 			}
 			
 		}

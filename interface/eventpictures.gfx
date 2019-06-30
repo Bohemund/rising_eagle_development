@@ -225,4 +225,14 @@ spriteTypes = {
 		name = "AZR_islamic_revolution"
 		texturefile = "gfx/event_pictures/report_event/AZR_islamic_revolution.dds"
 	}
+
+	spriteType = {
+		name = "USA_ashbrook_assassination"
+		texturefile = "gfx/event_pictures/report_event/USA_ashbrook_assassination.dds"
+	}
+
+	spriteType = {
+		name = "PER_iranian_revolution"
+		texturefile = "gfx/event_pictures/report_event/PER_iranian_revolution.dds"
+	}
 }

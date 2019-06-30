@@ -164,11 +164,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Vladimir Putin"
+	name = "Nikolai Ryzhkov"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_RUS_Vladimir_Putin.tga"
+	picture = "Portrait_RUS_Nikolai_Ryzhkov.tga"
 	expire = "2050.1.1"
-	ideology = stalinist
+	ideology = leninist
 	traits = {
 		
 	}

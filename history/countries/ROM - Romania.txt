@@ -43,38 +43,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 18
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 19
+			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 21
 		}
 		centrist = {
-			popularity = 4
+			popularity = 6
 		}
 		liberal = {
-			popularity = 16
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 35
+			popularity = 16
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 35
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 4
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = democratic_socialist
 	last_election = "2008.11.30"
 	election_frequency = 48
 	elections_allowed = no
@@ -97,6 +97,17 @@ create_country_leader = {
 	picture = "Portrait_ROM_Mircea_Geoana.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ion Iliescu"
+	desc = "POLITICS_GHEORGHE_TATARESCU_DESC"
+	picture = "Portrait_ROM_Ion_Iliescu.tga"
+	expire = "2050.1.1"
+	ideology = moderate_socialist
 	traits = {
 		#
 	}
