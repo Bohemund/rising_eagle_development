@@ -2,6 +2,10 @@
 
 oob = "USA_2010"
 
+add_ideas = {
+    idea_nato
+}
+
 set_research_slots = 4
 set_convoys = 500
 set_stability = 0.8
@@ -26,6 +30,7 @@ set_technology = {
 
 create_faction = nato
 add_to_faction = USA
+add_to_faction = FRA
 add_to_faction = CAN
 add_to_faction = ENG
 add_to_faction = GER
@@ -42,6 +47,7 @@ add_to_faction = GRE
 add_to_faction = ITA
 add_to_faction = TUR
 add_to_faction = CZE
+add_to_faction = ICE
 
 set_politics = {
 

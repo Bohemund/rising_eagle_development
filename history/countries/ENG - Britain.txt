@@ -3,8 +3,9 @@
 oob = "ENG_2010"
 
 add_ideas = {
-    european_union
+    idea_nato
     idea_queen_elizabeth_ii
+    ENG_the_troubles
 }    
 
 
@@ -83,6 +84,28 @@ create_country_leader = {
 	picture = "Portrait_ENG_Nick_Griffin.tga"
 	expire = "2050.1.1"
 	ideology = fascist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nigel Farage"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_Nigel_Farage.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Iain Duncan Smith"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_Iain_Duncan_Smith.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
 	traits = {
 		
 	}

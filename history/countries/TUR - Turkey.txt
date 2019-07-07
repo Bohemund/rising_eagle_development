@@ -4,6 +4,7 @@ oob = "TUR_2010"
 
 add_ideas = {
     european_union
+    idea_nato
     TUR_unstable_coalition
     TUR_unpredictable_economy
     TUR_interventionist_military

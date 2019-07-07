@@ -4,8 +4,7 @@ oob = "ITA_2010"
 
 add_ideas = {
     european_union
-    milanese_recession
-	drift_towards_radicalism
+    idea_nato
 }
 
 set_research_slots = 4

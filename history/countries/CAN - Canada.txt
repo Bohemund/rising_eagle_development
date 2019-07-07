@@ -2,6 +2,10 @@
 
 oob = "CAN_2010"
 
+add_ideas = {
+    idea_nato
+} 
+
 set_research_slots = 4
 set_convoys = 50
 set_stability = 0.8

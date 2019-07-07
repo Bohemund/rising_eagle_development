@@ -17,4 +17,21 @@ ideas = {
 			}
 		}
 	}
+
+    country = {
+	    
+		idea_nato = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			        war_support_factor = 0.10
+			        max_planning = 0.25
+			        send_volunteers_tension = -0.25
+			}
+		}
+	}
 }

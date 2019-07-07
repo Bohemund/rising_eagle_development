@@ -73,7 +73,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.25
 		}
-		
+		ai_neutral = yes
 	}
 
 	monarchist = {
@@ -116,7 +116,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	nationalist = {
@@ -173,7 +173,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	conservative = {
@@ -231,7 +231,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	centrist = {
@@ -280,7 +280,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	liberal = {
@@ -326,7 +326,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	social_democrat = {
@@ -375,7 +375,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	democratic_socialist = {
@@ -424,7 +424,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	radical_socialist = {
@@ -472,7 +472,7 @@ ideologies = {
 			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_6"
 		}
 		
-		color = { 155 18 20  }
+		color = { 155 18 20 }
 		
 		war_impact_on_world_tension = 2
 		faction_impact_on_world_tension = 2
@@ -488,7 +488,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	communist = {
@@ -546,7 +546,6 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.25
 		}
-		
+		ai_neutral = yes
 	}
-
 }

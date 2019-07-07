@@ -7,8 +7,8 @@
  FRA_monarchist_party_long:0 "House of Orleans"
  FRA_nationalist_party:0 "Movement for France"
  FRA_nationalist_party_long:0 "Movement for France"
- FRA_conservative_party:0 "Defence of the Republic"
- FRA_conservative_party_long:0 "Union for the Defence of the Republic"
+ FRA_conservative_party:0 "Union of Democrats"
+ FRA_conservative_party_long:0 "Union of Democrats for the Republic"
  FRA_centrist_party:0 "Progressive Rally"
  FRA_centrist_party_long:0 "Progressive Rally"
  FRA_liberal_party:0 "Radical Party"
@@ -23,6 +23,7 @@
  FRA_communist_party_long:0 "Communist Party - Eurocommunists"
 
  #IDEAS
-
  european_union:0 "European Union Member"
  european_union_desc:0 "This nation is a member of the European Union."
+ idea_nato:0 "NATO Member"
+ idea_nato_desc:0 "This nation is a member of the North Atlantic Treaty Organization."

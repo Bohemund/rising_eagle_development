@@ -156,4 +156,14 @@ spriteTypes = {
 		name = "GFX_idea_ayatollah_montazeri"
 		texturefile = "gfx/interface/ideas/ayatollah_montazeri.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_idea_nato"
+		texturefile = "gfx/interface/ideas/north_atlantic_treaty_organization.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ENG_the_troubles"
+		texturefile = "gfx/interface/ideas/ENG_troubles.dds"
+	}
 }
