@@ -2,6 +2,13 @@
 
 oob = "JAP_2010"
 
+add_ideas = {
+   JAP_emperorakihito
+   JAP_stuckcoalition
+   JAP_rising_ultnationalism
+   JAP_anti_american_stance
+}
+
 set_stability = 0.2
 set_war_support = 0.8
 
@@ -36,7 +43,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 23
+			popularity = 26
 		}
 		monarchist = {
 			popularity = 8
@@ -45,22 +52,22 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 22
+			popularity = 18
 		}
 		centrist = {
-			popularity = 7
+			popularity = 5
 		}
 		liberal = {
-			popularity = 20
+			popularity = 23
 		}
 		social_democrat = {
-			popularity = 7
+			popularity = 14
 		}
 		democratic_socialist = {
-			popularity = 11
+			popularity = 6
 		}
 		radical_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
@@ -72,24 +79,6 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-
-   add_ideas = { 
-   JAP_emperorakihito
-   JAP_stuckcoalition
-   JAP_rising_ultnationalism
-   JAP_anti_american_stance
-	}
-
-
-
-
-
-
-
-
-
-
-
 
 create_country_leader = {
 	name = "Shinzo Abe"
@@ -111,6 +100,55 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Toshio Tamogami"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Toshio_Tamogami.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Aso Taro"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Taro_Aso.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Katsuya Okada"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_katsuya_okada.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Yukio Edano"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Yuki_Edano.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal 
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tadatomo Yoshida"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Tadatomo_Yoshida.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology 
+	traits = {
+	}
+}
 
 create_country_leader = {
 	name = "Kazuo Shii"
@@ -121,9 +159,6 @@ create_country_leader = {
 	traits = {
 	}
 }
-
-
-      
 
 create_country_leader = {
 	name = "Tetsuzo Fuwa"
@@ -136,30 +171,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Toshio Tamogami"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Toshio_Tamogami.tga"
-	expire = "2050.1.1"
-	ideology = nationalist_ideology 
-	traits = {
-	}
-}
-
-
-
-
-create_country_leader = {
-	name = "Aso Taro"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Taro_Aso.tga"
-	expire = "2050.1.1"
-	ideology = social_conservative 
-	traits = {
-	}
-}
-
-
-create_country_leader = {
 	name = "Fusako Shigenobu"
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_JAP_JRA_founder.tga"
@@ -168,61 +179,3 @@ create_country_leader = {
 	traits = {
 	}
 }
-
-
-
-create_country_leader = {
-	name = "Yukio Edano"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Yuki_Edano.tga"
-	expire = "2050.1.1"
-	ideology = social_liberal 
-	traits = {
-	}
-}
-
-
-
-create_country_leader = {
-	name = "Katsuya Okada"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_katsuya_okada.tga"
-	expire = "2050.1.1"
-	ideology = centrist_ideology 
-	traits = {
-	}
-}
-
-
-
-
-create_country_leader = {
-	name = "Tadatomo Yoshida"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Tadatomo_Yoshida.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology 
-	traits = {
-	}
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

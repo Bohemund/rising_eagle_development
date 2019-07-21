@@ -1,6 +1,10 @@
 ﻿capital = 608
 
-oob = "CDR_2010"
+oob = "CHI_2010"
+
+add_ideas = {
+    idea_CHI_growing_economy
+}
 
 set_research_slots = 4
 set_convoys = 300
@@ -34,54 +38,87 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 37
 		}
 		centrist = {
-			popularity = 25
-		}
-		liberal = {
-			popularity = 14
-		}
-		social_democrat = {
-			popularity = 16
-		}
-		democratic_socialist = {
 			popularity = 20
 		}
-		radical_socialist = {
+		liberal = {
+			popularity = 7
+		}
+		social_democrat = {
+			popularity = 28
+		}
+		democratic_socialist = {
 			popularity = 5
 		}
-		communist = {
+		radical_socialist = {
 			popularity = 0
+		}
+		communist = {
+			popularity = 3
 		}
 	}
 	
-	ruling_party = centrist
-	last_election = "206.5.23"
+	ruling_party = conservative
+	last_election = "2006.5.23"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-add_ideas = { 
-idea_CHI_coalition_system
-idea_CHI_legacy_of_Maoism
-idea_CHI_broken
-idea_CHI_growing_economy
+create_country_leader = {
+	name = "Zhang Youxia"
+	desc = "POLITICS_BO_XILAI_DESC"
+	picture = "Portrait_CHI_Zhang_Youxia.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
+	traits = {
+		#
+	}
+}
 
-
-
+create_country_leader = {
+	name = "Soong Chu-yu"
+	desc = "POLITICS_SOONG_CHU_YU_DESC"
+	picture = "Portrait_CHI_Soong_Chu_yu.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
 	name = "Xu Wenli"
-	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
-	picture = "Portrait_CHI_Xu_Wenli.tga"
 	desc = "POLITICS_XU_WENLI_DESC"
+	picture = "Portrait_CHI_Xu_Wenli.tga"
 	expire = "2050.1.1"
 	ideology = market_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Wang Yang"
+	desc = "POLITICS_XU_WENLI_DESC"
+	picture = "Portrait_CHI_Wang_Yang.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bo Xilai"
+	desc = "POLITICS_BO_XILAI_DESC"
+	picture = "Portrait_CHI_Bo_Xilai.tga"
+	expire = "2050.1.1"
+	ideology = maoist
 	traits = {
 		#
 	}

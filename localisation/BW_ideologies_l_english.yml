@@ -124,8 +124,8 @@
  radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism."
 
  #DEMOCRATIC SOCIALISM
- democratic_socialist:0 "Democratic Socialism"
- democratic_socialist_desc:0 "Democratic socialism is an ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system."
+ democratic_socialist_ideology:0 "Democratic Socialism"
+ democratic_socialist_ideology_desc:0 "Democratic socialism is an ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system."
  nasserist:0 "Nasserism"
  nasserist_desc:0 "Nasserism is an Arab nationalist and pan-Arabist ideology with vaguely defined socialism. Though mindful of the Islamic and Christian heritage of the Arab world, Nasserism is a largely secular ideology. Nasserists espouse an end to American interference in Arab affairs, developing world solidarity, international non-alignment, modernisation and industrialisation."
  islamic_socialist:0 "Islamic Socialism"

@@ -2,13 +2,6 @@ ideas = {
  
  country = { 
 
-
-
-
-
-
-
-
          idea_CHI_coalition_system = {
 			allowed = {
 				always = no
@@ -51,32 +44,11 @@ ideas = {
 			
 			modifier = {
 			research_time_factor = -0.01
-			production_speed_industrial_complex_factor = 0.1
-			production_speed_infrastructure_factor = 0.1
+			MONTHLY_POPULATION = 0.01
+			political_power_gain = 0.05
+			production_speed_industrial_complex_factor = 0.05
+			production_speed_arms_factory_factor = 0.05
 			}
 		}
-		
-        idea_CHI_broken = { 
-		    allowed = { 
-			    always = no 
-			}
-			
-			removal_cost = -1
-			
-			picture = idea_CHI_recovery_of_china
-			
-			modifier = { 
-			line_change_production_efficiency_factor = -0.2
-			consumer_goods_factor = 0.15
-			production_factory_efficiency_gain_factor = -0.10
-			production_speed_buildings_factor = -0.2
-		    }
-			
-		}
-		
-		
-		
-	}	
-		
-		
+	}			
 }

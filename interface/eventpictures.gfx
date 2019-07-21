@@ -187,7 +187,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "CHI_third_taiwan_strait_crisis"
+		name = "CHI_kennedy_visit_to_china"
 		texturefile = "gfx/event_pictures/report_event/CHI_third_taiwan_strait_crisis.dds"
 	}
 

@@ -507,6 +507,32 @@ sixties = {
 		}
 	}
 
+	CHI_kennedy_visit_to_china = {
+
+		icon = GFX_decision_generic_political_discourse
+
+		allowed = {
+			OR = {
+			    original_tag = CHI
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.26 }
+		}
+	}
+
 	USA_1968_election = {
 
 		icon = GFX_decision_generic_civil_support
@@ -641,32 +667,6 @@ seventies = {
 
 		complete_effect = {
 			country_event = { id = decision_event.22 }
-		}
-	}
-
-	CHI_third_taiwan_strait_crisis = {
-
-		icon = GFX_decision_generic_naval
-
-		allowed = {
-			OR = {
-			    original_tag = CHI
-			    original_tag = USA
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.26 }
 		}
 	}
 
