@@ -126,9 +126,12 @@ ideologies = {
 			nationalist_ideology = {
 			}
 		
+			neoconservative = {
+			}
+
 			american_nationalist = {
 			}
-			
+
 			authoritarian_democrat = {
 			}
 
