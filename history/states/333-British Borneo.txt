@@ -9,8 +9,8 @@ state={
 	}
 
 	history={
-		owner = SAR
-		add_core_of = SAR
+		owner = MAY
+		add_core_of = MAY
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

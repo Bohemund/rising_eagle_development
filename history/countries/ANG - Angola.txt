@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 2
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 11
 		}
 		communist = {
@@ -78,10 +78,10 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jonas Savimbi"
-	desc = "POLITICS_JONAS_SAVIMBI_DESC"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_ANG_Jonas_Savimbi.tga"
 	expire = "2050.1.1"
-	ideology = military_junta
+	ideology = authoritarian_democrat
 	traits = {
 		#
 	}

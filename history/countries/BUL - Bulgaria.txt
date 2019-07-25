@@ -42,27 +42,27 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 9
+			popularity = 6
 		}
 		nationalist = {
-			popularity = 35
+			popularity = 37
 		}
 		conservative = {
 			popularity = 8
 		}
 		centrist = {
-			popularity = 28
+			popularity = 29
 		}
 		liberal = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 6
+			popularity = 11
 		}
 		democratic_socialist = {
-			popularity = 14
+			popularity = 9
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -80,17 +80,6 @@ create_country_leader = {
 	name = "Volen Siderov"
 	desc = ""
 	picture = "Portrait_BUL_Volen_Siderov.tga"
-	expire = "2050.1.1"
-	ideology = ultranationalist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Nadezhda Nikolova"
-	desc = ""
-	picture = "Portrait_BUL_Nadezhda_Nikolova.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {

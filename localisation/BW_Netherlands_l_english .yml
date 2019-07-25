@@ -1,12 +1,12 @@
 ﻿l_english:
  
  #PARTIES
- HOL_ultranationalist_party:0 "Dutch People’s Union"
- HOL_ultranationalist_party_long:0 "Dutch People’s Union"
+ HOL_ultranationalist_party:0 "National Party"
+ HOL_ultranationalist_party_long:0 "National Party"
  HOL_monarchist_party:0 "House of Orange-Nassau"
  HOL_monarchist_party_long:0 "House of Orange-Nassau"
- HOL_nationalist_party:0 "National Alliance"
- HOL_nationalist_party_long:0 "National Alliance"
+ HOL_nationalist_party:0 "Fortuyn Alliance"
+ HOL_nationalist_party_long:0 "Fortuyn Alliance"
  HOL_conservative_party:0 "Reformed Political Party"
  HOL_conservative_party_long:0 "Reformed Political Party"
  HOL_centrist_party:0 "People's Party"
@@ -17,7 +17,7 @@
  HOL_social_democrat_party_long:0 "Labour Party"
  HOL_democratic_socialist_party:0 "Socialist Party"
  HOL_democratic_socialist_party_long:0 "Socialist Party"
- HOL_radical_socialist_party:0 "Pacifist Socialist Party"
- HOL_radical_socialist_party_long:0 "Pacifist Socialist Party"
+ HOL_libertarian_socialist_party:0 "Pacifist Socialist Party"
+ HOL_libertarian_socialist_party_long:0 "Pacifist Socialist Party"
  HOL_communist_party:0 "Communist Party"
  HOL_communist_party_long:0 "Communist Party of the Netherlands"

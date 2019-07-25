@@ -2,14 +2,6 @@
 
 oob = "LEB_2010"
 
-add_ideas = {
-    LEB_rafic_hariri
-    LEB_gebran_bassil
-    LEB_fouad_siniora
-    LEB_samir_gagea
-    LEB_michel_aoun
-}
-
 set_research_slots = 3
 set_convoys = 5
 set_stability = 0.6
@@ -45,34 +37,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 6
+			popularity = 8
 		}
 		nationalist = {
-			popularity = 24
+			popularity = 27
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 22
+			popularity = 23
 		}
 		centrist = {
-			popularity = 16
+			popularity = 14
 		}
 		liberal = {
-			popularity = 11
+			popularity = 9
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 2
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 17
 		}
 		communist = {
-			popularity = 4
+			popularity = 0
 		}
 	}
 	
@@ -86,37 +78,17 @@ create_country_leader = {
 	name = "Pierre Amine Gemayel"
 	desc = ""
 	picture = "Portrait_LEB_Pierre_Amine_Gemayel.tga"
-	ideology = lebanese_nationalist
+	ideology = authoritarian_democrat
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Nabih Berri"
+	name = "Dany Chamoun"
 	desc = ""
-	picture = "Portrait_LEB_Nabih_Berri.tga"
-	ideology = islamic_democrat
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Michel Aoun"
-	desc = ""
-	picture = "Portrait_LEB_Michel_Aoun.tga"
-	ideology = classical_liberal
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Walid Jumblatt"
-	desc = ""
-	picture = "Portrait_LEB_Walid_Jumblatt.tga"
-	ideology = radical_socialist_ideology
+	picture = "Portrait_LEB_Dany_Chamoun.tga"
+	ideology = national_liberal
 	traits = {
 		#
 	}

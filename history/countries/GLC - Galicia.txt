@@ -62,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 36
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 12
 		}
 		communist = {
@@ -77,19 +77,8 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Mariano Rajoy"
-	desc = "POLITICS_MARIANO_RAJOY_DESC"
-	picture = "Portrait_GLC_Mariano_Rajoy.tga"
-	expire = "2050.1.1"
-	ideology = christian_democrat
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Xosé Manuel Beiras"
-	desc = "POLITICS_XOSE_MANUEL_BEIRAS_DESC"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_GLC_Xose_Manuel_Beiras.tga"
 	expire = "2050.1.1"
 	ideology = moderate_socialist

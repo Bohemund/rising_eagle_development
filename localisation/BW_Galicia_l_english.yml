@@ -17,10 +17,7 @@
  GLC_social_democrat_party_long:0 "Socialist Party of Galicia"
  GLC_democratic_socialist_party:0 "Nationalist Bloc"
  GLC_democratic_socialist_party_long:0 "Nationalist Bloc"
- GLC_radical_socialist_party:0 "Communist Party"
- GLC_radical_socialist_party_long:0 "Communist Party of Galicia"
+ GLC_libertarian_socialist_party:0 "Communist Party"
+ GLC_libertarian_socialist_party_long:0 "Communist Party of Galicia"
  GLC_communist_party:0 "Galician People’s Front"
  GLC_communist_party_long:0 "Galician People’s Front"
-
- #LEADERS
- POLITICS_XOSE_MANUEL_BEIRAS_DESC:0 "Xosé Manuel Beiras was one of the founding members of the Galician Socialist Party in 1963. He was elected General Secretary in 1971. Though heavily persecuted by the Francoist regime the party rose to prominence during Juan Carlos’ constitutional reforms. His death signaled the end of reform and the beginning of civil conflict. Beiras was disappointed with the Socialist Party’s hesitation in calling for Galician independence and resigned as General Secretary in 1978. Together with other nationalists he founded the Galician Nationalist Bloc, a coalition of parties and revolutionary movements which soon toppled Xosé Quiroga Suárez’s regional government and installed Fernando González Laxe as president of Galicia. His position was confirmed in 1980 during the Toledo Accords which brought and end to the Second Spanish Civil War. Beiras gained a seat in the parliament in 1985 and gradually became the face of Galician nationalism. He led his party to an unprecedented victory in 1997, granting Beiras his first term as president of Galicia. He became known for his pragmatism, establishing an electoral coalition with socialist, nationalist and Christian democratic parties. He renounced his candidacy after two terms as president and yielded leadership of the party to Lidia Senra. After spending 4 years as a columnist he returned to lead the party once again and won the general election in 2009, thus Beiras was sworn in for his third non-consecutive term as president of Galicia."

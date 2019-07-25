@@ -1,11 +1,11 @@
 ﻿capital = 820
 
-oob = "MLW_2010"
+oob = "AAA_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.7
-set_war_support = 0.2
+set_stability = 0.6
+set_war_support = 0.3
 
 set_technology = {
 	support_weapons = 1
@@ -28,50 +28,39 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 8
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 100
+			popularity = 11
 		}
 		conservative = {
-			popularity = 0
+			popularity = 12
 		}
 		centrist = {
-			popularity = 0
+			popularity = 15
 		}
 		liberal = {
-			popularity = 0
+			popularity = 17
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 24
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
-			popularity = 0
+		libertarian_socialist = {
+			popularity = 10
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = conservative
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Sidik Mia"
-	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_MLW_Sidik_Mia.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
-	traits = {
-		#
-	}
 }

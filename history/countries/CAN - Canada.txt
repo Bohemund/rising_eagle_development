@@ -31,28 +31,28 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 0
+			popularity = 3
 		}
 		nationalist = {
-			popularity = 18
+			popularity = 10
 		}
 		conservative = {
-			popularity = 32
+			popularity = 33
 		}
 		centrist = {
-			popularity = 7
+			popularity = 16
 		}
 		liberal = {
-			popularity = 17
+			popularity = 14
 		}
 		social_democrat = {
-			popularity = 22
+			popularity = 13
 		}
 		democratic_socialist = {
 			popularity = 4
 		}
-		radical_socialist = {
-			popularity = 0
+		libertarian_socialist = {
+			popularity = 7
 		}
 		communist = {
 			popularity = 0
@@ -63,17 +63,6 @@ set_politics = {
 	last_election = "2008.10.14"
 	election_frequency = 60
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Preston Manning"
-	desc = "POLITICS_MACKENZIE_KING_DESC"
-	picture = "Portrait_CAN_Preston_Manning.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {

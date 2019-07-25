@@ -2,11 +2,6 @@
 
 oob = "FIN_2010"
 
-add_ideas = {
-    nordic_economic_community
-}
-
-
 set_research_slots = 3
 set_convoys = 400
 set_stability = 0.7
@@ -45,43 +40,43 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 4
 		}
 		conservative = {
-			popularity = 14
-		}
-		centrist = {
-			popularity = 22
-		}
-		liberal = {
 			popularity = 24
 		}
+		centrist = {
+			popularity = 15
+		}
+		liberal = {
+			popularity = 22
+		}
 		social_democrat = {
-			popularity = 21
+			popularity = 22
 		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 10
 		}
-		radical_socialist = {
-			popularity = 0
+		libertarian_socialist = {
+			popularity = 3
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = conservative
 	last_election = "2007.3.18"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Jyrki Katainen"
-	desc = "POLITICS_JYRKI_KATAINEN_DESC"
-	picture = "Portrait_FIN_Jyrki_Katainen.tga"
+	name = "Bjarne Kallis"
+	desc = ""
+	picture = "Portrait_FIN_Kallis_Bjarne.tga"
 	expire = "2050.1.1"
-	ideology = classical_liberal
+	ideology = christian_democrat
 	traits = {
 		#
 	}

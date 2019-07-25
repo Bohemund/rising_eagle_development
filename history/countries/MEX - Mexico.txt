@@ -2,13 +2,6 @@
 
 oob = "MEX_2010"
 
-add_ideas = {
-	MEX_the_drug_war
-	MEX_election_rigging_allegations
-	MEX_radicalization_of_the_right
-	MEX_substantial_american_influence
-}
-
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.6
@@ -69,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 3
 		}
 		communist = {
@@ -98,7 +91,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Roberto Madrazo"
-	desc = "POLITICS_MADRAZO_DESC"
+	desc = ""
 	picture = "Portrait_MEX_Roberto_Madrazo.tga"
 	expire = "2050.1.1"
 	ideology = centrist_populist

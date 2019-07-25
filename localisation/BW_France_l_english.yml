@@ -7,8 +7,8 @@
  FRA_monarchist_party_long:0 "House of Orleans"
  FRA_nationalist_party:0 "Movement for France"
  FRA_nationalist_party_long:0 "Movement for France"
- FRA_conservative_party:0 "Defence of the Republic"
- FRA_conservative_party_long:0 "Union for the Defence of the Republic"
+ FRA_conservative_party:0 "Rally for the Republic"
+ FRA_conservative_party_long:0 "Rally for the Republic"
  FRA_centrist_party:0 "Progressive Rally"
  FRA_centrist_party_long:0 "Progressive Rally"
  FRA_liberal_party:0 "Radical Party"
@@ -17,12 +17,7 @@
  FRA_social_democrat_party_long:0 "Socialist Party"
  FRA_democratic_socialist_party:0 "Communist Party - R"
  FRA_democratic_socialist_party_long:0 "Communist Party - Reformists"
- FRA_radical_socialist_party:0 "Confederation of Labour"
- FRA_radical_socialist_party_long:0 "General Confederation of Labour"
+ FRA_libertarian_socialist_party:0 "Confederation of Labour"
+ FRA_libertarian_socialist_party_long:0 "General Confederation of Labour"
  FRA_communist_party:0 "Communist Party - EU"
  FRA_communist_party_long:0 "Communist Party - Eurocommunists"
-
- #IDEAS
-
- european_union:0 "European Union Member"
- european_union_desc:0 "This nation is a member of the European Union."

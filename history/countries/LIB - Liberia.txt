@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 10
+			popularity = 3
 		}
 		conservative = {
-			popularity = 22
+			popularity = 39
 		}
 		centrist = {
-			popularity = 0
+			popularity = 19
 		}
 		liberal = {
-			popularity = 0
+			popularity = 21
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 18
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
-			popularity = 60
+		libertarian_socialist = {
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = radical_socialist
+	ruling_party = conservative
 	last_election = "2005.11.8"
 	election_frequency = 96
 	elections_allowed = no
@@ -82,17 +82,6 @@ create_country_leader = {
 	picture = "Portrait_LIB_Ellen_Johnson_Sirleaf.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Togba-Nah Tipoteh"
-	desc = "POLITICS_EDWIN_BARCLAY_DESC"
-	picture = "Portrait_LIB_Togba_Nah_Tipoteh.tga"
-	expire = "2050.1.1"
-	ideology = african_socialist
 	traits = {
 		#
 	}

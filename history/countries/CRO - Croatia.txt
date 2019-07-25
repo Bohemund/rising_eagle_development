@@ -57,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 25
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = "ANTE_PAVELIC_DESC"
 	picture = "Portrait_CRO_Stjepan_Mesic.tga"
 	expire = "2050.1.1"
-	ideology = centrist_populist
+	ideology = agrarian_populist
 	traits = {
 		#
 	}

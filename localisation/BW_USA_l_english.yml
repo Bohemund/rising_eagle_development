@@ -17,15 +17,7 @@
  USA_social_democrat_party_long:0 "Democratic Party - Progressive Caucus"
  USA_democratic_socialist_party:0 "Progressive Party"
  USA_democratic_socialist_party_long:0 "Vermont Progressive Party"
- USA_radical_socialist_party:0 "IWW"
- USA_radical_socialist_party_long:0 "Industrial Workers of the World"
+ USA_libertarian_socialist_party:0 "IWW"
+ USA_libertarian_socialist_party_long:0 "Industrial Workers of the World"
  USA_communist_party:0 "Communist Party USA"
  USA_communist_party_long:0 "Communist Party of the United States of America"
-
-### Events
-USA.1.t:0 "Bernie Sanders Elected President"
-USA.1.d:0 "Senator from Vermont and self-described democratic socialist Bernie Sanders has been elected as the 46th President of the United States of America in a stunning culmination of an explosive and populist campaign that took relentless aim at the institutions and long-held ideals of American democracy. After the tragic and untimely death of President Baldwin fresh elections were called by acting President Jeff Sessions, Senator Sanders announced his candidacy for President and the formation of his new party, the “American Labor Party”, in a move that shocked the American political establishment. The suprise outcome of the election has shocked both the Democrats and the Republicans. Senator Sanders’ campaign managed to become a viable alternative to the two-party system, managing a rapidly growing grassroots movement. His victory is mostly attributed to the youth, liberal and mostly ignored blue-collar worker vote who felt that the American Dream had been betrayed amid decades of globalization and income inequality. His victory in 2010 could spell the death of the two-party system and the American political establishment, replaced by a more democratic system.
-USA.1.a:0 "Hail to the Chief!"
-
- #LEADERS
- POLITICS_CHUCK_BALDWIN_DESC:0 "Chuck Baldwin’s journey from pastor to President is one of the most famous stories in modern America. He founded the Crossroads Baptist Church in Florida and was inspired by Ronald Reagan to enter politics, which he did when he won a congressional seat in 1994. His support for and close friendship with President Pat Robertson helped elevate him to the national stage where he became known as an advocate for conservatism, small government and patriotism. Robertson was succeeded by President John McCain, who Baldwin came to oppose due to McCain’s initiatives to deregulate international trade and the NATO expansion eastwards following the fall of the Soviet Union. At the end of McCain’s term Baldwin emerged as a dark-horse candidate in the Republican primaries. He won the Iowa Caucus in an upset and continued strong straight to the convention, where he secured his nomination. Together with his friend and running mate Darrell Castle he defeated the Democratic nominee Joe Lieberman in a landslide. His win was followed by Republican victories in both the House and Senate, which had been dominated by the Democrats for nearly twenty years. Despite this majority Baldwin has not been able to push through many reforms, as his policies deeply contrast the Republican establishment."

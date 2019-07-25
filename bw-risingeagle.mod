@@ -1,4 +1,4 @@
-﻿name="Blue World: Rising Eagle"
+﻿name="Blue World: The Rising Eagle"
 path="mod/bw-risingeagle/"
 tags={
 	"Alternative History"

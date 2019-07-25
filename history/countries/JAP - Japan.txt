@@ -32,6 +32,11 @@ set_technology = {
 
 set_convoys = 400
 
+
+
+
+
+
 set_politics = {
 
 	parties = {
@@ -59,7 +64,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 11
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 2
 		}
 		communist = {
@@ -130,7 +135,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_JAP_Tetzo_fuwa.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = libertarian_socialist_ideology
 	traits = {
 	}
 }
