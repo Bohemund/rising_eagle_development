@@ -1,12 +1,12 @@
 ﻿l_english:
  
  #PARTIES
- CAN_ultranationalist_party:0 "Canada First"
- CAN_ultranationalist_party_long:0 "Canada First"
+ CAN_ultranationalist_party:0 "Action Party"
+ CAN_ultranationalist_party_long:0 "Canadian Action Party"
  CAN_monarchist_party:0 "Governor-General"
  CAN_monarchist_party_long:0 "Governor-General"
- CAN_nationalist_party:0 "United Canada"
- CAN_nationalist_party_long:0 "United Canada"
+ CAN_nationalist_party:0 "Reform Party"
+ CAN_nationalist_party_long:0 "Reform Party"
  CAN_conservative_party:0 "Progressive Conservatives"
  CAN_conservative_party_long:0 "Progressive Conservative Party of Canada"
  CAN_centrist_party:0 "Libertarian Party"
@@ -17,7 +17,7 @@
  CAN_social_democrat_party_long:0 "New Democratic Party"
  CAN_democratic_socialist_party:0 "Green Party"
  CAN_democratic_socialist_party_long:0 "Green Party"
- CAN_libertarian_socialist_party:0 "New Democratic Party"
- CAN_libertarian_socialist_party_long:0 "New Democratic Party (Socialist Caucus)"
+ CAN_radical_socialist_party:0 "Socialist Labor"
+ CAN_radical_socialist_party_long:0 "Socialist Labor Party"
  CAN_communist_party:0 "Communist Party"
  CAN_communist_party_long:0 "Communist Party of Canada"

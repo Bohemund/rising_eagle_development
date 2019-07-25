@@ -1,5 +1,11 @@
 ﻿capital = 9
 
+oob = "CZE_2010"
+
+add_ideas = {
+    european_union
+}
+
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.5
@@ -37,45 +43,45 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
+			popularity = 11
 		}
 		conservative = {
-			popularity = 15
+			popularity = 17
 		}
 		centrist = {
-			popularity = 20
+			popularity = 35
 		}
 		liberal = {
-			popularity = 6
-		}
-		social_democrat = {
-			popularity = 27
-		}
-		democratic_socialist = {
 			popularity = 4
 		}
-		libertarian_socialist = {
-			popularity = 0
+		social_democrat = {
+			popularity = 16
+		}
+		democratic_socialist = {
+			popularity = 9
+		}
+		radical_socialist = {
+			popularity = 2
 		}
 		communist = {
-			popularity = 22
+			popularity = 6
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2006.6.3"
 	election_frequency = 60
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Václav Klaus"
+	name = "Václav Klaus Jr."
 	desc = "POLITICS_EDVARD_BENES_DESC"
 	picture = "Portrait_CZE_Vaclav_Klaus.tga"
 	expire = "2050.1.1"
@@ -86,12 +92,33 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Miloš Zeman"
+	name = "Jan Veleba"
 	desc = "POLITICS_EDVARD_BENES_DESC"
-	picture = "Portrait_CZE_Milos_Zeman.tga"
+	picture = "Portrait_CZE_Jan_Veleba.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Miloš Zeman"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "Portrait_CZE_Milos_Zeman.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jaroslav I."
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = ""
+	expire = "2050.1.1"
+	ideology = monarchist_ideology
+	traits = {
+		#
+	}

@@ -77,19 +77,7 @@ bookmarks = {
 				
 			}		
 		}
-		"TUR"={
-			minor = yes
-			history = TUR_RISING_EAGLE_DESC"
-			ideology = centrist
-			ideas={
-                TUR_unstable_coalition
-                TUR_unpredictable_economy
-                TUR_interventionist_military
-                TUR_patriotic_society
-			}	
-			focuses = {
-
-			}			
+	
 		}
 	}
 }

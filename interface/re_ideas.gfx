@@ -1,0 +1,154 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_SOU_military_power"
+		texturefile = "gfx/interface/ideas/SOU_military_power.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_SOU_emerging_industry"
+		texturefile = "gfx/interface/ideas/SOU_emerging_industry.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_SOU_corrupt_society"
+		texturefile = "gfx/interface/ideas/SOU_corrupt_society.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_SOU_linguistic_divide"
+		texturefile = "gfx/interface/ideas/SOU_linguistic_divide.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_coalition_system"
+		texturefile = "gfx/interface/ideas/Grand_coalition_idea.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_broken"
+		texturefile = "gfx/interface/ideas/newchina_flag.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_legacy_of_Maoism"
+		texturefile = "gfx/interface/ideas/CHI_legacy_of_mao.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_idea_CHI_growing_economy"
+		texturefile = "gfx/interface/ideas/five_areas_of_progress.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_JAP_emperorakihito"
+		texturefile = "gfx/interface/ideas/Akihito.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_JAP_anti_american_stance"
+		texturefile = "gfx/interface/ideas/americanmeds.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_JAP_rising_ultnationalism"
+		texturefile = "gfx/interface/ideas/Japnat.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_idea_JAP_stuckcoalition"
+		texturefile = "gfx/interface/ideas/TUR_unstable_coalition.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_idea_queen_elizabeth_ii"
+		texturefile = "gfx/interface/ideas/queen_elizabeth_ii.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_idea_rama_ix"
+		texturefile = "gfx/interface/ideas/rama_ix.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_idea_carl_xvi_gustaf"
+		texturefile = "gfx/interface/ideas/carl_xvi_gustaf.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_nordic_economic_community"
+		texturefile = "gfx/interface/ideas/nordic_economic_community.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_north_atlantic_treaty_organization"
+		texturefile = "gfx/interface/ideas/north_atlantic_treaty_organization.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_european_union"
+		texturefile = "gfx/interface/ideas/european_union.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_unstable_coalition"
+		texturefile = "gfx/interface/ideas/TUR_unstable_coalition.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_unpredictable_economy"
+		texturefile = "gfx/interface/ideas/TUR_unpredictable_economy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_interventionist_military"
+		texturefile = "gfx/interface/ideas/TUR_interventionist_military.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_TUR_patriotic_society"
+		texturefile = "gfx/interface/ideas/TUR_patriotic_society.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_ingolf"
+		texturefile = "gfx/interface/ideas/ingolf.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_harald_v"
+		texturefile = "gfx/interface/ideas/harald_v.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_the_drug_war"
+		texturefile = "gfx/interface/ideas/MEX_the_drug_war.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_radicalization_of_the_right"
+		texturefile = "gfx/interface/ideas/MEX_radicalization_of_the_right.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_election_rigging_allegations"
+		texturefile = "gfx/interface/ideas/MEX_election_rigging_allegations.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_MEX_substantial_american_influence"
+		texturefile = "gfx/interface/ideas/MEX_substantial_american_influence.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_milanese_recession"
+		texturefile = "gfx/interface/ideas/ITA_milanese_recession.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_drift_towards_radicalism"
+		texturefile = "gfx/interface/ideas/ITA_radical_drift.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
+		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
+	}
+}

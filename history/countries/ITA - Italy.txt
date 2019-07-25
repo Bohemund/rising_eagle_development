@@ -2,6 +2,12 @@
 
 oob = "ITA_2010"
 
+add_ideas = {
+    european_union
+    milanese_recession
+	drift_towards_radicalism
+}
+
 set_research_slots = 4
 set_convoys = 80
 set_stability = 0.4
@@ -30,43 +36,38 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-add_ideas = {
-	idea_milanese_recession
-	idea_drift_towards_radicalism
-}
-
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 12
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 0
 		}
 		conservative = {
-			popularity = 23
-		}
-		centrist = {
-			popularity = 7
-		}
-		liberal = {
 			popularity = 11
 		}
+		centrist = {
+			popularity = 23
+		}
+		liberal = {
+			popularity = 6
+		}
 		social_democrat = {
-			popularity = 10
+			popularity = 12
 		}
 		democratic_socialist = {
-			popularity = 29
+			popularity = 26
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 8
+			popularity = 10
 		}
 	}
 	
@@ -77,22 +78,33 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Oliviero Diliberto"
+	name = "Luca Romagnoli "
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Oliviero_Diliberto.tga"
+	picture = "Portrait_ITA_Luca_Romagnoli.tga"
 	expire = "2050.1.1"
-	ideology = marxist
+	ideology = fascist
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Viola Carofalo"
+	name = "Pier Ferdinando Casini"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Viola_Carofalo.tga"
+	picture = "Portrait_ITA_Pier_Ferdinando_Casini.tga"
 	expire = "2050.1.1"
-	ideology = communalist
+	ideology = centrist_populist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Matteo Renzi"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Matteo_Renzi.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
 	traits = {
 		
 	}
@@ -110,77 +122,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Riccardo Nencini"
+	name = "Fausto Bertinotti"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Riccardo_Necini.tga"
+	picture = "Portrait_ITA_Fausto_Bertinotti.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Denis Verdini"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Denis_Verdini.tga"
-	expire = "2050.1.1"
-	ideology = social_liberal
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Silvio Berlusconi"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Silvio_Berlisconi.tga"
-	expire = "2050.1.1"
-	ideology = right_libertarian
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Giorgia Meloni"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Giorgia_Meloni.tga"
-	expire = "2050.1.1"
-	ideology = european_conservative
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Giancarlo Giorgetti"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Giancarlo_Giorgetti.tga"
-	expire = "2050.1.1"
-	ideology = authoritarian_democrat
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Vittorio Emanuele IV"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Vittorio_Emanuele.tga"
-	expire = "2050.1.1"
-	ideology = parliamentary_consitutional_monarchy
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Simon Di Stefano"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Simon_Stefano.tga"
-	expire = "2050.1.1"
-	ideology = national_socialist
+	ideology = eurocommunist
 	traits = {
 		
 	}

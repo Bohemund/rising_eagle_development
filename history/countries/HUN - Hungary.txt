@@ -2,6 +2,10 @@
 
 oob = "HUN_2010"
 
+add_ideas = {
+    european_union
+}
+
 set_research_slots = 4
 set_convoys = 0
 set_stability = 0.7
@@ -28,34 +32,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 13
 		}
 		conservative = {
 			popularity = 33
 		}
 		centrist = {
-			popularity = 6
+			popularity = 15
 		}
 		liberal = {
-			popularity = 16
+			popularity = 7
 		}
 		social_democrat = {
-			popularity = 25
+			popularity = 2
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 25
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 2
 		}
 	}
 	

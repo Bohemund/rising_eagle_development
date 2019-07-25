@@ -2,6 +2,10 @@
 
 oob = "CYP_2010"
 
+add_ideas = {
+    #
+}
+
 set_research_slots = 3
 set_convoys = 50
 set_stability = 0.6
@@ -39,41 +43,63 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 6
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 14
+			popularity = 15
 		}
 		conservative = {
-			popularity = 5
+			popularity = 29
 		}
 		centrist = {
-			popularity = 9
+			popularity = 12
 		}
 		liberal = {
-			popularity = 11
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 12
+			popularity = 24
 		}
 		democratic_socialist = {
 			popularity = 3
 		}
-		libertarian_socialist = {
-			popularity = 23
+		radical_socialist = {
+			popularity = 4
 		}
 		communist = {
-			popularity = 2
+			popularity = 10
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = conservative
 	last_election = "2006.5.21"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Averof Neofytou"
+	desc = ""
+	picture = "Portrait_CYP_Averof_Neofytou.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tufan Erhürman"
+	desc = ""
+	picture = "Portrait_CYP_Tufan_Erhurman.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -81,7 +107,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_CYP_Izzet_Izcan.tga"
 	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
+	ideology = radical_socialist_ideology
 	traits = {
 		#
 	}

@@ -1,0 +1,167 @@
+ideas = {
+
+	second_in_command = {
+
+		RUS_boris_nemtsov = {
+
+			picture = RUS_boris_nemtsov
+			
+			allowed = {
+				original_tag = RUS
+			}
+			
+			available = {
+			    OR = {
+					has_government = centrist
+					has_government = liberal
+				} 
+			}
+
+			traits = { naive_optimist }
+		}
+
+		RUS_dmitry_medvedev = {
+
+			picture = RUS_dmitry_medvedev
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+			        has_government = conservative
+					has_government = centrist
+				} 
+			}
+			
+			traits = { silent_workhorse }
+		}
+	}
+
+	foreign_minister = {
+
+		RUS_alexei_kudrin = {
+
+			picture = RUS_alexei_kudrin
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+					has_government = centrist
+					has_government = liberal
+				} 
+			}
+			
+			traits = { great_compromiser }
+		}
+	}
+
+	industry_minister = {
+
+		RUS_mikhail_prokhorov = {
+
+			picture = RUS_mikhail_prokhorov
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+			        has_government = conservative
+					has_government = centrist
+				} 
+			}
+			
+			traits = { resource_industrialist }
+		}
+
+		RUS_boris_titov = {
+
+			picture = RUS_boris_titov
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+					has_government = centrist
+					has_government = liberal
+				} 
+			}
+			
+			traits = { libertarian_capitalist }
+		}
+	}
+
+	interior_minister = {
+
+		RUS_alexei_navalny = {
+
+			picture = RUS_alexei_navalny
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+			        has_government = nationalist
+					has_government = centrist
+					has_government = liberal
+				} 
+			}
+			
+			traits = { isolationist }
+		}
+
+		RUS_viktor_zubkov = {
+
+			picture = RUS_viktor_zubkov
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+			        has_government = conservative
+					has_government = centrist
+				} 
+			}
+			
+			traits = { compassionate_gentleman }
+		}
+	}
+
+	intelligence_minister = {
+
+		RUS_nikolai_patrushev = {
+
+			picture = RUS_nikolai_patrushev
+			
+			allowed = {
+				original_tag = RUS
+			}
+
+			available = {
+			    OR = {
+			        has_government = nationalist
+			        has_government = conservative
+					has_government = centrist
+					has_government = liberal
+					has_government = social_democrat
+					has_government = democratic_socialist
+					has_government = communist
+				} 
+			}
+			
+			traits = { intelligence_director }
+		}
+	}
+}

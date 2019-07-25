@@ -2,6 +2,10 @@
 
 oob = "HOL_2010"
 
+add_ideas = {
+    european_union
+}
+
 set_research_slots = 4
 set_convoys = 100
 set_stability = 0.8
@@ -35,13 +39,13 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 9
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 4
+			popularity = 13
 		}
 		conservative = {
 			popularity = 17
@@ -58,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 13
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 4
 		}
 		communist = {
@@ -70,6 +74,17 @@ set_politics = {
 	last_election = "2006.11.22"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Geert Wilders"
+	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
+	picture = "Portrait_HOL_Geert_Wilders.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

@@ -28,30 +28,30 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 15
+			popularity = 18
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		conservative = {
-			popularity = 7
-		}
-		centrist = {
 			popularity = 25
 		}
+		centrist = {
+			popularity = 30
+		}
 		liberal = {
-			popularity = 6
+			popularity = 8
 		}
 		social_democrat = {
-			popularity = 30
+			popularity = 5
 		}
 		democratic_socialist = {
 			popularity = 12
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -59,7 +59,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
@@ -99,22 +99,22 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Romero Jucá"
+	name = "Michel Temer"
 	desc = "POLITICS_GETULIO_VARGAS_DESC"
-	picture = "Portrait_BRA_Romero_Juca.tga"
+	picture = "Portrait_BRA_Michel_Temer.tga"
 	expire = "2050.1.1"
-	ideology = social_liberal
+	ideology = centrist_populist
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Michel Temer"
+	name = "Romero Jucá"
 	desc = "POLITICS_GETULIO_VARGAS_DESC"
-	picture = "Portrait_BRA_Michel_Temer.tga"
+	picture = "Portrait_BRA_Romero_Juca.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
+	ideology = social_liberal
 	traits = {
 		#
 	}

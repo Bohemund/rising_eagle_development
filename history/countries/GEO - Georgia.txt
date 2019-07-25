@@ -44,13 +44,13 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 4
+			popularity = 14
 		}
 		centrist = {
-			popularity = 0
+			popularity = 8
 		}
 		liberal = {
-			popularity = 0
+			popularity = 4
 		}
 		social_democrat = {
 			popularity = 0
@@ -58,11 +58,11 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 8
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 14
+			popularity = 0
 		}
 	}
 	
@@ -77,7 +77,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GEO_Vladimer_Chachibaia.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		#
 	}

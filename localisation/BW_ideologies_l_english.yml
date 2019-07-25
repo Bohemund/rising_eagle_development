@@ -24,22 +24,22 @@
  democratic_socialist:0 "Democratic Socialist"
  democratic_socialist_noun:0 "Democratic Socialism"
  democratic_socialist_desc:0 "Democratic Socialist Government"
- libertarian_socialist:0 "Libertarian Socialist"
- libertarian_socialist_noun:0 "Libertarian Socialism"
- libertarian_socialist_desc:0 "Libertarian Socialist Regime"
+ radical_socialist:0 "Radical Socialist"
+ radical_socialist_noun:0 "Radical Socialism"
+ radical_socialist_desc:0 "Radical Socialist Regime"
  communist:0 "Communist"
  communist_noun:0 "Communism"
  communist_desc:0 "Communist Regime"
 
- #SUBIDEOLOGIES (that are done)
+ #SUBIDEOLOGIES
 
  #ULTRANATIONALISM
  ultranationalist_ideology:0 "Ultranationalism"
  ultranationalist_ideology_desc:0 "Ultranationalism is the most extreme side of nationalism, essentially believing the nation state's strength and health is more important than anyone residing within it."
  national_socialist:0 "National Socialism"
  national_socialist_desc:0 "National Socialism is the ideology and practice characterised as a form of fascism that incorporates scientific racism and antisemitism. It subscribes to theories of racial heirarchy, supposedly aiming to overcome social divisions and create a society unified on the basis of racial purity."
- fascist_ideology:0 "Fascism"
- fascist_ideology_desc:0 "Fascism is a form of radical authoritarian nationalism, believing that liberal democracy is obsolete and regarding the complete mobilisation of society under a totalitarian state as necessary to prepare a nation for armed conflict."
+ fascist:0 "Fascism"
+ fascist_desc:0 "Fascism is a form of radical authoritarian nationalism, believing that liberal democracy is obsolete and regarding the complete mobilisation of society under a totalitarian state as necessary to prepare a nation for armed conflict."
  falangist:0 "Falangism"
  falangist_desc:0 "Falangism places a strong emphasis on Catholic religious identity, emphasising the need for authority, heirarchy and order in society. Falangism is anti-communist, anti-capitalist, anti-democratic and anti-liberal."
  rexist:0 "Rexism"
@@ -48,16 +48,34 @@
  baathist_desc:0 "Ba'athism is an Arab nationalist ideology that promotes the development and creation of a unified Arab state through the leadership of a vanguard party presiding over a progressive revolutionary government. Ba'athism supports socialist economics to a varying degree and supports public ownership over the heights of the economy."
  mexican_synarchist:0 "Mexican Synarchism"
  mexican_synarchist_desc:0 "Mexican Synarchism is a political movement of the Catholic extreme right, in ways similar to Clerical Fascism and Falangism. The ideology developed in opposition to the secular policies following the Mexican Revolution and the Cristero War. It has seen a revival following the end of the Cold War and the continued dominance of the Institutional Revolutionary Party."
+ revolutionary_islamist:0 "Revolutionary Islamism"
+ revolutionary_islamist_desc:0 "Revolutionary Islamism is the most radical form of Islamism born out of the 1979 Islamic Revolution. In contrast to the more widespread Islamic Democrat thought, Revolutionary Islamism is much more radical, seeking power through populism and revolution. The ideology advocates subordinating the state and the economy to Islamic clerics and is fiercely opposed to Western culture and America in particular."
+ mobutist:0 "Mobutism"
+ mobutist_desc:0 "Mobutism is the official state ideology of the Republic of Zaire. Mobutism encompasses and glorifies the thoughts, visions, and policies of Zairian president and self-proclaimed Father of the Nation, Mobutu Sese Seko. The ideology calls for the repudiation of both capitalism and communism and favours national revolution."
+ third_international_theory:0 "Third International Theory"
+ third_international_theory_desc:0 "The Third International Theory was the style of government that Muammar Gaddafi advocated during his rule of the Great Socialist People's Libyan Arab Jamahiriya and the Arab Islamic Republic. The ideology was partly inspired by Islamic socialism, Arab nationalism, African nationalism and partly by the principles of direct democracy. It was proposed by Gaddafi as an alternative to capitalism and communism for Third World countries, based on the stated belief that both of these ideologies had been proven invalid."
 
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"
  absolute_monarchist_desc:0 "Absolute monarchy is a form of monarchy in which one ruler has supreme authority that is not restricted by any written laws, legislature or customs."
+ carlist:0 "Carlism"
+ carlist_desc:0 "Carlism is a traditionalist and legitimist political movement that seeks to take the Spanish throne for a line of the Bourbon dynasty descended from Don Carlos, Count of Molina. Carlism advocates self-management socialism, federalism and the establishment of democratic party of the masses which aspired to a socialist-based monarchy in a pact between the dynasty and the people."
 
  #NATIONALISM
  nationalist_ideology:0 "Nationalism"
  nationalist_ideology_desc:0 "Nationalism is oriented towards gaining and maintaining self-governance, or full sovereignty. It holds that a nation should govern itself, free from unwanted outside interference, and is linked to the concept of self-determination."
+ national_conservative:0 "National Conservatism"
+ national_conservative_desc:0 "National conservatism is a variant of conservatism that concentrates on national interests and upholding cultural or ethnic identity. National conservatives support the traditional family, social stability, as well as limiting immigration and enacting law-and-order policies."
  military_junta:0 "Military Junta"
  military_junta_desc:0 "A military junta is a government led by a committee of military leaders."
+ lebanese_nationalist:0 "Lebanese Nationalism"
+ lebanese_nationalist_desc:0 "Lebanese nationalism an ideology that considers the Lebanese people and Maronite Catholics in particular to be direct descendants of the Phoenician people. It asserts that Lebanon is a distinct nation, independent from the Arab world. The ideology is strongly opposed to Pan-Arabism, Arab nationalism and communism."
+ african_nationalist:0 "African Nationalism"
+ african_nationalist_desc:0 "African nationalism refers to a group of political ideologies, mainly within Sub-Saharan Africa, which are based on the idea of national self-determination and the creation of African nation states."
+ fujimorist:0 "Fujimorism"
+ fujimorist_desc:0 "Fujimorism denotes the policies and the political ideology of former President of Peru Alberto Fujimori as well as the personality cult built around him, his policies and his family. The ideology is defined by its support for social conservatism and free market economics, as well as its opposition to both the far-left and far-right."
+ peronist:0 "Peronism"
+ peronist_desc:0 "Peronism is an Argentine political movement based on the political ideology and legacy of former President Juan Domingo Perón and his wife Isabel Martínez de Perón. The pillars of the Peronist ideal, known as the "three flags", are social justice, economic independence and political sovereignty. Peronism espouses corporatism and thus aims to mediate tensions between the classes of society, with the state responsible for negotiating compromise in conflicts between managers and workers."
 
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
@@ -68,6 +86,12 @@
  fiscal_conservative_desc:0 "Fiscal conservatism is the least radical and more specific varieties of conservatism. It is a political-economic philosophy regarding fiscal policy and fiscal responsibility advocating low taxes, reduced government spending and minimal government debt."
  agrarian_conservative:0 "Agrarian Conservatism"
  agrarian_conservative_desc:0 "Agrarian conservatism is a conservative ideology based on support for rural families and Christian values in agrarian society."
+ american_conservative:0 "American Conservatism"
+ american_conservative_desc:0 "American conservatism is a broad system of political beliefs that is characterised by respect for American traditions, support for Christian values, economic liberalism, anti-Communism and a defense of Western culture against Communism, Islamism and any other ideology that threatens it."
+ social_conservative:0 "Social Conservatism"
+ social_conservative_desc:0 "Social conservatism encompasses a range of what may be thought of as reactionary positions on social issues. The ideology is generally skeptical of social change, and believes in maintaining the status quo concerning social issues such as family life, sexual relations, and patriotism."
+ reactionary:0 "Reactionary"
+ reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
 
  #CENTRISM
  centrist_ideology:0 "Centrism"
@@ -82,10 +106,10 @@
  #LIBERALISM
  social_liberal:0 "Social Liberalism"
  social_liberal_desc:0 "Social liberalism is an ideology that believes individual liberty requires a level of social justice. Like classical liberalism, social liberalism endorses a market economy and the expansion of civil and political rights and liberties."
- radical:0 "Radicalism"
- radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism. Now it is a progressive liberal ideology."
  american_democrat:0 "American Democrat"
  american_democrat_desc:0 "American Democrats are supporters of the Democratic Party. The Democratic Party's advocates liberalism, social and economic equality, along with support for the welfare state. It seeks to provide government intervention and regulation in the economy."
+ classical_liberal:0 "Classical Liberal"
+ classical_liberal_desc:0 "Classical liberalism is a political ideology which advocates civil liberties under the rule of law with an emphasis on economic freedom."
 
  #SOCIAL DEMOCRACY
  social_democrat_ideology:0 "Social Democracy"
@@ -94,24 +118,32 @@
  progressive_desc:0 "Progressivism is a philosophy based on the idea of progress, which asserts that advancements in science, technology, economic development and social organisation are vital to the human condition."
  pancasila:0 "Pancasila"
  pancasila_desc:0 "Pancasila is the official, foundational philosophical theory of the Indonesian state. It is vaguely related to socialism, nationalism and is exclusively Indonesian in nature. The philosophy is composed of five principles and contends that they are inseparable and interrelated: Monotheism, a just and civilized humanity, a unified Indonesia, Democracy and Social Justice."
- kemalist:0 "kemalism"
+ kemalist:0 "Kemalism"
  kemalist_desc:0 "Kemalism is the founding ideology of the Republic of Turkey. Based on the thoughts of Mustafa Kemal Atatürk who implemented sweeping political, social, cultural and religious reforms in order to modernize and westernize Turkey. It advocates democracy, laicism, support for sciences and education and the total political independence of Turkey."
+ radical:0 "Radicalism"
+ radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism."
 
  #DEMOCRATIC SOCIALISM
  democratic_socialist:0 "Democratic Socialism"
  democratic_socialist_desc:0 "Democratic socialism is an ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system."
  nasserist:0 "Nasserism"
  nasserist_desc:0 "Nasserism is an Arab nationalist and pan-Arabist ideology with vaguely defined socialism. Though mindful of the Islamic and Christian heritage of the Arab world, Nasserism is a largely secular ideology. Nasserists espouse an end to American interference in Arab affairs, developing world solidarity, international non-alignment, modernisation and industrialisation."
+ islamic_socialism:0 "Islamic Socialism"
+ islamic_socialism_desc:0 "Islamic socialism is a term coined by various Muslim leaders to describe a more spiritual form of socialism. Muslim socialists believe that the teachings of the Qur'an and Muhammad are compatible with the principles of economic and social equality."
 
- #LIBERTARIAN SOCIALISM
+ #RADICAL SOCIALISM
  syndicalist:0 "Syndicalism"
  syndicalist_desc:0 "Syndicalists advocate for multiple cooperative productive units composed of specialists and representatives of workers in each field to negotiate and manage the economy. Labour unions are the potential means of both overcoming economic aristocracy and running society in the interest of informed and skilled majorities, through union democracy."
- neozapatist:0 "Neozapatism"
- neozapatist_desc:0 "Neozapatism is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
- christian_socialist:0 "Christian Socialism"
- christian_socialist_desc:0 "Christian socialism is a form of religious socialism, which followers believe to be based on the teachings of Jesus of Nazareth. Many Christian socialists believe capitalism to be idolatrous and rooted in greed, which is considered a mortal sin. Christian socialists identify the cause of inequality to be the greed that they associate with capitalism."
+ neozapatismo:0 "Neozapatismo"
+ neozapatismo_desc:0 "Neozapatismo is a Mexican ideology based on anarchism, Mayan tradition, Marxism and the thoughts of Emiliano Zapata. It is believed to be derived largely from libertarian socialism, social anarchism, anarcho-communism and direct democracy."
+ christian_communist:0 "Christian Communism"
+ christian_communist_desc:0 "Christian communism is a theological and political theory based upon the view that the teachings of Jesus Christ compel Christians to support communism as the ideal social system. Many Christian communists assert that evidence from the Bible suggests the first Christians, including the Apostles, established their own small communist society in the years following Jesus' death and resurrection."
  bolivarianist:0 "Bolivarianism"
  bolivarianist_desc:0 "Bolivarianism is an ideology that mixes pan-American, socialist and national-patriotic ideals fixed against injustices of imperialism, inequality and corruption named after Simón Bolívar, who led the struggle for independence throughout much of South America. It is a left-wing political ideology that combines elements of socialism, populism, patriotism and Caribbean and Latin American integration."
+ luxemburgist:0 "Luxemburgism"
+ luxemburgist_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
+ buddhist_socialist:0 "Buddhist Socialism"
+ buddhist_socialist_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
 
  #COMMUNISM
  marxist:0 "Marxism"
@@ -126,35 +158,9 @@
  maoist_desc:0 "Maoism claims that peasants should be the essential revolutionary class, because, contrary to their industrial working comrades, they were more suited to establishing a successful revolution and socialist society."
  titoism:0 "Titoism"
  titoism_desc:0 "Elements of Titoism are characterised by policies and practices based on the principle that in each country, the means of attaining ultimate communist goals must be dictated by the conditions of that particular country, rather than a pattern set in another country. Some of Tito's policies also included self-management."
- christian_communist:0 "Christian Communism"
- christian_communist_desc:0 "Christian communism is a theological and political theory based upon the view that the teachings of Jesus Christ compel Christians to support communism as the ideal social system. Many Christian communists assert that evidence from the Bible suggests the first Christians, including the Apostles, established their own small communist society in the years following Jesus' death and resurrection."
+ eurocommunist:0 "Eurocommunism"
+ eurocommunist_desc:0 "Eurocommunism is a revisionist trend within various Western European communist parties, which say they have developed a theory and practice of social transformation more relevant for Western Europe. Eurocommunist parties support democratic institutions, public sector middle-class workers and greater independence for their respective countries."
 
- #subideologies that aren't done and aren't sorted (remove this line after all are done)
- imperial_japan_:0 "Imperial Japan"
- imperial_japan_desc:0 "The followers of Imperial Japan espouse both nationalist, monarchist and jingoist rhetoric, claiming total rule over East Asia and the divine right of their Emperor."
- american_nationalist:0 "American Nationalism"
- american_nationalist_desc:0 "American nationalism is the extreme side of patriotism for the United States."
- reactionary:0 "Reactionary"
- reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
- american_conservative:0 "American Conservatism"
- american_conservative_desc:0 "American conservatism is a broad system of political beliefs that is characterised by respect for American traditions, support for Christian values, economic liberalism, anti-Communism and a defense of Western culture against the communist world order."
- european_conservative:0 "European Conservatism"
- european_conservative_desc:0 "European conservatives wish for a return to the politics of the early cold war era, before the liberals took control of many governments."
- left_libertarian:0 "Left-Wing Libertarianism"
- left_libertarian_desc:0 "Left-Libertarianism names several related but distinct approaches to political theory, which stresses both individual freedom and social equality."
- european_moderate_socialist:0 "European Moderate Socialism"
- european_moderate_socialist_desc:0 "European moderate socialism is an ideology in opposition to the Soviet order and pre-Cold War ideologies. It aims to create a new socialist order within Europe."
- revolutionary_socialist_ideology:0 "Revolutionary Socialism"
- revolutionary_socialist_ideology_desc:0 "Revolutionary socialism is a radical far-left ideology that remains in opposition to the Soviet order and in general communism. Originating in the collapse of the United States, this form of socialism is a catch-all for ideologies ranging from those seeking maximum liberties for their citizens, to authoritarian systems. In general, most revolutionary socialists advocate for limited political freedoms, but there are exceptions throughout the world and in each country."
- luxemburgism:0 "Luxemburgism"
- luxemburgism_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
- anarcho_syndicalism:0 "Anarcho-Syndicalism"
- anarcho_syndicalism_desc:0 "Anarcho-Syndicalism's basic principles are solidarity, direct action and direct democracy or workers' self-management. Reflecting the anarchist philosophy from which it draws its primary inspiration, anarcho-syndicalism is centred around the idea that power corrupts and that any hierarchy which cannot be ethically justified must either be dismantled or replaced by decentralised egalitarian control."
- buddhist_socialism:0 "Buddhist Socialism"
- buddhist_socialism_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
- islamic_socialism:0 "Islamic Socialism"
- islamic_socialism_desc:0 "Islamic socialism is a term coined by various Muslim leaders to describe a more spiritual form of socialism. Muslim socialists believe that the teachings of the Qur'an and Muhammad are compatible with the principles of economic and social equality."
- 
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"
  nationalist_drift:0 "Drift to Nationalism"
@@ -164,5 +170,5 @@
  liberal_drift:0 "Drift to Liberalism"
  social_democrat_drift:0 "Drift to Social Democracy"
  democratic_socialist_drift:0 "Drift to Democratic Socialism"
- libertarian_socialist_drift:0 "Drift to Libertarian Socialism"
+ radical_socialist_drift:0 "Drift to Radical Socialism"
  communist_drift:0 "Drift to Communism"

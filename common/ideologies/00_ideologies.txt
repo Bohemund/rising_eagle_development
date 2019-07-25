@@ -15,9 +15,6 @@ ideologies = {
 			
 			falangist = {			
 			}
-			
-			national_bolshevik = {				
-			} 
 
 			eurasianist = {	
 			}
@@ -28,7 +25,7 @@ ideologies = {
 			integralist = {	
 			}
 
-			military_statist = {	
+			military_dictator = {	
 			}
 			
 			baathist = {	
@@ -38,6 +35,15 @@ ideologies = {
 			}
 
 			mexican_synarchist = {	
+			}
+
+			revolutionary_islamist = {	
+			}
+
+			mobutist = {	
+			}
+
+			third_international_theory = {	
 			}
 
 		}
@@ -51,7 +57,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 70 70 70 }
+		color = { 82 51 28 } # ORIGINAL RE COLOR 70 70 70
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -80,13 +86,7 @@ ideologies = {
 			absolute_monarchist = {
 			}
 
-			privy_council = {
-			}
-
-			trasitional_council = {
-			}
-
-			parliamentary_consitutional_monarchy = {
+			carlist = {
 			}
 	
 		}
@@ -133,9 +133,10 @@ ideologies = {
 			}
 
 			authoritarian_democrat = {
+
 			}
 
-			religious_traditionalist = {
+			african_nationalist = {
 			}
 
             national_conservative = {
@@ -144,9 +145,11 @@ ideologies = {
             military_junta = {
 			}
 
-            islamist = {
+			fujimorist = {
 			}
-			
+
+			peronist = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -184,13 +187,10 @@ ideologies = {
 			conservative_ideology = {
 			}
 
-			american_republican = {
+			american_conservative = {
 			}
 			
 			agrarian_conservative = {
-			}
-			
-			christian_democrat = {
 			}
 			
 			fiscal_conservative = {
@@ -199,7 +199,13 @@ ideologies = {
 			social_conservative = {
 			}
 
+			christian_democrat = {
+			}
+
 			islamic_democrat = {
+			}
+
+			reactionary = {
 			}
 			
 		}
@@ -213,7 +219,7 @@ ideologies = {
 			"FACTION_NAME_CONSERVATIVE_6"
 		}
 		
-		color = { 0 60 180 }
+		color = { 62 53 198 } # 0 60 180 ORIGINAL RE COLOR
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -251,12 +257,6 @@ ideologies = {
 			market_liberal = {
 			}
 
-			agrarian_populist = {
-			}
-
-			liberal_conservative = {
-			}
-			
 		}
 		
 		dynamic_faction_names = {
@@ -296,14 +296,13 @@ ideologies = {
 		
 			social_liberal = {
 			}
-			
-			radical = {
+
+			classical_liberal = {
 			}
 			
 			american_democrat = {
 			}
-			
-			
+				
 		}
 		
 		dynamic_faction_names = {
@@ -348,6 +347,9 @@ ideologies = {
 			}
 
 			kemalist = {
+			}
+
+			radical = {
 			}
 
 		}
@@ -395,6 +397,9 @@ ideologies = {
 
 			nasserist = {
 			}
+
+			islamic_socialism = {
+			}
 			
 		}
 		
@@ -426,20 +431,17 @@ ideologies = {
 		
 	}
 
-	libertarian_socialist = {
+	radical_socialist = {
 		
 		types = {
 		
-			libertarian_socialist_ideology = {
-			}
-
-			luxemburgist = {
+			radical_socialist_ideology = {
 			}
 			
 			syndicalist = {
 			}
-			
-			anarcho_syndicalist = {
+
+			luxemburgist = {
 			}
 
 			communalist = {
@@ -448,16 +450,19 @@ ideologies = {
 			anarcho_communist = {
 			}
 
-			christian_socialist = {
+			christian_communist = {
 			}
 
-			democratic_confederalist = {
+			buddhist_socialist = {
 			}
 
-			neozapatist = {
+			neozapatismo = {
 			}
 
 			bolivarianist = {
+			}
+
+			african_socialist = {
 			}
 			
 		}
@@ -514,8 +519,8 @@ ideologies = {
 
 			titoist = {
 			}
-			
-			christian_communist = {
+
+			eurocommunist = {
 			}
 			
 		}

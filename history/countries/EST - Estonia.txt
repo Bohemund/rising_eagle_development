@@ -39,34 +39,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 13
+			popularity = 9
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 13
 		}
 		centrist = {
-			popularity = 38
+			popularity = 42
 		}
 		liberal = {
-			popularity = 6
+			popularity = 7
 		}
 		social_democrat = {
-			popularity = 9
+			popularity = 23
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 2
 		}
 		communist = {
-			popularity = 3
+			popularity = 4
 		}
 	}
 	
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_KONSTANTIN_PATS_DESC"
 	picture = "Portrait_EST_Edgar_Savisaar.tga"
 	expire = "2050.1.1"
-	ideology = agrarian_populist
+	ideology = centrist_populist
 	traits = {
 		#
 	}

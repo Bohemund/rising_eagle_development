@@ -17,6 +17,7 @@ state={
 			air_base = 1
 		}
 		add_core_of = PER
+		add_core_of = KUR
 	    victory_points = { 12773 10 } #kermanshah
 		victory_points = { 9816 3 } #sanandaj
 		victory_points = { 10774 2 } #ilam

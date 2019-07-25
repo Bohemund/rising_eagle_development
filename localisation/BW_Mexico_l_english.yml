@@ -3,7 +3,7 @@
  #PARTIES
  MEX_ultranationalist_party:0 "National Synarchists"
  MEX_ultranationalist_party_long:0 "National Synarchist Union"
- MEX_monarchist_party:0 "Iturbide"
+ MEX_monarchist_party:0 "House of Iturbide"
  MEX_monarchist_party_long:0 "House of Iturbide"
  MEX_nationalist_party:0 "Nationalist Front"
  MEX_nationalist_party_long:0 "Nationalist Front of Mexico"
@@ -15,9 +15,23 @@
  MEX_liberal_party_long:0 "New Alliance Party"
  MEX_social_democrat_party:0 "Democratic Revolution"
  MEX_social_democrat_party_long:0 "Party of the Democratic Revolution"
- MEX_democratic_socialist_party:0 "National Regeneration"
- MEX_democratic_socialist_party_long:0 "National Regeneration Movement"
- MEX_libertarian_socialist_party:0 "Zapatistas"
- MEX_libertarian_socialist_party_long:0 "Zapatista Army of National Liberation"
+ MEX_democratic_socialist_party:0 "Socialist Alliance"
+ MEX_democratic_socialist_party_long:0 "Socialist Alliance"
+ MEX_radical_socialist_party:0 "Labor Party"
+ MEX_radical_socialist_party_long:0 "Labor Party"
  MEX_communist_party:0 "Mexican Communists"
  MEX_communist_party_long:0 "Party of Mexican Communists"
+
+ MEX_the_drug_war:0 "The Drug War"
+ MEX_the_drug_war_desc:0 "Mexican drug trafficking organizations have begun to wield massive influence throughout the country, making up more than 90% of the cocaine entering the United States of America. Cartels fight amongst themselves for control of U.S. trafficking routes, and our law enforcement can barely stop it. The bribery system in Mexico means that these cartels have considerable influence over politics themselves, with cartels often assassinating anti-cartel political leaders."
+
+ MEX_election_rigging_allegations:0 "Election-Rigging Accusations"
+ MEX_election_rigging_allegations_desc:0 "The Mexican election of 2006 ended in a unbelievably close victory by the PRI against the social democratic Party of the Democratic Revolution, led by the immensely popular AMLO. This has led to many social democrats decrying the election as a farce, and even claiming the Americans orchestrated the act! After the election, AMLO demanded a vote-by-vote recount, and a half-measure was given to placate him. But still, the people claim our election was false, and that Obrador is the true presidential candidate."
+
+ MEX_radicalization_of_the_right:0 "Radicalization of the Right"
+ MEX_radicalization_of_the_right_desc:0 "The Mexican right, once led by the National Action Party, has radicalized significantly due to increased American influence in Mexican politics. Conservatives have been defecting to the newly rejuvinated Synarchist Union in droves, with its leader, the son of famed synarchist Salvador Ascabal, even being a former PAN member himself."
+
+ MEX_substantial_american_influence:0 "Substantial American Influence"
+ MEX_substantial_american_influence_desc:0 "Our neighbour to the North, the United States of America, has a considerable sway over our nation's politics, economy, and international standing. American-backed companies and groups hold much of our country's industry, and their troops attempt to help us win the drug war. But such influence also brings problems. If American influence ended, we would be swept into economic turmoil."
+
+ POLITICS_MADRAZO_DESC:0 "Roberto Madrazo was born in 1952 in Villahermosa, Tabasco. His father, Carlos Alberto Madrazo, was a prominent politician in the PRI at a time when the party was the strongest. When he was 16, his parents were killed in a plane crash, leading him to study law at the National Autonomous University in Mexico City, and head the PRI Youth. He pursued his political career further, becoming a representative of Tabasco in the Chamber of Deputies and the Senate when he was only 26. In 1994, he became governor of Tabasco, a position which he served for 6 years. When the PRI won the Mexican general election in 2000 by a narrow margain, defeating the weakened conservatives, Madrazo was set to become the next president of the PRI. In 2006, he ran a tight campaign against charismatic populist AMLO, and won by an extrordinarily close margain. His party has ruled Mexico now for 81 consecutive years, and many doubt the PRI. Conservatives, ultranationalists, social democrats - all threaten the hegemony of the greatest party in Mexican history. Madrazo's 4 years in office have already been associated with a mediocre solution to the drug war, the inability to stop the rise of the Synarchists, and election-rigging accusations that still continue years after the election. Madrazo has been continually attacked by his opponents for money-laundering, tax evasion, and embezzlement, along with his legal issues surrounding his mansions in Mexico and France. He is the epitome of a Mexican establishment politican, something that may doom him in the end."
