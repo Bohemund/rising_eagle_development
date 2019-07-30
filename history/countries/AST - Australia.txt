@@ -34,28 +34,28 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 18
 		}
 		conservative = {
-			popularity = 15
+			popularity = 3
 		}
 		centrist = {
 			popularity = 20
 		}
 		liberal = {
-			popularity = 3
+			popularity = 14
 		}
 		social_democrat = {
-			popularity = 37
+			popularity = 36
 		}
 		democratic_socialist = {
-			popularity = 10
+			popularity = 9
 		}
 		radical_socialist = {
 			popularity = 0
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_AST_Bob_Katter.tga"
 	expire = "2050.1.1"
-	ideology = agrarian_conservative
+	ideology = national_conservative
 	traits = {
 		#
 	}

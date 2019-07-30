@@ -72,6 +72,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Park Geun-hye"
+	desc = ""
+	picture = "Portrait_KOR_Park_Geun_hye.tga"
+	expire = "1965.1.1"
+	ideology = fascist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Chung Mong-joon"
 	desc = ""
 	picture = "Portrait_KOR_Chung_Mong_joon.tga"

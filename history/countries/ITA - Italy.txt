@@ -48,10 +48,10 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 18
 		}
 		centrist = {
-			popularity = 31
+			popularity = 30
 		}
 		liberal = {
 			popularity = 5
@@ -60,13 +60,13 @@ set_politics = {
 			popularity = 6
 		}
 		democratic_socialist = {
-			popularity = 13
-		}
-		radical_socialist = {
 			popularity = 0
 		}
+		radical_socialist = {
+			popularity = 20
+		}
 		communist = {
-			popularity = 19
+			popularity = 12
 		}
 	}
 	

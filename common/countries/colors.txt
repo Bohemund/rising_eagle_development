@@ -660,6 +660,11 @@ SWE = {
 	color_ui = rgb { 115 115 115 }
 }
 
+TAM = {
+	color = rgb { 246 231 14 }
+	color_ui = rgb { 115 115 115 }
+}
+
 TAT = {
 	color = rgb { 97 42 42 }
 	color_ui = rgb { 115 115 115 }

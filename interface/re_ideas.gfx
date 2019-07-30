@@ -166,4 +166,29 @@ spriteTypes = {
 		name = "GFX_idea_ENG_the_troubles"
 		texturefile = "gfx/interface/ideas/ENG_troubles.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_USA_republican_dominance"
+		texturefile = "gfx/interface/ideas/USA_republican_dominance.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_USA_NASA"
+		texturefile = "gfx/interface/ideas/USA_NASA.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_VIN_bao_thang"
+		texturefile = "gfx/interface/ideas/VIN_bao_thang.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_AFG_mohammad_zahir_shah"
+		texturefile = "gfx/interface/ideas/AFG_mohammad_zahir_shah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CMB_norodom_sihanouk"
+		texturefile = "gfx/interface/ideas/CMB_norodom_sihanouk.dds"
+	}
 }

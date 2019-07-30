@@ -7,6 +7,8 @@ set_convoys = 150
 set_stability = 0.4
 set_war_support = 0.6
 
+give_guarantee = TAM
+
 set_technology = {
 	support_weapons = 1
 	infantry_weapons = 1

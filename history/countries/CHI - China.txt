@@ -70,17 +70,6 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Zhang Youxia"
-	desc = "POLITICS_BO_XILAI_DESC"
-	picture = "Portrait_CHI_Zhang_Youxia.tga"
-	expire = "2050.1.1"
-	ideology = military_junta
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Soong Chu-yu"
 	desc = "POLITICS_SOONG_CHU_YU_DESC"
 	picture = "Portrait_CHI_Soong_Chu_yu.tga"
@@ -96,7 +85,7 @@ create_country_leader = {
 	desc = "POLITICS_XU_WENLI_DESC"
 	picture = "Portrait_CHI_Xu_Wenli.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

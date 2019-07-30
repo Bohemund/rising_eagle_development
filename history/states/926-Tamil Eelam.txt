@@ -1,0 +1,28 @@
+state=
+{
+	id=926
+	name="STATE_926"
+	manpower = 3496000
+	
+	state_category = state_level_10
+
+	history={
+		owner = TAM
+		add_core_of = TAM
+		add_core_of = SRI
+		
+		victory_points = { 10201 1 }
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			10201 = { naval_base = 3 }
+		}
+	}
+	
+	provinces={
+		10201 10229
+	}
+}

@@ -25,6 +25,33 @@ fifties = {
 		}
 	}
 
+	surrender_at_hyesan = {
+
+		icon = GFX_decision_ger_mefo_bills
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			    original_tag = KOR
+			    original_tag = CHI
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.2 }
+		}
+	}
+
 	USA_1952_election = {
 
 		icon = GFX_decision_generic_civil_support
@@ -47,32 +74,6 @@ fifties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.1 }
-		}
-	}
-
-	surrender_at_hyesan = {
-
-		icon = GFX_decision_generic_scorched_earth
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			    original_tag = KOR
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.2 }
 		}
 	}
 
@@ -125,32 +126,6 @@ fifties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.4 }
-		}
-	}
-
-	vietnam_war = {
-
-		icon = GFX_decision_generic_scorched_earth
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			    original_tag = VIN
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.13 }
 		}
 	}
 
@@ -403,6 +378,32 @@ sixties = {
 		}
 	}
 
+	VIN_1963_south_vietnamese_coup = {
+
+		icon = GFX_decision_generic_prepare_civil_war
+
+		allowed = {
+			OR = {
+			    original_tag = VIN
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.10 }
+		}
+	}
+
 	1964_brazil_coup = {
 
 		icon = GFX_decision_generic_prepare_civil_war
@@ -427,32 +428,6 @@ sixties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.15 }
-		}
-	}
-
-	gulf_of_tonkin_incident = {
-
-		icon = GFX_decision_generic_naval
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			    original_tag = VIN
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.10 }
 		}
 	}
 
@@ -533,6 +508,32 @@ sixties = {
 		}
 	}
 
+	fall_of_saigon = {
+
+		icon = GFX_decision_generic_scorched_earth
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			    original_tag = VIN
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.13 }
+		}
+	}
+
 	USA_1968_election = {
 
 		icon = GFX_decision_generic_civil_support
@@ -557,16 +558,14 @@ sixties = {
 			country_event = { id = decision_event.14 }
 		}
 	}
-}
 
-seventies = {
+	CMB_1969_coup = {
 
-	assassination_of_robert_kennedy = {
-
-		icon = GFX_decision_generic_ignite_civil_war
+		icon = GFX_decision_generic_prepare_civil_war
 
 		allowed = {
 			OR = {
+			    original_tag = CMB
 			    original_tag = USA
 			}
 		}
@@ -585,6 +584,35 @@ seventies = {
 			country_event = { id = decision_event.17 }
 		}
 	}
+
+	USA_moon_landing = {
+
+		icon = GFX_decision_generic_nationalism
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.37 }
+		}
+	}
+}
+
+seventies = {
+
 
 	USA_1972_election = {
 
@@ -748,6 +776,34 @@ seventies = {
 		}
 	}
 
+	SPR_fraga_assassination = {
+
+		icon = GFX_decision_generic_ignite_civil_war
+
+		allowed = {
+			OR = {
+			    original_tag = SPR
+			    original_tag = CAT
+			    original_tag = GLC
+			    original_tag = BSQ
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.39 }
+		}
+	}
+
 	PER_iranian_revolution = {
 
 		icon = GFX_decision_generic_nationalism
@@ -776,6 +832,31 @@ seventies = {
 }
 
 eighties = {
+
+	USA_1980_election = {
+
+		icon = GFX_decision_generic_civil_support
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.36 }
+		}
+	}
 
 	RUS_almaty_summit = {
 
@@ -810,6 +891,11 @@ eighties = {
 			    original_tag = UDM
 			    original_tag = BSH
 			    original_tag = TAR
+			    original_tag = AZR
+			    original_tag = GEO
+			    original_tag = ARM
+			    original_tag = NGK
+			    original_tag = NAK
 			}
 		}
 
@@ -850,6 +936,31 @@ eighties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.30 }
+		}
+	}
+
+	GEO_1986_coup = {
+
+		icon = GFX_decision_generic_prepare_civil_war
+
+		allowed = {
+			OR = {
+			    original_tag = GEO
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.38 }
 		}
 	}
 

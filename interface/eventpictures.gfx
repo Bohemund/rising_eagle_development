@@ -102,8 +102,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "gulf_of_tonkin"
-		texturefile = "gfx/event_pictures/report_event/gulf_of_tonkin.dds"
+		name = "1963_south_vietnamese_coup"
+		texturefile = "gfx/event_pictures/report_event/1963_south_vietnamese_coup.dds"
 	}
 
 	spriteType = {
@@ -117,8 +117,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "vietnam_war"
-		texturefile = "gfx/event_pictures/report_event/vietnam_war.dds"
+		name = "fall_of_saigon"
+		texturefile = "gfx/event_pictures/report_event/fall_of_saigon.dds"
 	}
 
 	spriteType = {
@@ -142,8 +142,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "robert_kennedy"
-		texturefile = "gfx/event_pictures/report_event/robert_kennedy.dds"
+		name = "CMB_1969_coup"
+		texturefile = "gfx/event_pictures/report_event/CMB_1969_coup.dds"
 	}
 
 	spriteType = {
@@ -188,7 +188,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "CHI_kennedy_visit_to_china"
-		texturefile = "gfx/event_pictures/report_event/CHI_third_taiwan_strait_crisis.dds"
+		texturefile = "gfx/event_pictures/report_event/USA_kennedy_china.dds"
 	}
 
 	spriteType = {
@@ -234,5 +234,25 @@ spriteTypes = {
 	spriteType = {
 		name = "PER_iranian_revolution"
 		texturefile = "gfx/event_pictures/report_event/PER_iranian_revolution.dds"
+	}
+
+	spriteType = {
+		name = "USA_1980_election"
+		texturefile = "gfx/event_pictures/report_event/USA_1980_election.dds"
+	}
+
+	spriteType = {
+		name = "USA_moon_landing"
+		texturefile = "gfx/event_pictures/report_event/USA_moon_landing.dds"
+	}
+
+	spriteType = {
+		name = "GEO_1986_coup"
+		texturefile = "gfx/event_pictures/report_event/GEO_1986_coup.dds"
+	}
+
+	spriteType = {
+		name = "SPR_fraga_assassination"
+		texturefile = "gfx/event_pictures/report_event/SPR_fraga_assassination.dds"
 	}
 }

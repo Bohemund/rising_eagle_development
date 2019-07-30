@@ -58,10 +58,10 @@ set_politics = {
 			popularity = 4
 		}
 		liberal = {
-			popularity = 28
+			popularity = 32
 		}
 		social_democrat = {
-			popularity = 32
+			popularity = 28
 		}
 		democratic_socialist = {
 			popularity = 4
@@ -74,10 +74,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = liberal
 	last_election = "2007.7.14"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Carles Puigdemont"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_CAT_Carles_Puigdemont.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

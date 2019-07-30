@@ -70,7 +70,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2005.11.17"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_SRI_Ranil_Wickremesinghe.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = fiscal_conservative
 	traits = {
 		#
 	}

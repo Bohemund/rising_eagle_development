@@ -46,28 +46,28 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 1
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 6
+			popularity = 15
 		}
 		conservative = {
-			popularity = 9
+			popularity = 5
 		}
 		centrist = {
-			popularity = 36
+			popularity = 37
 		}
 		liberal = {
-			popularity = 26
+			popularity = 10
 		}
 		social_democrat = {
-			popularity = 19
+			popularity = 26
 		}
 		democratic_socialist = {
-			popularity = 1
+			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 2
+			popularity = 7
 		}
 		communist = {
 			popularity = 0

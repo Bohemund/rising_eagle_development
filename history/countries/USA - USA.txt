@@ -4,6 +4,8 @@ oob = "USA_2010"
 
 add_ideas = {
     idea_nato
+    USA_NASA
+    USA_republican_dominance
 }
 
 set_research_slots = 4

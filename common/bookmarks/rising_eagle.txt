@@ -11,7 +11,9 @@ bookmarks = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-				
+				idea_nato
+                USA_NASA
+                USA_republican_dominance
 			}
 			focuses = {
 				
@@ -59,7 +61,7 @@ bookmarks = {
 		}
 		CHI = {
 			history = CHI_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = conservative
 			ideas = {
 			
 			}
@@ -82,8 +84,6 @@ bookmarks = {
 			history = "OTHER_RISING_EAGLE_DESC"
 		}
 
-		# Minors
-
 		ENG={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"
@@ -97,7 +97,6 @@ bookmarks = {
 				
 			}
 		}
-
 		RAJ={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"
@@ -109,7 +108,6 @@ bookmarks = {
 				
 			}
 		}
-
 		TUR={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"
@@ -121,7 +119,6 @@ bookmarks = {
 				
 			}
 		}
-
 		PER={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"
@@ -133,7 +130,6 @@ bookmarks = {
 				
 			}
 		}
-
 		IRQ={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"
@@ -145,7 +141,6 @@ bookmarks = {
 				
 			}
 		}
-
 		SAU={
 			minor = yes
 			history = "ENG_GATHERING_STORM_DESC"

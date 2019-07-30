@@ -5,8 +5,8 @@
  CMB_ultranationalist_party_long:0 "Khmer Democratic Party"
  CMB_monarchist_party:0 "House of Norodom"
  CMB_monarchist_party_long:0 "House of Norodom"
- CMB_nationalist_party:0 "National United Front"
- CMB_nationalist_party_long:0 "National United Front"
+ CMB_nationalist_party:0 "FUNCINPEC"
+ CMB_nationalist_party_long:0 "National United Front for an Independent, Neutral, Peaceful and Cooperative Cambodia"
  CMB_conservative_party:0 "Khmer Liberation Front"
  CMB_conservative_party_long:0 "Khmer People’s National Liberation Front"
  CMB_centrist_party:0 "Candlelight Party"
@@ -21,3 +21,7 @@
  CMB_radical_socialist_party_long:0 "Cambodian People’s Party"
  CMB_communist_party:0 "Revolutionary Party"
  CMB_communist_party_long:0 "Kampuchean People's Revolutionary Party"
+
+ #IDEAS
+ CMB_norodom_sihanouk:0 "Norodom Sihanouk"
+ CMB_norodom_sihanouk_desc:0 "Norodom Sihanouk is the King of the Kingdom of Cambodia."

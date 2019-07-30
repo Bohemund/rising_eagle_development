@@ -126,12 +126,12 @@ country_event = {
 	}
 }
 
-#Gulf of Tonkin Incident
+#1963 South Vietnamese Coup D’état
 country_event = {
 	id = decision_event.10
 	title = decision_event.10.t
 	desc = decision_event.10.d
-	picture = gulf_of_tonkin
+	picture = 1963_south_vietnamese_coup
 	
 	is_triggered_only = yes
 	
@@ -168,12 +168,12 @@ country_event = {
 	}
 }
 
-#Vietnam War
+#Fall of Saigon
 country_event = {
 	id = decision_event.13
 	title = decision_event.13.t
 	desc = decision_event.13.d
-	picture = vietnam_war
+	picture = fall_of_saigon
 	
 	is_triggered_only = yes
 	
@@ -224,12 +224,12 @@ country_event = {
 	}
 }
 
-#Assassination of Robert Kennedy
+#Cambodia 1969 Coup
 country_event = {
 	id = decision_event.17
 	title = decision_event.17.t
 	desc = decision_event.17.d
-	picture = robert_kennedy
+	picture = CMB_1969_coup
 	
 	is_triggered_only = yes
 	
@@ -336,12 +336,12 @@ country_event = {
 	}
 }
 
-#Third Taiwan Straits Crisis
+#Kennedy's Visit to China
 country_event = {
 	id = decision_event.26
 	title = decision_event.26.t
 	desc = decision_event.26.d
-	picture = CHI_third_taiwan_strait_crisis
+	picture = CHI_kennedy_visit_to_china
 	
 	is_triggered_only = yes
 	
@@ -487,5 +487,61 @@ country_event = {
 	
 	option = {   
 		name = decision_event.35.o1
+	}
+}
+
+#US 1980 Election
+country_event = {
+	id = decision_event.36
+	title = decision_event.36.t
+	desc = decision_event.36.d
+	picture = USA_1980_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.36.o1
+	}
+}
+
+#Moon Landing
+country_event = {
+	id = decision_event.37
+	title = decision_event.37.t
+	desc = decision_event.37.d
+	picture = USA_moon_landing
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.37.o1
+	}
+}
+
+#1986 Georgian Coup
+country_event = {
+	id = decision_event.38
+	title = decision_event.38.t
+	desc = decision_event.38.d
+	picture = GEO_1986_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.38.o1
+	}
+}
+
+#Assassination of Manuel Fraga
+country_event = {
+	id = decision_event.39
+	title = decision_event.39.t
+	desc = decision_event.39.d
+	picture = SPR_fraga_assassination
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.39.o1
 	}
 }

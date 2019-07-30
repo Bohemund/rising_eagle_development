@@ -2,6 +2,10 @@
 
 oob = "AFG_2010"
 
+add_ideas = {
+    AFG_mohammad_zahir_shah
+}
+
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.7
@@ -31,31 +35,31 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 0
+			popularity = 11
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 20
 		}
 		conservative = {
-			popularity = 31
+			popularity = 25
 		}
 		centrist = {
-			popularity = 23
+			popularity = 8
 		}
 		liberal = {
-			popularity = 4
+			popularity = 18
 		}
 		social_democrat = {
-			popularity = 15
+			popularity = 11
 		}
 		democratic_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 4
+			popularity = 5
 		}
 		communist = {
-			popularity = 9
+			popularity = 2
 		}
 	}
 	
