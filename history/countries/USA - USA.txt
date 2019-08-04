@@ -137,9 +137,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Joseph Biden"
+	name = "Joe Biden"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Joseph_Biden.tga"
+	picture = "Portrait_USA_Joe_Biden.tga"
 	expire = "2050.1.1"
 	ideology = american_democrat
 	traits = {
@@ -148,9 +148,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ted Kennedy Jr"
+	name = "Joe Kennedy II"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Ted_Kennedy_Jr.tga"
+	picture = "Portrait_USA_Joe_Kennedy_II.tga"
 	expire = "2050.1.1"
 	ideology = progressive
 	traits = {
@@ -185,7 +185,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Kamala_Harris.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = marxist
 	traits = {
 		#
 	}

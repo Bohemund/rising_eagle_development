@@ -3,8 +3,8 @@
  #PARTIES
  BEL_ultranationalist_party:0 "Rexist Restoration"
  BEL_ultranationalist_party_long:0 "Rexist Restoration"
- BEL_monarchist_party:0 "Royal Household"
- BEL_monarchist_party_long:0 "Royal Household"
+ BEL_monarchist_party:0 "House of Belgium"
+ BEL_monarchist_party_long:0 "House of Belgium"
  BEL_nationalist_party:0 "People’s Party"
  BEL_nationalist_party_long:0 "People’s Party"
  BEL_conservative_party:0 "Christian Social Party"
@@ -21,3 +21,7 @@
  BEL_radical_socialist_party_long:0 "New Progressives"
  BEL_communist_party:0 "Workers’ Party"
  BEL_communist_party_long:0 "Workers’ Party of Belgium"
+
+ #IDEAS
+ BEL_albert_ii:0 "Albert II"
+ BEL_albert_ii_desc:0 "Albert II is the King of the Kingdom of Belgium."

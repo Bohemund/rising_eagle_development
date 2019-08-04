@@ -191,4 +191,19 @@ spriteTypes = {
 		name = "GFX_idea_CMB_norodom_sihanouk"
 		texturefile = "gfx/interface/ideas/CMB_norodom_sihanouk.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_LUX_henri"
+		texturefile = "gfx/interface/ideas/LUX_henri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_BEL_albert_ii"
+		texturefile = "gfx/interface/ideas/BEL_albert_ii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_HOL_beatrix"
+		texturefile = "gfx/interface/ideas/HOL_beatrix.dds"
+	}
 }

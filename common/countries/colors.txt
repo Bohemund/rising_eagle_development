@@ -1019,3 +1019,8 @@ BAH = {
 	color = rgb { 240 130 220 }
 	color_ui = rgb { 220 110 200 }
 }
+
+FIJ = {
+	color = rgb { 85 161 164 }
+	color_ui = rgb { 220 110 200 }
+}

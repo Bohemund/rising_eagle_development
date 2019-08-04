@@ -17,7 +17,11 @@
  HOL_social_democrat_party_long:0 "Labour Party"
  HOL_democratic_socialist_party:0 "Socialist Party"
  HOL_democratic_socialist_party_long:0 "Socialist Party"
- HOL_radical_socialist_party:0 "Pacifist Socialist Party"
- HOL_radical_socialist_party_long:0 "Pacifist Socialist Party"
+ HOL_radical_socialist_party:0 "Party of Radicals"
+ HOL_radical_socialist_party_long:0 "Political Party of Radicals"
  HOL_communist_party:0 "Communist Party"
  HOL_communist_party_long:0 "Communist Party of the Netherlands"
+
+ #IDEAS
+ HOL_beatrix:0 "Beatrix"
+ HOL_beatrix_desc:0 "Beatrix is the Queen of the Kingdom of the Netherlands."

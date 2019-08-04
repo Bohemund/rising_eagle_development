@@ -5,6 +5,7 @@ oob = "LUX_2010"
 add_ideas = {
     european_union
     idea_nato
+    LUX_henri
 }
 
 set_research_slots = 3

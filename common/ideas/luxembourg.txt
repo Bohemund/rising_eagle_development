@@ -1,0 +1,18 @@
+ideas = {
+
+    country = {
+	    
+		LUX_henri = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.025
+				
+			}
+		}
+	}
+}

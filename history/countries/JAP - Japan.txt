@@ -5,8 +5,6 @@ oob = "JAP_2010"
 add_ideas = {
    JAP_emperorakihito
    JAP_stuckcoalition
-   JAP_rising_ultnationalism
-   JAP_anti_american_stance
 }
 
 set_stability = 0.2
