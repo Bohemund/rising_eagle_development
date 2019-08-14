@@ -50,32 +50,32 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 12
 		}
 		centrist = {
-			popularity = 25
+			popularity = 35
 		}
 		liberal = {
 			popularity = 4
 		}
 		social_democrat = {
-			popularity = 26
+			popularity = 30
 		}
 		democratic_socialist = {
-			popularity = 9
+			popularity = 15
 		}
 		radical_socialist = {
-			popularity = 2
+			popularity = 0
 		}
 		communist = {
-			popularity = 6
+			popularity = 4
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = centrist
 	last_election = "2006.6.3"
 	election_frequency = 60
 	elections_allowed = no

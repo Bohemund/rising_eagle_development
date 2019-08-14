@@ -34,9 +34,9 @@
 
  #LEADERS
  POLITICS_ABE_DESC:0 "Shinzo Abe was born into a family of prestigious politicians. His father was a longtime member of the National Diet, his grandfather a post-war prime minister, known for his brutal rule in Japanese occupied Manchuria. He began his political career serving as a private secretary to various high-ranking Liberal Democratic Party politicians. After his father’s death in 1991 Abe was elected to take his father’s seat. That same year his party was rocked by a number of scandals, causing the resignation of the prime minister and his replacement by Morihiro Hosokawa, a moderate LDP politician. The party steeply declined, losing the 1996 election to Ichiro Ozawa’s newly founded Democratic Party of Japan. The following year Abe became a member of Nippon Kaigi, a nationalist organization. He helped forge a political movement with dissatisfied conservatives from the LDP and activists from Nippon Kaigi. Due to over a decade of liberal governance and a mediocre economy the Nippon Ugoki topped the 2006 elections and Shinzo Abe was chosen as Prime Minister of Japan, with support from his old party. Fiercely opposed to American influence - which he blames for the economic crises of the nineties - and supportive of Japanese rearmament, Shinzo Abe has aggressively changed the Japanese political sphere, terminating the Japan-US Defence Treaty and calling for the revision of the constitution in order to establish an armed forces capable of defending Japan."
-   
-   
-   
-	
-	
-   
+
+ #EVENTS
+ # Hida disaster
+ japan.1.t:0 "Hida Disaster"
+ japan.1.d:0 "On the 4th of October at 8:42 PM, the city of Hida in the Gifu Prefecture of central Japan was struck by a meteor. The meteor came from Tiamat, a comet with an orbital period of 1200 years. The impact obliterated the town, but miraculously no casualties have been reported, due to the town holding an emergency drill at the time. Experts have stated that the impact crater left by the meteor was over a kilometer in diameter and could easily have led to the death of hundreds of people. The sheer luck and unlikeliness of the incident has already given rise to numerous conspiracy theories, many involving the mayor of Hida. The local conservative politician has responded that the drill was held in response to a potential terrorist attack at a local substation, though this has not satisfied many theorists. They cite the fact that the drill was held on the same day as the town’s autumn festival, a spiritual holiday very important in local traditions. Despite some sceptics the people of Japan have given large support to the now homeless victims of the disaster. The Prime Minister even announced an emergency program where many of the former residents of Hida would be resettled in the local areas and in Tokyo. "
+ japan.1.o1:0 "Tragic"

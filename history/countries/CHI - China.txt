@@ -70,6 +70,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Xi Jinping"
+	desc = "POLITICS_SOONG_CHU_YU_DESC"
+	picture = "Portrait_CHI_Xi_Jinping.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Soong Chu-yu"
 	desc = "POLITICS_SOONG_CHU_YU_DESC"
 	picture = "Portrait_CHI_Soong_Chu_yu.tga"

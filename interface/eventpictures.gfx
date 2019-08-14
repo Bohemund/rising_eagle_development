@@ -49,6 +49,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/report_event/erbakan_resigns.dds"
 	}
 
+### JAPAN ###
+
+	spriteType = {
+		name = "JAP_hida_disaster"
+		texturefile = "gfx/event_pictures/report_event/JAP_hida_disaster.dds"
+	}
+
 ### NATIONAL HISTORY ####
 
 	spriteType = {
@@ -254,5 +261,10 @@ spriteTypes = {
 	spriteType = {
 		name = "SPR_fraga_assassination"
 		texturefile = "gfx/event_pictures/report_event/SPR_fraga_assassination.dds"
+	}
+
+	spriteType = {
+		name = "USA_strategy_for_peace"
+		texturefile = "gfx/event_pictures/report_event/USA_strategy_for_peace.dds"
 	}
 }

@@ -545,3 +545,17 @@ country_event = {
 		name = decision_event.39.o1
 	}
 }
+
+#Strategy for Peace
+country_event = {
+	id = decision_event.40
+	title = decision_event.40.t
+	desc = decision_event.40.d
+	picture = USA_strategy_for_peace
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.40.o1
+	}
+}
