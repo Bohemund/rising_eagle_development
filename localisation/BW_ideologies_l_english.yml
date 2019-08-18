@@ -100,8 +100,6 @@
  libertarian_desc:0 "Libertarianism refers to libertarian beliefs that advocate negative rights, natural law and a radical reversal of the modern welfare state."
  centrist_populist:0 "Centrist Populism"
  centrist_populist_desc:0 "Centrist populism is a political doctrine that proposes that the common people are exploited by an elite, and which seeks to resolve this. Its goal is uniting the uncorrupt little man against the dominant elites."
- liberal_conservative:0 "Liberal Conservatism"
- liberal_conservative_desc:0 "Liberal conservatism is a political ideology combining conservative policies with liberal stances, especially on economic, social and ethical issues. Liberal conservatism incorporates the classical liberal view of minimal government intervention in the economy, according to which individuals should be free to participate in the market and generate wealth without government interference. However, individuals cannot be thoroughly depended on to act responsibly in other spheres of life, therefore liberal conservatives believe that a strong state is necessary to ensure law and order and social institutions are needed to nurture a sense of duty and responsibility to the nation."
 
  #LIBERALISM
  social_liberal:0 "Social Liberalism"
@@ -110,6 +108,8 @@
  american_democrat_desc:0 "American Democrats are supporters of the Democratic Party. The Democratic Party's advocates liberalism, social and economic equality, along with support for the welfare state. It seeks to provide government intervention and regulation in the economy."
  classical_liberal:0 "Classical Liberal"
  classical_liberal_desc:0 "Classical liberalism is a political ideology which advocates civil liberties under the rule of law with an emphasis on economic freedom."
+ national_liberal:0 "National Liberalism"
+ national_liberal_desc:0 "National liberalism is a variant of liberalism, combining liberal policies and issues with elements of nationalism."
 
  #SOCIAL DEMOCRACY
  social_democrat_ideology:0 "Social Democracy"

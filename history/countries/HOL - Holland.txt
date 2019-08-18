@@ -105,7 +105,7 @@ create_country_leader = {
 	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
 	picture = "Portrait_HOL_Mark_Rutte.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = libertarian
 	traits = {
 		#
 	}

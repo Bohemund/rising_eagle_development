@@ -267,4 +267,9 @@ spriteTypes = {
 		name = "USA_strategy_for_peace"
 		texturefile = "gfx/event_pictures/report_event/USA_strategy_for_peace.dds"
 	}
+
+	spriteType = {
+		name = "USA_first_detante"
+		texturefile = "gfx/event_pictures/report_event/USA_first_detante.dds"
+	}
 }

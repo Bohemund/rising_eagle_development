@@ -45,7 +45,7 @@ set_politics = {
 			popularity = 7
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		conservative = {
 			popularity = 31
@@ -54,16 +54,16 @@ set_politics = {
 			popularity = 13
 		}
 		liberal = {
-			popularity = 0
+			popularity = 5
 		}
 		social_democrat = {
 			popularity = 19
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 3
 		}
 		radical_socialist = {
-			popularity = 3
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
@@ -88,9 +88,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ignacio Cosidó"
+	name = "Alejo Vidal-Quadras Roca"
 	desc = "POLITICS_MANUEL_AZANA_DESC"
-	picture = "Portrait_SPR_Ignacio_Cosido.tga"
+	picture = "Portrait_SPR_Alejo_Vidal_Quadras_Roca.tga"
 	expire = "2050.1.1"
 	ideology = reactionary
 	traits = {

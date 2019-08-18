@@ -34,25 +34,25 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 17
+			popularity = 15
 		}
 		conservative = {
-			popularity = 3
+			popularity = 6
 		}
 		centrist = {
-			popularity = 7
+			popularity = 0
 		}
 		liberal = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 7
 		}
 		democratic_socialist = {
-			popularity = 3
+			popularity = 30
 		}
 		radical_socialist = {
-			popularity = 32
+			popularity = 4
 		}
 		communist = {
 			popularity = 38
@@ -70,16 +70,16 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GUY_David_Granger.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = democratic_socialist_ideology
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Bharrat Jagdeo"
+	name = "Donald Ramotar"
 	desc = ""
-	picture = "Portrait_GUY_Bharrat_Jagdeo.tga"
+	picture = "Portrait_GUY_Donald_Ramotar.tga"
 	expire = "2050.1.1"
 	ideology = marxist
 	traits = {

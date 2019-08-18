@@ -3,7 +3,7 @@ state={
 	name="STATE_806"
 
 	history={
-		owner = MDV
+		owner = UKR
 		add_core_of = MDV
 		add_core_of = UKR
 		buildings = {

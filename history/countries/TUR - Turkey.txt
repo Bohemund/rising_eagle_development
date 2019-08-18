@@ -90,7 +90,7 @@ create_country_leader = { #CENTRIST
 	desc = "POLITICS_MESUT_YILMAZ_DESC"
 	picture = "Portrait_TUR_Mesut_Yilmaz.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

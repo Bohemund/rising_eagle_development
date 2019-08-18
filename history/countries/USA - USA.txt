@@ -130,7 +130,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Hillary_Rodham.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

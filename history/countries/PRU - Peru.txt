@@ -87,7 +87,7 @@ create_country_leader = {
 	desc = "POLITICS_OSCAR_BENAVIDES_DESC"
 	picture = "Portrait_PRU_Alejandro_Toledo.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_populist
 	traits = {
 		#
 	}

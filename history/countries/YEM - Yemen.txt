@@ -39,28 +39,28 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
-		}
-		monarchist = {
 			popularity = 0
 		}
+		monarchist = {
+			popularity = 8
+		}
 		nationalist = {
-			popularity = 27
+			popularity = 34
 		}
 		conservative = {
-			popularity = 17
+			popularity = 16
 		}
 		centrist = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 6
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 30
+			popularity = 20
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 10
 		}
 		radical_socialist = {
 			popularity = 0
@@ -70,10 +70,21 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = nationalist
 	last_election = "2006.9.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ali Abdullah Saleh"
+	desc = "POLITICS_IMAM_YAHYA_DESC"
+	picture = "Portrait_YEM_Ali_Abdullah_Saleh.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -92,7 +103,7 @@ create_country_leader = {
 	desc = "POLITICS_IMAM_YAHYA_DESC"
 	picture = "Portrait_YEM_Haidar_Abu_Bakr_al_Attas.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
+	ideology = marxist
 	traits = {
 		#
 	}

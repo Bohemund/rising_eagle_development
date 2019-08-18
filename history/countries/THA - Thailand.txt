@@ -84,7 +84,7 @@ create_country_leader = {
 	name = "Thaksin Shinawatra"
 	picture = "Portrait_THA_Thaksin_Shinawatra.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		
 	}

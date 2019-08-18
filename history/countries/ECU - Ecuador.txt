@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_FEDERICO_PAEZ_DESC"
 	picture = "Portrait_ECU_Gustavo_Noboa.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_populist
 	traits = {
 		#
 	}

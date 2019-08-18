@@ -3,7 +3,7 @@ state={
 	name="STATE_674"
 	
 	history = {
-		owner = ETH
+		owner = SOM
 		add_core_of = SOM
 		add_core_of = ETH
 		buildings = {

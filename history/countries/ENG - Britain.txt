@@ -90,9 +90,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nigel Farage"
+	name = "Theresa Brasier"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Nigel_Farage.tga"
+	picture = "Portrait_ENG_Theresa_Brasier.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {

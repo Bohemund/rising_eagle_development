@@ -243,14 +243,8 @@ ideologies = {
 		
 			libertarian = {
 			}
-
-			national_liberal = {
-			}
 			
 			centrist_populist = {
-			}
-
-			market_liberal = {
 			}
 
 		}
@@ -294,6 +288,9 @@ ideologies = {
 			}
 
 			classical_liberal = {
+			}
+
+			national_liberal = {
 			}
 			
 			american_democrat = {

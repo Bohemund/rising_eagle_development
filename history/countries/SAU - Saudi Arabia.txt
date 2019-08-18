@@ -91,3 +91,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Talal bin Abdulaziz Al Saud"
+	desc = "POLITICS_ABDULAZIZ_DESC"
+	picture = "Portrait_SAU_Talal_bin_Abdulaziz_Al_Saud.tga"
+	expire = "2050.1.1"
+	ideology = liberal_ideology
+	traits = {
+		#
+	}
+}

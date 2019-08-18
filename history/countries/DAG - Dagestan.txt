@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_DAG_Ramazan_Abdulatipov.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}
