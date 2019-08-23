@@ -1,6 +1,6 @@
 capital = 749
 
-oob = "NIG_2000"
+oob = "NIG_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -45,10 +45,10 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 39
 		}
 		conservative = {
-			popularity = 0
+			popularity = 27
 		}
 		centrist = {
 			popularity = 0
@@ -57,10 +57,10 @@ set_politics = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 100
+			popularity = 0
 		}
 		libertarian_socialist = {
 			popularity = 0
@@ -70,8 +70,19 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic_socialist
-	last_election = "1985.7.24"
+	ruling_party = conservative
+	last_election = "2004.9.16"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mamadou Tandja"
+	desc = ""
+	picture = "Portrait_NIG_Mamadou_Tandja.tga"
+	expire = "2050.1.1"
+	ideology = conservative_ideology
+	traits = {
+		#
+	}
 }

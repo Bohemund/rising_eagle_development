@@ -1,11 +1,11 @@
 ﻿capital = 752
 
-oob = "AAA_2010"
+oob = "CHD_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.6
-set_war_support = 0.3
+set_stability = 0.4
+set_war_support = 0.1
 
 set_technology = {
 	support_weapons = 1
@@ -28,39 +28,50 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 28
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 34
 		}
 		conservative = {
-			popularity = 12
+			popularity = 0
 		}
 		centrist = {
 			popularity = 15
 		}
 		liberal = {
-			popularity = 17
-		}
-		social_democrat = {
-			popularity = 24
-		}
-		democratic_socialist = {
 			popularity = 0
 		}
+		social_democrat = {
+			popularity = 12
+		}
+		democratic_socialist = {
+			popularity = 5
+		}
 		libertarian_socialist = {
-			popularity = 10
+			popularity = 6
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = conservative
-	last_election = "2009.8.20"
+	ruling_party = ultranationalist
+	last_election = "2006.5.3"
 	election_frequency = 48
 	elections_allowed = no
 }
+
+create_country_leader = {
+	name = "Hissene Habre"
+	desc = ""
+	picture = "Portrait_CHD_Hissene_Habre.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}	

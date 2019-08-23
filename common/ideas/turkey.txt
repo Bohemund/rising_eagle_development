@@ -58,3 +58,32 @@ ideas = {
 				war_support_factor = 0.10
 			}
 		}			
+        
+        TUR_the_market_coup = {
+			
+			allowed = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.40
+				production_factory_efficiency_gain_factor = -0.30
+				production_speed_industrial_complex_factor = -0.3
+			}
+		}
+
+		TUR_soaring_inflation = {
+			
+			allowed = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+                political_power_gain = -0.5
+				stability_factor = -0.35
+			}
+		}		
