@@ -37,13 +37,13 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 12
+			popularity = 30
 		}
 		nationalist = {
-			popularity = 15
+			popularity = 4
 		}
 		conservative = {
-			popularity = 5
+			popularity = 10
 		}
 		centrist = {
 			popularity = 0
@@ -52,20 +52,20 @@ set_politics = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 10
 		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 38
 		}
 		radical_socialist = {
-			popularity = 26
+			popularity = 0
 		}
 		communist = {
-			popularity = 34
+			popularity = 8
 		}
 	}
 	
-	ruling_party = communist
+	ruling_party = democratic_socialist
 	last_election = "2001.10.9"
 	election_frequency = 48
 	elections_allowed = no

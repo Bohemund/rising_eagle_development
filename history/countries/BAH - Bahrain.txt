@@ -88,7 +88,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hasan Mushaima"
+	name = "Hassan Mushaima"
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
 	picture = "Portrait_BAH_Hasan_Mushaima.tga"
 	expire = "2050.1.1"

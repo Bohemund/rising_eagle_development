@@ -5,8 +5,8 @@
  BUL_ultranationalist_party_long:0 "United Patriots"
  BUL_monarchist_party:0 "Saxe-Coburg and Gotha"
  BUL_monarchist_party_long:0 "House of Saxe-Coburg and Gotha"
- BUL_nationalist_party:0 "Union of Democrats"
- BUL_nationalist_party_long:0 "Union of Democrats"
+ BUL_nationalist_party:0 "Movement Simeon II"
+ BUL_nationalist_party_long:0 "National Movement Simeon II"
  BUL_conservative_party:0 "Development of Bulgaria"
  BUL_conservative_party_long:0 "Citizens for European Development of Bulgaria"
  BUL_centrist_party:0 "Stability and Progress"
@@ -21,3 +21,7 @@
  BUL_radical_socialist_party_long:0 "New Revolution"
  BUL_communist_party:0 "Communist Party"
  BUL_communist_party_long:0 "Bulgarian Communist Party"
+
+ #IDEAS
+ BUL_simeon_ii:0 "Simeon II"
+ BUL_simeon_ii_desc:0 "Simeon II is the Tsar of the Tsardom of Bulgaria."

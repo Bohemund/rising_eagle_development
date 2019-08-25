@@ -206,4 +206,9 @@ spriteTypes = {
 		name = "GFX_idea_HOL_beatrix"
 		texturefile = "gfx/interface/ideas/HOL_beatrix.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_BUL_simeon_ii"
+		texturefile = "gfx/interface/ideas/BUL_simeon_ii.dds"
+	}
 }

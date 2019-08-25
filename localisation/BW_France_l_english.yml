@@ -1,16 +1,16 @@
 ﻿l_english:
  
  #PARTIES
- FRA_ultranationalist_party:0 "National Front"
- FRA_ultranationalist_party_long:0 "National Front"
+ FRA_ultranationalist_party:0 "National Front - O"
+ FRA_ultranationalist_party_long:0 "National Front - Old Guard"
  FRA_monarchist_party:0 "House of Orleans"
  FRA_monarchist_party_long:0 "House of Orleans"
- FRA_nationalist_party:0 "Movement for France"
- FRA_nationalist_party_long:0 "Movement for France"
+ FRA_nationalist_party:0 "National Front - N"
+ FRA_nationalist_party_long:0 "National Front - New Guard"
  FRA_conservative_party:0 "Union of Democrats"
  FRA_conservative_party_long:0 "Union of Democrats for the Republic"
- FRA_centrist_party:0 "Progressive Rally"
- FRA_centrist_party_long:0 "Progressive Rally"
+ FRA_centrist_party:0 "Democratic Party"
+ FRA_centrist_party_long:0 "Democratic Party"
  FRA_liberal_party:0 "Radical Party"
  FRA_liberal_party_long:0 "Radical Party"
  FRA_social_democrat_party:0 "Socialist Party"

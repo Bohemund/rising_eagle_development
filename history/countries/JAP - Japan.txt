@@ -9,7 +9,7 @@ add_ideas = {
 
 set_stability = 0.2
 set_war_support = 0.8
-
+set_convoys = 400
 set_research_slots = 4
 
 set_technology = {
@@ -35,7 +35,8 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_convoys = 400
+create_faction = japan_faction
+add_to_faction = JAP
 
 set_politics = {
 

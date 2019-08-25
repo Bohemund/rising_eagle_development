@@ -2,7 +2,7 @@ ideas = {
 
 	second_in_command = {
 
-		LEB_rafic_hariri = {
+		LEB_second_in_command_rafic_hariri = {
 
 			picture = LEB_rafic_hariri
 			
@@ -12,7 +12,6 @@ ideas = {
 			
 			available = {
 			    OR = {
-					has_government = nationalist
 					has_government = conservative
 					has_government = centrist
 					has_government = liberal
@@ -21,11 +20,30 @@ ideas = {
 
 			traits = { corporate_suit }
 		}
+
+		LEB_second_in_command_michel_aoun = {
+
+			picture = LEB_michel_aoun
+			
+			allowed = {
+				original_tag = LEB
+			}
+			
+			available = {
+			    OR = {
+					has_government = nationalist
+					has_government = centrist
+					has_government = liberal
+				} 
+			}
+
+			traits = { retired_general }
+		}
 	}
 
 	foreign_minister = {
 
-		LEB_gebran_bassil = {
+		LEB_foreign_minister_gebran_bassil = {
 
 			picture = LEB_gebran_bassil
 			
@@ -47,7 +65,7 @@ ideas = {
 
 	industry_minister = {
 
-		LEB_fouad_siniora = {
+		LEB_industry_minister_fouad_siniora = {
 
 			picture = LEB_fouad_siniora
 			
@@ -70,7 +88,7 @@ ideas = {
 
 	interior_minister = {
 
-		LEB_samir_gagea = {
+		LEB_interior_minister_samir_gagea = {
 
 			picture = LEB_samir_gagea
 			
@@ -90,7 +108,7 @@ ideas = {
 
 	intelligence_minister = {
 
-		LEB_michel_aoun = {
+		LEB_intelligence_minister_michel_aoun = {
 
 			picture = LEB_michel_aoun
 			

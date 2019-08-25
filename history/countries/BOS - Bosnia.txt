@@ -28,34 +28,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 6
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		conservative = {
-			popularity = 43
+			popularity = 38
 		}
 		centrist = {
-			popularity = 24
+			popularity = 26
 		}
 		liberal = {
-			popularity = 4
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 16
+			popularity = 4
 		}
 		democratic_socialist = {
-			popularity = 6
+			popularity = 8
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 18
 		}
 	}
 	
