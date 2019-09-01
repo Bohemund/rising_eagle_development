@@ -77,11 +77,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Mintimer Shaimiev"
+	name = "Mintimer Shajmijev"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_TAR_Mintimer_Shaimiyev.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = social_conservative
 	traits = {
 		#
 	}

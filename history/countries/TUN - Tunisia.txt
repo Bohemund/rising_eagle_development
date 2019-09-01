@@ -39,25 +39,25 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 38
 		}
 		conservative = {
-			popularity = 22
+			popularity = 20
 		}
 		centrist = {
-			popularity = 14
-		}
-		liberal = {
 			popularity = 0
 		}
+		liberal = {
+			popularity = 8
+		}
 		social_democrat = {
-			popularity = 9
+			popularity = 30
 		}
 		democratic_socialist = {
 			popularity = 0
@@ -66,21 +66,21 @@ set_politics = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 55
+			popularity = 0
 		}
 	}
 	
-	ruling_party = communist
+	ruling_party = nationalist
 	last_election = "2009.7.14"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Hédi Baccouche"
-	picture = "Portrait_TUN_Hedi_Baccouche.tga"
+	name = "Zine El Abidine Ben Ali"
+	picture = "Portrait_TUN_Zine_El_Abidine_Ben_Ali.tga"
 	expire = "2050.1.1"
-	ideology = authoritarian_democrat
+	ideology = nationalist_ideology
 	traits = {
 		
 	}

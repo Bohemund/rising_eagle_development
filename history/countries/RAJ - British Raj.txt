@@ -92,7 +92,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Udayanraje Bhosale"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Monarchist.tga"
+	picture = ""
 	expire = "2050.1.1"
 	ideology = monarchist_ideology
 	traits = {
@@ -105,7 +105,7 @@ create_country_leader = {
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
 	picture = "Portrait_RAJ_Mohan_Bhagwat.tga"
 	expire = "2050.1.1"
-	ideology = military_junta
+	ideology = nationalist_ideology
 	traits = {
 		
 	}
@@ -113,7 +113,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Narendra Modi"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	desc = "POLITICS_NARENDRA_MODI_DESC"
 	picture = "Portrait_RAJ_Narendra_Modi.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
@@ -157,11 +157,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Amar Singh"
+	name = "Mulayam Singh Yadav"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_demsocguy.tga"
+	picture = ""
 	expire = "2050.1.1"
-	ideology = moderate_socialist
+	ideology = democratic_socialist_ideology
 	traits = {
 		
 	}

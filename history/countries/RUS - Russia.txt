@@ -120,9 +120,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Dimitry Medvedev"
+	name = "Natalia Poklonskaya"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_RUS_Dmitry_Medvedev.tga"
+	picture = "Portrait_RUS_Natalia_Poklonskaya.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
 	traits = {

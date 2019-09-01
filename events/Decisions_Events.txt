@@ -573,3 +573,17 @@ country_event = {
 		name = decision_event.41.o1
 	}
 }
+
+#Second Detante
+country_event = {
+	id = decision_event.42
+	title = decision_event.42.t
+	desc = decision_event.42.d
+	picture = USA_second_detante
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.42.o1
+	}
+}

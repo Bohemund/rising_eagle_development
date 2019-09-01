@@ -336,6 +336,9 @@ ideologies = {
 			progressive = {
 			}
 
+			third_way = {
+			}
+
 			pancasila = {
 			}
 

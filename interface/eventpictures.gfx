@@ -272,4 +272,9 @@ spriteTypes = {
 		name = "USA_first_detante"
 		texturefile = "gfx/event_pictures/report_event/USA_first_detante.dds"
 	}
+
+	spriteType = {
+		name = "USA_second_detante"
+		texturefile = "gfx/event_pictures/report_event/USA_second_detante.dds"
+	}
 }
