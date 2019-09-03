@@ -21,3 +21,9 @@
  PAK_radical_socialist_party_long:0 "Pakistani Left Front"
  PAK_communist_party:0 "Communist Party"
  PAK_communist_party_long:0 "Communist Party of Pakistan"
+
+ #IDEAS
+ PAK_army_navy_rivalry:0 "Army-Navy Rivalry"
+ PAK_army_navy_rivalry_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups has made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_american_ally:0 "American Ally"
+ PAK_american_ally_desc:0 "As America's informal ally in South Asia, we benefit from significant assistance to our research."

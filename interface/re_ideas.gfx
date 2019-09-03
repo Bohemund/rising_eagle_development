@@ -211,4 +211,29 @@ spriteTypes = {
 		name = "GFX_idea_BUL_simeon_ii"
 		texturefile = "gfx/interface/ideas/BUL_simeon_ii.dds"
 	}
+
+	spriteType = {
+		name = GFX_idea_PAK_american_ally
+		texturefile = "gfx/interface/ideas/american_ally.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_rivalry
+		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_balanced.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_RAJ_protectors_of_democracy
+		texturefile = "gfx/interface/ideas/RAJ_protectors_of_democracy.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_RAJ_swadeshi
+		texturefile = "gfx/interface/ideas/RAJ_swadeshi.png"
+	}
+
+	spriteType = {
+		name = GFX_idea_RAJ_hindu_rate_of_growth
+		texturefile = "gfx/interface/ideas/RAJ_hindu_rate_of_growth.dds"
+	}
 }

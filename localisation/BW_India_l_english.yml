@@ -21,3 +21,11 @@
  RAJ_radical_socialist_party_long:0 "Aam Aadmi Party"
  RAJ_communist_party:0 "Left Front"
  RAJ_communist_party_long:0 "Left Front"
+
+ #IDEAS
+ RAJ_protectors_of_democracy:0 "Protectors of Democracy"
+ RAJ_protectors_of_democracy_desc:0 "Having helped rescue the country from authoritarianism in the Saffron Revolution, the RSS have been lauded as the protectors of democracy."
+ RAJ_hindu_rate_of_growth:0 "Hindu Rate of Growth"
+ RAJ_hindu_rate_of_growth_desc:0 "The privatization campaign of the BJS has met considerable success in economic growth at the expense of public services."
+ RAJ_swadeshi:0 "Swadeshi"
+ RAJ_swadeshi_desc:0 "Having its roots in the boycott of British goods, the Swadeshi Movement advocates for economic self-reliance.\n\n§RWe will not be able to change our trade law so long as we follow the Swadeshi Movement.§!"

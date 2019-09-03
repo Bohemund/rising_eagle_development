@@ -1,0 +1,50 @@
+ideas = {
+
+	country = {
+
+		RAJ_protectors_of_democracy = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.1
+				political_power_gain = -0.1
+			}
+		}
+	}
+
+	country = {
+
+		RAJ_hindu_rate_of_growth = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_buildings_factor = 0.1
+				war_support_factor = -0.1
+			}
+		}
+	}
+
+	country = {
+
+		RAJ_swadeshi = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = 0.05
+				local_resources_factor = 0.1
+			}
+		}
+	}
+}

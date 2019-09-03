@@ -2,6 +2,13 @@
 
 oob = "RAJ_2010"
 
+add_ideas = {
+	RAJ_protectors_of_democracy
+	RAJ_hindu_rate_of_growth
+	RAJ_swadeshi
+	closed_economy
+}
+
 set_research_slots = 4
 set_convoys = 150
 set_stability = 0.4
