@@ -35,31 +35,31 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 11
+			popularity = 10
 		}
 		nationalist = {
 			popularity = 20
 		}
 		conservative = {
-			popularity = 25
+			popularity = 26
 		}
 		centrist = {
-			popularity = 8
+			popularity = 0
 		}
 		liberal = {
-			popularity = 18
+			popularity = 14
 		}
 		social_democrat = {
-			popularity = 11
+			popularity = 8
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
 		radical_socialist = {
-			popularity = 5
+			popularity = 4
 		}
 		communist = {
-			popularity = 2
+			popularity = 18
 		}
 	}
 	
@@ -75,6 +75,17 @@ create_country_leader = {
 	picture = "Portrait_AFG_Hamid_Karzai.tga"
 	expire = "2050.1.1"
 	ideology = fiscal_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mohammad Najibullah"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_AFG_Mohammad_Najibullah.tga"
+	expire = "2050.1.1"
+	ideology = marxist
 	traits = {
 		#
 	}
