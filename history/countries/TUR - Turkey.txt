@@ -3,7 +3,6 @@
 oob = "TUR_2010"
 
 add_ideas = {
-    european_union
     TUR_unstable_coalition
     TUR_unpredictable_economy
     TUR_interventionist_military
@@ -57,19 +56,19 @@ set_politics = {
 			popularity = 24
 		}
 		liberal = {
-			popularity = 8
+			popularity = 11
 		}
 		social_democrat = {
-			popularity = 23
+			popularity = 12
 		}
 		democratic_socialist = {
-			popularity = 8
+			popularity = 10
 		}
-		radical_socialist = {
-			popularity = 0
+		libertarian_socialist = {
+			popularity = 2
 		}
 		communist = {
-			popularity = 0
+			popularity = 4
 		}
 	}
 	
@@ -137,59 +136,4 @@ create_country_leader = {
 	traits = {
 		#
 	}
-} 
-
-create_country_leader = { 
-	name = "Ertuğrul Kürkçü"
-	desc = ""
-	picture = "Portrait_TUR_Ertugrul_Kurkcu.tga"
-	expire = "2050.1.1"
-	ideology = european_moderate_socialist
-	traits = {
-		#
-	}
-} 
-
-create_country_leader = { 
-	name = "Alper Taş"
-	desc = ""
-	picture = "Portrait_TUR_Alper_Tas.tga"
-	expire = "2050.1.1"
-	ideology = communalist
-	traits = {
-		#
-	}
-} 
-
-create_country_leader = { 
-	name = "Bayezid III"
-	desc = ""
-	picture = "Portrait_TUR_Bayezid_III.tga"
-	expire = "2050.1.1"
-	ideology = absoulute_monarchist
-	traits = {
-		#
-	}
-} 
-
-create_country_leader = { 
-	name = "Deniz Baykal"
-	desc = ""
-	picture = "Portrait_TUR_Deniz_Baykal.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		#
-	}
-} 
-
-create_country_leader = { 
-	name = "Kemal Okuyan"
-	desc = ""
-	picture = "Portrait_TUR_Kemal_Okuyan.tga"
-	expire = "2050.1.1"
-	ideology = marxist
-	traits = {
-		#
-	}
-} 
+}

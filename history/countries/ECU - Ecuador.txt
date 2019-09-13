@@ -28,52 +28,41 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 18
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 35
+			popularity = 2
 		}
 		conservative = {
-			popularity = 5
+			popularity = 7
 		}
 		centrist = {
-			popularity = 8
+			popularity = 27
 		}
 		liberal = {
-			popularity = 0
+			popularity = 2
 		}
 		social_democrat = {
-			popularity = 23
+			popularity = 4
 		}
 		democratic_socialist = {
-			popularity = 10
+			popularity = 17
 		}
-		radical_socialist = {
-			popularity = 19
+		libertarian_socialist = {
+			popularity = 21
 		}
 		communist = {
-			popularity = 0
+			popularity = 2
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = centrist
 	last_election = "2009.4.26"
 	election_frequency = 84
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Lucio Gutiérrez"
-	desc = "POLITICS_FEDERICO_PAEZ_DESC"
-	picture = "Portrait_ECU_Lucio_Gutierrez.tga"
-	expire = "2050.1.1"
-	ideology = military_junta
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -82,17 +71,6 @@ create_country_leader = {
 	picture = "Portrait_ECU_Gustavo_Noboa.tga"
 	expire = "2050.1.1"
 	ideology = market_liberal
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Rafael Correa"
-	desc = "POLITICS_FEDERICO_PAEZ_DESC"
-	picture = "Portrait_ECU_Rafael_Correa.tga"
-	expire = "2050.1.1"
-	ideology = bolivarianist
 	traits = {
 		#
 	}

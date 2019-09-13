@@ -2,12 +2,8 @@ capital = 112
 
 oob = "POR_2010"
 
-add_ideas = {
-    european_union
-}
-
 set_research_slots = 4
-set_convoys = 25
+set_convoys = 500
 set_stability = 0.8
 set_war_support = 0.1
 
@@ -51,7 +47,7 @@ set_politics = {
 			popularity = 13
 		}
 		centrist = {
-			popularity = 27
+			popularity = 23
 		}
 		liberal = {
 			popularity = 0
@@ -62,8 +58,8 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 31
 		}
-		radical_socialist = {
-			popularity = 20
+		libertarian_socialist = {
+			popularity = 24
 		}
 		communist = {
 			popularity = 4
@@ -75,6 +71,9 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
+set_convoys = 25
+set_stability = 0.9
 
 #LEADERS
 

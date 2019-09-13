@@ -2,10 +2,6 @@
 
 oob = "IRE_2010"
 
-add_ideas = {
-    european_union
-}
-
 set_research_slots = 4
 set_convoys = 70
 set_stability = 0.7
@@ -66,7 +62,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 32
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {

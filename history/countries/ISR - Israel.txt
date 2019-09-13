@@ -35,71 +35,49 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 10
+			popularity = 3
 		}
 		nationalist = {
-			popularity = 21
+			popularity = 32
 		}
 		monarchist = {
-			popularity = 4
+			popularity = 0
 		}
 		conservative = {
-			popularity = 7
+			popularity = 13
 		}
 		centrist = {
-			popularity = 19
+			popularity = 7
 		}
 		liberal = {
-			popularity = 2
+			popularity = 3
 		}
 		social_democrat = {
-			popularity = 22
+			popularity = 3
 		}
 		democratic_socialist = {
-			popularity = 15
+			popularity = 35
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 4
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = democratic_socialist
 	last_election = "2009.2.10"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Meir Kahane"
+	name = "Baruch Marzel"
 	desc = ""
 	expire = "2050.1.1"
-	picture = "Portrait_ISR_Meir_Kahane.tga"
+	picture = "Portrait_ISR_Baruch_Marzel.tga"
 	ideology = ultranationalist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Benjamin Netanyahu"
-	desc = ""
-	expire = "2050.1.1"
-	picture = "Portrait_ISR_Benjamin_Netanyahu.tga"
-	ideology = national_conservative
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Ehud Barak"
-	desc = ""
-	expire = "2050.1.1"
-	picture = "Portrait_ISR_Ehud_Barak.tga"
-	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

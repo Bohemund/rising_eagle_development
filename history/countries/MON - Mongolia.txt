@@ -57,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 0
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 16
 		}
 		communist = {
@@ -85,7 +85,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ukhnaagiin Khürelsükh"
 	desc = "POLITICS_ANANDYN_AMAR_DESC"
-	picture = "Portrait_MON_Ukhnaagiin_Khurelsukh.tga"
+	picture = "Portrait_MON_Ukhnaagiin_Khurelsükh.tga"
 	expire = "2050.1.1"
 	ideology = leninist
 	traits = {

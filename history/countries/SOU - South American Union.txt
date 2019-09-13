@@ -2,18 +2,6 @@
 
 oob = "SOU_2010"
 
-add_ideas = {
-    SOU_linguistic_divide
-    SOU_military_power
-    SOU_emerging_industry
-    SOU_corrupt_society
-    SOU_Jose_Agripino_Maia
-    SOU_ernesto_araujo
-    SOU_Francisco_Dornelles
-    SOU_enzo_martins_peri
-    SOU_Rogerio_Galloro
-}
-
 set_research_slots = 4
 set_convoys = 150
 set_stability = 0.6
@@ -42,6 +30,13 @@ set_technology = {
 	interwar_antitank = 1
 }
 
+add_ideas = {
+    SOU_linguistic_divide
+    SOU_military_power
+    SOU_emerging_industry
+    SOU_corrupt_society
+}
+
 set_politics = {
 
 	parties = {
@@ -52,24 +47,24 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 30
+			popularity = 39
 		}
 		conservative = {
 			popularity = 7
 		}
 		centrist = {
-			popularity = 11
+			popularity = 2
 		}
 		liberal = {
-			popularity = 21
+			popularity = 5
 		}
 		social_democrat = {
-			popularity = 18
+			popularity = 34
 		}
 		democratic_socialist = {
 			popularity = 3
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -88,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_SOU_Antonio_Hamilton_Mourao.tga"
 	expire = "2050.1.1"
-	ideology = military_dictator
+	ideology = military_statist
 	traits = {
 		#
 	}
@@ -110,7 +105,7 @@ create_country_leader = {
 	desc = "POLITICS_PAULO_MALUF_DESC"
 	picture = "Portrait_SOU_Paulo_Maluf.tga"
 	expire = "2050.1.1"
-	ideology = national_conservative
+	ideology = authoritarian_democrat
 	traits = {
 		#
 	}
@@ -166,6 +161,17 @@ create_country_leader = {
 	picture = "Portrait_SOU_Luiz_Inacio_Lula_da_Silva.tga"
 	expire = "2050.1.1"
 	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Fernando Lugo"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "Portrait_SOU_Fernando_Lugo.tga"
+	expire = "2050.1.1"
+	ideology = christian_socialist
 	traits = {
 		#
 	}

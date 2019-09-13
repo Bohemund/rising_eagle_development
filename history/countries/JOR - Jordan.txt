@@ -39,49 +39,49 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		monarchist = {
-			popularity = 25
+			popularity = 13
 		}
 		nationalist = {
 			popularity = 13
 		}
 		conservative = {
-			popularity = 22
+			popularity = 26
 		}
 		centrist = {
-			popularity = 3
-		}
-		liberal = {
 			popularity = 14
 		}
+		liberal = {
+			popularity = 4
+		}
 		social_democrat = {
-			popularity = 5
+			popularity = 28
 		}
 		democratic_socialist = {
-			popularity = 13
+			popularity = 0
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 2
 		}
 	}
 	
-	ruling_party = monarchist
+	ruling_party = social_democrat
 	last_election = "2007.11.20"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Abdullah II"
+	name = "Omar Razzaz"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_JOR_Abdullah.tga"
+	picture = "Portrait_JOR_Omar_Razzaz.tga"
 	expire = "2050.1.1"
-	ideology = absolute_monarchist
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

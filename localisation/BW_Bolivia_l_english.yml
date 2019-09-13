@@ -3,10 +3,10 @@
  #PARTIES
  BOL_ultranationalist_party:0 "Socialist Falange"
  BOL_ultranationalist_party_long:0 "Bolivian Socialist Falange"
- BOL_monarchist_party:0 "Royalists"
- BOL_monarchist_party_long:0 "Royalists"
- BOL_nationalist_party:0 "Nationalist Action"
- BOL_nationalist_party_long:0 "Nationalist Democratic Action"
+ BOL_monarchist_party:0 "Nationalist Action"
+ BOL_monarchist_party_long:0 "Nationalist Democratic Action"
+ BOL_nationalist_party:0 "Royalists"
+ BOL_nationalist_party_long:0 "Royalists"
  BOL_conservative_party:0 "Nationalist Movement"
  BOL_conservative_party_long:0 "Revolutionary Nationalist Movement"
  BOL_centrist_party:0 "Social Christian Party"
@@ -17,10 +17,7 @@
  BOL_social_democrat_party_long:0 "National Unity Front"
  BOL_democratic_socialist_party:0 "Nationalist Left"
  BOL_democratic_socialist_party_long:0 "Nationalist Left"
- BOL_radical_socialist_party:0 "Movement for Socialism"
- BOL_radical_socialist_party_long:0 "Movement for Socialism"
+ BOL_libertarian_socialist_party:0 "Movement for Socialism"
+ BOL_libertarian_socialist_party_long:0 "Movement for Socialism"
  BOL_communist_party:0 "Communist Party"
  BOL_communist_party_long:0 "Communist Party of Bolivia"
-
- #LEADERS
- POLITICS_EVO_MORALES_DESC:0 "Evo Morales rose to prominence as a trade union activist in rural Bolivia. During the 1980’s Morales campaigned against American efforts to curtail the coca trade, which he denounced as imperialist violations of indigenous Andean culture. He entered politics in 1992, after the revolution which ousted the military dictator Hugo Banzer. By uniting various trade unions and formerly banned leftist organizations Morales formed the Movement for Socialism. What began as a small interest party for coca farmers soon emerged as a major force on the political left. The party contested every election since 1997, steadily growing in support due to popular dissatisfaction with the political establishment. In 2007 Morales unseated President Gonzalo Sánchez de Lozada, whose administration was plagued by economic mismanagement and corruption. The new socialist government has enacted numerous economic and social reforms, aimed at distributing wealth and ending the inequality that plagues the country. After transitioning into a mixed economy President Evo Morales’ next political goal has become the creation of a new constitution, aimed at better representing the diverse population of Bolivia."

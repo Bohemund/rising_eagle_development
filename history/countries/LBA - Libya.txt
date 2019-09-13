@@ -60,7 +60,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 16
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 3
 		}
 		communist = {
@@ -72,16 +72,6 @@ set_politics = {
 	last_election = "2006.11.14"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Saif al-Islam Gaddafi"
-	desc = ""
-	picture = "Portrait_LBA_Saif_al_Islam_Gaddafi.tga"
-	ideology = third_international_theory
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {

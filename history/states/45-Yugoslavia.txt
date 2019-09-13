@@ -10,7 +10,7 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = YUG
-		add_core_of = SER
+		#add_core_of = VOJ
 		
 		victory_points = { 3617 10 }	#Novi Sad
 		victory_points = { 9621 2 }		#Subotica

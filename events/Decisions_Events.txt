@@ -1,4 +1,4 @@
-add_namespace = decision_event
+﻿add_namespace = decision_event
 
 #1952 Presidential election
 country_event = {
@@ -56,6 +56,20 @@ country_event = {
 	}
 }
 
+#Suez Crisis
+country_event = {
+	id = decision_event.9
+	title = decision_event.9.t
+	desc = decision_event.9.d
+	picture = suez_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.9.o1
+	}
+}
+
 #1956 Presidential Election
 country_event = {
 	id = decision_event.5
@@ -109,20 +123,6 @@ country_event = {
 	
 	option = {   
 		name = decision_event.8.o1
-	}
-}
-
-#Suez Crisis
-country_event = {
-	id = decision_event.9
-	title = decision_event.9.t
-	desc = decision_event.9.d
-	picture = suez_crisis
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.9.o1
 	}
 }
 
@@ -294,12 +294,12 @@ country_event = {
 	}
 }
 
-#Operation Condor
+#Ho Chi Minh Campaign
 country_event = {
 	id = decision_event.22
 	title = decision_event.22.t
 	desc = decision_event.22.d
-	picture = USA_operation_condor
+	picture = VIN_ho_chi_minh_campaign
 	
 	is_triggered_only = yes
 	
@@ -336,34 +336,6 @@ country_event = {
 	}
 }
 
-#Third Taiwan Straits Crisis
-country_event = {
-	id = decision_event.26
-	title = decision_event.26.t
-	desc = decision_event.26.d
-	picture = CHI_third_taiwan_strait_crisis
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.26.o1
-	}
-}
-
-#White Flower Revolution
-country_event = {
-	id = decision_event.27
-	title = decision_event.27.t
-	desc = decision_event.27.d
-	picture = CHI_white_flower_revolution
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.27.o1
-	}
-}
-
 #1976 US Presidential Election
 country_event = {
 	id = decision_event.25
@@ -375,89 +347,5 @@ country_event = {
 	
 	option = {   
 		name = decision_event.25.o1
-	}
-}
-
-#1976 US Presidential Election
-country_event = {
-	id = decision_event.28
-	title = decision_event.28.t
-	desc = decision_event.28.d
-	picture = ISR_six_day_war
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.28.o1
-	}
-}
-
-#Almaty Summit
-country_event = {
-	id = decision_event.29
-	title = decision_event.29.t
-	desc = decision_event.29.d
-	picture = RUS_almaty_summit
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.29.o1
-	}
-}
-
-#1986 Russian Election
-country_event = {
-	id = decision_event.30
-	title = decision_event.30.t
-	desc = decision_event.30.d
-	picture = RUS_1986_election
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.30.o1
-	}
-}
-
-#Putschist Trials
-country_event = {
-	id = decision_event.31
-	title = decision_event.31.t
-	desc = decision_event.31.d
-	picture = RUS_putschist_trials
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.31.o1
-	}
-}
-
-#Bolivian National Revolution
-country_event = {
-	id = decision_event.32
-	title = decision_event.32.t
-	desc = decision_event.32.d
-	picture = BOL_national_revolution
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.32.o1
-	}
-}
-
-#Azerbaijan Islamic Revolution
-country_event = {
-	id = decision_event.33
-	title = decision_event.33.t
-	desc = decision_event.33.d
-	picture = AZR_islamic_revolution
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.33.o1
 	}
 }

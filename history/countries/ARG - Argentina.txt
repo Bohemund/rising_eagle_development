@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
@@ -51,37 +51,37 @@ set_politics = {
 			popularity = 19
 		}
 		centrist = {
-			popularity = 7
-		}
-		liberal = {
 			popularity = 3
 		}
+		liberal = {
+			popularity = 38
+		}
 		social_democrat = {
-			popularity = 36
+			popularity = 7
 		}
 		democratic_socialist = {
 			popularity = 6
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = liberal
 	last_election = "2007.10.28"
 	election_frequency = 72
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Cristina Fernández de Kirchner"
+	name = "Néstor Kirchner"
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
-	picture = "Portrait_ARG_Cristina_Fernandez_de_Kirchner.tga"
+	picture = "Portrait_ARG_Nestor_Kirchner.tga"
 	expire = "2050.1.1"
-	ideology = peronist
+	ideology = nationalist_ideology
 	traits = {
 		#
 	}

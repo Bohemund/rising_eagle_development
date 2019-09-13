@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 3
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
@@ -62,11 +62,11 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 9
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 3
 		}
 	}
 	
@@ -77,55 +77,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Qasem Soleimani"
-	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Qasem_Soleimani.tga"
-	expire = "2050.1.1"
-	ideology = revolutionary_islamist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Reza Pahlavi"
-	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Reza_Pahlavi.tga"
-	expire = "2050.1.1"
-	ideology = absolute_monarchist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Mahmoud Ahmadinejad"
-	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Mahmoud_Ahmedinejad.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "Akbar Hashemi Rafsanjani"
 	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
 	picture = "Portrait_PER_Akbar_Rafsanjani.tga"
 	expire = "2050.1.1"
 	ideology = islamic_democrat
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Hossein Kamali"
-	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Hossein_Kamali.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

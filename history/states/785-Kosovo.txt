@@ -10,7 +10,6 @@ state={
 		}
 		add_core_of = ALB
 		add_core_of = YUG
-		add_core_of = SER
 		set_demilitarized_zone = no
 		victory_points = { 9890 7 }	#Pristina
 		victory_points = { 9849 2 }	#Prizren

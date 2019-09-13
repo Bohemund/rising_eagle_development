@@ -34,46 +34,35 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 36
+			popularity = 2
 		}
 		conservative = {
-			popularity = 13
+			popularity = 40
 		}
 		centrist = {
-			popularity = 0
+			popularity = 6
 		}
 		liberal = {
-			popularity = 31
+			popularity = 37
 		}
 		social_democrat = {
 			popularity = 0
 		}
 		democratic_socialist = {
-			popularity = 6
+			popularity = 0
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 11
 		}
 		communist = {
-			popularity = 3
+			popularity = 4
 		}
 	}
 	
-	ruling_party = nationalist
+	ruling_party = conservative
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "Lino Oviedo"
-	desc = "POLITICS_RAFAEL_FRANCO_DESC"
-	picture = "Portrait_PAR_Lino_Oviedo.tga"
-	expire = "2050.1.1"
-	ideology = military_junta
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
@@ -82,17 +71,6 @@ create_country_leader = {
 	picture = "Portrait_PAR_Horacio_Cartes.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Fernando Lugo"
-	desc = "POLITICS_RAFAEL_FRANCO_DESC"
-	picture = "Portrait_PAR_Fernando_Lugo.tga"
-	expire = "2050.1.1"
-	ideology = christian_communist
 	traits = {
 		#
 	}

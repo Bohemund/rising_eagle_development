@@ -51,7 +51,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 3
 		}
-		radical_socialist = {
+		libertarian_socialist = {
 			popularity = 32
 		}
 		communist = {
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_GUY_David_Granger.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = libertarian_socialist_ideology
 	traits = {
 		#
 	}
