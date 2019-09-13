@@ -1,4 +1,35 @@
 spriteTypes = {
+### REPUBLIC OF MEXICO ###
+
+	spriteType = {
+		name = "GFX_MEX_amlo_supporters_riot"
+		texturefile = "gfx/event_pictures/report_event/MEX_amlo_supporters_riot.dds"
+	}
+
+	spriteType = {
+		name = "GFX_MEX_amlo_endorses_movement"
+		texturefile = "gfx/event_pictures/report_event/MEX_amlo_endorses_movement.dds"
+	}
+
+	spriteType = {
+		name = "GFX_MEX_president_adresses_crisis"
+		texturefile = "gfx/event_pictures/report_event/MEX_president_adresses_crisi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_MEX_synarchists_march"
+		texturefile = "gfx/event_pictures/report_event/MEX_synarchists_march.dds"
+	}
+
+	spriteType = {
+		name = "GFX_MEX_protests_become_riots"
+		texturefile = "gfx/event_pictures/report_event/MEX_protests_become_riots.dds"
+	}
+
+	spriteType = {
+		name = "GFX_MEX_amlo_declares_legitimate_president"
+		texturefile = "gfx/event_pictures/report_event/MEX_amlo_declares_legitimate_president.dds"
+	}
 
 ### SOUTH AMERICAN UNION ####
 

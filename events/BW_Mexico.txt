@@ -1,0 +1,58 @@
+add_namespace = mexico
+
+# Amlo supporters riot
+country_event = {
+	id = mexico.1
+	title = mexico.1.t
+	desc = mexico.1.d
+	picture = GFX_MEX_amlo_supporters_riot
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = MEX
+		date > 2010.1.20
+		date < 2010.1.31
+	}
+	
+	option = {
+		name = mexico.1.a
+		add_stability = -0.025
+		add_political_power = -50
+		add_popularity = {
+			ideology = social_democrat
+			popularity = 0.03
+		}
+		hidden_effect = {
+		 	MEX = {
+		        country_event = { days = 10 id = mexico.2 } 
+		    }
+		}
+	}
+}
+# Synarchists join protests
+country_event = {
+	id = mexico.2
+	title = mexico.2.t
+	desc = mexico.2.d
+	picture = GFX_MEX_synarchists_march
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes 
+	
+	option = {
+		name = mexico.2.a
+		add_stability = -0.015
+		add_political_power = -25
+		add_popularity = {
+			ideology = ultranationalist
+			popularity = 0.02
+		}
+		hidden_effect = {
+		 	MEX = {
+		        country_event = { days = 10 id = mexico.3 } 
+		    }
+		}
+	}
+}
