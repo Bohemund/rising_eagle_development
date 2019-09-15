@@ -79,16 +79,25 @@ set_politics = {
 #LEADERS
 
 create_country_leader = {
-	name = "Carlos María Abascal Carranza"
+	name = "Juan Carlos López Lee"
 	desc = ""
-	picture = "Portrait_MEX_Carlos_Maria_Abascal_Carranza.tga"
+	picture = "Portrait_MEX_Juan_Carlos_Lopez_Lee.tga"
 	expire = "2050.1.1"
 	ideology = mexican_synarchist
 	traits = {
 		
 	}
 }
-
+create_country_leader = {
+	name = "Ernesto Cordero Arroyo"
+	desc = ""
+	picture = "Portrait_MEX_Ernesto_Cordero_Arroyo.tga"
+	expire = "2050.1.1"
+	ideology = conservative_ideology
+	traits = {
+		
+	}
+}
 create_country_leader = {
 	name = "Roberto Madrazo"
 	desc = ""
@@ -101,9 +110,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jesus Ortega"
+	name = "Andrés Manuel López Obrador"
 	desc = ""
-	picture = "Portrait_MEX_Jesus_Ortega.tga"
+	picture = "Portrait_MEX_AMLO.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {
