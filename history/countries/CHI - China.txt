@@ -103,6 +103,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Wan Gang"
+	desc = "POLITICS_XU_WENLI_DESC"
+	picture = "Portrait_CHI_Wan_Gang.tga"
+	expire = "2050.1.1"
+	ideology = classical_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Wang Yang"
 	desc = "POLITICS_XU_WENLI_DESC"
 	picture = "Portrait_CHI_Wang_Yang.tga"

@@ -34,16 +34,16 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 100
+			popularity = 40
 		}
 		conservative = {
-			popularity = 0
+			popularity = 20
 		}
 		centrist = {
-			popularity = 0
+			popularity = 28
 		}
 		liberal = {
-			popularity = 0
+			popularity = 12
 		}
 		social_democrat = {
 			popularity = 0
@@ -66,9 +66,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Sidik Mia"
+	name = "Lazarus Chakwera"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_MLW_Sidik_Mia.tga"
+	picture = "Portrait_MLW_Lazarus_Chakwera.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {

@@ -4,7 +4,6 @@ oob = "DEN_2010"
 
 add_ideas = {
     nordic_economic_community
-    idea_nato
     ingolf
 }
 
@@ -40,25 +39,25 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 26
+			popularity = 24
 		}
 		conservative = {
-			popularity = 7
+			popularity = 8
 		}
 		centrist = {
-			popularity = 19
+			popularity = 20
 		}
 		liberal = {
-			popularity = 10
+			popularity = 6
 		}
 		social_democrat = {
-			popularity = 28
+			popularity = 30
 		}
 		democratic_socialist = {
-			popularity = 2
+			popularity = 8
 		}
 		radical_socialist = {
-			popularity = 8
+			popularity = 4
 		}
 		communist = {
 			popularity = 0

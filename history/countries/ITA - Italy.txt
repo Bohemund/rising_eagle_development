@@ -4,7 +4,6 @@ oob = "ITA_2010"
 
 add_ideas = {
     european_union
-    idea_nato
 }
 
 set_research_slots = 4
@@ -60,10 +59,10 @@ set_politics = {
 			popularity = 6
 		}
 		democratic_socialist = {
-			popularity = 0
+			popularity = 20
 		}
 		radical_socialist = {
-			popularity = 20
+			popularity = 0
 		}
 		communist = {
 			popularity = 12
@@ -77,11 +76,22 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Luca Romagnoli "
+	name = "Giorgia Meloni"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Luca_Romagnoli.tga"
+	picture = "Portrait_ITA_Giorgia_Meloni.tga"
 	expire = "2050.1.1"
 	ideology = fascist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Silvio Berlusconi"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Silvio_Berlusconi.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
 	traits = {
 		
 	}
@@ -110,22 +120,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Enrico Rossi"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Enrico_Rossi.tga"
-	expire = "2050.1.1"
-	ideology = moderate_socialist
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
 	name = "Fausto Bertinotti"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_ITA_Fausto_Bertinotti.tga"
 	expire = "2050.1.1"
-	ideology = eurocommunist
+	ideology = leninist
 	traits = {
 		
 	}

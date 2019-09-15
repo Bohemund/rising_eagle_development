@@ -3,7 +3,7 @@
 oob = "ICE_2010"
 
 add_ideas = {
-    idea_nato
+    #
 }
 
 set_research_slots = 3

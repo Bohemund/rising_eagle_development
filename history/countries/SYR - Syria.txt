@@ -74,7 +74,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Bassel al-Assad"
-	desc = ""
+	desc = "POLITICS_BASSEL_AL_ASSAD_DESC"
 	picture = "Portrait_SYR_Bassel_al_Assad.tga"
 	ideology = baathist
 	traits = {

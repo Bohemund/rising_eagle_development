@@ -3,7 +3,6 @@
 oob = "ENG_2010"
 
 add_ideas = {
-    idea_nato
     idea_queen_elizabeth_ii
     ENG_the_troubles
 }    
@@ -127,7 +126,7 @@ create_country_leader = {
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "Portrait_ENG_Hilary_Benn.tga"
 	expire = "2050.1.1"
-	ideology = third_way
+	ideology = new_democrat
 	traits = {
 		
 	}

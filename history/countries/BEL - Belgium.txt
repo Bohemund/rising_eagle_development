@@ -4,7 +4,6 @@ oob = "BEL_2010"
 
 add_ideas = {
     european_union
-    idea_nato
     BEL_albert_ii
 }
 

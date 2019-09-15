@@ -49,25 +49,25 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 14
 		}
 		centrist = {
 			popularity = 25
 		}
 		liberal = {
-			popularity = 7
+			popularity = 8
 		}
 		social_democrat = {
-			popularity = 33
+			popularity = 40
 		}
 		democratic_socialist = {
-			popularity = 11
+			popularity = 8
 		}
 		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 2
+			popularity = 0
 		}
 	}
 	
@@ -102,9 +102,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Göran Persson"
+	name = "Margot Wallström"
 	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
-	picture = "Portrait_SWE_Goran_Persson.tga"
+	picture = "Portrait_SWE_Margot_Wallstrom.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

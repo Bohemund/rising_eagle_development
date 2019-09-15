@@ -76,6 +76,8 @@
  fujimorist_desc:0 "Fujimorism denotes the policies and the political ideology of former President of Peru Alberto Fujimori as well as the personality cult built around him, his policies and his family. The ideology is defined by its support for social conservatism and free market economics, as well as its opposition to both the far-left and far-right."
  peronist:0 "Peronism"
  peronist_desc:0 "Peronism is an Argentine political movement based on the political ideology and legacy of former President Juan Domingo Perón and his wife Isabel Martínez de Perón. The pillars of the Peronist ideal, known as the "three flags", are social justice, economic independence and political sovereignty. Peronism espouses corporatism and thus aims to mediate tensions between the classes of society, with the state responsible for negotiating compromise in conflicts between managers and workers."
+ american_nationalist:0 "American Nationalism"
+ american_nationalist_desc:0 "American nationalism is the extreme side of patriotism for the United States. It is a conservative ideology that supports Christian ethics, limited government and economic nationalism."
 
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
@@ -116,8 +118,8 @@
  social_democrat_ideology_desc:0 "Social Democracy is an ideology that supports economic and social interventions to promote social justice within the framework of a liberal democratic polity and capitalist economy."
  progressive:0 "Progressivism"
  progressive_desc:0 "Progressivism is a philosophy based on the idea of progress, which asserts that advancements in science, technology, economic development and social organisation are vital to the human condition."
- third_way:0 "Third Way"
- third_way_desc:0 "The Third Way is a position akin to centrism that tries to reconcile right-wing and left-wing politics by advocating a varying synthesis of some centre-right and centrist economic platforms with leftist social policies. "
+ new_democrat:0 "New Democracy"
+ new_democrat_desc:0 "New Democracy is a position among social democrats akin to centrism that tries to reconcile right-wing and left-wing politics by advocating a varying synthesis of some centrist economic platforms with leftist social policies."
  pancasila:0 "Pancasila"
  pancasila_desc:0 "Pancasila is the official, foundational philosophical theory of the Indonesian state. It is vaguely related to socialism, nationalism and is exclusively Indonesian in nature. The philosophy is composed of five principles and contends that they are inseparable and interrelated: Monotheism, a just and civilized humanity, a unified Indonesia, Democracy and Social Justice."
  kemalist:0 "Kemalism"
@@ -146,6 +148,8 @@
  luxemburgist_desc:0 "Luxemburgism is a variant of revolutionary theory based on the writings of Rosa Luxemburg. Chief tenets of Luxemburgism are a commitment to democracy and the necessity of the revolution taking place as soon as possible. It is similar to council communism and leftist libertarianism or even anarchism."
  buddhist_socialist:0 "Buddhist Socialism"
  buddhist_socialist_desc:0 "Buddhist socialism seeks an end to suffering by analyzing its conditions and removing its main causes through praxis. It also seeks to provide a transformation of personal consciousness on a moral and spiritual level, to bring an end to human alienation and selfishness."
+ libertarian_socialist:0 "Libertarian Socialism"
+ libertarian_socialist_desc:0 "Libertarian socialism is a set of anti-authoritarian and anti-statist political philosophies within the socialist movement which rejects the conception of socialism as a form where the state retains centralized control of the economy."
 
  #COMMUNISM
  marxist:0 "Marxism"
@@ -160,8 +164,6 @@
  maoist_desc:0 "Maoism claims that peasants should be the essential revolutionary class, because, contrary to their industrial working comrades, they were more suited to establishing a successful revolution and socialist society."
  titoist:0 "Titoism"
  titoist_desc:0 "Elements of Titoism are characterised by policies and practices based on the principle that in each country, the means of attaining ultimate communist goals must be dictated by the conditions of that particular country, rather than a pattern set in another country. Some of Tito's policies also included self-management."
- eurocommunist:0 "Eurocommunism"
- eurocommunist_desc:0 "Eurocommunism is a revisionist trend within various Western European communist parties, which say they have developed a theory and practice of social transformation more relevant for Western Europe. Eurocommunist parties support democratic institutions, public sector middle-class workers and greater independence for their respective countries."
 
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"

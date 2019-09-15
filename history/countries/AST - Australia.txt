@@ -83,6 +83,28 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Tony Abbott"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Tony_Abbott.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Malcolm Turnbull"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Malcolm_Turnbull.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Tanya Plibersek"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_AST_Tanya_Plibersek.tga"

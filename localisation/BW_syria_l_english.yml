@@ -7,13 +7,13 @@
  SYR_monarchist_party_long:0 "House of Hashim"
  SYR_nationalist_party:0 "Arab Liberation Front"
  SYR_nationalist_party_long:0 "Arab Liberation Front"
- SYR_conservative_party:0 "Progressive Islamists"
+ SYR_conservative_party:0 "Islamic Coalition"
  SYR_conservative_party_long:0 "Progressive Islamic Coalition"
  SYR_centrist_party:0 "Unionist Party"
  SYR_centrist_party_long:0 "Syrian Unionist Party"
  SYR_liberal_party:0 "People's Party"
  SYR_liberal_party_long:0 "People's Party"
- SYR_social_democrat_party:0 "Social Democratic Unionists"
+ SYR_social_democrat_party:0 "Social Democrats"
  SYR_social_democrat_party_long:0 "Social Democratic Unionist Party"
  SYR_democratic_socialist_party:0 "Arab Socialist Union"
  SYR_democratic_socialist_party_long:0 "Arab Socialist Union"
@@ -21,3 +21,6 @@
  SYR_radical_socialist_party_long:0 "Democratic Union Party"
  SYR_communist_party:0 "Communist Party"
  SYR_communist_party_long:0 "Syrian Communist Party"
+
+ #LEADERS
+ POLITICS_BASSEL_AL_ASSAD_DESC:0 "Bassel al-Assad is the son and successor of President Hafez al-Assad, who led the Syrian regional government of the United Arab Republic and the subsequent independent Syrian Arab Republic from 1971 until his death in 2000. Bassel received military training in the Soviet Union and rapidly progressed through the ranks of the Syrian military, becoming a commander of the Republican Guard. After his father fell into a coma in 1984, his uncle Rifaat al-Assad attempted to usurp power. When Hafez returned from his sick bed and assumed full power, Rifaat was exiled and Bassel became his father’s de-facto heir. He began accompanying his father to official meetings and was introduced to foreign leaders. He became a security officer in the presidential palace and the military began displaying his portraits. In the late 90s he appointed a new generation of Alawite security officers in order to secure his succession plans. After his father died in 2000, he was elected president of Syria, commander-in-chief and Regional Secretary of the Ba’ath Party. Known as a staunch loyalist to his father’s vision of Ba’athism, Bassel has done little to reform the Syrian political system. The government remains a de-facto military dictatorship and the state maintains control over most of the economy. Despite this he has developed a new doctrine on foreign policy, mending relations with the Ba’athist regime in Iraq and seeking other potential allies against their rival, the State of Israel."

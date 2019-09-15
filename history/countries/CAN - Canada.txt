@@ -3,7 +3,7 @@
 oob = "CAN_2010"
 
 add_ideas = {
-    idea_nato
+    #
 } 
 
 set_research_slots = 4
@@ -75,6 +75,17 @@ create_country_leader = {
 	picture = "Portrait_CAN_Preston_Manning.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bob Rae"
+	desc = "POLITICS_MACKENZIE_KING_DESC"
+	picture = "Portrait_CAN_Bob_Rae.tga"
+	expire = "2050.1.1"
+	ideology = new_democrat
 	traits = {
 		#
 	}

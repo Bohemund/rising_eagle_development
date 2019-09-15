@@ -108,9 +108,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jesus Ortega"
+	name = "Andrés Manuel López Obrador"
 	desc = ""
-	picture = "Portrait_MEX_Jesus_Ortega.tga"
+	picture = "Portrait_MEX_Andres_Manuel_Lopez_Obrador.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

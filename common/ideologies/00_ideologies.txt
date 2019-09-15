@@ -336,7 +336,7 @@ ideologies = {
 			progressive = {
 			}
 
-			third_way = {
+			new_democrat = {
 			}
 
 			pancasila = {
@@ -460,6 +460,9 @@ ideologies = {
 
 			african_socialist = {
 			}
+
+			libertarian_socialist = {
+			}
 			
 		}
 		
@@ -514,9 +517,6 @@ ideologies = {
 			}
 
 			titoist = {
-			}
-
-			eurocommunist = {
 			}
 			
 		}

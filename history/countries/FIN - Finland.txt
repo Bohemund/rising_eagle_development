@@ -4,7 +4,6 @@ oob = "FIN_2010"
 
 add_ideas = {
     nordic_economic_community
-    idea_nato
 }
 
 
