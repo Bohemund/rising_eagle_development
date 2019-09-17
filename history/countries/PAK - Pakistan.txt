@@ -4,7 +4,8 @@ oob = "PAK_2010"
 
 add_ideas = {
 	PAK_army_navy_rivalry
-	PAK_american_ally
+	PAK_american_expertise
+	PAK_language_divide
 }
 
 set_research_slots = 4

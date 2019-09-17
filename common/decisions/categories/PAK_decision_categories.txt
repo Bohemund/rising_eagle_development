@@ -1,0 +1,11 @@
+PAK_army_navy_rivalry_category = {
+	icon = GFX_decision_category_army_navy_rivalry
+
+	allowed = {
+		original_tag = PAK
+	}
+
+	visible = {
+		original_tag = PAK
+	}
+}

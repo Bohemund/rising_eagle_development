@@ -1,0 +1,147 @@
+PAK_army_navy_rivalry_category = {
+	
+	balanced_to_army_strengthened = {	# strengthen army
+		icon = GFX_decision_generic_tank
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_army_strengthened
+			remove_ideas = PAK_army_navy_rivalry
+		}
+	}
+
+	balanced_to_navy_strengthened = {	# strengthen navy
+		icon = GFX_decision_generic_naval
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_navy_strengthened
+			remove_ideas = PAK_army_navy_rivalry
+		}
+	}
+
+	army_strengthened_to_army_dominant = {	# strengthen army
+		icon = GFX_decision_generic_tank
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_strengthened
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_strengthened
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_army_dominant
+			remove_ideas = PAK_army_navy_rivalry_army_strengthened
+		}
+	}
+
+	navy_strengthened_to_navy_dominant = {	# strengthen navy
+		icon = GFX_decision_generic_naval
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_strengthened
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_strengthened
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_navy_dominant
+			remove_ideas = PAK_army_navy_rivalry_navy_strengthened
+		}
+	}
+
+	army_dominant_to_army_strengthened = {	# strengthen navy
+		icon = GFX_decision_generic_naval
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_dominant
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_dominant
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_army_strengthened
+			remove_ideas = PAK_army_navy_rivalry_army_dominant
+		}
+	}
+
+	army_strengthened_to_balanced = {	# strengthen navy
+		icon = GFX_decision_generic_naval
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_strengthened
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_army_strengthened
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry
+			remove_ideas = PAK_army_navy_rivalry_army_strengthened
+		}
+	}
+
+	navy_dominant_to_navy_strengthened = {	# strengthen army
+		icon = GFX_decision_generic_tank
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_dominant
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_dominant
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry_navy_strengthened
+			remove_ideas = PAK_army_navy_rivalry_navy_dominant
+		}
+	}
+
+	navy_strengthened_to_balanced = {	# strengthen army
+		icon = GFX_decision_generic_tank
+
+		visible = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_strengthened
+		}
+		cost = 50
+		available = {
+			original_tag = PAK
+			has_idea = PAK_army_navy_rivalry_navy_strengthened
+		}
+		complete_effect = {
+			add_ideas = PAK_army_navy_rivalry
+			remove_ideas = PAK_army_navy_rivalry_navy_strengthened
+		}
+	}
+}
+

@@ -213,13 +213,38 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = GFX_idea_PAK_american_ally
-		texturefile = "gfx/interface/ideas/american_ally.dds"
+		name = GFX_idea_PAK_american_expertise
+		texturefile = "gfx/interface/ideas/american_expertise.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_language_divide
+		texturefile = "gfx/interface/ideas/language_divide.dds"
 	}
 
 	spriteType = {
 		name = GFX_idea_PAK_army_navy_rivalry
 		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_balanced.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_rivalry_army_strengthened
+		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_army_strengthened.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_rivalry_army_dominant
+		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_army_dominant.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_rivalry_navy_strengthened
+		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_navy_strengthened.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_rivalry_navy_dominant
+		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_navy_dominant.dds"
 	}
 
 	spriteType = {
@@ -235,5 +260,10 @@ spriteTypes = {
 	spriteType = {
 		name = GFX_idea_RAJ_hindu_rate_of_growth
 		texturefile = "gfx/interface/ideas/RAJ_hindu_rate_of_growth.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_TAM_memories_of_black_july
+		texturefile = "gfx/interface/ideas/TAM_memories_of_black_july.dds"
 	}
 }

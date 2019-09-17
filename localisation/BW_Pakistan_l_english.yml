@@ -23,7 +23,105 @@
  PAK_communist_party_long:0 "Communist Party of Pakistan"
 
  #IDEAS
- PAK_army_navy_rivalry:0 "Army-Navy Rivalry"
- PAK_army_navy_rivalry_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups has made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
- PAK_american_ally:0 "American Ally"
- PAK_american_ally_desc:0 "As America's informal ally in South Asia, we benefit from significant assistance to our research."
+ PAK_army_navy_rivalry:0 "Army-Navy Rivalry - Balanced"
+ PAK_army_navy_rivalry_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups have made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_army_navy_rivalry_army_strengthened:0 "Army-Navy Rivalry - Army Strengthened"
+ PAK_army_navy_rivalry_army_strengthened_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups have made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_army_navy_rivalry_army_dominant:0 "Army-Navy Rivalry - Army Dominant"
+ PAK_army_navy_rivalry_army_dominant_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups have made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_army_navy_rivalry_navy_strengthened:0 "Army-Navy Rivalry - Navy Strengthened"
+ PAK_army_navy_rivalry_navy_strengthened_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups have made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_army_navy_rivalry_navy_dominant:0 "Army-Navy Rivalry - Navy Dominant"
+ PAK_army_navy_rivalry_navy_dominant_desc:0 "As part of our concessions to the Awami League, our military has been split between East and West Pakistan. The bulk of the army resides in the West and is loyal to Islamabad, being primarily made up of Urdu-speaking Punjabis and their Muhajir officers. The comparatively homogenous navy, which is virtually entirely based out of Dhaka, is dominated by Bengalis that are fervently loyal to the Awami League. Conflicting interests between the two groups have made coordinating our military into a byzantine affair of diplomatic manuevering.\n\n§RIf relations between the East and West strain further, we may find ourselves facing not only the discontent of the populace but also mutiny and armed revolt...§!"
+ PAK_american_expertise:0 "American Expertise"
+ PAK_american_expertise_desc:0 "As America's informal ally in South Asia, we benefit from significant assistance to our research."
+ PAK_language_divide:0 "Language Divide"
+ PAK_language_divide_desc:0 "While the co-officiality of Urdu, Bengali, and English works well to placate our linguistic minorities, it makes our bureaucracy, especially that of the military, exceedingly inefficient."
+
+ #DECISIONS
+ PAK_army_navy_rivalry_category:0 "Army-Navy Rivalry"
+ PAK_army_navy_rivalry_category_desc:0 "While we can't easily resolve the rivalry between our army and navy, we can at least favor one of the two for the time being. This will allow us to better operate one at the cost of the other's efficiency."
+ 
+ balanced_to_army_strengthened:0 "Favor the Army"
+ balanced_to_army_strengthened_desc:0 "At the cost of our navy's efficiency, we can strengthen our army."
+ 
+ balanced_to_navy_strengthened:0 "Favor the Navy"
+ balanced_to_navy_strengthened_desc:0 "At the cost of our army's efficiency, we can strengthen our navy."
+ 
+ army_strengthened_to_army_dominant:0 "Favor the Army"
+ army_strengthened_to_army_dominant_desc:0 "At the cost of our navy's efficiency, we can strengthen our army."
+ 
+ navy_strengthened_to_navy_dominant:0 "Favor the Navy"
+ navy_strengthened_to_navy_dominant_desc:0 "At the cost of our army's efficiency, we can strengthen our navy."
+ 
+ army_dominant_to_army_strengthened:0 "Favor the Navy"
+ army_dominant_to_army_strengthened_desc:0 "At the cost of our army's efficiency, we can strengthen our navy."
+ 
+ army_strengthened_to_balanced:0 "Favor the Navy"
+ army_strengthened_to_balanced_desc:0 "At the cost of our army's efficiency, we can strengthen our navy."
+ 
+ navy_dominant_to_navy_strengthened:0 "Favor the Army"
+ navy_dominant_to_navy_strengthened_desc:0 "At the cost of our navy's efficiency, we can strengthen our army."
+ 
+ navy_strengthened_to_balanced:0 "Favor the Army"
+ navy_strengthened_to_balanced_desc:0 "At the cost of our navy's efficiency, we can strengthen our army."
+
+ #NATIONAL FOCUSES
+ PAK_reassess_the_confederation:0 "Reassess the Confederation"
+ PAK_reassess_the_confederation_desc:0 "Following the embarrassment of our latest training accident, it has become pertinent that we reassess our government's structure."
+
+ PAK_streamline_the_status_quo:0 "Streamline the Status Quo"
+ PAK_streamline_the_status_quo_desc:0 "We don't need to radically restructure our government. We can get by with minor changes."
+
+ PAK_encourage_bilingualism:0 "Encourage Bilingualism"
+ PAK_encourage_bilingualism_desc:0 "By encouraging Urdu-Bengali bilingualism in our military and preferentially promoting bilingual officers, we can reduce miscommunication."
+
+ PAK_divide_military_functions:0 "Divide Military Functions"
+ PAK_divide_military_functions_desc:0 "Instead of restructuring our army and navy, we can simply delineate their functions more harshly."
+
+ PAK_good_enough:0 "Good Enough"
+ PAK_good_enough_desc:0 "While everyone knows the changes we've made are mostly cosmetic, we've done enough to shut up the press and satisfy the populace for the next few years."
+
+ PAK_open_renegotiations:0 "Open Renegotiations"
+ PAK_open_renegotiations_desc:0 "It is not enough to make minor changes. We must renegotiate the treaty that formed the confederation if we are to persist."
+
+ PAK_invite_the_muslim_league:0 "Invite the Muslim League"
+ PAK_invite_the_muslim_league_desc:0 "It is pertinent that we work with the Muslim League in renegotiating the confederation as they are the dominant party of West Pakistan and helped form the original confederation."
+
+ PAK_invite_the_awami_league:0 "Invite the Awami League"
+ PAK_invite_the_awami_league_desc:0 "It is pertinent that we work with the Awami League in renegotiating the confederation as they are the dominant party of East Pakistan and helped form the original confederation."
+
+ PAK_address_the_six_points:0 "Address the Six Points"
+ PAK_address_the_six_points_desc:0 "As the Six Points submitted by the Awami League and accepted by the Muslim League in 1966 formed the basis of our confederation, it is necessary that we address them, especially the hindrances presened by them, before we proceed."
+
+ PAK_military_factionalism:0 "Military Factionalism"
+ PAK_military_factionalism_desc:0 "Our military is rife with factionalist disputes, primarily between Bengalis, Punjabis, and Muhajirs. It's necessary that we resolve these if we are to possess a modern, functional military."
+
+ PAK_the_two_rupees:0 "The Two Rupees"
+ PAK_the_two_rupees_desc:0 "Within the confederation, there exists two separate but freely convertible currencies. The hassle of the East and West Pakistani Rupees have come to be an economic burden, so it's important that we do something about it."
+
+ PAK_the_language_divide:0 "The Language Divide"
+ PAK_the_language_divide_desc:0 "The most glaring issue within our confederation by far is that of language. With Urdu, Bengali, and English co-official in the confederation, our bureaucracy has become bloated and inefficient. Finding an amicable solution to the divide is necessary if the confederation is to be functional."
+
+ PAK_pakistan_zindabad:0 "Pakistan Zindabad!"
+ PAK_pakistan_zindabad_desc:0 "Victory to Pakistan! We have successfully renegotiated the confederation into a vastly more operable, efficient government. We can expect stability and prosperity in the future."
+
+ PAK_negotiations_collapse:0 "Negotiations Collapse"
+ PAK_negotiations_collapse_desc:0 "We simply could not come to a new agreement on the confederation. Perhaps it was never meant to be?"
+
+ PAK_return_to_status_quo:0 "Return to Status Quo"
+ PAK_return_to_status_quo_desc:0 "Perhaps we were too ambitious in our efforts to alter the confederation. Minor efforts may be more suitable."
+
+ PAK_the_bangladesh_proposal:0 "The Bangladesh Proposal"
+ PAK_the_bangladesh_proposal_desc:0 "Following our failure to renegotiate the confederation, several members of the Awami League have begun to believe that even the original was a mistake. Arguments have erupted across all of Pakistan over whether the East and West ought to split."
+
+
+ PAK_amicable_separation:0 "Amicable Separation"
+ PAK_amicable_separation_desc:0 "Though many of us are opposed to separation, we recognize that an amicable separation is preferable to a bloody war. It is for this reason that we shall dissolve the confederation, splitting the East and West."
+
+ PAK_march_on_dhaka:0 "March on Dhaka"
+ PAK_march_on_dhaka_desc:0 "Hardliners in the Muslim League are outraged by the mere suggestion of Bengali separatism, especially after what they view as the exceedingly concessionary original confederation being created to begin with. Leveraging their connections to the military, they have begun moving troops into Dhaka in a bid to declare martial law and maintain the country's integrity. This will not end well."
+
+ #TOOLTIPS
+ PAK_training_accident:0 "We have had a horrific training accident."
+ 

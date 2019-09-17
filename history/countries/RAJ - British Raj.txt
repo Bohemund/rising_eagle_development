@@ -120,7 +120,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Narendra Modi"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	desc = "POLITICS_NARENDRA_MODI_DESC"
 	picture = "Portrait_RAJ_Narendra_Modi.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative

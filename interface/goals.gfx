@@ -4730,7 +4730,40 @@ spriteTypes = {
 	}
 
 
+	SpriteType = {
+	name = "GFX_focus_PAK_divide_military_functions"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_divide_military_functions.dds"
+	}
 
+	SpriteType = {
+	name = "GFX_focus_PAK_good_enough"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_good_enough.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_invite_the_muslim_league"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_invite_the_muslim_league.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_invite_the_awami_league"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_invite_the_awami_league.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_military_factionalism"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_military_factionalism.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_the_two_rupees"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_the_two_rupees.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_return_to_status_quo"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_return_to_status_quo.dds"
+	}
 
 
 }

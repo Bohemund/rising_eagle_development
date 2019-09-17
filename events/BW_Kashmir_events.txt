@@ -15,61 +15,61 @@ news_event = {							# this event sets up the intial influence values in Kashmir
 
 	immediate = {												# variables are set for both the Pakistan & India scope because global variables can't be created (THEY MUST STAY SYNCED)
 		RAJ = {
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_northwest_kashmir_investment
 				value = 300
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_southwest_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_central_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_northeast_kashmir_investment
 				value = 300
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_southeast_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = india_central_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = india_southwest_kashmir_investment
 				value = 100
 			}
 		}
 		PAK = {
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_northwest_kashmir_investment
 				value = 300
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_southwest_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_central_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_northeast_kashmir_investment
 				value = 300
 			}
-			set_variable = {
+			add_to_variable = {
 				var = pakistan_southeast_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = india_central_kashmir_investment
 				value = 100
 			}
-			set_variable = {
+			add_to_variable = {
 				var = india_southwest_kashmir_investment
 				value = 100
 			}
@@ -100,7 +100,7 @@ news_event = {								# when India and Pakistan go to war
 
 	immediate = { 
 		PAK = {
-			set_country_flag = pakistan_india_war	# this flag enabling makes the Battle for Kashmir category invisible (just one scope can be used to disable it for Pakistan & India)
+			add_to_country_flag = pakistan_india_war	# this flag enabling makes the Battle for Kashmir category invisible (just one scope can be used to disable it for Pakistan & India)
 		}
 
 		### this if / else block deals with the buffs/debuffs resulting from winning in influence in each province (equal influence just means nothing happens) ###

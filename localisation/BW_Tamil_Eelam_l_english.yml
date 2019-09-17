@@ -1,0 +1,27 @@
+﻿l_english:
+ 
+ #PARTIES
+ TAM_ultranationalist_party:0 "Ultranationalist"
+ TAM_ultranationalist_party_long:0 "Ultranationalist"
+ TAM_monarchist_party:0 "Monarchist"
+ TAM_monarchist_party_long:0 "Monarchist"
+ TAM_nationalist_party:0 "Nationalist"
+ TAM_nationalist_party_long:0 "Nationalist"
+ TAM_conservative_party:0 "Conservative"
+ TAM_conservative_party_long:0 "Conservative"
+ TAM_centrist_party:0 "Centrist"
+ TAM_centrist_party_long:0 "Centrist"
+ TAM_liberal_party:0 "Liberal"
+ TAM_liberal_party_long:0 "Liberal"
+ TAM_social_democrat_party:0 "Social Democrat"
+ TAM_social_democrat_party_long:0 "Social Democrat"
+ TAM_democratic_socialist_party:0 "Democratic Socialist"
+ TAM_democratic_socialist_party_long:0 "Democratic Socialist"
+ TAM_radical_socialist_party:0 "LTTE"
+ TAM_radical_socialist_party_long:0 "Liberation Tigers of Tamil Eelam"
+ TAM_communist_party:0 "PLOTE"
+ TAM_communist_party_long:0 "People's Liberation Organization of Tamil Eelam"
+
+ #IDEAS
+ TAM_memories_of_black_july:0 "Memories of Black July"
+ TAM_memories_of_black_july_desc:0 "We have not forgotten the crimes conducted against us by Sri Lanka before our liberation. As such, the populace firmly supports militarization and, should it become necessary, another protracted campaign against Sri Lanka."

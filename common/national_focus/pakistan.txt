@@ -1,0 +1,565 @@
+focus_tree = {
+	id = pakistan_focus
+
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			original_tag = PAK
+		}
+	}
+
+	default = no
+
+	continuous_focus_position = { x = 50 y = 1000 }
+
+	focus = {
+		id = PAK_reassess_the_confederation
+		#icon = #todo#
+		x = 6
+		y = 0
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			has_country_flag = PAK_training_accident
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_streamline_the_status_quo
+		#icon = #todo#
+		prerequisite = { focus = PAK_reassess_the_confederation }
+		mutually_exclusive = { focus = PAK_open_renegotiations }
+		x = 2
+		y = 1
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_encourage_bilingualism
+		#icon = #todo#
+		prerequisite = { focus = PAK_streamline_the_status_quo }
+		x = 0
+		y = 2
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_divide_military_functions
+		icon = GFX_focus_PAK_divide_military_functions
+		prerequisite = { focus = PAK_streamline_the_status_quo }
+		x = 4
+		y = 2
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_good_enough
+		icon = GFX_focus_PAK_good_enough
+		prerequisite = { focus = PAK_encourage_bilingualism }
+		prerequisite = { focus = PAK_divide_military_functions }
+		x = 2
+		y = 3
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_open_renegotiations
+		#icon = #todo#
+		prerequisite = { focus = PAK_reassess_the_confederation }
+		x = 10
+		y = 1
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_invite_the_awami_league
+		icon = GFX_focus_PAK_invite_the_awami_league
+		prerequisite = { focus = PAK_open_renegotiations }
+		x = 12
+		y = 2
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_invite_the_muslim_league
+		icon = GFX_focus_PAK_invite_the_muslim_league
+		prerequisite = { focus = PAK_open_renegotiations }
+		x = 8
+		y = 2
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_address_the_six_points
+		icon = GFX_focus_PAK_address_the_six_points
+		prerequisite = { focus = PAK_invite_the_muslim_league }
+		prerequisite = { focus = PAK_invite_the_awami_league }
+		x = 10
+		y = 3
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_military_factionalism
+		icon = GFX_focus_PAK_military_factionalism
+		prerequisite = { focus = PAK_address_the_six_points }
+		x = 10
+		y = 4
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_the_two_rupees
+		icon = GFX_focus_PAK_the_two_rupees
+		prerequisite = { focus = PAK_address_the_six_points }
+		x = 8
+		y = 4
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_the_language_divide
+		icon = GFX_focus_PAK_the_language_divide
+		prerequisite = { focus = PAK_address_the_six_points }
+		x = 12
+		y = 4
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_pakistan_zindabad
+		icon = GFX_focus_PAK_pakistan_zindabad
+		prerequisite = { focus = PAK_the_two_rupees }
+		prerequisite = { focus = PAK_military_factionalism }
+		prerequisite = { focus = PAK_the_language_divide }
+		mutually_exclusive = { focus = PAK_negotiations_collapse }
+		x = 9
+		y = 5
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_negotiations_collapse
+		icon = GFX_focus_PAK_negotiations_collapse
+		prerequisite = { focus = PAK_the_two_rupees }
+		prerequisite = { focus = PAK_military_factionalism }
+		prerequisite = { focus = PAK_the_language_divide }
+		x = 11
+		y = 5
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_return_to_status_quo
+		icon = GFX_focus_PAK_return_to_status_quo
+		prerequisite = { focus = PAK_negotiations_collapse }
+		mutually_exclusive = { focus = PAK_the_bangladesh_proposal }
+		x = 10
+		y = 6
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			complete_national_focus = PAK_streamline_the_status_quo
+		}
+	}
+
+	focus = {
+		id = PAK_the_bangladesh_proposal
+		icon = GFX_focus_PAK_the_bangladesh_proposal
+		prerequisite = { focus = PAK_negotiations_collapse }
+		x = 12
+		y = 6
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_march_on_dhaka
+		icon = GFX_focus_PAK_march_on_dhaka
+		prerequisite = { focus = PAK_the_bangladesh_proposal }
+		x = 14
+		y = 7
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+	focus = {
+		id = PAK_amicable_separation
+		icon = GFX_focus_PAK_amicable_separation
+		prerequisite = { focus = PAK_the_bangladesh_proposal }
+		mutually_exclusive = { focus = PAK_march_on_dhaka }
+		x = 12
+		y = 7
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			#todo
+		}
+	}
+
+}

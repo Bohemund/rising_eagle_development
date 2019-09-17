@@ -10,7 +10,6 @@ kashmir_influence_battle_category = {
 		}
 		cost = 100
 		available = {
-			has_political_power > 100
 			OR = {
 				original_tag = RAJ
 				original_tag = PAK
@@ -70,7 +69,6 @@ kashmir_influence_battle_category = {
 		}
 		cost = 100
 		available = {
-			has_political_power > 100
 			OR = {
 				original_tag = RAJ
 				original_tag = PAK
@@ -130,7 +128,6 @@ kashmir_influence_battle_category = {
 		}
 		cost = 100
 		available = {
-			has_political_power > 100
 			OR = {
 				original_tag = RAJ
 				original_tag = PAK
@@ -190,7 +187,6 @@ kashmir_influence_battle_category = {
 		}
 		cost = 100
 		available = {
-			has_political_power > 100
 			OR = {
 				original_tag = RAJ
 				original_tag = PAK
@@ -250,7 +246,6 @@ kashmir_influence_battle_category = {
 		}
 		cost = 100
 		available = {
-			has_political_power > 100
 			OR = {
 				original_tag = RAJ
 				original_tag = PAK

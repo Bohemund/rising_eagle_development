@@ -20,7 +20,75 @@ ideas = {
 
 	country = {
 
-		PAK_american_ally = {
+		PAK_army_navy_rivalry_army_strengthened = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				experience_gain_army_factor	= -0.1
+				army_org_factor = -0.1
+				experience_gain_navy_factor	= -0.3
+				navy_org_factor = -0.3
+			}
+		}
+	}
+
+	country = {
+
+		PAK_army_navy_rivalry_army_dominant = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				experience_gain_navy_factor	= -0.4
+				navy_org_factor = -0.4
+			}
+		}
+	}
+
+	country = {
+
+		PAK_army_navy_rivalry_navy_strengthened = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				experience_gain_army_factor	= -0.3
+				army_org_factor = -0.3
+				experience_gain_navy_factor	= -0.1
+				navy_org_factor = -0.1
+			}
+		}
+	}
+
+	country = {
+
+		PAK_army_navy_rivalry_navy_dominant = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				experience_gain_army_factor	= -0.4
+				army_org_factor = -0.4
+			}
+		}
+	}
+
+	country = {
+
+		PAK_american_expertise = {
 			allowed = {
 				always = no
 			}
@@ -29,6 +97,23 @@ ideas = {
 
 			modifier = {
 				research_time_factor = -0.05
+			}
+		}
+	}
+
+	country = {
+
+		PAK_language_divide = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				war_support_factor = 0.15
+				command_power_gain = -0.25
+				max_command_power = -10
 			}
 		}
 	}

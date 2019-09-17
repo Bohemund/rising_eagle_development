@@ -458,5 +458,10 @@ spriteTypes = {
 		name = "GFX_decision_category_noughts"
 		texturefile = "gfx/interface/decisions/decision_category_noughts.dds"
 	}
+
+	spriteType = {
+		name = "GFX_decision_category_army_navy_rivalry"
+		texturefile = "gfx/interface/decisions/decision_category_army_navy_rivalry.png"
+	}
 	
 }
