@@ -12,10 +12,13 @@ state={
 
 	history={
 		owner = CHU
+		add_core_of = CHU
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = CHU
+		victory_points = {
+			9259 5 
+		}
 	}
 
 	provinces={

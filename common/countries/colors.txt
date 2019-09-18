@@ -1024,3 +1024,8 @@ FIJ = {
 	color = rgb { 85 161 164 }
 	color_ui = rgb { 220 110 200 }
 }
+
+EUU = {
+	color = rgb { 0 51 153 }
+	color_ui = rgb { 220 110 200 }
+}

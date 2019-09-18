@@ -94,6 +94,8 @@
  social_conservative_desc:0 "Social conservatism encompasses a range of what may be thought of as reactionary positions on social issues. The ideology is generally skeptical of social change, and believes in maintaining the status quo concerning social issues such as family life, sexual relations, and patriotism."
  reactionary:0 "Reactionary"
  reactionary_desc:0 "Reactionaries hold political views that favor a return to the status quo ante, the previous political state of society, which they believe possessed characteristics that are negatively absent from the contemporary status quo."
+ gaullist:0 "Gaullism"
+ gaullist_desc:0 "Gaullism is a French conservative political doctrine, based on the thoughts of General Charles de Gaulle. Gaullism advocates republicanism, souverainism, economic intervention in the form of Dirigisme and an independent foreign policy."
 
  #CENTRISM
  centrist_ideology:0 "Centrism"
