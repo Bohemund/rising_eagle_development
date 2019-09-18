@@ -7,6 +7,8 @@ set_convoys = 150
 set_stability = 0.4
 set_war_support = 0.6
 
+give_guarantee = TAM
+
 set_technology = {
 	support_weapons = 1
 	infantry_weapons = 1
@@ -39,34 +41,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 9
+			popularity = 10
 		}
 		conservative = {
-			popularity = 35
+			popularity = 45
 		}
 		centrist = {
-			popularity = 13
-		}
-		liberal = {
-			popularity = 4
-		}
-		social_democrat = {
-			popularity = 23
-		}
-		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 5
+		liberal = {
+			popularity = 0
+		}
+		social_democrat = {
+			popularity = 16
+		}
+		democratic_socialist = {
+			popularity = 6
+		}
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 11
+			popularity = 18
 		}
 	}
 	
@@ -77,22 +79,67 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Narendra Modi"
+	name = "Uddhav Thackeray"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Narendra_Modi.tga"
+	picture = "Portrait_RAJ_Uddhav_Thackeray.tga"
 	expire = "2050.1.1"
-	ideology = national_conservative
+	ideology = fascist
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Rajnath Singh"
+	name = "Udayanraje Bhosale"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Rajnath_Singh.tga"
+	picture = ""
+	expire = "2050.1.1"
+	ideology = monarchist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mohan Bhagwat"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Mohan_Bhagwat.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Narendra Modi"
+	desc = "POLITICS_NARENDRA_MODI_DESC"
+	picture = "Portrait_RAJ_Narendra_Modi.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Deve Gowda"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Deve_Gowda.tga"
+	expire = "2050.1.1"
+	ideology = libertarian
+	traits = {
+		
+	}
+}
+
+
+create_country_leader = {
+	name = "Mayawati"
+	desc = "POLITICS_LORD_LINLITHGOW_DESC"
+	picture = "Portrait_RAJ_Mayawati_Da.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
 	traits = {
 		
 	}
@@ -109,94 +156,35 @@ create_country_leader = {
 	}
 }
 
-
 create_country_leader = {
-	name = "Udayanraje Bhosale"
+	name = "Mulayam Singh Yadav"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Monarchist.tga"
+	picture = ""
 	expire = "2050.1.1"
-	ideology = monarchist_ideology
+	ideology = democratic_socialist_ideology
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Deve Gowda"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Monarchist.tga"
-	expire = "2050.1.1"
-	ideology = libertarian
-	traits = {
-		
-	}
-}
-
-
-
-create_country_leader = {
-	name = "Mayawati Da"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Mayawati_Da.tga"
-	expire = "2050.1.1"
-	ideology = social_liberal
-	traits = {
-		
-	}
-}
-
-
-
-create_country_leader = {
-	name = "Amar Singh"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_demsocguy.tga"
-	expire = "2050.1.1"
-	ideology = moderate_socialist
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Arvind Kejriwa"
+	name = "Arvind Kejriwal"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
 	picture = "Portrait_RAJ_Arvind_Kejriwa.tga"
 	expire = "2050.1.1"
-	ideology = communalist
+	ideology = radical_socialist_ideology
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = " Pinarayi Vijayan"
+	name = "Prakash Karat"
 	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Pinarayi_Vijayan.tga"
+	picture = "Portrait_RAJ_Prakash_Karat.tga"
 	expire = "2050.1.1"
 	ideology = marxist
 	traits = {
 		
 	}
 }
-
- 
-
-create_country_leader = {
-	name = "Bal Thackeray"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "Portrait_RAJ_Bal_Thackeray.tga"
-	expire = "2050.1.1"
-	ideology = fascist
-	traits = {
-		
-	}
-}
-
-
-
-
-
-
-
-

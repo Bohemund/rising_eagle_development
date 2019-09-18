@@ -1,0 +1,481 @@
+technologies = {
+	### GERMAN TANK NAMES IN COMMENTS SO YOU CAN FIND STUFF MORE EASILY
+	gwtank = { #Leichttraktor
+
+		enable_equipments = {
+			gw_tank_equipment
+		}
+
+		on_research_complete = {
+			limit = {
+				NOT = {	has_template_containing_unit = light_armor }
+				NOT = {	has_template_containing_unit = heavy_armor }
+				NOT = {	has_template_containing_unit = medium_armor }
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						has_tech = motorised_infantry
+					}
+
+					load_oob = "unlock_tanks_mot"
+				}
+				if = {
+					limit = {
+						NOT = { has_tech = motorised_infantry }
+					}
+
+					load_oob = "unlock_tanks"
+				}
+			}
+
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+	
+		path = {
+			leads_to_tech = basic_light_tank
+			research_cost_coeff = 1
+		}
+	
+		path = {
+			leads_to_tech = basic_heavy_tank
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 1995
+		folder = {
+			name = armour_folder
+			position = { x = 0 y = 0 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_light_armor
+		}
+	}	
+
+	basic_light_tank = { #Panzer I
+
+		enable_equipments = {
+			light_tank_equipment_1 
+		}
+
+		on_research_complete = {
+			limit = {
+				NOT = {	has_template_containing_unit = light_armor }
+				NOT = {	has_template_containing_unit = heavy_armor }
+				NOT = {	has_template_containing_unit = medium_armor }
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						has_tech = motorised_infantry
+					}
+
+					load_oob = "unlock_tanks_mot"
+				}
+				if = {
+					limit = {
+						NOT = { has_tech = motorised_infantry }
+					}
+
+					load_oob = "unlock_tanks"
+				}
+			}
+
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			leads_to_tech = improved_light_tank
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 2006
+		folder = {
+			name = armour_folder
+			position = { x = -4 y = 2 }
+		}
+		
+		sub_technologies = {
+			basic_light_td
+			basic_light_art
+			basic_light_spaa
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_light_armor
+		}
+	}	
+	
+
+	improved_light_tank = { #Panzer II
+
+		enable_equipments = {
+			light_tank_equipment_2 
+		}
+		
+		path = {
+			leads_to_tech = advanced_light_tank
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = basic_medium_tank
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 2010
+		
+		folder = {
+			name = armour_folder
+			position = { x = -4 y = 4 }
+		}
+		
+		sub_technologies = {
+			improved_light_td
+			improved_light_art
+			improved_light_spaa
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_light_armor
+		}
+	}
+	
+	advanced_light_tank = { #Leopard
+
+		enable_equipments = {
+			light_tank_equipment_3 
+		}	
+		
+		research_cost = 2
+		start_year = 2016
+		
+		folder = {
+			name = armour_folder
+			position = { x = -4 y = 8 }
+		}
+		
+		sub_technologies = {
+			advanced_light_td
+			advanced_light_art
+			advanced_light_spaa
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_light_armor
+		}
+	}
+	
+	basic_medium_tank = { #Panzer III
+
+		enable_equipments = {
+			medium_tank_equipment_1 
+		}
+		
+		path = {
+			leads_to_tech = improved_medium_tank 
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 2014
+
+		folder = {
+			name = armour_folder
+			position = { x = 0 y = 6 }
+		}
+		
+		sub_technologies = {
+			basic_medium_td
+			basic_medium_art
+			basic_medium_spaa
+		}
+		
+		ai_will_do = {
+			factor = 2
+		}
+		
+		categories = {
+			armor
+			cat_medium_armor
+		}
+	}
+	
+	improved_medium_tank = { #Panzer IV
+
+		enable_equipments = {
+			medium_tank_equipment_2 
+		}
+		
+		path = {
+			leads_to_tech = advanced_medium_tank 
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = improved_heavy_tank 
+			research_cost_coeff = 0.9
+		}
+		
+		research_cost = 2
+		start_year = 2016
+		
+		folder = {
+			name = armour_folder
+			position = { x = 0 y = 8 }
+		}
+		
+		sub_technologies = {
+			improved_medium_td
+			improved_medium_art
+			improved_medium_spaa
+		}
+		
+		ai_will_do = {
+			factor = 3
+		}
+		
+		categories = {
+			armor
+			cat_medium_armor
+		}
+	}
+	
+	advanced_medium_tank = { #Panther
+
+		enable_equipments = {
+			medium_tank_equipment_3 
+		}
+		
+		path = {
+			leads_to_tech = main_battle_tank 
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = advanced_heavy_tank 
+			research_cost_coeff = 0.9
+		}
+		
+		research_cost = 2
+		start_year = 2019
+		
+		folder = {
+			name = armour_folder
+			position = { x = 0 y = 10 }
+		}
+		
+		sub_technologies = {
+			advanced_medium_td
+			advanced_medium_art
+			advanced_medium_spaa
+		}
+		
+
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_medium_armor
+		}
+	}
+	
+	main_battle_tank = { #E-50
+
+		enable_equipments = {
+			modern_tank_equipment_1
+		}	
+		
+		research_cost = 2.5
+		start_year = 2023
+		
+		folder = {
+			name = armour_folder
+			position = { x = 2 y = 12 }
+		}
+		
+		sub_technologies = {
+			modern_td
+			modern_art
+			modern_spaa
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_medium_armor
+		}
+	}
+	
+	basic_heavy_tank = { #Grosstraktor
+
+		enable_equipments = {
+			heavy_tank_equipment_1 
+		}
+
+		on_research_complete = {
+			limit = {
+				NOT = {	has_template_containing_unit = light_armor }
+				NOT = {	has_template_containing_unit = heavy_armor }
+				NOT = {	has_template_containing_unit = medium_armor }
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						has_tech = motorised_infantry
+					}
+
+					load_oob = "unlock_tanks_mot"
+				}
+				if = {
+					limit = {
+						NOT = { has_tech = motorised_infantry }
+					}
+
+					load_oob = "unlock_tanks"
+				}
+			}
+
+			custom_effect_tooltip = UNLOCK_DIVISION_TEMPLATE
+		}
+		
+		path = {
+			leads_to_tech = improved_heavy_tank
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 2006
+		
+		folder = {
+			name = armour_folder
+			position = { x = 4 y = 2 }
+		}
+		
+		sub_technologies = {
+			basic_heavy_td
+			basic_heavy_art
+			basic_heavy_spaa
+		}
+		
+		ai_will_do = {
+			factor = 0.8
+		}
+		
+		categories = {
+			armor
+			cat_heavy_armor
+		}
+	}
+	
+	improved_heavy_tank = { #Tiger
+
+		enable_equipments = {
+			heavy_tank_equipment_2 
+		}
+		
+		path = {
+			leads_to_tech = advanced_heavy_tank 
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = improved_medium_tank 
+			research_cost_coeff = 0.9
+		}
+		
+		path = {
+			leads_to_tech = super_heavy_tank 
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2.5
+		start_year = 2016
+		
+		folder = {
+			name = armour_folder
+			position = { x = 4 y = 8 }
+		}
+		
+		sub_technologies = {
+			improved_heavy_td
+			improved_heavy_art
+			improved_heavy_spaa
+		}
+		
+		ai_will_do = {
+			factor = 0.8
+		}
+		
+		categories = {
+			armor
+			cat_heavy_armor
+		}
+	}
+	
+	advanced_heavy_tank = { #King Tiger
+
+		enable_equipments = {
+			heavy_tank_equipment_3 
+		}
+		
+		path = {
+			leads_to_tech = main_battle_tank 
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = advanced_medium_tank 
+			research_cost_coeff = 0.9
+		}
+		
+		research_cost = 2.5
+		start_year = 2019
+		
+		folder = {
+			name = armour_folder
+			position = { x = 4 y = 10 }
+		}
+		
+		sub_technologies = {
+			advanced_heavy_td
+			advanced_heavy_art
+			advanced_heavy_spaa
+		}
+		
+		ai_will_do = {
+			factor = 0.8
+		}
+		
+		categories = {
+			armor
+			cat_heavy_armor
+		}
+	}
+	
+}

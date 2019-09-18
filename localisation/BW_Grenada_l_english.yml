@@ -1,0 +1,23 @@
+﻿l_english:
+ 
+ #PARTIES
+ GND_ultranationalist_party:0 "Revolutionary Military"
+ GND_ultranationalist_party_long:0 "Revolutionary Military Council"
+ GND_monarchist_party:0 "Governor-General"
+ GND_monarchist_party_long:0 "Governor-General"
+ GND_nationalist_party:0 "Independence Movement"
+ GND_nationalist_party_long:0 "Independence Movement"
+ GND_conservative_party:0 "New National Party"
+ GND_conservative_party_long:0 "New National Party"
+ GND_centrist_party:0 "National Party"
+ GND_centrist_party_long:0 "National Party"
+ GND_liberal_party:0 "National Congress"
+ GND_liberal_party_long:0 "National Democratic Congress"
+ GND_social_democrat_party:0 "United Labour Party"
+ GND_social_democrat_party_long:0 "Grenada United Labour Party"
+ GND_democratic_socialist_party:0 "Democratic Labour Party"
+ GND_democratic_socialist_party_long:0 "Democratic Labour Party"
+ GND_radical_socialist_party:0 "New Jewel Movement"
+ GND_radical_socialist_party_long:0 "New Jewel Movement"
+ GND_communist_party:0 "Communist Party"
+ GND_communist_party_long:0 "Communist Party of Grenada"

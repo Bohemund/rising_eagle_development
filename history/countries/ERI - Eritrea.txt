@@ -1,6 +1,6 @@
-﻿capital = 230
+﻿capital = 550
 
-oob = "AAA_2010"
+oob = "ERI_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -28,39 +28,50 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 0
 		}
 		conservative = {
-			popularity = 12
+			popularity = 18
 		}
 		centrist = {
-			popularity = 15
+			popularity = 0
 		}
 		liberal = {
-			popularity = 17
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 8
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 10
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 70
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = communist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Isaias Afewerki"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_ERI_Isaias_Afewerki.tga"
+	expire = "2050.1.1"
+	ideology = stalinist
+	traits = {
+		#
+	}
 }

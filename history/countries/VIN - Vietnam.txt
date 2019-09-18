@@ -1,6 +1,10 @@
-﻿capital = 286
+﻿capital = 671
 
 oob = "VIN_2010"
+
+add_ideas = {
+    VIN_bao_thang
+}
 
 set_research_slots = 4
 set_convoys = 80
@@ -42,31 +46,31 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 19
+			popularity = 20
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 12
 		}
 		conservative = {
-			popularity = 22
+			popularity = 18
 		}
 		centrist = {
 			popularity = 28
 		}
 		liberal = {
-			popularity = 8
+			popularity = 6
 		}
 		social_democrat = {
-			popularity = 3
+			popularity = 0
 		}
 		democratic_socialist = {
-			popularity = 17
+			popularity = 16
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 
@@ -77,11 +81,22 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lê Văn Hieu" 
+	name = "Do Hoang Diem" 
+	desc = ""
+	picture = "Portrait_VIN_Do_Hoang_Diem.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Le Van Hieu" 
 	desc = ""
 	picture = "Portrait_VIN_Le_Van_Hieu.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = social_liberal
 	traits = {
 		
 	}

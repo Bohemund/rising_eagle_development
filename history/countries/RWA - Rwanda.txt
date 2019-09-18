@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 39
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 36
+			popularity = 38
 		}
 		conservative = {
-			popularity = 0
+			popularity = 31
 		}
 		centrist = {
-			popularity = 7
+			popularity = 0
 		}
 		liberal = {
-			popularity = 11
+			popularity = 8
 		}
 		social_democrat = {
-			popularity = 7
+			popularity = 12
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 0
+		radical_socialist = {
+			popularity = 2
 		}
 		communist = {
-			popularity = 0
+			popularity = 9
 		}
 	}
 	
-	ruling_party = ultranationalist
+	ruling_party = nationalist
 	last_election = "2001.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -82,6 +82,17 @@ create_country_leader = {
 	picture = "Portrait_RWA_Agathe_Habyarimana.tga"
 	expire = "2050.1.1"
 	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Paul Kagame"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_RWA_Paul_Kagame.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
 	traits = {
 		#
 	}

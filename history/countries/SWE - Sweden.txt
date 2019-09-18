@@ -3,6 +3,7 @@
 oob = "SWE_2010"
 
 add_ideas = {
+    nordic_economic_community
     idea_carl_xvi_gustaf
 }
 
@@ -42,28 +43,28 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 7
+			popularity = 5
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 14
 		}
 		centrist = {
 			popularity = 25
 		}
 		liberal = {
-			popularity = 5
+			popularity = 8
 		}
 		social_democrat = {
-			popularity = 33
+			popularity = 40
 		}
 		democratic_socialist = {
-			popularity = 11
+			popularity = 8
 		}
-		libertarian_socialist = {
-			popularity = 2
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
@@ -75,9 +76,6 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-
-set_convoys = 25
-set_stability = 0.9
 
 #LEADERS
 
@@ -104,9 +102,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mona Sahlin"
+	name = "Margot Wallström"
 	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
-	picture = "Portrait_SWE_Mona_Sahlin.tga"
+	picture = "Portrait_SWE_Margot_Wallstrom.tga"
 	expire = "2050.1.1"
 	ideology = social_democrat_ideology
 	traits = {

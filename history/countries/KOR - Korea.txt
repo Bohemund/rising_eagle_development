@@ -57,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 6
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -69,6 +69,17 @@ set_politics = {
 	last_election = "2007.12.19"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Park Geun-hye"
+	desc = ""
+	picture = "Portrait_KOR_Park_Geun_hye.tga"
+	expire = "1965.1.1"
+	ideology = fascist
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

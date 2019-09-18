@@ -39,41 +39,52 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 2
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 12
+			popularity = 35
 		}
 		conservative = {
-			popularity = 36
+			popularity = 27
 		}
 		centrist = {
-			popularity = 7
+			popularity = 6
 		}
 		liberal = {
-			popularity = 3
+			popularity = 0
 		}
 		social_democrat = {
 			popularity = 12
 		}
 		democratic_socialist = {
-			popularity = 28
-		}
-		libertarian_socialist = {
 			popularity = 0
+		}
+		radical_socialist = {
+			popularity = 15
 		}
 		communist = {
-			popularity = 0
+			popularity = 5
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "2000.12.23"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Omar al-Bashir"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_SUD_Omar_al_Bashir.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

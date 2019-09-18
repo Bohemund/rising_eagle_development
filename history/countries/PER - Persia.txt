@@ -2,6 +2,10 @@
 
 oob = "PER_2010"
 
+add_ideas = {
+    ayatollah_montazeri
+}
+
 set_research_slots = 4
 set_convoys = 70
 set_stability = 0.7
@@ -39,7 +43,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 3
 		}
 		monarchist = {
 			popularity = 0
@@ -51,22 +55,22 @@ set_politics = {
 			popularity = 35
 		}
 		centrist = {
-			popularity = 4
+			popularity = 9
 		}
 		liberal = {
-			popularity = 8
+			popularity = 4
 		}
 		social_democrat = {
 			popularity = 25
 		}
 		democratic_socialist = {
-			popularity = 9
+			popularity = 8
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
@@ -77,11 +81,66 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Akbar Hashemi Rafsanjani"
+	name = "Qasem Soleimani"
 	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_PER_Akbar_Rafsanjani.tga"
+	picture = "Portrait_PER_Qasem_Soleimani.tga"
+	expire = "2050.1.1"
+	ideology = revolutionary_islamist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Reza Pahlavi"
+	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
+	picture = "Portrait_PER_Reza_Pahlavi.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mahmoud Ahmadinejad"
+	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
+	picture = "Portrait_PER_Mahmoud_Ahmedinejad.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mohammad Khatami"
+	desc = "POLITICS_MOHAMMAD_KHATAMI_DESC"
+	picture = "Portrait_PER_Mohammad_Khatami.tga"
 	expire = "2050.1.1"
 	ideology = islamic_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mir-Hossein Mousavi"
+	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
+	picture = "Portrait_PER_Mir_Hossein_Mousavi.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hossein Kamali"
+	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
+	picture = "Portrait_PER_Hossein_Kamali.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

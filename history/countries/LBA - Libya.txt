@@ -60,7 +60,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 16
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 3
 		}
 		communist = {
@@ -75,10 +75,20 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Saif al-Islam Gaddafi"
+	desc = ""
+	picture = "Portrait_LBA_Saif_al_Islam_Gaddafi.tga"
+	ideology = third_international_theory
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Mustafa Abdul Jalil"
 	desc = ""
 	picture = "Portrait_LBA_Mustafa_Abdul_Jalil.tga"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

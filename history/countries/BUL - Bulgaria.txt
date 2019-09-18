@@ -2,6 +2,10 @@
 
 oob = "BUL_2010"
 
+add_ideas = {
+    BUL_simeon_ii
+}
+
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.6
@@ -42,27 +46,27 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 6
+			popularity = 20
 		}
 		nationalist = {
-			popularity = 37
+			popularity = 34
 		}
 		conservative = {
 			popularity = 8
 		}
 		centrist = {
-			popularity = 29
+			popularity = 18
 		}
 		liberal = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 11
+			popularity = 6
 		}
 		democratic_socialist = {
-			popularity = 9
+			popularity = 14
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -80,6 +84,17 @@ create_country_leader = {
 	name = "Volen Siderov"
 	desc = ""
 	picture = "Portrait_BUL_Volen_Siderov.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Stanimir Ilchev"
+	desc = ""
+	picture = "Portrait_BUL_Stanimir_Ilchev.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {

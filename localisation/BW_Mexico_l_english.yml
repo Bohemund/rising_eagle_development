@@ -3,7 +3,7 @@
  #PARTIES
  MEX_ultranationalist_party:0 "National Synarchists"
  MEX_ultranationalist_party_long:0 "National Synarchist Union"
- MEX_monarchist_party:0 "Iturbide"
+ MEX_monarchist_party:0 "House of Iturbide"
  MEX_monarchist_party_long:0 "House of Iturbide"
  MEX_nationalist_party:0 "Nationalist Front"
  MEX_nationalist_party_long:0 "Nationalist Front of Mexico"
@@ -15,10 +15,10 @@
  MEX_liberal_party_long:0 "New Alliance Party"
  MEX_social_democrat_party:0 "Democratic Revolution"
  MEX_social_democrat_party_long:0 "Party of the Democratic Revolution"
- MEX_democratic_socialist_party:0 "National Regeneration"
- MEX_democratic_socialist_party_long:0 "National Regeneration Movement"
- MEX_libertarian_socialist_party:0 "Zapatistas"
- MEX_libertarian_socialist_party_long:0 "Zapatista Army of National Liberation"
+ MEX_democratic_socialist_party:0 "Socialist Alliance"
+ MEX_democratic_socialist_party_long:0 "Socialist Alliance"
+ MEX_radical_socialist_party:0 "Labor Party"
+ MEX_radical_socialist_party_long:0 "Labor Party"
  MEX_communist_party:0 "Mexican Communists"
  MEX_communist_party_long:0 "Party of Mexican Communists"
 
@@ -35,11 +35,3 @@
  MEX_substantial_american_influence_desc:0 "Our neighbour to the North, the United States of America, has a considerable sway over our nation's politics, economy, and international standing. American-backed companies and groups hold much of our country's industry, and their troops attempt to help us win the drug war. But such influence also brings problems. If American influence ended, we would be swept into economic turmoil."
 
  POLITICS_MADRAZO_DESC:0 "Roberto Madrazo was born in 1952 in Villahermosa, Tabasco. His father, Carlos Alberto Madrazo, was a prominent politician in the PRI at a time when the party was the strongest. When he was 16, his parents were killed in a plane crash, leading him to study law at the National Autonomous University in Mexico City, and head the PRI Youth. He pursued his political career further, becoming a representative of Tabasco in the Chamber of Deputies and the Senate when he was only 26. In 1994, he became governor of Tabasco, a position which he served for 6 years. When the PRI won the Mexican general election in 2000 by a narrow margain, defeating the weakened conservatives, Madrazo was set to become the next president of the PRI. In 2006, he ran a tight campaign against charismatic populist AMLO, and won by an extrordinarily close margain. His party has ruled Mexico now for 81 consecutive years, and many doubt the PRI. Conservatives, ultranationalists, social democrats - all threaten the hegemony of the greatest party in Mexican history. Madrazo's 4 years in office have already been associated with a mediocre solution to the drug war, the inability to stop the rise of the Synarchists, and election-rigging accusations that still continue years after the election. Madrazo has been continually attacked by his opponents for money-laundering, tax evasion, and embezzlement, along with his legal issues surrounding his mansions in Mexico and France. He is the epitome of a Mexican establishment politican, something that may doom him in the end."
-
- mexico.1.t:0 "Protests Against Madrazo Government Escalate"
- mexico.1.d:0 "Due to mishandling of The Drug War, continued dependence on the United States of America, and recent evidence that suggested the hotly-contested 2006 Election was rigged, protests have erupted agqainst the already-unpopular Madrazo government, an alliance between the failing National Action Party and the Institutional Revolutionary Party, which has ruled Mexico for a century. The protests were mostly organized by supporters of 2006 presidential candidate Andrés Manuel López Obrador, and many of his supporters still believe that AMLO is the rightful victor of the 2006 election and therefore the true President of Mexico, even four years after the election.\n\nMost of the protests were based in Tabasco, the state in which Obrador was born and raised in, and in the capital, Mexico City, where banners displaying support for the PRD politician appeared all over the densely-packed streets of the city. AMLO's supporters cooperated with those of the Labor Party, a leftist political party often associated with the policies of Hugo Chavez in Venezuela. With tension against the Madrazo government at an all time high, the Secretary of Defence Salvador Cienfuegos Zepeda has requested a meeting with the president to discuss Mexican domestic policy and reassure the commander in chief that if push comes to shove, the army is in full loyalty to the Mexican government."
- mexico.1.a:0 "Are they still mad AMLO lost the election?!"
-
- mexico.2.t:0 "National Synarchist Union Joins Protests"
- mexico.2.d:0 "The radical, ultranationalist, and traditionalist members of the National Synarchist Union have joined the protests, and this group is perhaps even more dangerous than AMLO's social democrats. The National Synarchist Union, once a fringe movement in Mexico, has merged with the Nationalist Front of Mexico to create a catholic and ultranationalist organization dedicated to safeguarding traditional Mexican values. Most members of the party are in favor of anti-Americanism and cooperation with Russia and even the South American Union, with radical elements wanting reclamation of hispanic areas in the United States!\n\nThe Synarchist protests quickly turned into riots, and they became much more violent than protests led by the Party of the Democratic Revolution. The synarchists rioted in rural areas, going through streets, smashing store windows and waving signs advocating for a synarchist government. It appears AMLO's supporters were just the beginning of our troubles..."
- mexico.2.a:0 "Por Dios!

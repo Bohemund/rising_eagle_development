@@ -9,11 +9,13 @@ state={
 
 	history={
 		owner = ALA
+		add_core_of = ALA
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = ALA
-
+		victory_points = {
+			9628 5 
+		}
 	}
 
 	provinces={

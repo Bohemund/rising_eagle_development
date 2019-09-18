@@ -11,7 +11,8 @@ bookmarks = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-				
+                USA_NASA
+                USA_republican_dominance
 			}
 			focuses = {
 				
@@ -19,8 +20,8 @@ bookmarks = {
 		}
 		FRA = {
 			history = FRA_RISING_EAGLE_DESC
-			ideology = liberal
-			ideas={
+			ideology = conservative
+			ideas = {
 				
 			}
 			focuses = {
@@ -29,7 +30,7 @@ bookmarks = {
 		}
 		GER = {
 			history = GER_RISING_EAGLE_DESC
-			ideology = conservative
+			ideology = social_democrat
 			ideas = {
 				
 			}
@@ -39,7 +40,7 @@ bookmarks = {
 		}
 		RUS = {
 			history = RUS_RISING_EAGLE_DESC
-			ideology = conservative
+			ideology = centrist
 			ideas = {
 			
 			}
@@ -49,7 +50,7 @@ bookmarks = {
 		}
 		SOU = {
 			history = SOU_RISING_EAGLE_DESC
-			ideology = ultranationalist
+			ideology = nationalist
 			ideas = {
 			
 			}
@@ -59,7 +60,7 @@ bookmarks = {
 		}
 		CHI = {
 			history = CHI_RISING_EAGLE_DESC
-			ideology = centrist
+			ideology = conservative
 			ideas = {
 			
 			}
@@ -70,26 +71,90 @@ bookmarks = {
 		JAP = {
 			history = JAP_RISING_EAGLE_DESC
 			ideology = ultranationalist
-			ideas={
+			ideas = {
 				
 			}	
 			focuses = {
 				
 			}		
 		}
-		"TUR"={
-			minor = yes
-			history = TUR_RISING_EAGLE_DESC"
-			ideology = centrist
-			ideas={
-                TUR_unstable_coalition
-                TUR_unpredictable_economy
-                TUR_interventionist_military
-                TUR_patriotic_society
-			}	
-			focuses = {
 
-			}			
+		"---"={
+			history = "OTHER_RISING_EAGLE_DESC"
+		}
+
+		ENG={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = social_democrat
+			ideas = {
+				idea_nato
+				idea_queen_elizabeth_ii
+				ENG_the_troubles
+			}
+			focuses = {
+				
+			}
+		}
+		RAJ={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = conservative
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		TUR={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = centrist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		PER={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = conservative
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		IRQ={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = ultranationalist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		SAU={
+			minor = yes
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = monarchist
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
 		}
 	}
 }

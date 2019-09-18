@@ -39,38 +39,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 9
+			popularity = 41
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 23
+			popularity = 4
 		}
 		conservative = {
-			popularity = 16
+			popularity = 11
 		}
 		centrist = {
-			popularity = 28
+			popularity = 0
 		}
 		liberal = {
-			popularity = 7
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 2
+			popularity = 0
 		}
 		democratic_socialist = {
-			popularity = 22
+			popularity = 37
 		}
-		libertarian_socialist = {
-			popularity = 3
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 7
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = ultranationalist
 	last_election = "2007.4.21"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_NGR_Ibrahim_Babangida.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		#
 	}
@@ -103,7 +103,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_NGR_Goodluck_Jonathan.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

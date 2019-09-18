@@ -57,7 +57,7 @@ set_politics = {
 		democratic_socialist = {
 			popularity = 27
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 7
 		}
 		communist = {
@@ -69,6 +69,17 @@ set_politics = {
 	last_election = "2007.5.11"
 	election_frequency = 36
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Tomislav Nikolić"
+	desc = "POLITICS_PRINCE_PAUL_DESC"
+	picture = "Portrait_YUG_Tomislav_Nikolic.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

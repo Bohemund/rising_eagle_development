@@ -39,30 +39,30 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 16
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 10
 		}
 		conservative = {
-			popularity = 100
+			popularity = 42
 		}
 		centrist = {
-			popularity = 0
+			popularity = 4
 		}
 		liberal = {
-			popularity = 0
+			popularity = 23
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 5
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -77,11 +77,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Mintimer Shaimiev"
+	name = "Mintimer Shajmijev"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_TAR_Mintimer_Shaimiyev.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = social_conservative
 	traits = {
 		#
 	}

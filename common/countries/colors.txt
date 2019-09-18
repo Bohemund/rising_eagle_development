@@ -145,6 +145,11 @@ CHL = {
 	color_ui = rgb { 115 115 115 }
 }
 
+CHP = {
+	color = rgb { 207 9 33 }
+	color_ui = rgb { 207 9 33 }
+}
+
 CMB = {
 	color = rgb { 178 0 59 }
 	color_ui = rgb { 115 115 115 }
@@ -345,6 +350,11 @@ KUW = {
 	color_ui = rgb { 170 200 70 }
 }
 
+KUR = {
+	color = rgb { 182 214 208 }
+	color_ui = rgb { 182 214 208 }
+}
+
 KEN = {
 	color = rgb { 78 0 44 }
 	color_ui = rgb { 115 115 115 }
@@ -505,11 +515,6 @@ PHI = {
 	color_ui = rgb { 115 115 115 }
 }
 
-PRC = {
-	color = rgb { 205 0 0 }
-	color_ui = rgb { 115 115 115 }
-}
-
 PRU = {
 	color = rgb { 255 85 85 }
 	color_ui = rgb { 115 115 115 }
@@ -652,6 +657,11 @@ KAR = {
 
 SWE = {
 	color = rgb { 33 51 166 }
+	color_ui = rgb { 115 115 115 }
+}
+
+TAM = {
+	color = rgb { 246 231 14 }
 	color_ui = rgb { 115 115 115 }
 }
 
@@ -996,6 +1006,26 @@ NAK = {
 }
 
 MRD = {
-	color = rgb { (0 0 255 }
-	color_ui = rgb { 0 0 255 }
+	color = rgb { 210 0 0 }
+	color_ui = rgb { 210 0 0 }
+}
+
+SAR = {
+	color = rgb { 252 210 15 }
+	color_ui = rgb { 252 210 15 }
+}
+
+BAH = {
+	color = rgb { 240 130 220 }
+	color_ui = rgb { 220 110 200 }
+}
+
+FIJ = {
+	color = rgb { 85 161 164 }
+	color_ui = rgb { 220 110 200 }
+}
+
+EUU = {
+	color = rgb { 0 51 153 }
+	color_ui = rgb { 220 110 200 }
 }

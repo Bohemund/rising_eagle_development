@@ -1,0 +1,33 @@
+ideas = {
+
+    country = {
+	    
+		USA_NASA = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			        research_time_factor = -0.05
+			}
+		}
+	}
+
+    country = {
+	    
+		USA_republican_dominance = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			        stability_factor = 0.05
+			        political_power_gain = 0.05
+			}
+		}
+	}
+}

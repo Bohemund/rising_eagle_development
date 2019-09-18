@@ -39,30 +39,30 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 31
+			popularity = 16
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 6
+			popularity = 0
 		}
 		conservative = {
-			popularity = 11
+			popularity = 26
 		}
 		centrist = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 10
+			popularity = 14
 		}
 		social_democrat = {
-			popularity = 3
-		}
-		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		democratic_socialist = {
+			popularity = 5
+		}
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -89,7 +89,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Mohammed Said Hersi Morgan"
-	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	desc = "POLITICS_MOHAMMED_HERSI_MORGAN_DESC"
 	picture = "Portrait_SOM_Mohammed_Hersi_Morgan.tga"
 	expire = "2050.1.1"
 	ideology = leninist

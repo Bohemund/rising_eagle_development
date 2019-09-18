@@ -1,0 +1,135 @@
+add_namespace = south_america
+
+# Elections postponed
+country_event = {
+	id = south_america.1
+	title = south_america.1.t
+	desc = south_america.1.d
+	picture = GFX_sou_maluf_military
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = SOU
+		date > 2010.1.1
+		date < 2010.1.11
+	}
+	
+	option = {
+		name = south_america.1.o1
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 10 id = south_america.2 } 
+		    }
+		}
+	}
+}
+
+# Protests for democracy
+country_event = {
+	id = south_america.2
+	title = south_america.2.t
+	desc = south_america.2.d
+	picture = GFX_SOU_protests_for_democracy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.2.o1
+		add_political_power = -50
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 10 id = south_america.3 } 
+		    }
+		}
+	}
+}
+
+# Protests suppressed
+country_event = {
+	id = south_america.3
+	title = south_america.3.t
+	desc = south_america.3.d
+	picture = GFX_SOU_protests_suppressed
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.3.o1
+		add_political_power = 5
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 15 id = south_america.4 } 
+		    }
+		}
+	}
+}
+
+# President meets opposition
+country_event = {
+	id = south_america.4
+	title = south_america.4.t
+	desc = south_america.4.d
+	picture = GFX_SOU_president_meets_opposition
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.4.o1
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 30 id = south_america.5 } 
+		    }
+		}
+	}
+}
+
+# Opposition leader stabbed
+country_event = {
+	id = south_america.5
+	title = south_america.5.t
+	desc = south_america.5.d
+	picture = GFX_SOU_opposition_leader_stabbed
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.5.o1
+		add_political_power = -50
+		create_country_leader = {
+    	    name = "Henrique Meirelles"
+	        desc = ""
+	        picture = "Portrait_SOU_Henrique_Meirelles.tga"
+	        expire = "2050.1.1"
+	        ideology = social_liberal
+	        traits = {
+		        #
+		    }
+		}
+	    hidden_effect = {
+		    SOU = {
+		        country_event = { days = 15 id = south_america.6 }
+		    }
+        }
+    }		
+}
+
+# Protests turn into riots
+country_event = {
+	id = south_america.6
+	title = south_america.6.t
+	desc = south_america.6.d
+	picture = GFX_SOU_protests_into_riots
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = south_america.6.o1
+		add_political_power = -100
+		hidden_effect = {
+		    SOU = {
+		        country_event = { days = 30 id = south_america.7 } 
+		    }
+		}
+	}
+}

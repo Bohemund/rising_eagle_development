@@ -44,7 +44,7 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 4
+			popularity = 14
 		}
 		centrist = {
 			popularity = 0
@@ -53,16 +53,16 @@ set_politics = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 4
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 8
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 14
+			popularity = 8
 		}
 	}
 	
@@ -73,11 +73,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Vladimer Chachibaia"
-	desc = ""
-	picture = "Portrait_GEO_Vladimer_Chachibaia.tga"
+	name = "Tengiz Kitovani"
+	desc = "POLITICS_TENGIZ_KITOVANI_DESC"
+	picture = "Portrait_EGO_Tengiz_Kitovani.tga"
 	expire = "2050.1.1"
-	ideology = military_statist
+	ideology = military_dictator
 	traits = {
 		#
 	}

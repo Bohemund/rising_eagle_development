@@ -39,16 +39,16 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 20
+			popularity = 10
 		}
 		monarchist = {
-			popularity = 16
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 3
+			popularity = 60
 		}
 		conservative = {
-			popularity = 0
+			popularity = 10
 		}
 		centrist = {
 			popularity = 0
@@ -57,20 +57,20 @@ set_politics = {
 			popularity = 0
 		}
 		social_democrat = {
-			popularity = 8
+			popularity = 0
 		}
 		democratic_socialist = {
-			popularity = 4
+			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 17
+		radical_socialist = {
+			popularity = 20
 		}
 		communist = {
-			popularity = 32
+			popularity = 0
 		}
 	}
 	
-	ruling_party = communist
+	ruling_party = nationalist
 	last_election = "2001.3.19"
 	election_frequency = 48
 	elections_allowed = no
@@ -92,7 +92,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_UGA_Yoweri_Museveni.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = nationalist_ideology
 	traits = {
 		#
 	}

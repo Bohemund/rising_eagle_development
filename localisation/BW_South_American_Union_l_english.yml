@@ -1,29 +1,36 @@
 ﻿l_english:
  
  #PARTIES
- SOU_ultranationalist_party:0 "National Renewal - MC"
- SOU_ultranationalist_party_long:0 "National Renewal Alliance - Military Clique"
+ SOU_ultranationalist_party:0 "Military Clique"
+ SOU_ultranationalist_party_long:0 "Military Clique"
  SOU_monarchist_party:0 "House of Braganza"
  SOU_monarchist_party_long:0 "House of Orléans-Braganza"
- SOU_nationalist_party:0 "National Renewal - M"
- SOU_nationalist_party_long:0 "National Renewal Alliance - Malufists"
- SOU_conservative_party:0 "National Renewal - R"
- SOU_conservative_party_long:0 "National Renewal Alliance - Republicans"
- SOU_centrist_party:0 "National Renewal - D"
- SOU_centrist_party_long:0 "National Renewal Alliance - Democrats"
- SOU_liberal_party:0 "Democratic Movement - L"
- SOU_liberal_party_long:0 "Democratic Movement - Liberals"
+ SOU_nationalist_party:0 "Union Alliance"
+ SOU_nationalist_party_long:0 "Union Alliance"
+ SOU_conservative_party:0 "Union Alliance"
+ SOU_conservative_party_long:0 "Union Alliance"
+ SOU_centrist_party:0 "Union Alliance"
+ SOU_centrist_party_long:0 "Union Alliance"
+ SOU_liberal_party:0 "Democratic Movement"
+ SOU_liberal_party_long:0 "Democratic Movement"
  SOU_social_democrat_party:0 "Democratic Movement"
  SOU_social_democrat_party_long:0 "Democratic Movement"
  SOU_democratic_socialist_party:0 "Workers' Party"
  SOU_democratic_socialist_party_long:0 "Workers' Party"
- SOU_libertarian_socialist_party:0 "Patriotic Alliance"
- SOU_libertarian_socialist_party_long:0 "Patriotic Alliance"
+ SOU_radical_socialist_party:0 "United Socialists"
+ SOU_radical_socialist_party_long:0 "United Socialists"
  SOU_communist_party:0 "Socialist Party"
  SOU_communist_party_long:0 "Unified Workers’ Socialist Party"
 
  #LEADERS
- POLITICS_PAULO_MALUF_DESC:0 "Paulo Salim Maluf was born in São Paulo, the son of Lebanese immigrants. His family was by no means poor, they were friends and associates of President Artur da Costa e Silva. It was through this friendship that Maluf managed to be appointed as mayor of his hometown. He became known for his authoritarian governance and his fondness of large-scale infrastructure projects that his administration could not afford. With his built-up influence he managed to be appointed Governor of São Paulo. He tried to use his position as governor as a springboard for a presidential run, donating ambulances to impoverished communities and hosting influential politicians free of charge. After being elected as a federal deputy he tried to win the nomination for ARENA in the ‘85 election but he was snubbed by the civilian caucus for his immoderate and arrogant reputation and José Sarney was chosen instead. Maluf did not stop, however. He ran for mayor once more and secured his election that same year, building up a political legacy which came to be termed “malufismo” by journalists. After the creation of the South American Parliament he ran as the candidate for Southeast Brazil was elected as a deputy. In 2002 he defeated Senator José Agripino Maia for the ARENA nomination, eventually winning the election handily against Romero Jucá. Having achieved his desired post he worked even harder to keep it, gathering allies in the military, spending generously in the public sector and as described by foreign press “turning raw force into mob rule”. Despite being reelected in 2006 he faces a long list of issues including the unstable economy, cold relations with the United States and the inability of both the opposition and some members of ARENA to cooperate with the President."
+ POLITICS_PAULO_MALUF_DESC:0 "Paulo Maluf entered politics thanks to his family’s friendship with President Artur da Costa e Silva. He was appointed mayor of São Paulo and served for two years before being appointed governor of the state of São Paulo by ARENA, the party in support of the country’s military government. He tried to use his newfound political influence to run for president in 1985, but he was rejected by the ARENA civilian caucus. In 1991 Brazil signed the Treaty of Ascunción alongside Paraguay, Uruguay, Colombia and Bolivia. This treaty established a common market, an integrated security service and external borders between the five countries. Though Bolivia withdrew following the 1992 revolution, the four remaining members signed Treaty of Montevideo in 1994 which furthered integration and officially created the South American Union. The same year Maluf was elected to the newly established Congress of South America as a member of the Union Alliance, the successors to ARENA. He served as a congressman for eight years before being nominated by the Union Alliance for the 2006 presidential election, which he won handily against the Democratic Movement’s Romero Jucá. Maluf worked hard to gain his position and even harder to keep it. He gathered allies among the military and used generous welfare programs to sway the population. Despite this the opposition is organizing across the country and Maluf’s position remains fragile."
+
+ #ADVISORS
+ SOU_Jose_Agripino_Maia:0 "José Agripino Maia"
+ SOU_ernesto_araujo:0 "Ernesto Araújo"
+ SOU_Francisco_Dornelles:0 "Francisco Dornelles"
+ SOU_enzo_martins_peri:0 "Enzo Martins Peri"
+ SOU_Rogerio_Galloro:0 "Rogério Galloro"
 
  #IDEAS
  SOU_military_power:0 "Military Power"
@@ -39,8 +46,27 @@
  SOU_linguistic_divide_desc:0 "Our country, though united in faith and destiny is divided among linguistic and ethnic lines. Almost three fourths of the union speak Portuguese, which has become the standard language for most official occasions. The remaining sixty million citizens speak Spanish, which greatly varies from north to south. Though internal boundaries within the Union were abolished in 1994 they still remain in practice, with local officials using the language most common in their area. While this has kept a lid on large separatist movements it has also furthered the divide between the government and the regions of Colombia, Paraguay and Uruguay. Integrating Spanish speakers into the military has been particularly troublesome."
 
  #EVENTS
-
- #Maluf talks to the military
- south_america.1.t:0 "President Maluf speaks to the Military"
- south_america.1.d:0 "Senior officials in the South American Union have approached President Maluf with matters regarding the scheduled election this year. The election was supposed to be held this January but concerns regarding protests led to it being postponed until June. The united opposition in the form of the Democratic Movement also voiced their concerns, saying elections during such instability would not be seen as legitimate and some rumors about a boycott even started appearing last year. Maluf spoke personally to General of the Army Enzo Martins Peri, trying to convince him that further disrupting the electoral cycle would only lead to stronger opposition against the government, something that they could not afford given the current unstable economic situation. Martins Peri is said to have left the meeting upset, stating to Maluf that if the civilian caucus abandons him the army will be the only support he has left."
- south_america.1.o1:0 "One way or another they will have to agree"
+ #Elections postponed
+ south_america.1.t:0 "Elections Postponed"
+ south_america.1.d:0 "Elections in the South American Union have never been a smooth process. Ever since the riots of 1994 the military has been carefully monitoring every every election, fearing that a candidate or their followers could challenge the established order. The run-up to this year’s election has been the most tumultuous in a decade. Protests, political rallies and violence has wreaked havoc in the minds of the voters. Meanwhile the country continues it’s economic downturn. In order to deal with these issues President Maluf held a meeting with his cabinet, leading bureaucrats and the military command the previous year. The talks were reported as successful and the president emerged to assure the people of the union that they were safe. Now, just weeks away from the presidential election Maluf held another speech, declaring that elections would be postponed until October. The declaration was met with mixed reactions. While the move was supported by the military and most of the government, the announcement did not go over well with the opposition. Some called for boycotts while others saw it as an opportunity to run an even more intense campaign. Following the announcement a number of protests broke out in cities across the country and the military command is scrambling to formulate a plan on how to suppress the protestors."
+ south_america.1.o1:0 "Let them shout"
+ #Protests for democracy
+ south_america.2.t:0 "Protests for Democracy"
+ south_america.2.d:0 "The 15th of January was supposed to be election day. Now with the postponement of elections the people came out in the streets in support for democracy and transparency. Initially security forces were overwhelmed by the hordes of protestors that emerged and President Maluf personally approved the deployment of military police forces to numerous cities. International media is reporting that the police used rubber bullets against protestors and that more than ten people have already died as a result of police brutality. Despite heavy dissuasion the riots show no sign of stopping. On the initiative of Director Rogério Galloro the Union Intelligence Service has been investigating whether the protestors could have been influenced by socialist or communist militants, though no clear link has been found yet."
+ south_america.2.o1:0 "Put a stop to this"
+ #Protests suppressed
+ south_america.3.t:0 "Protests Suppressed"
+ south_america.3.d:0 "After three long weeks it seems that the protests are slowly dying down. General Enzo Martins Peri, who is responsible for most of the armed forces in Brazil, was called to Paraguay by General Lino Oviedo to help control the riots that had broken out in Asunción. Now General Peri has returned and he assured the president that the situation is under control. The harsh response from the security forces seem to have dissuaded many would-be protestors. But the underlying issues that caused the protests are still present. President Maluf spoke to reporters outside the Planalto Palace, assuring them that the country was returning to normalcy. He also called on the opposition to help ensure that this year’s presidential election could be carried out without violence or unrest. The speech ended with the president announcing that he would return to campaigning for the welfare and security of all people in the union. "
+ south_america.3.o1:0 "Good work"
+ #President meets opposition
+ south_america.4.t:0 "President Meets Opposition Leader"
+ south_america.4.d:0 "Today President Maluf invited opposition leader Romero Jucá to his office. The meeting had not been announced to any media beforehand and the subject remains quite mysterious. Experts have speculated that the meeting was an effort to calm the tensions in the country, showing some form of unity between the government and the opposition. Some have gone further, explaining that the meeting was likely called so that Maluf could negotiate or threaten Jucá to keep his supporters in check. The two presidential candidates were greeted on the steps of the Planalto Palace by reporters from both state and international media, where Maluf announced that both the Union Alliance and the Democratic Movement would be working towards increasing transparency in the democratic process. Upon his return to the parliament Jucá was interviewed again, where stated that the talks had been fruitful but that he was unsure whether Maluf was determined enough to fulfill his end of the bargain. Jucá also reiterated that the Democratic Movement is the party that truly represents the drive towards democracy in the union. The president chose not to comment on this interview."
+ south_america.4.o1:0 "We shall keep the peace"
+ #Opposition leader assassinated
+ south_america.5.t:0 "Opposition Leader Stabbed"
+ south_america.5.d:0 "Terrifying news from Rio de Janeiro. The leader of the Democratic Movement, Romero Jucá has been stabbed in the streets. The candidate had just held a speech in a small suburb and was greeting a crowd of supporters when a young assailant ran up to him and stabbed him in the stomach. Security forces were not able to act in time and the supporters of Jucá attacked the assassin, beating him to the verge of death. In the chaos that ensued the wounded presidential hopeful was trampled by his supporters. Ambulances were able to arrive quickly and brought both men to the nearest hospital. Jucá struggled for his life for hours but unfortunately, despite the efforts of the doctors and nurses at the Samaritano hospital, passed away at 4:24 this morning. Rumors have already spread about the assassin, who is still in a medically induced coma at the same hospital. A few have blamed communist guerillas from the outer regions of the union, some have blamed the CIA. But the majority blame the government. Protestors have already begun pouring into the streets again. Numerous cabinet members have advised that the president declare a national emergency and cancel elections all together."
+ south_america.5.o1:0 "Terrible"
+ #Protests turn into riots
+ south_america.6.t:0 "Protests Turn Into Riots"
+ south_america.6.d:0 "The stabbing of Romero Jucá sent shockwaves throughout the union. The weeks following the incident have been wrought with violence and social upheaval, as protestors have turned into rioters. Entire neighborhoods have been destroyed and the death count lies in the double digits. The Union Security Service has been unable to identify any links between the perpetrator of the stabbing and any known organizations operating within or outside the country. The stabber himself proved uncooperative, as he remained in a vegetative state for several days before finally passing away from his wounds. All of this comes as bad news for President Maluf, who has been struggling to keep his position intact. Many protestors have called for his resignation, indictment and even his death. These threats were naturally handled by the police but there are still many who would wish harm on the president, even some within the government. The congress has even begun discussions whether the decision to postpone elections was legal, while some congressmen have outright called for the president’s resignation."
+ south_america.6.o1:0 "Horrible"

@@ -37,31 +37,31 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 12
+			popularity = 30
 		}
 		nationalist = {
-			popularity = 26
+			popularity = 4
 		}
 		conservative = {
-			popularity = 5
+			popularity = 10
 		}
 		centrist = {
 			popularity = 0
 		}
 		liberal = {
-			popularity = 15
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 8
+			popularity = 10
 		}
 		democratic_socialist = {
-			popularity = 34
+			popularity = 38
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 8
 		}
 	}
 	
@@ -98,7 +98,18 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_ETH_Seyoum_Mesfin.tga"
 	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
+	ideology = radical_socialist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tadesse Werede Tesfay"
+	desc = "POLITICS_HAILE_SELASSIE_DESC"
+	picture = "Portrait_ETH_Tadesse_Werede_Tesfay.tga"
+	expire = "2050.1.1"
+	ideology = stalinist
 	traits = {
 		#
 	}

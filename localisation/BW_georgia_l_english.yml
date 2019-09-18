@@ -1,8 +1,8 @@
 ﻿l_english:
  
  #Parties
- GEO_ultranationalist_party:0 "National Construction"
- GEO_ultranationalist_party_long:0 "Committee of National Construction and Development"
+ GEO_ultranationalist_party:0 "Military Council"
+ GEO_ultranationalist_party_long:0 "Military Council of Georgia"
  GEO_monarchist_party:0 "Bagration-Gruzinsky"
  GEO_monarchist_party_long:0 "House of Bagration-Gruzinsky"
  GEO_nationalist_party:0 "Georgian March"
@@ -17,7 +17,10 @@
  GEO_social_democrat_party_long:0 "Georgian Labour Party"
  GEO_democratic_socialist_party:0 "Free Georgia"
  GEO_democratic_socialist_party_long:0 "Free Georgia"
- GEO_libertarian_socialist_party:0 "Union of Citizens"
- GEO_libertarian_socialist_party_long:0 "Union of Citizens"
- GEO_communist_party:0 "New Communist Party"
- GEO_communist_party_long:0 "New Communist Party of Georgia"
+ GEO_radical_socialist_party:0 "Union of Citizens"
+ GEO_radical_socialist_party_long:0 "Union of Citizens"
+ GEO_communist_party:0 "Communist Party"
+ GEO_communist_party_long:0 "Communist Party of Georgia"
+
+ #LEADERS
+ POLITICS_TENGIZ_KITOVANI_DESC:0 "Tengiz Kitovani had been both a teacher and a painter before joining the newly-formed National Guard in 1986. Despite not being a professional soldier, he was given command of a regiment of former Red Army volunteers and charged with maintaining Georgian presence in Abkhazia. In the chaos of the fall of the Soviet Union, Kitovani allied with nationalist paramilitaries and took personal control over areas in both Abkhazia and northwestern Georgia. When President Eduard Shevardnadze ordered that Georgian troops be withdrawn from Abkhazia and Adjara, Kitovani and a clique of military leaders ousted the president and established the Military Council of Georgia to rule the country. Kitovani would soon rise to lead the council by smearing and demoting his rivals. After the council elected him President of Georgia, Kitovani initiated a devastating purge of the military and political leadership of the country, securing total control for himself. With support from mysterious oligarchs the Georgian Armed Forces were modernized and the breakaway republics were retaken in 1988. Since then very little has been heard from the “hermit kingdom of the Caucasus”, except for the occasional border clash with its neighbors. Dissent in the country remains nonexistent and Kitovani’s hold on power shows no sign of waning."

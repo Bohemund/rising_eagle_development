@@ -1,6 +1,6 @@
 ﻿capital = 636
 
-oob = "AAA_2010"
+oob = "FIJ_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -28,39 +28,50 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
-		}
-		monarchist = {
 			popularity = 0
 		}
+		monarchist = {
+			popularity = 40
+		}
 		nationalist = {
-			popularity = 11
+			popularity = 20
 		}
 		conservative = {
-			popularity = 12
+			popularity = 20
 		}
 		centrist = {
-			popularity = 15
+			popularity = 0
 		}
 		liberal = {
-			popularity = 17
+			popularity = 10
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 4
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 10
+		radical_socialist = {
+			popularity = 6
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = monarchist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Epenisa Cakobau"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_FIJ_Epenisa_Cakobau.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
 }

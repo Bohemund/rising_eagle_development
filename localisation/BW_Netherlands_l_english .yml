@@ -1,14 +1,14 @@
 ﻿l_english:
  
  #PARTIES
- HOL_ultranationalist_party:0 "National Party"
- HOL_ultranationalist_party_long:0 "National Party"
+ HOL_ultranationalist_party:0 "Dutch People’s Union"
+ HOL_ultranationalist_party_long:0 "Dutch People’s Union"
  HOL_monarchist_party:0 "House of Orange-Nassau"
  HOL_monarchist_party_long:0 "House of Orange-Nassau"
- HOL_nationalist_party:0 "Fortuyn Alliance"
- HOL_nationalist_party_long:0 "Fortuyn Alliance"
- HOL_conservative_party:0 "Reformed Political Party"
- HOL_conservative_party_long:0 "Reformed Political Party"
+ HOL_nationalist_party:0 "National Alliance"
+ HOL_nationalist_party_long:0 "National Alliance"
+ HOL_conservative_party:0 "Christian Democrats"
+ HOL_conservative_party_long:0 "Christian Democratic Appeal"
  HOL_centrist_party:0 "People's Party"
  HOL_centrist_party_long:0 "People's Party for Freedom and Democracy"
  HOL_liberal_party:0 "Democrats 68"
@@ -17,7 +17,11 @@
  HOL_social_democrat_party_long:0 "Labour Party"
  HOL_democratic_socialist_party:0 "Socialist Party"
  HOL_democratic_socialist_party_long:0 "Socialist Party"
- HOL_libertarian_socialist_party:0 "Pacifist Socialist Party"
- HOL_libertarian_socialist_party_long:0 "Pacifist Socialist Party"
+ HOL_radical_socialist_party:0 "Party of Radicals"
+ HOL_radical_socialist_party_long:0 "Political Party of Radicals"
  HOL_communist_party:0 "Communist Party"
  HOL_communist_party_long:0 "Communist Party of the Netherlands"
+
+ #IDEAS
+ HOL_beatrix:0 "Beatrix"
+ HOL_beatrix_desc:0 "Beatrix is the Queen of the Kingdom of the Netherlands."

@@ -45,32 +45,32 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 15
+			popularity = 14
 		}
 		conservative = {
-			popularity = 7
+			popularity = 24
 		}
 		centrist = {
-			popularity = 21
+			popularity = 7
 		}
 		liberal = {
-			popularity = 3
-		}
-		social_democrat = {
 			popularity = 4
 		}
-		democratic_socialist = {
-			popularity = 18
+		social_democrat = {
+			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 26
+		democratic_socialist = {
+			popularity = 5
+		}
+		radical_socialist = {
+			popularity = 43
 		}
 		communist = {
-			popularity = 6
+			popularity = 3
 		}
 	}
 	
-	ruling_party = libertarian_socialist
+	ruling_party = radical_socialist
 	last_election = "2006.11.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_JUAN_BAUTISTA_SACASA_DESC"
 	picture = "Portrait_NIC_Arnoldo_Aleman.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = libertarian
 	traits = {
 		#
 	}
@@ -89,10 +89,10 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Daniel Ortega"
-	desc = "POLITICS_JUAN_BAUTISTA_SACASA_DESC"
+	desc = "POLITICS_DANIEL_ORTEGA_DESC"
 	picture = "Portrait_NIC_Daniel_Ortega.tga"
 	expire = "2050.1.1"
-	ideology = libertarian_socialist_ideology
+	ideology = radical_socialist_ideology
 	traits = {
 		#
 	}

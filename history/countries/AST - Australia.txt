@@ -34,34 +34,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 5
+			popularity = 0
 		}
 		monarchist = {
-			popularity = 1
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 15
+			popularity = 18
 		}
 		conservative = {
-			popularity = 20
-		}
-		centrist = {
-			popularity = 5
-		}
-		liberal = {
-			popularity = 2
-		}
-		social_democrat = {
-			popularity = 38
-		}
-		democratic_socialist = {
-			popularity = 10
-		}
-		libertarian_socialist = {
 			popularity = 3
 		}
+		centrist = {
+			popularity = 20
+		}
+		liberal = {
+			popularity = 14
+		}
+		social_democrat = {
+			popularity = 36
+		}
+		democratic_socialist = {
+			popularity = 9
+		}
+		radical_socialist = {
+			popularity = 0
+		}
 		communist = {
-			popularity = 1
+			popularity = 0
 		}
 	}
 	
@@ -72,11 +72,33 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Tanya Plibersek"
+	name = "Bob Katter"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_AST_Tanya_Plibersek.tga"
+	picture = "Portrait_AST_Bob_Katter.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tony Abbott"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Tony_Abbott.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Malcolm Turnbull"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_AST_Malcolm_Turnbull.tga"
+	expire = "2050.1.1"
+	ideology = new_democrat
 	traits = {
 		#
 	}

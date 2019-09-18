@@ -15,9 +15,6 @@ ideologies = {
 			
 			falangist = {			
 			}
-			
-			national_bolshevik = {				
-			} 
 
 			eurasianist = {	
 			}
@@ -28,7 +25,7 @@ ideologies = {
 			integralist = {	
 			}
 
-			military_statist = {	
+			military_dictator = {	
 			}
 			
 			baathist = {	
@@ -38,6 +35,15 @@ ideologies = {
 			}
 
 			mexican_synarchist = {	
+			}
+
+			revolutionary_islamist = {	
+			}
+
+			mobutist = {	
+			}
+
+			third_international_theory = {	
 			}
 
 		}
@@ -51,7 +57,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
 		
-		color = { 70 70 70 }
+		color = { 82 51 28 } # ORIGINAL RE COLOR 70 70 70
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -67,7 +73,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.25
 		}
-		
+		ai_neutral = yes
 	}
 
 	monarchist = {
@@ -80,13 +86,7 @@ ideologies = {
 			absolute_monarchist = {
 			}
 
-			privy_council = {
-			}
-
-			trasitional_council = {
-			}
-
-			parliamentary_consitutional_monarchy = {
+			carlist = {
 			}
 	
 		}
@@ -116,7 +116,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	nationalist = {
@@ -128,11 +128,11 @@ ideologies = {
 		
 			american_nationalist = {
 			}
-			
-			authoritarian_democrat = {
+
+			lebanese_nationalist = {
 			}
 
-			religious_traditionalist = {
+			african_nationalist = {
 			}
 
             national_conservative = {
@@ -141,9 +141,11 @@ ideologies = {
             military_junta = {
 			}
 
-            islamist = {
+			fujimorist = {
 			}
-			
+
+			peronist = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -171,7 +173,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	conservative = {
@@ -181,13 +183,10 @@ ideologies = {
 			conservative_ideology = {
 			}
 
-			american_republican = {
+			american_conservative = {
 			}
 			
 			agrarian_conservative = {
-			}
-			
-			christian_democrat = {
 			}
 			
 			fiscal_conservative = {
@@ -196,7 +195,16 @@ ideologies = {
 			social_conservative = {
 			}
 
+			christian_democrat = {
+			}
+
 			islamic_democrat = {
+			}
+
+			reactionary = {
+			}
+
+			gaullist = {
 			}
 			
 		}
@@ -210,7 +218,7 @@ ideologies = {
 			"FACTION_NAME_CONSERVATIVE_6"
 		}
 		
-		color = { 0 60 180 }
+		color = { 62 53 198 } # 0 60 180 ORIGINAL RE COLOR
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
@@ -226,7 +234,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	centrist = {
@@ -238,22 +246,10 @@ ideologies = {
 		
 			libertarian = {
 			}
-
-			national_liberal = {
-			}
 			
 			centrist_populist = {
 			}
 
-			market_liberal = {
-			}
-
-			agrarian_populist = {
-			}
-
-			liberal_conservative = {
-			}
-			
 		}
 		
 		dynamic_faction_names = {
@@ -281,7 +277,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	liberal = {
@@ -293,14 +289,16 @@ ideologies = {
 		
 			social_liberal = {
 			}
-			
-			radical = {
+
+			classical_liberal = {
+			}
+
+			national_liberal = {
 			}
 			
 			american_democrat = {
 			}
-			
-			
+				
 		}
 		
 		dynamic_faction_names = {
@@ -328,7 +326,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	social_democrat = {
@@ -341,10 +339,16 @@ ideologies = {
 			progressive = {
 			}
 
+			new_democrat = {
+			}
+
 			pancasila = {
 			}
 
 			kemalist = {
+			}
+
+			radical = {
 			}
 
 		}
@@ -374,7 +378,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	democratic_socialist = {
@@ -391,6 +395,9 @@ ideologies = {
 			}
 
 			nasserist = {
+			}
+
+			islamic_socialist = {
 			}
 			
 		}
@@ -420,23 +427,20 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
-	libertarian_socialist = {
+	radical_socialist = {
 		
 		types = {
 		
-			libertarian_socialist_ideology = {
-			}
-
-			luxemburgist = {
+			radical_socialist_ideology = {
 			}
 			
 			syndicalist = {
 			}
-			
-			anarcho_syndicalist = {
+
+			luxemburgist = {
 			}
 
 			communalist = {
@@ -445,16 +449,22 @@ ideologies = {
 			anarcho_communist = {
 			}
 
-			christian_socialist = {
+			christian_communist = {
 			}
 
-			democratic_confederalist = {
+			buddhist_socialist = {
 			}
 
-			neozapatist = {
+			neozapatismo = {
 			}
 
 			bolivarianist = {
+			}
+
+			african_socialist = {
+			}
+
+			libertarian_socialist = {
 			}
 			
 		}
@@ -468,7 +478,7 @@ ideologies = {
 			"FACTION_NAME_REVOLUTIONARY_SOCIALIST_6"
 		}
 		
-		color = { 155 18 20  }
+		color = { 155 18 20 }
 		
 		war_impact_on_world_tension = 2
 		faction_impact_on_world_tension = 2
@@ -484,7 +494,7 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.5
 		}
-		
+		ai_neutral = yes
 	}
 
 	communist = {
@@ -510,9 +520,6 @@ ideologies = {
 			}
 
 			titoist = {
-			}
-			
-			christian_communist = {
 			}
 			
 		}
@@ -542,7 +549,6 @@ ideologies = {
 		modifiers = {
 			join_faction_tension = 0.25
 		}
-		
+		ai_neutral = yes
 	}
-
 }

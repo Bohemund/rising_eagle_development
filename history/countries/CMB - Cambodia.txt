@@ -2,6 +2,10 @@
 
 oob = "CMB_2010"
 
+add_ideas = {
+    CMB_norodom_sihanouk
+}
+
 set_research_slots = 4
 set_convoys = 50
 set_stability = 0.8
@@ -28,41 +32,63 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 14
 		}
 		monarchist = {
-			popularity = 15
+			popularity = 12
 		}
 		nationalist = {
-			popularity = 0
+			popularity = 26
 		}
 		conservative = {
-			popularity = 20
+			popularity = 16
 		}
 		centrist = {
-			popularity = 28
+			popularity = 0
 		}
 		liberal = {
-			popularity = 5
+			popularity = 0
 		}
 		social_democrat = {
-			popularity = 4
-		}
-		democratic_socialist = {
 			popularity = 6
 		}
-		libertarian_socialist = {
-			popularity = 4
+		democratic_socialist = {
+			popularity = 0
+		}
+		radical_socialist = {
+			popularity = 10
 		}
 		communist = {
-			popularity = 18
+			popularity = 16
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2008.7.27"
 	election_frequency = 60
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Norodom Sihanouk"
+	desc = ""
+	picture = "Portrait_CMB_Norodom_Sihanouk.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Norodom Ranariddh"
+	desc = ""
+	picture = "Portrait_CMB_Norodom_Ranariddh.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

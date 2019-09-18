@@ -1,11 +1,11 @@
 ﻿capital = 820
 
-oob = "AAA_2010"
+oob = "MLW_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.6
-set_war_support = 0.3
+set_stability = 0.7
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -28,39 +28,50 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 11
+			popularity = 40
 		}
 		conservative = {
-			popularity = 12
+			popularity = 20
 		}
 		centrist = {
-			popularity = 15
+			popularity = 28
 		}
 		liberal = {
-			popularity = 17
+			popularity = 12
 		}
 		social_democrat = {
-			popularity = 24
+			popularity = 0
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
-			popularity = 10
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Lazarus Chakwera"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_MLW_Lazarus_Chakwera.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }

@@ -11,30 +11,30 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 22
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 4
+			popularity = 10
 		}
 		conservative = {
-			popularity = 24
+			popularity = 27
 		}
 		centrist = {
-			popularity = 28
+			popularity = 32
 		}
 		liberal = {
 			popularity = 6
 		}
 		social_democrat = {
-			popularity = 11
+			popularity = 0
 		}
 		democratic_socialist = {
-			popularity = 5
+			popularity = 25
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -87,6 +87,28 @@ create_country_leader = {
 	picture = "Portrait_EGY_Abdel_Moneim_Aboul_Fotouh.tga"
 	expire = "2050.1.1"
 	ideology = centrist_populist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Naguib Sawiris"
+	desc = ""
+	picture = "Portrait_EGY_Naguib_Sawiris.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Hamdeen Sabahi"
+	desc = ""
+	picture = "Portrait_EGY_Hamdeen_Sabahi.tga"
+	expire = "2050.1.1"
+	ideology = nasserist
 	traits = {
 		#
 	}

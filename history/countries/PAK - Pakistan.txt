@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 18
+			popularity = 15
 		}
 		monarchist = {
 			popularity = 0
@@ -48,29 +48,29 @@ set_politics = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 8
+			popularity = 28
 		}
 		centrist = {
-			popularity = 28
+			popularity = 14
 		}
 		liberal = {
 			popularity = 11
 		}
 		social_democrat = {
-			popularity = 26
-		}
-		democratic_socialist = {
 			popularity = 6
 		}
-		libertarian_socialist = {
+		democratic_socialist = {
+			popularity = 26
+		}
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2008.2.18"
 	election_frequency = 48
 	elections_allowed = no
@@ -81,7 +81,7 @@ create_country_leader = {
 	name = "Nawaz Sharif"
 	picture = "Portrait_PAK_Nawaz_Sharif.tga"
 	expire = "2050.1.1"
-	ideology = centrist_ideology
+	ideology = islamic_democrat
 	traits = {
 		
 	}

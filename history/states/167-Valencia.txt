@@ -7,7 +7,7 @@ state={
 	state_category = state_level_8
 
 	history={
-		owner = CAT
+		owner = SPR
 		victory_points = {
 			6906 20		#Valencia
 		}
@@ -22,7 +22,7 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = CAT
+		add_core_of = SPR
 	}
 
 	provinces={

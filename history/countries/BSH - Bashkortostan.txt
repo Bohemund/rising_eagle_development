@@ -39,30 +39,30 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 100
+			popularity = 48
 		}
 		conservative = {
-			popularity = 0
+			popularity = 10
 		}
 		centrist = {
-			popularity = 0
+			popularity = 26
 		}
 		liberal = {
-			popularity = 0
+			popularity = 4
 		}
 		social_democrat = {
-			popularity = 0
+			popularity = 8
 		}
 		democratic_socialist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -81,7 +81,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_BSH_Murtaza_Rakhimov.tga"
 	expire = "2050.1.1"
-	ideology = national_conservative
+	ideology = nationalist_ideology
 	traits = {
 		#
 	}

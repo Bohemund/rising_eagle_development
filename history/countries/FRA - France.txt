@@ -2,6 +2,10 @@
 
 oob = "FRA_2010"
 
+add_ideas = {
+    european_union
+}
+
 set_research_slots = 4
 set_convoys = 400
 set_stability = 0.7
@@ -34,34 +38,34 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 8
+			popularity = 14
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 10
+			popularity = 6
 		}
 		conservative = {
 			popularity = 34
 		}
 		centrist = {
-			popularity = 2
+			popularity = 0
 		}
 		liberal = {
-			popularity = 9
+			popularity = 8
 		}
 		social_democrat = {
-			popularity = 21
+			popularity = 4
 		}
 		democratic_socialist = {
-			popularity = 16
+			popularity = 22
 		}
-		libertarian_socialist = {
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
-			popularity = 0
+			popularity = 12
 		}
 	}
 	
@@ -83,11 +87,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Dominique de Villepin"
+	name = "Nicolas Dupont-Aignan"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Dominique_de_Villepin.tga"
+	picture = "Portrait_FRA_Nicolas_Dupont_Aignan.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = gaullist
 	traits = {
 		#
 	}

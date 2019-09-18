@@ -2,6 +2,11 @@
 
 oob = "HOL_2010"
 
+add_ideas = {
+    european_union
+    HOL_beatrix
+}
+
 set_research_slots = 4
 set_convoys = 100
 set_stability = 0.8
@@ -35,41 +40,63 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 9
+			popularity = 0
 		}
 		monarchist = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 4
-		}
-		conservative = {
-			popularity = 17
-		}
-		centrist = {
-			popularity = 24
-		}
-		liberal = {
-			popularity = 6
-		}
-		social_democrat = {
 			popularity = 20
 		}
-		democratic_socialist = {
-			popularity = 13
+		conservative = {
+			popularity = 28
 		}
-		libertarian_socialist = {
-			popularity = 4
+		centrist = {
+			popularity = 15
+		}
+		liberal = {
+			popularity = 3
+		}
+		social_democrat = {
+			popularity = 27
+		}
+		democratic_socialist = {
+			popularity = 5
+		}
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
-			popularity = 3
+			popularity = 2
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2006.11.22"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Geert Wilders"
+	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
+	picture = "Portrait_HOL_Geert_Wilders.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jan Peter Balkenende"
+	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
+	picture = "Portrait_HOL_Jan_Peter_Balkenende.tga"
+	expire = "2050.1.1"
+	ideology = reactionary
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -77,7 +104,7 @@ create_country_leader = {
 	desc = "POLITICS_DIRK_JAN_DE_GEER_DESC"
 	picture = "Portrait_HOL_Mark_Rutte.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = libertarian
 	traits = {
 		#
 	}

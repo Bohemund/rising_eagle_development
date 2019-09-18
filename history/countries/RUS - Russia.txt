@@ -2,6 +2,14 @@
 
 oob = "RUS_2010"
 
+add_ideas = {
+    RUS_boris_nemtsov
+    RUS_alexei_kudrin
+    RUS_boris_titov
+    RUS_alexei_navalny
+    RUS_nikolai_patrushev
+}
+
 set_research_slots = 4
 set_convoys = 50
 set_stability = 0.5
@@ -51,18 +59,18 @@ set_politics = {
 			popularity = 18
 		}
 		centrist = {
-			popularity = 27
+			popularity = 0
 		}
 		liberal = {
-			popularity = 7
+			popularity = 27
 		}
 		social_democrat = {
-			popularity = 3
-		}
-		democratic_socialist = {
 			popularity = 8
 		}
-		libertarian_socialist = {
+		democratic_socialist = {
+			popularity = 10
+		}
+		radical_socialist = {
 			popularity = 0
 		}
 		communist = {
@@ -70,7 +78,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = liberal
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -90,6 +98,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Maria I"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_RUS_Maria.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Alexander Lebed"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_RUS_Alexander_Lebed.tga"
@@ -101,9 +120,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Dimitry Medvedev"
+	name = "Natalia Poklonskaya"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_RUS_Dmitry_Medvedev.tga"
+	picture = "Portrait_RUS_Natalia_Poklonskaya.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
 	traits = {
@@ -116,18 +135,51 @@ create_country_leader = {
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_RUS_Mikhail_Kasyanov.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = libertarian
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Vladimir Putin"
+	name = "Boris Nemtsov"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_RUS_Vladimir_Putin.tga"
+	picture = "Portrait_RUS_Boris_Nemtsov.tga"
 	expire = "2050.1.1"
-	ideology = stalinist
+	ideology = national_liberal
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Emilia Slabunova"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_RUS_Emilia_Slabunova.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Sergey Mironov"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_RUS_Sergey_Mironov.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nikolai Ryzhkov"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "Portrait_RUS_Nikolai_Ryzhkov.tga"
+	expire = "2050.1.1"
+	ideology = leninist
 	traits = {
 		
 	}

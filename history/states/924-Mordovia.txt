@@ -1,0 +1,25 @@
+
+state={
+	id=924
+	name="STATE_924"
+	manpower = 834755
+	
+	
+	state_category = state_level_5
+
+
+	history={
+		owner = MRD
+		add_core_of = MRD
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			324 5 
+		}
+	}
+
+	provinces={
+		6343 9344 9276 376 3371 11262 11309 9286 324 6391 345 3269 3334 3197
+	}
+}

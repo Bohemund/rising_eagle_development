@@ -2,6 +2,11 @@
 
 oob = "NOR_2010"
 
+add_ideas = {
+    nordic_economic_community
+    harald_v
+}
+
 set_research_slots = 4
 set_convoys = 200
 set_stability = 0.7
@@ -37,38 +42,49 @@ set_politics = {
 			popularity = 0
 		}
 		nationalist = {
-			popularity = 19
+			popularity = 25
 		}
 		monarchist = {
 			popularity = 0
 		}
 		conservative = {
-			popularity = 17
+			popularity = 20
 		}
 		centrist = {
-			popularity = 26
+			popularity = 10
 		}
 		liberal = {
 			popularity = 5
 		}
 		social_democrat = {
-			popularity = 23
+			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 1
+			popularity = 6
 		}
-		libertarian_socialist = {
-			popularity = 9
+		radical_socialist = {
+			popularity = 0
 		}
 		communist = {
 			popularity = 0
 		}
 	}
 	
-	ruling_party = centrist
+	ruling_party = nationalist
 	last_election = "2009.9.14"
 	election_frequency = 36
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Carl Ivar Hagen"
+	desc = "POLITICS_KARL_IVAR_HAGEN_DESC"
+	picture = "Portrait_NOR_Carl_Hagen.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -76,7 +92,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_NOR_Liv_Signe_Navarsete.tga"
 	expire = "2050.1.1"
-	ideology = market_liberal
+	ideology = centrist_populist
 	traits = {
 		#
 	}

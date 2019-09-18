@@ -18,7 +18,7 @@ state={
 		victory_points = { 11586 20 }	#Belgrade
 		victory_points = { 11583 2 }	#Kragujevac
 		add_core_of = YUG
-
+        add_core_of = SER
 	}
 
 	provinces={

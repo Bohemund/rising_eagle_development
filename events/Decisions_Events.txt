@@ -1,4 +1,4 @@
-﻿add_namespace = decision_event
+add_namespace = decision_event
 
 #1952 Presidential election
 country_event = {
@@ -53,20 +53,6 @@ country_event = {
 	
 	option = {   
 		name = decision_event.4.o1
-	}
-}
-
-#Suez Crisis
-country_event = {
-	id = decision_event.9
-	title = decision_event.9.t
-	desc = decision_event.9.d
-	picture = suez_crisis
-	
-	is_triggered_only = yes
-	
-	option = {   
-		name = decision_event.9.o1
 	}
 }
 
@@ -126,12 +112,26 @@ country_event = {
 	}
 }
 
-#Gulf of Tonkin Incident
+#Suez Crisis
+country_event = {
+	id = decision_event.9
+	title = decision_event.9.t
+	desc = decision_event.9.d
+	picture = suez_crisis
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.9.o1
+	}
+}
+
+#1963 South Vietnamese Coup D’état
 country_event = {
 	id = decision_event.10
 	title = decision_event.10.t
 	desc = decision_event.10.d
-	picture = gulf_of_tonkin
+	picture = 1963_south_vietnamese_coup
 	
 	is_triggered_only = yes
 	
@@ -168,12 +168,12 @@ country_event = {
 	}
 }
 
-#Vietnam War
+#Fall of Saigon
 country_event = {
 	id = decision_event.13
 	title = decision_event.13.t
 	desc = decision_event.13.d
-	picture = vietnam_war
+	picture = fall_of_saigon
 	
 	is_triggered_only = yes
 	
@@ -224,12 +224,12 @@ country_event = {
 	}
 }
 
-#Assassination of Robert Kennedy
+#Cambodia 1969 Coup
 country_event = {
 	id = decision_event.17
 	title = decision_event.17.t
 	desc = decision_event.17.d
-	picture = robert_kennedy
+	picture = CMB_1969_coup
 	
 	is_triggered_only = yes
 	
@@ -294,12 +294,12 @@ country_event = {
 	}
 }
 
-#Ho Chi Minh Campaign
+#Operation Condor
 country_event = {
 	id = decision_event.22
 	title = decision_event.22.t
 	desc = decision_event.22.d
-	picture = VIN_ho_chi_minh_campaign
+	picture = USA_operation_condor
 	
 	is_triggered_only = yes
 	
@@ -336,6 +336,34 @@ country_event = {
 	}
 }
 
+#Kennedy's Visit to China
+country_event = {
+	id = decision_event.26
+	title = decision_event.26.t
+	desc = decision_event.26.d
+	picture = CHI_kennedy_visit_to_china
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.26.o1
+	}
+}
+
+#White Flower Revolution
+country_event = {
+	id = decision_event.27
+	title = decision_event.27.t
+	desc = decision_event.27.d
+	picture = CHI_white_flower_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.27.o1
+	}
+}
+
 #1976 US Presidential Election
 country_event = {
 	id = decision_event.25
@@ -347,5 +375,215 @@ country_event = {
 	
 	option = {   
 		name = decision_event.25.o1
+	}
+}
+
+#1976 US Presidential Election
+country_event = {
+	id = decision_event.28
+	title = decision_event.28.t
+	desc = decision_event.28.d
+	picture = ISR_six_day_war
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.28.o1
+	}
+}
+
+#Almaty Summit
+country_event = {
+	id = decision_event.29
+	title = decision_event.29.t
+	desc = decision_event.29.d
+	picture = RUS_almaty_summit
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.29.o1
+	}
+}
+
+#1986 Russian Election
+country_event = {
+	id = decision_event.30
+	title = decision_event.30.t
+	desc = decision_event.30.d
+	picture = RUS_1986_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.30.o1
+	}
+}
+
+#Putschist Trials
+country_event = {
+	id = decision_event.31
+	title = decision_event.31.t
+	desc = decision_event.31.d
+	picture = RUS_putschist_trials
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.31.o1
+	}
+}
+
+#Bolivian National Revolution
+country_event = {
+	id = decision_event.32
+	title = decision_event.32.t
+	desc = decision_event.32.d
+	picture = BOL_national_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.32.o1
+	}
+}
+
+#Azerbaijan Islamic Revolution
+country_event = {
+	id = decision_event.33
+	title = decision_event.33.t
+	desc = decision_event.33.d
+	picture = AZR_islamic_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.33.o1
+	}
+}
+
+#Assassination of John Ashbrook
+country_event = {
+	id = decision_event.34
+	title = decision_event.34.t
+	desc = decision_event.34.d
+	picture = USA_ashbrook_assassination
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.34.o1
+	}
+}
+
+#Iranian Revolution
+country_event = {
+	id = decision_event.35
+	title = decision_event.35.t
+	desc = decision_event.35.d
+	picture = PER_iranian_revolution
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.35.o1
+	}
+}
+
+#US 1980 Election
+country_event = {
+	id = decision_event.36
+	title = decision_event.36.t
+	desc = decision_event.36.d
+	picture = USA_1980_election
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.36.o1
+	}
+}
+
+#Moon Landing
+country_event = {
+	id = decision_event.37
+	title = decision_event.37.t
+	desc = decision_event.37.d
+	picture = USA_moon_landing
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.37.o1
+	}
+}
+
+#1986 Georgian Coup
+country_event = {
+	id = decision_event.38
+	title = decision_event.38.t
+	desc = decision_event.38.d
+	picture = GEO_1986_coup
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.38.o1
+	}
+}
+
+#Assassination of Manuel Fraga
+country_event = {
+	id = decision_event.39
+	title = decision_event.39.t
+	desc = decision_event.39.d
+	picture = SPR_fraga_assassination
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.39.o1
+	}
+}
+
+#Strategy for Peace
+country_event = {
+	id = decision_event.40
+	title = decision_event.40.t
+	desc = decision_event.40.d
+	picture = USA_strategy_for_peace
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.40.o1
+	}
+}
+
+#First Detante
+country_event = {
+	id = decision_event.41
+	title = decision_event.41.t
+	desc = decision_event.41.d
+	picture = USA_first_detante
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.41.o1
+	}
+}
+
+#Second Detante
+country_event = {
+	id = decision_event.42
+	title = decision_event.42.t
+	desc = decision_event.42.d
+	picture = USA_second_detante
+	
+	is_triggered_only = yes
+	
+	option = {   
+		name = decision_event.42.o1
 	}
 }
