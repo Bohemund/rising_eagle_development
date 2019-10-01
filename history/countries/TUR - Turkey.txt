@@ -51,7 +51,7 @@ set_popularities = {
 	communist = 10
 }
 
-set_politics = 
+set_politics = {
 	
 	ruling_party = centrist
 	last_election = "1997.1.1"
