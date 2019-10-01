@@ -12,11 +12,11 @@ ideas = {
 			available = {
 			    AND = {
 				    OR = {
-					    has_government = national_conservative
+					    has_government = conservative
 						has_government = centrist
 						has_government = liberal
-						has_government = new_democrat
-						has_government = moderate_socialist
+						has_government = social_democrat
+						has_government = democratic_socialist
 					}
 					NOT = {
 					    OR = {

@@ -25,16 +25,8 @@ state={
 			9461 = { bunker = 2 }
 		}
 		add_core_of = UKR
-		add_core_of = NOV
 		
-		2014.4.1 = {
-			owner = NOV
-			UKR = {
-				set_province_controller = 11487
-				set_province_controller = 570
-				set_province_controller = 11513
-			}
-		}
+		
 	}
 
 	provinces={

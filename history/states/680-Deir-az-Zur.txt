@@ -17,9 +17,6 @@ state={
 		}
 		add_core_of = SYR
 		
-		2016.5.1 = {
-			owner = ISS
-		}
 	}
 
 	provinces={
