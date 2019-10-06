@@ -56,6 +56,13 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/report_event/JAP_hida_disaster.dds"
 	}
 
+### USA ###
+
+	spriteType = {
+		name = "USA_baldwin_state_of_the_union"
+		texturefile = "gfx/event_pictures/report_event/USA_baldwin_state_of_the_union.dds"
+	}
+
 ### NATIONAL HISTORY ####
 
 	spriteType = {

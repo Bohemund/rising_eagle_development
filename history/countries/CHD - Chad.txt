@@ -24,42 +24,22 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 12
+	monarchist = 0
+	nationalist = 38
+	conservative = 5
+	centrist = 0
+	liberal = 6
+	social_democrat = 15
+	democratic_socialist = 24
+	radical_socialist = 0
+	communist = 0
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 28
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 34
-		}
-		conservative = {
-			popularity = 0
-		}
-		centrist = {
-			popularity = 15
-		}
-		liberal = {
-			popularity = 0
-		}
-		social_democrat = {
-			popularity = 12
-		}
-		democratic_socialist = {
-			popularity = 5
-		}
-		libertarian_socialist = {
-			popularity = 6
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
-	ruling_party = ultranationalist
+	ruling_party = nationalist
 	last_election = "2006.5.3"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,7 +50,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_CHD_Hissene_Habre.tga"
 	expire = "2050.1.1"
-	ideology = ultranationalist_ideology
+	ideology = nationalist_ideology
 	traits = {
 		#
 	}

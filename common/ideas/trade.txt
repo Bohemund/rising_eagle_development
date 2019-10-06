@@ -52,12 +52,12 @@ ideas = {
 					}
 					AND = {
 						OR = {
-							has_government = fascist
+							has_government = ultranationalist
 							has_government = nationalist
 							has_government = monarchist
 							has_government = communist
-							has_government = revolutionary_socialist
-							has_government = national_bolshevik
+							has_government = radical_socialist
+							has_government = ultranationalist
 						}
 						OR = {
 							has_idea = partial_economic_mobilisation
@@ -99,12 +99,12 @@ ideas = {
 			
 			available = {
 				OR = { 
-					has_government = fascist
+					has_government = ultranationalist
 					has_government = nationalist
 					has_government = communist
 					has_government = monarchist
-					has_government = revolutionary_socialist
-					has_government = national_bolshevik
+					has_government = radical_socialist
+					has_government = ultranationalist
 					has_war = yes
 				}
 				OR = {

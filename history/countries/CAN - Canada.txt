@@ -28,40 +28,20 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 4
+	conservative = 34
+	centrist = 10
+	liberal = 18
+	social_democrat = 28
+	democratic_socialist = 6
+	radical_socialist = 0
+	communist = 0
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 0
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 4
-		}
-		conservative = {
-			popularity = 34
-		}
-		centrist = {
-			popularity = 10
-		}
-		liberal = {
-			popularity = 18
-		}
-		social_democrat = {
-			popularity = 28
-		}
-		democratic_socialist = {
-			popularity = 6
-		}
-		radical_socialist = {
-			popularity = 0
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
 	ruling_party = conservative
 	last_election = "2008.10.14"
@@ -70,9 +50,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Preston Manning"
+	name = "Stephen Harper"
 	desc = "POLITICS_MACKENZIE_KING_DESC"
-	picture = "Portrait_CAN_Preston_Manning.tga"
+	picture = "Portrait_CAN_Stephen_Harper.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
 	traits = {

@@ -28,42 +28,22 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 12
+	conservative = 28
+	centrist = 15
+	liberal = 4
+	social_democrat = 6
+	democratic_socialist = 35
+	radical_socialist = 0
+	communist = 0
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 4
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 13
-		}
-		conservative = {
-			popularity = 33
-		}
-		centrist = {
-			popularity = 15
-		}
-		liberal = {
-			popularity = 0
-		}
-		social_democrat = {
-			popularity = 9
-		}
-		democratic_socialist = {
-			popularity = 26
-		}
-		radical_socialist = {
-			popularity = 0
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = democratic_socialist
 	last_election = "2006.4.23"
 	election_frequency = 48
 	elections_allowed = n0
@@ -81,11 +61,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Péter Medgyessy"
+	name = "Ferenc Gyurcsány"
 	desc = "POLITICS_MATYAS_RAKOSKI_DESC"
-	picture = "Portrait_HUN_Peter_Medgyessy.tga"
+	picture = "Portrait_HUN_Ferenc_Gyurcsany.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
+	ideology = democratic_socialist_ideology
 	traits = {
 		#
 	}

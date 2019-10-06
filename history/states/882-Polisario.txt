@@ -6,8 +6,7 @@ state={
 		4920 7979 13222 13223 13224 13225 13226
 	}
 	history = {
-		owner = MRT
-		add_core_of = MRT
+		owner = MOR
 		add_core_of = MOR
 		
 		buildings = {

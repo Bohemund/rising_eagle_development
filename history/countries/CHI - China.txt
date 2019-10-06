@@ -28,40 +28,20 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 37
+	centrist = 20
+	liberal = 7
+	social_democrat = 28
+	democratic_socialist = 5
+	radical_socialist = 0
+	communist = 3
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 0
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 0
-		}
-		conservative = {
-			popularity = 37
-		}
-		centrist = {
-			popularity = 20
-		}
-		liberal = {
-			popularity = 7
-		}
-		social_democrat = {
-			popularity = 28
-		}
-		democratic_socialist = {
-			popularity = 5
-		}
-		radical_socialist = {
-			popularity = 0
-		}
-		communist = {
-			popularity = 3
-		}
-	}
+set_politics = {
 	
 	ruling_party = conservative
 	last_election = "2006.5.23"

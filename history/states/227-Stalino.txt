@@ -28,18 +28,7 @@ state={
 		victory_points = { 6474 10 }
 		victory_points = { 3421 3 }
 		add_core_of = UKR
-		add_core_of = NOV
 		
-		2014.4.1 = {
-			owner = NOV
-			UKR = {
-				set_province_controller = 6420
-				set_province_controller = 6776
-				set_province_controller = 3449
-				set_province_controller = 3466
-				set_province_controller = 502
-			}
-		}
 	}
 
 	provinces={

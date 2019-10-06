@@ -12,7 +12,7 @@ country_event = {
 	trigger = {
 		tag = JAP
 		date > 2013.10.4
-		date < 2013.10.11
+		date < 2013.10.24
 	}
 	
 	option = {

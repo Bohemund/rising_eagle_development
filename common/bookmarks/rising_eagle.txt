@@ -11,8 +11,19 @@ bookmarks = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-                USA_NASA
                 USA_republican_dominance
+                USA_NASA
+			}
+			focuses = {
+				
+			}
+		}
+		ENG = {
+			history = ENG_RISING_EAGLE_DESC
+			ideology = liberal
+			ideas = {
+				idea_queen_elizabeth_ii
+				ENG_the_troubles
 			}
 			focuses = {
 				
@@ -21,16 +32,6 @@ bookmarks = {
 		FRA = {
 			history = FRA_RISING_EAGLE_DESC
 			ideology = conservative
-			ideas = {
-				
-			}
-			focuses = {
-				
-			}
-		}
-		GER = {
-			history = GER_RISING_EAGLE_DESC
-			ideology = social_democrat
 			ideas = {
 				
 			}

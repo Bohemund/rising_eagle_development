@@ -3,8 +3,8 @@
 oob = "USA_2010"
 
 add_ideas = {
-    USA_NASA
     USA_republican_dominance
+    USA_NASA
 }
 
 set_research_slots = 4
@@ -50,40 +50,20 @@ add_to_faction = TUR
 add_to_faction = CZE
 add_to_faction = ICE
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 30
+	conservative = 16
+	centrist = 10
+	liberal = 28
+	social_democrat = 12
+	democratic_socialist = 4
+	radical_socialist = 0
+	communist = 0
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 0
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 32
-		}
-		conservative = {
-			popularity = 16
-		}
-		centrist = {
-			popularity = 10
-		}
-		liberal = {
-			popularity = 30
-		}
-		social_democrat = {
-			popularity = 10
-		}
-		democratic_socialist = {
-			popularity = 2
-		}
-		radical_socialist = {
-			popularity = 0
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
 	ruling_party = nationalist
 	last_election = "2008.4.11"

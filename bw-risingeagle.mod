@@ -6,4 +6,8 @@ tags={
 	"Ideologies"
 	"National Focuses"
 }
-supported_version="1.5.4"
+replace_path = "history/states"
+replace_path = "map/strategicregions"
+replace_path = "map/supplyareas"
+replace_path = "history/units"
+supported_version="1.7.x"

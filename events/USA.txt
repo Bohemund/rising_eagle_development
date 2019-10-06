@@ -1,1 +1,27 @@
-﻿
+﻿add_namespace = usa
+
+
+country_event = {
+	id = usa.1 
+        title = usa.1.t
+        desc = usa.1.d
+        picture = USA_baldwin_state_of_the_union
+
+	fire_only_once = yes
+        mean_time_to_happen = { days = 1 }
+	trigger = {
+		tag = USA
+		date > 2010.1.1
+		date < 2010.1.21
+	}
+	immediate = {}
+
+	option = {
+		name = usa.1.o1
+		hidden_effect = {
+		    USA = {
+		        country_event = { days = 15 id = usa.2 } 
+		    }
+		}
+	}
+}

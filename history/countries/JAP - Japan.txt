@@ -38,40 +38,20 @@ set_technology = {
 create_faction = japan_faction
 add_to_faction = JAP
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 10
+	monarchist = 10
+	nationalist = 10
+	conservative = 10
+	centrist = 10
+	liberal = 10
+	social_democrat = 10
+	democratic_socialist = 10
+	radical_socialist = 10
+	communist = 10
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 32
-		}
-		monarchist = {
-			popularity = 8
-		}
-		nationalist = {
-			popularity = 0
-		}
-		conservative = {
-			popularity = 18
-		}
-		centrist = {
-			popularity = 6
-		}
-		liberal = {
-			popularity = 28
-		}
-		social_democrat = {
-			popularity = 0
-		}
-		democratic_socialist = {
-			popularity = 8
-		}
-		radical_socialist = {
-			popularity = 0
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
 	ruling_party = ultranationalist
 	last_election = "2006.9.21"

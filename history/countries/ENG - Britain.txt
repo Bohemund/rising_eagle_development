@@ -36,43 +36,23 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-set_politics = {
+set_popularities = {
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 5
+	conservative = 28
+	centrist = 8
+	liberal = 36
+	social_democrat = 6
+	democratic_socialist = 15
+	radical_socialist = 2
+	communist = 0
+}
 
-	parties = {
-		ultranationalist = {
-			popularity = 0
-		}
-		monarchist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 3
-		}
-		conservative = {
-			popularity = 28
-		}
-		centrist = {
-			popularity = 11
-		}
-		liberal = {
-			popularity = 14
-		}
-		social_democrat = {
-			popularity = 34
-		}
-		democratic_socialist = {
-			popularity = 3
-		}
-		radical_socialist = {
-			popularity = 7
-		}
-		communist = {
-			popularity = 0
-		}
-	}
+set_politics = {
 	
-	ruling_party = social_democrat
-	last_election = "2005.5.5"
+	ruling_party = liberal
+	last_election = "2009.5.5"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -100,9 +80,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Iain Duncan Smith"
+	name = "Nigel Farage"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Iain_Duncan_Smith.tga"
+	picture = "Portrait_ENG_Nigel_Farage.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
 	traits = {
@@ -111,9 +91,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "David Owen"
+	name = "Nick Clegg"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_David_Owen.tga"
+	picture = "Portrait_ENG_Nick_Clegg.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Shirley Williams"
+	desc = "POLITICS_SHIRLEY_WILLIAMS_DESC"
+	picture = "Portrait_ENG_Shirley_Williams.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
 	traits = {
@@ -122,9 +113,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hilary Benn"
+	name = "Tony Blair"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Hilary_Benn.tga"
+	picture = "Portrait_ENG_Tony_Blair.tga"
 	expire = "2050.1.1"
 	ideology = new_democrat
 	traits = {
@@ -133,11 +124,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jeremy Corbyn"
+	name = "Tony Benn"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Jeremy_Corbyn.tga"
+	picture = "Portrait_ENG_Tony_Benn.tga"
 	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = democratic_socialist_ideology
 	traits = {
 		
 	}

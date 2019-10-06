@@ -25,6 +25,32 @@ fifties = {
 		}
 	}
 
+	surrender_at_hyesan = {
+
+		icon = GFX_decision_ger_mefo_bills
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			    original_tag = KOR
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.2 }
+		}
+	}
+
 	USA_1952_election = {
 
 		icon = GFX_decision_generic_civil_support
@@ -47,33 +73,6 @@ fifties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.1 }
-		}
-	}
-
-	surrender_at_hyesan = {
-
-		icon = GFX_decision_ger_mefo_bills
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			    original_tag = KOR
-			    original_tag = CHI
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.2 }
 		}
 	}
 
@@ -261,6 +260,31 @@ sixties = {
 		}
 	}
 
+	new_frontier = {
+
+		icon = GFX_decision_ger_mefo_bills
+
+		allowed = {
+			OR = {
+			    original_tag = USA
+			}
+		}
+
+		available = {
+			always = yes
+		}
+
+		cost = 0
+		fire_only_once = no
+		ai_will_do = {
+			factor = 0
+		}
+
+		complete_effect = {
+			country_event = { id = decision_event.12 }
+		}
+	}
+
 	USA_alliance_for_progress = {
 
 		icon = GFX_decision_generic_decision
@@ -293,31 +317,6 @@ sixties = {
 
 		complete_effect = {
 			country_event = { id = decision_event.20 }
-		}
-	}
-
-	new_frontier = {
-
-		icon = GFX_decision_ger_mefo_bills
-
-		allowed = {
-			OR = {
-			    original_tag = USA
-			}
-		}
-
-		available = {
-			always = yes
-		}
-
-		cost = 0
-		fire_only_once = no
-		ai_will_do = {
-			factor = 0
-		}
-
-		complete_effect = {
-			country_event = { id = decision_event.12 }
 		}
 	}
 
@@ -666,6 +665,9 @@ sixties = {
 			country_event = { id = decision_event.17 }
 		}
 	}
+}
+
+seventies = {
 
 	USA_moon_landing = {
 
@@ -691,10 +693,6 @@ sixties = {
 			country_event = { id = decision_event.37 }
 		}
 	}
-}
-
-seventies = {
-
 
 	USA_1972_election = {
 
