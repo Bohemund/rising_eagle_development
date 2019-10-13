@@ -128,7 +128,7 @@ fifties = {
 		}
 	}
 
-	suez_crisis = {
+	EGY_suez_crisis = {
 
 		icon = GFX_decision_generic_tank
 
@@ -589,7 +589,7 @@ sixties = {
 		}
 	}
 
-	fall_of_saigon = {
+	VIN_fall_of_saigon = {
 
 		icon = GFX_decision_generic_scorched_earth
 
@@ -910,7 +910,7 @@ eighties = {
 		}
 	}
 
-	CHI_white_flower_revolution = {
+	CHI_meihua_revolution = {
 
 		icon = GFX_decision_generic_nationalism
 
@@ -1049,7 +1049,7 @@ eighties = {
 		}
 	}
 
-	RUS_1986_election = {
+	RUS_1987_election = {
 
 		icon = GFX_decision_generic_civil_support
 
@@ -1074,7 +1074,7 @@ eighties = {
 		}
 	}
 
-	GEO_1986_coup = {
+	GEO_1987_coup = {
 
 		icon = GFX_decision_generic_prepare_civil_war
 

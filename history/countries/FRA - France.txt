@@ -35,14 +35,14 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 14
+	ultranationalist = 16
 	monarchist = 0
-	nationalist = 6
+	nationalist = 4
 	conservative = 34
 	centrist = 0
 	liberal = 8
-	social_democrat = 4
-	democratic_socialist = 22
+	social_democrat = 22
+	democratic_socialist = 4
 	radical_socialist = 0
 	communist = 12
 }
@@ -67,9 +67,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nicolas Dupont-Aignan"
+	name = "Jacques Chirac"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Nicolas_Dupont_Aignan.tga"
+	picture = "Portrait_FRA_Jacques_Chirac.tga"
 	expire = "2050.1.1"
 	ideology = gaullist
 	traits = {

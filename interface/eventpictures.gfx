@@ -111,8 +111,8 @@ spriteTypes = {
 	}		
 
 	spriteType = {
-		name = "suez_crisis"
-		texturefile = "gfx/event_pictures/report_event/suez_crisis.dds"
+		name = "EGY_suez_crisis"
+		texturefile = "gfx/event_pictures/report_event/EGY_suez_crisis.dds"
 	}
 
 	spriteType = {
@@ -131,8 +131,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "fall_of_saigon"
-		texturefile = "gfx/event_pictures/report_event/fall_of_saigon.dds"
+		name = "VIN_fall_of_saigon"
+		texturefile = "gfx/event_pictures/report_event/VIN_fall_of_saigon.dds"
 	}
 
 	spriteType = {
@@ -206,8 +206,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "CHI_white_flower_revolution"
-		texturefile = "gfx/event_pictures/report_event/CHI_white_flower_revolution.dds"
+		name = "CHI_meihua_revolution"
+		texturefile = "gfx/event_pictures/report_event/CHI_meihua_revolution.dds"
 	}
 
 	spriteType = {
@@ -221,8 +221,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "RUS_1986_election"
-		texturefile = "gfx/event_pictures/report_event/RUS_1986_election.dds"
+		name = "RUS_1987_election"
+		texturefile = "gfx/event_pictures/report_event/RUS_1987_election.dds"
 	}
 
 	spriteType = {
@@ -261,8 +261,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GEO_1986_coup"
-		texturefile = "gfx/event_pictures/report_event/GEO_1986_coup.dds"
+		name = "GEO_1987_coup"
+		texturefile = "gfx/event_pictures/report_event/GEO_1987_coup.dds"
 	}
 
 	spriteType = {

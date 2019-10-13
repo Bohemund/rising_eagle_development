@@ -117,7 +117,7 @@ country_event = {
 	id = decision_event.9
 	title = decision_event.9.t
 	desc = decision_event.9.d
-	picture = suez_crisis
+	picture = EGY_suez_crisis
 	
 	is_triggered_only = yes
 	
@@ -173,7 +173,7 @@ country_event = {
 	id = decision_event.13
 	title = decision_event.13.t
 	desc = decision_event.13.d
-	picture = fall_of_saigon
+	picture = VIN_fall_of_saigon
 	
 	is_triggered_only = yes
 	
@@ -350,12 +350,12 @@ country_event = {
 	}
 }
 
-#White Flower Revolution
+#Meihua Revolution
 country_event = {
 	id = decision_event.27
 	title = decision_event.27.t
 	desc = decision_event.27.d
-	picture = CHI_white_flower_revolution
+	picture = CHI_meihua_revolution
 	
 	is_triggered_only = yes
 	
@@ -406,12 +406,12 @@ country_event = {
 	}
 }
 
-#1986 Russian Election
+#1987 Russian Election
 country_event = {
 	id = decision_event.30
 	title = decision_event.30.t
 	desc = decision_event.30.d
-	picture = RUS_1986_election
+	picture = RUS_1987_election
 	
 	is_triggered_only = yes
 	
@@ -518,12 +518,12 @@ country_event = {
 	}
 }
 
-#1986 Georgian Coup
+#1987 Georgian Coup
 country_event = {
 	id = decision_event.38
 	title = decision_event.38.t
 	desc = decision_event.38.d
-	picture = GEO_1986_coup
+	picture = GEO_1987_coup
 	
 	is_triggered_only = yes
 	

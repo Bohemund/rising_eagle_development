@@ -2,10 +2,15 @@
 
 oob = "KOR_2010"
 
+add_ideas = {
+    KOR_fragile_democracy
+    KOR_chaebols
+}
+
 set_research_slots = 4
 set_convoys = 500
-set_stability = 0.6
-set_war_support = 0.1
+set_stability = 0.5
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -31,16 +36,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 8
+	monarchist = 0
+	nationalist = 5
+	conservative = 40
+	centrist = 4
+	liberal = 28
+	social_democrat = 15
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
@@ -64,10 +69,21 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Chung Mong-joon"
-	desc = ""
+	desc = "POLITICS_CHUNG_MONG_JOON_DESC"
 	picture = "Portrait_KOR_Chung_Mong_joon.tga"
-	expire = "1965.1.1"
+	expire = "2100.1.1"
 	ideology = social_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kim Jong-un"
+	desc = ""
+	picture = "Portrait_KOR_Kim_Jong_un.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

@@ -1,6 +1,26 @@
 spriteTypes = {	
 
 	spriteType = {
+		name = "GFX_idea_KOR_fragile_democracy"
+		texturefile = "gfx/interface/ideas/generic_democracy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_generic_industry"
+		texturefile = "gfx/interface/ideas/generic_industry.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_KOR_chaebols"
+		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_generic_production_bonus"
+		texturefile = "gfx/interface/ideas/generic_production_bonus.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_generic_recession"
+		texturefile = "gfx/interface/ideas/generic_recession.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_SOU_military_power"
 		texturefile = "gfx/interface/ideas/SOU_military_power.dds"
 	}
@@ -34,12 +54,12 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_idea_idea_CHI_growing_economy"
-		texturefile = "gfx/interface/ideas/five_areas_of_progress.dds"
+		texturefile = "gfx/interface/ideas/CHI_five_areas_of_progress.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_idea_JAP_emperorakihito"
-		texturefile = "gfx/interface/ideas/Akihito.dds"
+		texturefile = "gfx/interface/ideas/JAP_akihito.dds"
 	}	
 	
 	spriteType = {
@@ -149,12 +169,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_idea_duvaliers_lavish_lifestyle"
-		texturefile = "gfx/interface/ideas/duvaliers_lavish_lifestyle.dds"
+		texturefile = "gfx/interface/ideas/HAI_duvaliers_lavish_lifestyle.dds"
 	}
 
 	spriteType = {
 		name = "GFX_idea_ayatollah_montazeri"
-		texturefile = "gfx/interface/ideas/ayatollah_montazeri.dds"
+		texturefile = "gfx/interface/ideas/PER_ayatollah_montazeri.dds"
 	}
 
 	spriteType = {

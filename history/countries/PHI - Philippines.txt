@@ -36,21 +36,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 5
+	monarchist = 0
+	nationalist = 26
+	conservative = 15
+	centrist = 6
+	liberal = 42
+	social_democrat = 0
+	democratic_socialist = 6
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = liberal
 	last_election = "2004.5.10"
 	election_frequency = 72
 	elections_allowed = no
@@ -79,11 +79,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Eduardo Cojuangco Jr."
+	name = "Benigno Aquino III"
 	desc = "POLITICS_MANUEL_LUIS_QUEZON_DESC"
-	picture = "Portrait_PHI_Eduardo_Danding_Cojuangco.tga"
+	picture = "Portrait_PHI_Benigno_Aquino_III.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = social_liberal
 	traits = {
 		#
 	}

@@ -4,7 +4,6 @@ oob = "JAP_2010"
 
 add_ideas = {
    JAP_emperorakihito
-   JAP_stuckcoalition
 }
 
 set_stability = 0.2
@@ -39,16 +38,16 @@ create_faction = japan_faction
 add_to_faction = JAP
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 40
+	monarchist = 0
+	nationalist = 8
+	conservative = 12
+	centrist = 4
+	liberal = 28
+	social_democrat = 0
+	democratic_socialist = 8
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
@@ -60,9 +59,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Shinzo Abe"
-	desc = "POLITICS_ABE_DESC"
-	picture = "Portrait_JAP_Shinzo_Abe.tga"
+	name = "Shintaro Ishihara"
+	desc = "POLITICS_SHINTARO_ISHIHARA_DESC"
+	picture = "Portrait_JAP_Shintaro_Ishihara.tga"
 	expire = "2050.1.1"
 	ideology = imperial_japan
 	traits = {
@@ -75,36 +74,6 @@ create_country_leader = {
 	picture = "Portrait_JAP_Akihito.tga"
 	expire = "2050.1.1"
 	ideology = absolute_monarchist
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Toshio Tamogami"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Toshio_Tamogami.tga"
-	expire = "2050.1.1"
-	ideology = nationalist_ideology 
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Taro Aso"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Taro_Aso.tga"
-	expire = "2050.1.1"
-	ideology = social_conservative 
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Kazuo Shii"
-	desc = "POLITICS_Hirohito_DESC"
-	picture = "Portrait_JAP_Kazuoshii.tga"
-	expire = "2050.1.1"
-	ideology = marxist
 	traits = {
 	}
 }

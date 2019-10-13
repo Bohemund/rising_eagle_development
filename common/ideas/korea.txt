@@ -1,0 +1,34 @@
+ideas = {
+
+    country = {
+	    
+		KOR_chaebols = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				trade_laws_cost_factor = 1
+				research_speed_factor = 0.03
+				production_factory_max_efficiency_factor = 0.1
+				production_factory_efficiency_gain_factor = 0.1
+				consumer_goods_factor = 0.10
+			}
+		}
+
+		KOR_fragile_democracy = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			    political_power_gain = -0.2
+				stability_factor = -0.10
+			}
+		}
+	}
+}
