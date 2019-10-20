@@ -43,15 +43,15 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 21
+	ultranationalist = 20
 	monarchist = 0
 	nationalist = 0
-	conservative = 19
-	centrist = 27
-	liberal = 7
-	social_democrat = 23
-	democratic_socialist = 0
-	radical_socialist = 3
+	conservative = 12
+	centrist = 26
+	liberal = 0
+	social_democrat = 22
+	democratic_socialist = 8
+	radical_socialist = 12
 	communist = 0
 }
 
@@ -66,11 +66,11 @@ set_politics = {
 #LEADERS
 
 create_country_leader = {
-	name = "Carlos María Abascal Carranza"
+	name = "Emilio González Márquez"
 	desc = ""
-	picture = "Portrait_MEX_Carlos_Maria_Abascal_Carranza.tga"
+	picture = "Portrait_MEX_Emilio_Gonzalez_Marquez.tga"
 	expire = "2050.1.1"
-	ideology = mexican_synarchist
+	ideology = falangist
 	traits = {
 		
 	}

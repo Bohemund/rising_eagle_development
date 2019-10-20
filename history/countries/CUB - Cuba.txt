@@ -33,8 +33,8 @@ set_popularities = {
 	liberal = 35
 	social_democrat = 6
 	democratic_socialist = 10
-	radical_socialist = 0
-	communist = 6
+	radical_socialist = 6
+	communist = 0
 }
 
 set_politics = {
@@ -52,6 +52,17 @@ create_country_leader = {
 	picture = "Portrait_CUB_Carlos_Alberto_Montaner.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mariela Castro"
+	desc = ""
+	picture = "Portrait_CUB_Mariela_Castro.tga"
+	expire = "2050.1.1"
+	ideology = radical_socialist_ideology
 	traits = {
 		#
 	}

@@ -1,13 +1,13 @@
 ﻿l_english:
  
  #PARTIES
- MEX_ultranationalist_party:0 "National Synarchists"
- MEX_ultranationalist_party_long:0 "National Synarchist Union"
+ MEX_ultranationalist_party:0 "Democratic Party"
+ MEX_ultranationalist_party_long:0 "Mexican Democratic Party"
  MEX_monarchist_party:0 "House of Iturbide"
  MEX_monarchist_party_long:0 "House of Iturbide"
- MEX_nationalist_party:0 "Nationalist Front"
- MEX_nationalist_party_long:0 "Nationalist Front of Mexico"
- MEX_conservative_party:0 "National Action"
+ MEX_nationalist_party:0 "Revolutionary Junta"
+ MEX_nationalist_party_long:0 "Revolutionary Junta"
+ MEX_conservative_party:0 "National Action Party"
  MEX_conservative_party_long:0 "National Action Party"
  MEX_centrist_party:0 "Revolutionary Party"
  MEX_centrist_party_long:0 "Institutional Revolutionary Party"

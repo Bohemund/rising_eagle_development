@@ -39,13 +39,13 @@ set_popularities = {
 	ultranationalist = 0
 	monarchist = 58
 	nationalist = 0
-	conservative = 19
+	conservative = 20
 	centrist = 0
-	liberal = 2
+	liberal = 6
 	social_democrat = 16
 	democratic_socialist = 0
 	radical_socialist = 0
-	communist = 5
+	communist = 0
 }
 
 set_politics = {

@@ -3,7 +3,7 @@
 oob = "CYP_2010"
 
 add_ideas = {
-    #
+    european_union
 }
 
 set_research_slots = 3
@@ -40,16 +40,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
+	ultranationalist = 6
+	monarchist = 0
+	nationalist = 15
+	conservative = 30
 	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	liberal = 0
+	social_democrat = 25
+	democratic_socialist = 0
+	radical_socialist = 6
+	communist = 8
 }
 
 set_politics = {

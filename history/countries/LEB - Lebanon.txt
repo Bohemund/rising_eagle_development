@@ -42,16 +42,16 @@ set_technology = {
 set_convoys = 5
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 6
+	monarchist = 0
+	nationalist = 28
+	conservative = 14
+	centrist = 16
+	liberal = 20
+	social_democrat = 0
+	democratic_socialist = 0
+	radical_socialist = 12
+	communist = 4
 }
 
 set_politics = {

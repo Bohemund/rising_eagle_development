@@ -25,21 +25,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 16
+	centrist = 4
+	liberal = 0
+	social_democrat = 38
+	democratic_socialist = 32
 	radical_socialist = 10
-	communist = 10
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = social_democrat
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_COS_Oscar_Arias.tga"
 	expire = "2050.1.1"
-	ideology = liberal_ideology
+	ideology = new_democrat
 	traits = {
 		#
 	}

@@ -1,6 +1,6 @@
 ﻿capital = 705
 
-oob = "AAA_2010"
+oob = "SAO_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -25,22 +25,33 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 16
+	centrist = 30
+	liberal = 4
+	social_democrat = 8
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 42
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = communist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Manuel Pinto da Costa"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_SAO_Manuel_Pinto_da_Costa.tga"
+	expire = "2050.1.1"
+	ideology = marxist
+	traits = {
+		#
+	}
 }

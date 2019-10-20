@@ -32,16 +32,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 28
+	conservative = 18
+	centrist = 16
+	liberal = 4
+	social_democrat = 20
 	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	radical_socialist = 2
+	communist = 2
 }
 
 set_politics = {

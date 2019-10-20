@@ -25,16 +25,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 35
+	conservative = 18
+	centrist = 0
+	liberal = 12
+	social_democrat = 5
+	democratic_socialist = 0
+	radical_socialist = 30
+	communist = 0
 }
 
 set_politics = {
@@ -46,9 +46,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Rodrigo Avila"
+	name = "Antonio Saca"
 	desc = ""
-	picture = "Portrait_ELS_Rodrigo_Avila.tga"
+	picture = "Portrait_ELS_Antonio_Saca.tga"
 	expire = "2050.1.1"
 	ideology = nationalist_ideology
 	traits = {

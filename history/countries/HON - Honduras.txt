@@ -36,32 +36,32 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 34
+	conservative = 5
+	centrist = 25
+	liberal = 6
+	social_democrat = 8
+	democratic_socialist = 0
+	radical_socialist = 22
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = centrist
 	last_election = "2009.11.29"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Roberto Micheletti"
+	name = "Mauricio Villeda"
 	desc = "POLITICS_TIBURCIO_CARIAS_ANDINO_DESC"
-	picture = "Portrait_HON_Roberto_Micheletti.tga"
+	picture = "Portrait_HON_Mauricio_Villeda.tga"
 	expire = "2050.1.1"
-	ideology = social_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

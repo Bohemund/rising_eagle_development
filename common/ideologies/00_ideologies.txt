@@ -34,9 +34,6 @@ ideologies = {
 			imperial_japan = {	
 			}
 
-			mexican_synarchist = {	
-			}
-
 			revolutionary_islamist = {	
 			}
 

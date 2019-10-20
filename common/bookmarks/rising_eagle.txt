@@ -33,7 +33,7 @@ bookmarks = {
 			history = FRA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-				
+				european_union
 			}
 			focuses = {
 				
@@ -63,7 +63,7 @@ bookmarks = {
 			history = CHI_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-			
+				idea_CHI_growing_economy
 			}
 			focuses = {
 				
@@ -73,7 +73,7 @@ bookmarks = {
 			history = JAP_RISING_EAGLE_DESC
 			ideology = ultranationalist
 			ideas = {
-				
+				JAP_emperorakihito
 			}	
 			focuses = {
 				
