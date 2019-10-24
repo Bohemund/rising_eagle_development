@@ -38,10 +38,10 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
-	nationalist = 10
-	conservative = 15
-	centrist = 22
-	liberal = 25
+	nationalist = 14
+	conservative = 27
+	centrist = 24
+	liberal = 7
 	social_democrat = 20
 	democratic_socialist = 8
 	radical_socialist = 0
@@ -50,7 +50,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = centrist
 	last_election = "2007.3.18"
 	election_frequency = 48
 	elections_allowed = no
@@ -61,7 +61,18 @@ create_country_leader = {
 	desc = "POLITICS_JYRKI_KATAINEN_DESC"
 	picture = "Portrait_FIN_Jyrki_Katainen.tga"
 	expire = "2050.1.1"
-	ideology = classical_liberal
+	ideology = fiscal_conservative
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Paavo Väyrynen"
+	desc = "POLITICS_PAAVO_VAYRYNEN_DESC"
+	picture = "Portrait_FIN_Paavo_Vayrynen.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
 	traits = {
 		#
 	}

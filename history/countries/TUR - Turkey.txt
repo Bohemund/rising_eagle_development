@@ -12,7 +12,7 @@ add_ideas = {
 
 set_research_slots = 4
 set_convoys = 90
-set_stability = 0.8
+set_stability = 0.7
 set_war_support = 0.5
 
 set_technology = {
@@ -39,41 +39,49 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 5
+	monarchist = 0
+	nationalist = 12
+	conservative = 15
+	centrist = 25
+	liberal = 5
+	social_democrat = 30
+	democratic_socialist = 8
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = centrist
-	last_election = "1997.1.1"
+	ruling_party = social_democrat
+	last_election = "2009.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 20
-set_stability = 0.55
-
 #LEADERS
 
-create_country_leader = { #CENTRIST
-	name = "Mesut Yılmaz"
-	desc = "POLITICS_MESUT_YILMAZ_DESC"
-	picture = "Portrait_TUR_Mesut_Yilmaz.tga"
+create_country_leader = { 
+	name = "Bayezid III"
+	desc = ""
+	picture = "Portrait_TUR_Bayezid_III.tga"
 	expire = "2050.1.1"
-	ideology = centrist_ideology
+	ideology = absolute_monarchist
 	traits = {
 		#
 	}
 }
+
+create_country_leader = { 
+	name = "Devlet Bahçeli"
+	desc = ""
+	picture = "Portrait_TUR_Devlet_Bahceli.tga"
+	expire = "2050.1.1"
+	ideology = nationalist_ideology
+	traits = {
+		#
+	}
+} 
 
 create_country_leader = { 
 	name = "Necmettin Erbakan"
@@ -86,16 +94,6 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = { 
-	name = "Tansu Çiller"
-	desc = ""
-	picture = "Portrait_TUR_Tansu_Ciller.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
-	traits = {
-		#
-	}
-}
 
 create_country_leader = { 
 	name = "Cem Uzan"
@@ -108,16 +106,16 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = { 
-	name = "Devlet Bahçeli"
-	desc = ""
-	picture = "Portrait_TUR_Devlet_Bahceli.tga"
+create_country_leader = { #CENTRIST
+	name = "Mesut Yılmaz"
+	desc = "POLITICS_MESUT_YILMAZ_DESC"
+	picture = "Portrait_TUR_Mesut_Yilmaz.tga"
 	expire = "2050.1.1"
-	ideology = ultranationalist_ideology
+	ideology = new_democrat
 	traits = {
 		#
 	}
-} 
+}
 
 create_country_leader = { 
 	name = "Ertuğrul Kürkçü"
@@ -128,7 +126,7 @@ create_country_leader = {
 	traits = {
 		#
 	}
-} 
+}
 
 create_country_leader = { 
 	name = "Alper Taş"
@@ -139,29 +137,7 @@ create_country_leader = {
 	traits = {
 		#
 	}
-} 
-
-create_country_leader = { 
-	name = "Bayezid III"
-	desc = ""
-	picture = "Portrait_TUR_Bayezid_III.tga"
-	expire = "2050.1.1"
-	ideology = absoulute_monarchist
-	traits = {
-		#
-	}
-} 
-
-create_country_leader = { 
-	name = "Deniz Baykal"
-	desc = ""
-	picture = "Portrait_TUR_Deniz_Baykal.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		#
-	}
-} 
+}
 
 create_country_leader = { 
 	name = "Kemal Okuyan"
@@ -172,4 +148,4 @@ create_country_leader = {
 	traits = {
 		#
 	}
-} 
+}

@@ -1,29 +1,29 @@
 ﻿l_english:
  
  #Parties
- TUR_ultranationalist_party:0 "Nationalist Movement"
- TUR_ultranationalist_party_long:0 "Nationalist Movement Party"
+ TUR_ultranationalist_party:0 "Patriotic Party"
+ TUR_ultranationalist_party_long:0 "Patriotic Party"
  TUR_monarchist_party:0 "House of Osman"
  TUR_monarchist_party_long:0 "House of Osman"
- TUR_nationalist_party:0 "True Path Party"
- TUR_nationalist_party_long:0 "True Path Party"
- TUR_conservative_party:0 "Welfare Party"
- TUR_conservative_party_long:0 "Welfare Party"
- TUR_centrist_party:0 "Motherland Party"
- TUR_centrist_party_long:0 "Motherland Party"
+ TUR_nationalist_party:0 "Nationalist Movement"
+ TUR_nationalist_party_long:0 "Nationalist Movement Party"
+ TUR_conservative_party:0 "National Order"
+ TUR_conservative_party_long:0 "National Order Party"
+ TUR_centrist_party:0 "Justice Party"
+ TUR_centrist_party_long:0 "Justice Party"
  TUR_liberal_party:0 "Young Party"
  TUR_liberal_party_long:0 "Young Party"
  TUR_social_democrat_party:0 "People's Party"
  TUR_social_democrat_party_long:0 "Republican People's Party"
- TUR_democratic_socialist_party:0 "Democratic Congress"
- TUR_democratic_socialist_party_long:0 "People's Democratic Congress"
- TUR_radical_socialist_party:0 "Freedom and Solidarity"
- TUR_radical_socialist_party_long:0 "Freedom and Solidarity"
+ TUR_democratic_socialist_party:0 "Democratic Left"
+ TUR_democratic_socialist_party_long:0 "Democratic Left Party"
+ TUR_radical_socialist_party:0 "Socialist Virtue"
+ TUR_radical_socialist_party_long:0 "Socialist Virtue"
  TUR_communist_party:0 "Communist Party"
- TUR_communist_party_long:0 "Turkish Communist Party"
+ TUR_communist_party_long:0 "People’s Communist Party of Turkey"
 
  #LEADER DESCRIPTIONS
- POLITICS_MESUT_YILMAZ_DESC:0 "Mesut Yılmaz’s meteoric rise to power when he was elected to represent the Black Sea province of Rize in the parliament and serving in Özal’s cabinet. He became the Minister for Information, then Minister of Culture and Tourism and Minister of Foreign Affairs. Upon Özal’s election to the presidency in 1989, Yılmaz became the leader of an intra-party opposition to the new Prime Minister, Yıldırım Akbulut. In the summer of 1991 he managed to discharge Yıldırım Akbulut. Because ANAP had the majority in the parliament, he subsequently became Prime Minister of Turkey. Yılmaz also made the Motherland Party more business-friendly and Europe-oriented, causing the more conservative, religious wing to switch to the Welfare Party of Necmettin Erbakan. By far his biggest success was his government negotiating Turkey into the European Commission in 2001, this major success gave him an incredible advantage in the polls but it still couldn’t overshadow the broken economy and ANAP fell to second place behind the DYP led by Tansu Çiller which formed a coalition with the Welfare Party and after 4 years out of power ANAP won 1st place again in 2007 and negotiated a coalition with DYP and the Young Party, now once again Mesut Yılmaz is the most powerful man in Turkey."
+ POLITICS_MESUT_YILMAZ_DESC:0 "Mesut Yılmaz’s meteoric rise to power began when he was elected to the Grand National Assembly in the pivotal election of 1981. Having previously studied political science and economics in Germany, Yılmaz was brought in as Minister for Trade in the cabinet of Bülent Ecevit. When the government was swept up in the Köykent Scandal of 1988, Ecevit resigned and the Republican People’s Party held an emergency party convention. Yılmaz had become the leader of group of young, western-oriented intellectuals within the party. His faction, though at odds with the Kemalist leadership, emerged ahead at the convention and Yılmaz was elected Prime Minister of Turkey for the first time. After winning a snap general election that same year he began to implement his vision for modernization, moving the CHP to the political center and moving Turkey towards closer European cooperation. The culmination of decades of overtures and negotiations between Turkey and Europe was in 1991, when Turkey was accepted into the European Economic Community. The deal came with significant drawbacks, such as Yılmaz being forced to acknowledge the atrocities committed by Turkey in 1915. His apology satisfied nobody, many criticized it as “lackluster” while Turkish nationalists condemned it completely. But it was enough to gain him the respect of European leaders. Despite this the concession caused an enormous controversy and is widely believed to have caused Yılmaz’s loss in the 1993 election to Tansu Çiller and the Justice Party. Despite initially considering retiring from politics altogether, Yılmaz went on to serve as Deputy Prime Minister in Çiller’s cabinet. This Grand Coalition lasted for ten years until 2003 when Mesut Yılmaz was elected Prime Minister once again. Since then he has been the most powerful man in Turkey, but he faces opposition not just from the Justice Party, but also the rising forces of nationalism, Islamism and radical cliques within the military."
 
  #IDEAS
  TUR_unstable_coalition:0 "Unstable Coalition"
