@@ -10,7 +10,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_KOR_chaebols"
-		texturefile = "gfx/interface/ideas/generic_private_economy.dds"
+		texturefile = "gfx/interface/ideas/KOR_chaebol.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_production_bonus"

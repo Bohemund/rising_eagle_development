@@ -48,6 +48,7 @@ add_to_faction = GRE
 add_to_faction = ITA
 add_to_faction = TUR
 add_to_faction = CZE
+add_to_faction = HUN
 add_to_faction = ICE
 
 set_popularities = {
@@ -72,11 +73,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Richard Spencer"
+	name = "Lyndon LaRouche"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Richard_Spencer.tga"
+	picture = "Portrait_USA_Lyndon_LaRouche.tga"
 	expire = "2050.1.1"
-	ideology = national_socialist
+	ideology = ultranationalist_ideology
 	traits = {
 		#
 	}

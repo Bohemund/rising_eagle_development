@@ -35,13 +35,13 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 9
+	ultranationalist = 10
 	monarchist = 0
 	nationalist = 0
 	conservative = 18
 	centrist = 30
-	liberal = 5
-	social_democrat = 6
+	liberal = 7
+	social_democrat = 3
 	democratic_socialist = 20
 	radical_socialist = 0
 	communist = 12
@@ -93,18 +93,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_ITA_Matteo_Renzi.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Fausto Bertinotti"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Fausto_Bertinotti.tga"
-	expire = "2050.1.1"
-	ideology = leninist
+	ideology = new_democrat
 	traits = {
 		
 	}

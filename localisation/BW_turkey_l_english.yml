@@ -5,33 +5,27 @@
  TUR_ultranationalist_party_long:0 "Patriotic Party"
  TUR_monarchist_party:0 "House of Osman"
  TUR_monarchist_party_long:0 "House of Osman"
- TUR_nationalist_party:0 "Nationalist Movement"
- TUR_nationalist_party_long:0 "Nationalist Movement Party"
+ TUR_nationalist_party:0 "Nationalist Action"
+ TUR_nationalist_party_long:0 "Nationalist Action Party"
  TUR_conservative_party:0 "National Order"
  TUR_conservative_party_long:0 "National Order Party"
  TUR_centrist_party:0 "Justice Party"
  TUR_centrist_party_long:0 "Justice Party"
- TUR_liberal_party:0 "Young Party"
- TUR_liberal_party_long:0 "Young Party"
+ TUR_liberal_party:0 "New Turkey Party"
+ TUR_liberal_party_long:0 "New Turkey Party"
  TUR_social_democrat_party:0 "People's Party"
  TUR_social_democrat_party_long:0 "Republican People's Party"
- TUR_democratic_socialist_party:0 "Democratic Left"
- TUR_democratic_socialist_party_long:0 "Democratic Left Party"
+ TUR_democratic_socialist_party:0 "Workers Party"
+ TUR_democratic_socialist_party_long:0 "Workers Party of Turkey"
  TUR_radical_socialist_party:0 "Socialist Virtue"
  TUR_radical_socialist_party_long:0 "Socialist Virtue"
  TUR_communist_party:0 "Communist Party"
  TUR_communist_party_long:0 "People’s Communist Party of Turkey"
 
  #LEADER DESCRIPTIONS
- POLITICS_MESUT_YILMAZ_DESC:0 "Mesut Yılmaz’s meteoric rise to power began when he was elected to the Grand National Assembly in the pivotal election of 1981. Having previously studied political science and economics in Germany, Yılmaz was brought in as Minister for Trade in the cabinet of Bülent Ecevit. When the government was swept up in the Köykent Scandal of 1988, Ecevit resigned and the Republican People’s Party held an emergency party convention. Yılmaz had become the leader of group of young, western-oriented intellectuals within the party. His faction, though at odds with the Kemalist leadership, emerged ahead at the convention and Yılmaz was elected Prime Minister of Turkey for the first time. After winning a snap general election that same year he began to implement his vision for modernization, moving the CHP to the political center and moving Turkey towards closer European cooperation. The culmination of decades of overtures and negotiations between Turkey and Europe was in 1991, when Turkey was accepted into the European Economic Community. The deal came with significant drawbacks, such as Yılmaz being forced to acknowledge the atrocities committed by Turkey in 1915. His apology satisfied nobody, many criticized it as “lackluster” while Turkish nationalists condemned it completely. But it was enough to gain him the respect of European leaders. Despite this the concession caused an enormous controversy and is widely believed to have caused Yılmaz’s loss in the 1993 election to Tansu Çiller and the Justice Party. Despite initially considering retiring from politics altogether, Yılmaz went on to serve as Deputy Prime Minister in Çiller’s cabinet. This Grand Coalition lasted for ten years until 2003 when Mesut Yılmaz was elected Prime Minister once again. Since then he has been the most powerful man in Turkey, but he faces opposition not just from the Justice Party, but also the rising forces of nationalism, Islamism and radical cliques within the military."
+ POLITICS_MESUT_YILMAZ_DESC:0 "Mesut Yılmaz’s meteoric rise to power began when he was elected to the Grand National Assembly in the pivotal election of 1981. Having previously studied political science and economics in Germany, Yılmaz was brought in as Minister for Trade in the cabinet of Bülent Ecevit. When the government was swept up in the Köykent Scandal of 1988, Ecevit resigned and the Republican People’s Party held an emergency party convention. Yılmaz had become the leader of group of young, western-oriented intellectuals within the party. His faction, though at odds with the leftist leadership, emerged ahead at the convention and Yılmaz was elected Prime Minister of Turkey for the first time. After winning a snap general election that same year he began to implement his vision for modernization, moving the CHP to the political center and moving Turkey towards closer European cooperation. The culmination of decades of overtures and negotiations between Turkey and Europe was in 1991, when Turkey was accepted into the European Economic Community. Turkey’s integration into the European market helped to cushion the blow of the 1991 Economic Crisis, but Turkey still felt the effects of the recession. Popular opinion turned against the CHP and the party lost the 1992 election to Tansu Çiller and the Justice Party. Yılmaz left politics and remained retired for seven years until the fateful year of 1999, when Turkey was shaken by both earthquakes and a banking crisis. He gave in to popular demand and returned as leader of the CHP before being elected Prime Minister again in 2000, running on a platform of economic renewal and welfare expansion. Since then he has been the most powerful man in Turkey, but he faces opposition not just from the Justice Party, but also the rising forces of nationalism, Islamism and radical cliques within the military."
 
  #IDEAS
- TUR_unstable_coalition:0 "Unstable Coalition"
- TUR_unstable_coalition_desc:0 "The ANAP-DYP-GP coalition has been ruling the country since the last general election, but the coalition is uneasy. Tensions between party lines have led the coalition to near collapse but with compromise and negatition the party leaders have managed to keep the coalition afloat, nevertheless this doesn‘t mean that major disagreements and conflict don’t exist within the coalition if radical action is not taken quick enough the coalition will surely collapse. "
-
- TUR_unpredictable_economy:0 "Unpredictable Economy"
- TUR_unpredictable_economy_desc:0 "The chaos in the political sphere has negatively affected our fiscal sphere. The Turkish economy is continuously collapsing and getting back up in little time. This has resulted in an economic bubble which will lead to inflation, unemployment and austerity if it pops. It has also led to countless protests, demonstrations, strikes and strengthening of unions, if nothing is done to fix the economy the country’s economical sector will collapse."
-
  TUR_interventionist_military:0 "Interventionist Military"
  TUR_interventionist_military_desc:0 "The Turkish military believes they are the protector of Kemalist principles and the nation's economic and political stability. This is why they believe it’s their duty to intervene and save their homeland from threats from both inside and outside. This situation has caused a lot of unpredictability in the political and fiscal spheres because no one know what move they will do next. This distrust between the military and the politicians may lead to conflict in the near future."
 
@@ -39,16 +33,7 @@
  TUR_patriotic_society_desc:0 "Even though the country has been divided politically, the nation is still united under the Turkish flag. The patriotic people of Turkey dont tend to pay attention if the government’s in chaos and danger but if there’s a threat to the state, the backbone of Turkish society, people rally around the country's best interests. "
 
  #EVENTS
- turkey.1.t:0 "Nationalist Faction Challenges Çiller"
- turkey.1.d:0 "The new nationalist faction of the True Path Party was founded when many Nationalist Movement members felt threatened by Bahçeli's rising ultranationalism and anti-American sentiment thus left. The leader of this faction, Meral Akşener, has announced that she'll be running for Chairwoman of the party citing Çiller's inability to represent her voters and her party well enough in the coalition. However her announcment has been met with mixed signals from the party, Çiller denounced Akşener calling her a "power hungry demagogue" and the challange "an act of cowardice", on the other hand other Nationalist faction members such as Yusuf Halaçoğlu applauded her for this "act of bravery" and announced their full support. Other party leaders and Prime Minister Yılmaz have refrained from making any comments on the situation. It seems that there may be an Extraordinary Congress any day now."
- turkey.1.o1:0 "Damn it Meral!"
-
- turkey.2.t:0 "True Path Extraordinary Congress"
- turkey.2.d:0 "Tansu Çiller, chairwoman of the True Path Party, ruled out any possibility of resigning her position in the party, despite facing a leadership challenge from Meral Akşener. This however could not quell further unrest within the party, with several party members declaring their support for opposing candidates. Under the leadership of opposing candidates, delegates critical of Çiller began collecting signatures to force an Extraordinary Congress. On 1 March, Akşener announced that she had successfully collected over 400 signatures, enough to call a congress. The party leadership accepted the outcome and decided to host the Congress. \n\nOf the five contenders announcing their candidacy for the leadership, only two, namely Tansu Çiller and Meral Akşener, appeared to have obtained the required 127 signatures from delegates to formally nominate themselves. The run up to the convention saw fierce infighting between the nationalist and centrist factions of the party. With Akşener scoring a majority of 650 delegates, she is now the Chairwoman of the True Path Party."
- turkey.2.o1:0 "Congratulations, Asena"
-
- turkey.3.t:0 "Erbakan Resigns"
- turkey.3.d:0 "Today Necmettin Erbakan, the leader of the Welfare Party since 1983 and the “father of Turkish political Islam” has announced that he’s resigning due to his poor health. \n\nThis unfortunate announcement has created a leadership contest in the party. The main candidates are Recep Tayyip Erdoğan, the ex-Mayor of Istanbul and an outspoken reformist, Recai Kutan, a trusted friend of Erbakan with ties to conservative traditionalist groups and Aykut Edibali, a rising star in the party and a noted political moderate. Each candidate has accused each other of disrespecting Erbakan’s legacy, meanwhile the former leader has refused to make any endorsements.\n\nErdoğan, described as a very charismatic personality by the political establishment, took his cause to the public, holding rallies for his supporters in Istanbul. Meanwhile Kutan, who has been labeled an insider, visited many distinguished delegates. Edibali on the other hand held meetings with business leaders to raise his funding. \n\nThe delegates voted, and the winner is…"
- turkey.3.o1:0 "Recep Tayyip Erdoğan"
- turkey.3.o2:0 "Recai Kutan"
- turkey.3.o3:0 "Aykut Edibali"
+ turkey.1.t:0 "Erbakan Resigns"
+ turkey.1.d:0 "Today Necmettin Erbakan, the leader of the National Order Party since 1970 and the “Father of Turkish political Islam” has announced that he’s resigning due to his poor health and old age. This unfortunate announcement has created a leadership contest in the party, with two factions vying for power. The first to announce his candidacy to succeed Erbakan was Recep Tayyip Erdoğan, the former Mayor of Istanbul. He is an outspoken conservative and by far the most popular politician in the party. Opposing him is the political moderate, Aykut Edibali. His supporters insist that Erdoğan is too radical to be elected leader and that the party should instead shift its focus from political Islam to conservative nationalism. Each candidate has accused each other of disrespecting Erbakan’s legacy, meanwhile the former leader has refused to make any endorsements. Erdoğan, described as a very charismatic personality by the political establishment, took his cause to the public, holding rallies for his supporters in Istanbul. Meanwhile Edibali held meetings with business leaders to raise funding and met with party delegates. After a short campaign the party voted, and the winner is..?"
+ turkey.1.o1:0 "Recep Tayyip Erdoğan"
+ turkey.1.o2:0 "Aykut Edibali"

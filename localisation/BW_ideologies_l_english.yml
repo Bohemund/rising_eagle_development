@@ -47,11 +47,13 @@
  baathist:0 "Ba'athism"
  baathist_desc:0 "Ba'athism is an Arab nationalist ideology that promotes the development and creation of a unified Arab state through the leadership of a vanguard party presiding over a progressive revolutionary government. Ba'athism supports socialist economics to a varying degree and supports public ownership over the heights of the economy."
  revolutionary_islamist:0 "Revolutionary Islamism"
- revolutionary_islamist_desc:0 "Revolutionary Islamism is the most radical form of Islamism born out of the 1979 Islamic Revolution. In contrast to the more widespread Islamic Democrat thought, Revolutionary Islamism is much more radical, seeking power through populism and revolution. The ideology advocates subordinating the state and the economy to Islamic clerics and is fiercely opposed to Western culture and America in particular."
+ revolutionary_islamist_desc:0 "Revolutionary Islamism is the most radical form of Islamism born out of the 1979 Islamic Revolution. In contrast to the more widespread Islamic Democrat thought, Revolutionary Islamism is much more radical, seeking power through populism and revolution. The ideology advocates subordinating the state and the economy to Islamic clerics and is fiercely opposed to Western culture."
  mobutist:0 "Mobutism"
  mobutist_desc:0 "Mobutism is the official state ideology of the Republic of Zaire. Mobutism encompasses and glorifies the thoughts, visions, and policies of Zairian president and self-proclaimed Father of the Nation, Mobutu Sese Seko. The ideology calls for the repudiation of both capitalism and communism and favours national revolution."
  third_international_theory:0 "Third International Theory"
  third_international_theory_desc:0 "The Third International Theory was the style of government that Muammar Gaddafi advocated during his rule of the Great Socialist People's Libyan Arab Jamahiriya and the Arab Islamic Republic. The ideology was partly inspired by Islamic socialism, Arab nationalism, African nationalism and partly by the principles of direct democracy. It was proposed by Gaddafi as an alternative to capitalism and communism for Third World countries, based on the stated belief that both of these ideologies had been proven invalid."
+ eurasianist:0 "Eurasianism"
+ eurasianist_desc:0 "Eurasianism is a political ideology spearheaded by Russian philosopher and politician Aleksandr Dugin. Eurasianism calls for the unification of Eurasian people against the Atlanticist, liberal world order. It emphasizes nationalistic and irridentist views as well as a centrally planned economy."
 
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"

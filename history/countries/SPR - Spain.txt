@@ -68,9 +68,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Alejo Vidal-Quadras Roca"
+	name = "Jorge Fernández Díaz"
 	desc = "POLITICS_MANUEL_AZANA_DESC"
-	picture = "Portrait_SPR_Alejo_Vidal_Quadras_Roca.tga"
+	picture = "Portrait_SPR_Jorge_Fernandez_Diaz.tga"
 	expire = "2050.1.1"
 	ideology = reactionary
 	traits = {

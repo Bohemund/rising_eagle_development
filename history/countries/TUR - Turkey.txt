@@ -4,8 +4,6 @@ oob = "TUR_2010"
 
 add_ideas = {
     european_union
-    TUR_unstable_coalition
-    TUR_unpredictable_economy
     TUR_interventionist_military
     TUR_patriotic_society
 }    
@@ -39,14 +37,14 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 5
+	ultranationalist = 0
 	monarchist = 0
 	nationalist = 12
 	conservative = 15
-	centrist = 25
+	centrist = 26
 	liberal = 5
 	social_democrat = 30
-	democratic_socialist = 8
+	democratic_socialist = 12
 	radical_socialist = 0
 	communist = 0
 }
@@ -54,12 +52,23 @@ set_popularities = {
 set_politics = {
 	
 	ruling_party = social_democrat
-	last_election = "2009.1.1"
+	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 #LEADERS
+
+create_country_leader = { 
+	name = "Doğu Perinçek"
+	desc = ""
+	picture = "Portrait_TUR_Dogu_Perincek.tga"
+	expire = "2050.1.1"
+	ideology = eurasianist
+	traits = {
+		#
+	}
+}
 
 create_country_leader = { 
 	name = "Bayezid III"
@@ -94,11 +103,21 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = { 
+	name = "Meral Akşener"
+	desc = ""
+	picture = "Portrait_TUR_Meral_Aksener.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		#
+	}
+}
 
 create_country_leader = { 
-	name = "Cem Uzan"
+	name = "Cenk Uygur"
 	desc = ""
-	picture = "Portrait_TUR_Cem_Uzan.tga"
+	picture = "Portrait_TUR_Cenk_Uygur.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
 	traits = {
@@ -118,11 +137,11 @@ create_country_leader = { #CENTRIST
 }
 
 create_country_leader = { 
-	name = "Ertuğrul Kürkçü"
+	name = "Ufuk Uras"
 	desc = ""
-	picture = "Portrait_TUR_Ertugrul_Kurkcu.tga"
+	picture = "Portrait_TUR_Ufuk_Uras.tga"
 	expire = "2050.1.1"
-	ideology = european_moderate_socialist
+	ideology = democratic_socialist_ideology
 	traits = {
 		#
 	}

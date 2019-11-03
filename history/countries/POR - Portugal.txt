@@ -38,14 +38,14 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
-	nationalist = 5
+	nationalist = 7
 	conservative = 15
-	centrist = 27
+	centrist = 28
 	liberal = 0
-	social_democrat = 0
-	democratic_socialist = 30
-	radical_socialist = 18
-	communist = 5
+	social_democrat = 8
+	democratic_socialist = 32
+	radical_socialist = 10
+	communist = 0
 }
 
 set_politics = {
@@ -59,7 +59,7 @@ set_politics = {
 #LEADERS
 
 create_country_leader = {
-	name = "Francisco Louca"
+	name = "Francisco Louçã"
 	desc = ""
 	picture = "Portrait_POR_Francisco_Louca.tga"
 	expire = "2050.1.1"

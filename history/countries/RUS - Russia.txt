@@ -133,17 +133,6 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Emilia Slabunova"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_RUS_Emilia_Slabunova.tga"
-	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
 	name = "Sergey Mironov"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_RUS_Sergey_Mironov.tga"

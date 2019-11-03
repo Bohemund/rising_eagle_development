@@ -2,6 +2,10 @@
 
 oob = "MLT_2010"
 
+add_ideas = {
+    european_union
+}
+
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.8
@@ -25,16 +29,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
+	ultranationalist = 0
+	monarchist = 15
+	nationalist = 5
 	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	centrist = 35
+	liberal = 5
+	social_democrat = 30
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
@@ -50,7 +54,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_MLT_Edward_Fenech_Adami.tga"
 	expire = "2050.1.1"
-	ideology = national_liberal
+	ideology = centrist_ideology
 	traits = {
 		#
 	}

@@ -51,11 +51,22 @@ set_politics = {
 
 create_country_leader = {
 	name = "Michel Barnier"
-	desc = "BLAH"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_EUU_Michel_Barnier.tga"
 	expire = "2050.1.1"
 	ideology = fiscal_conservative
 	traits = {
 		#
+	}
+}
+
+create_country_leader = {
+	name = "Fausto Bertinotti"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_EUU_Fausto_Bertinotti.tga"
+	expire = "2050.1.1"
+	ideology = leninist
+	traits = {
+		
 	}
 }

@@ -3,7 +3,7 @@
 oob = "SLV_2010"
 
 add_ideas = {
-    european_union
+    #
 }
 
 set_research_slots = 4
@@ -43,12 +43,12 @@ set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
 	nationalist = 12
-	conservative = 34
-	centrist = 4
+	conservative = 35
+	centrist = 5
 	liberal = 8
-	social_democrat = 26
+	social_democrat = 25
 	democratic_socialist = 10
-	radical_socialist = 6
+	radical_socialist = 5
 	communist = 0
 }
 

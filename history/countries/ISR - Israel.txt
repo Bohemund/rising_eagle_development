@@ -1,6 +1,6 @@
 ﻿capital = 454
 
-oob = "ISR_20´10"
+oob = "ISR_2010"
 
 set_research_slots = 4
 set_convoys = 70
@@ -32,14 +32,14 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 4
+	ultranationalist = 12
+	monarchist = 0
 	nationalist = 20
-	conservative = 3
-	centrist = 6
+	conservative = 5
+	centrist = 8
 	liberal = 18
-	social_democrat = 24
-	democratic_socialist = 15
+	social_democrat = 25
+	democratic_socialist = 12
 	radical_socialist = 0
 	communist = 0
 }
