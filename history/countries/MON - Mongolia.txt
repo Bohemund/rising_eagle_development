@@ -31,21 +31,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
+	ultranationalist = 0
+	monarchist = 6
+	nationalist = 0
+	conservative = 18
+	centrist = 7
+	liberal = 30
 	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	democratic_socialist = 4
+	radical_socialist = 0
+	communist = 25
 }
 
 set_politics = {
 	
-	ruling_party = communist
+	ruling_party = liberal
 	last_election = "2009.5.24"
 	election_frequency = 48
 	elections_allowed = no
@@ -63,11 +63,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ukhnaagiin Khürelsükh"
+	name = "Sanjaasürengiin Zorig"
 	desc = "POLITICS_ANANDYN_AMAR_DESC"
-	picture = "Portrait_MON_Ukhnaagiin_Khurelsukh.tga"
+	picture = "Portrait_MON_Sanjaasurengiin_Zorig.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = social_liberal
 	traits = {
 		#
 	}
