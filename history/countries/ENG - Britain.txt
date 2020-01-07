@@ -3,6 +3,7 @@
 oob = "ENG_2010"
 
 add_ideas = {
+    european_union
     idea_queen_elizabeth_ii
     ENG_the_troubles
 }    
@@ -39,19 +40,19 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
-	nationalist = 5
-	conservative = 30
-	centrist = 8
-	liberal = 38
-	social_democrat = 4
-	democratic_socialist = 15
+	nationalist = 4
+	conservative = 38
+	centrist = 9
+	liberal = 28
+	social_democrat = 5
+	democratic_socialist = 16
 	radical_socialist = 0
 	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = conservative
 	last_election = "2009.5.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -80,11 +81,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nigel Farage"
+	name = "Kenneth Clarke"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Nigel_Farage.tga"
+	picture = "Portrait_ENG_Kenneth_Clarke.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = fiscal_conservative
 	traits = {
 		
 	}

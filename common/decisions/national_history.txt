@@ -639,15 +639,17 @@ sixties = {
 			country_event = { id = decision_event.14 }
 		}
 	}
+}
 
-	CMB_1969_coup = {
+seventies = {
+
+	CMB_1970_coup = {
 
 		icon = GFX_decision_generic_prepare_civil_war
 
 		allowed = {
 			OR = {
 			    original_tag = CMB
-			    original_tag = USA
 			}
 		}
 
@@ -665,9 +667,6 @@ sixties = {
 			country_event = { id = decision_event.17 }
 		}
 	}
-}
-
-seventies = {
 
 	USA_moon_landing = {
 

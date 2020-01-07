@@ -7,8 +7,8 @@
  PER_monarchist_party_long:0 "Pahlavi Dynasty"
  PER_nationalist_party:0 "Unity Party"
  PER_nationalist_party_long:0 "Unity Party"
- PER_conservative_party:0 "Islamic Coalition"
- PER_conservative_party_long:0 "Islamic Coalition"
+ PER_conservative_party:0 "Islamic Republicans"
+ PER_conservative_party_long:0 "Islamic Republican Party"
  PER_centrist_party:0 "Reformist Bloc"
  PER_centrist_party_long:0 "Reformist Bloc"
  PER_liberal_party:0 "National Front"
@@ -23,7 +23,7 @@
  PER_communist_party_long:0 "Tudeh Party"
 
  #LEADERS
- POLITICS_MOHAMMAD_KHATAMI_DESC:0 "Unlike his predecessor, Sayyid Mohammad Khatami was not a major figure in the Iranian Revolution. During that time he served as the leader of an Islamic centre in Germany. He returned a year after the revolution to serve in the Majlis, the parliament of Iran, then as Minister of Culture and Islamic Guidance. In 1989 he joined the newly-formed Islamic Coalition, a party that sought to unite all wings of the Islamic movement into one political force. He rose through the ranks of the party while serving as a member of the Supreme Council of the Cultural Revolution. After gaining support from the party’s smaller reformist wing he was nominated to be their candidate in 2004. His election was called “remarkable” and “an upset” as the hardline conservative Mahmoud Ahmadinejad was expected to win. Instead Khatami became Iran’s first reformist president. The focus of his campaign and administration has been democracy, the rule of law and political inclusion. He continued his predecessor’s liberalization and privatization of the economy and despite clashes with conservatives he was reelected in 2008. With Khatami’s final term drawing to a close his focus will be on the legacy of reformism in the Islamic Republic, and keeping the presidency from falling into the hands of radicals."
+ POLITICS_MOHAMMAD_KHATAMI_DESC:0 "Unlike his predecessor, Ayatollah Mohammad Khatami was not a major figure in the Iranian Revolution. During that time he served as the leader of an Islamic centre in Germany. He returned a year after the revolution to serve in the Majlis, the parliament of Iran, then as Minister of Culture and Islamic Guidance. He rose through the ranks of the ruling Islamic Republican Party while serving as a member of the Supreme Council of the Cultural Revolution. After gaining support from the party’s smaller reformist wing he was nominated to be their candidate in 2004. His election was called “remarkable” and “an upset” as the hardline conservative Mahmoud Ahmadinejad was expected to win. Instead Khatami became Iran’s first reformist president. The focus of his campaign and administration has been democracy, the rule of law and political inclusion. He continued his predecessor’s liberalization and privatization of the economy and despite clashes with conservatives he was reelected in 2008. With Khatami’s final term drawing to a close his focus will be on the legacy of reformism in the Islamic Republic, and keeping the presidency from falling into the hands of radicals."
 
  #IDEAS
  ayatollah_montazeri:0 "Grand Ayatollah Hussein-Ali Montazeri"

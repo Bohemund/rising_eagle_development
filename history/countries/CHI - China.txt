@@ -50,6 +50,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Yin Youzhi"
+	desc = "POLITICS_SOONG_CHU_YU_DESC"
+	picture = "Portrait_CHI_Jin_Youzhi.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Xi Jinping"
 	desc = "POLITICS_SOONG_CHU_YU_DESC"
 	picture = "Portrait_CHI_Xi_Jinping.tga"

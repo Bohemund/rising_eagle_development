@@ -1637,8 +1637,8 @@
  SWE_communist_ADJ:0 "Swedish"
 
  #SWITZERLAND
- SWI_ultranationalist:0 "Swiss Unitary State"
- SWI_ultranationalist_DEF:0 "The Swiss Unitary State"
+ SWI_ultranationalist:0 "Helvetic Republic"
+ SWI_ultranationalist_DEF:0 "The Helvetic Republic"
  SWI_nationalist:0 "Swiss Confederation"
  SWI_nationalist_DEF:0 "The Swiss Confederation"
  SWI_monarchist:0 "Swiss Kingdom"
@@ -1651,8 +1651,8 @@
  SWI_liberal_DEF:0 "The Swiss Confederation"
  SWI_social_democrat:0 "Swiss Confederation"
  SWI_social_democrat_DEF:0 "The Swiss Confederation"
- SWI_democratic_socialist:0 "Republic of Switzerland"
- SWI_democratic_socialist_DEF:0 "The Republic of Switzerland"
+ SWI_democratic_socialist:0 "Swiss Confederation"
+ SWI_democratic_socialist_DEF:0 "The Swiss Confederation"
  SWI_radical_socialist:0 "Republic of Switzerland"
  SWI_radical_socialist_DEF:0 "The Republic of Switzerland"
  SWI_communist:0 "Swiss People's Republic"

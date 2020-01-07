@@ -11,6 +11,7 @@ bookmarks = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
+			    european_union
                 USA_republican_dominance
                 USA_NASA
 			}
