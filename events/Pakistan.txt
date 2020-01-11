@@ -1,0 +1,158 @@
+add_namespace = pakistan
+
+#Pakistan Training Accident
+country_event = {
+	id = pakistan.1
+	title = pakistan.1.t
+	desc = pakistan.1.d
+	picture = GFX_PAK_tariq_class
+
+	fire_only_once = yes
+
+	trigger = {
+		NOT = {
+			has_country_flag = PAK_training_accident
+		}
+		date > 2010.2.1
+		original_tag = PAK
+	}
+
+	immediate = {
+		PAK = {
+			set_country_flag = PAK_training_accident
+		}
+	}
+
+	option = { 
+		name = pakistan.1.a
+	}
+}
+
+country_event = {
+	id = pakistan.2
+	title = pakistan.2.t
+	desc = pakistan.2.d
+	#picture = #todo
+
+	fire_only_once = yes
+
+	is_triggered_only = yes
+
+	option = { #streamline
+		name = pakistan.2.a
+		add_political_power = -25
+		set_country_flag = PAK_streamline_choice
+	}
+
+	option = { #renegotiate
+		name = pakistan.2.b
+		add_political_power = -100
+		set_country_flag = PAK_renegotiations_choice
+	}
+}
+
+country_event = { # choose which party to start inviting
+	id = pakistan.3
+	title = pakistan.3.t
+	desc = pakistan.3.d
+	#picture = #todo
+
+	fire_only_once = yes
+
+	is_triggered_only = yes
+
+	option = { # start with Muslim League
+		name = pakistan.3.a
+		set_country_flag = PAK_pakistan_peoples_party_ready
+	}
+
+	option = { # start with Awami League
+		name = pakistan.3.b
+		set_country_flag = PAK_awami_league_ready
+	}
+}
+
+country_event = { # muslim league accepts invite IF you support an infrastructure project
+	id = pakistan.4
+	title = pakistan.4.t
+	desc = pakistan.4.d
+	#picture = #todo
+
+	fire_only_once = yes
+
+	is_triggered_only = yes
+
+	option = { # say no - forces you down streamline status quo path
+		name = pakistan.4.a
+		add_political_power = 5
+		complete_national_focus = PAK_streamline_the_status_quo
+	}
+
+	option = { # say yes - gain 3 infrastructure in Sindh, lose 1% stability, get spirit giving consumer goods use +5% for 2 months
+		name = pakistan.4.b
+
+		add_stability = -0.01
+		443 = {
+			add_building_construction = {
+				type = infrastructure
+				level = 3
+				instant_build = yes
+			}
+		}
+		add_timed_idea = { idea = PAK_expensive_infrastructure_project days = 60 }
+		set_country_flag = PAK_pakistan_peoples_party_invitation
+		set_country_flag = PAK_awami_league_ready # move to awami league invite focus if this was chosen first
+	}
+}
+
+country_event = { # awami league accepts invite IF you support a dockyard project
+	id = pakistan.5
+	title = pakistan.5.t
+	desc = pakistan.5.d
+	#picture = #todo
+
+	fire_only_once = yes
+
+	is_triggered_only = yes
+
+	option = { # say no - forces you down streamline status quo path
+		name = pakistan.5.a
+		add_political_power = 5
+		complete_national_focus = PAK_streamline_the_status_quo
+	}
+
+	option = { # say yes - gain 2 dockyards in Bangladesh, lose 1% stability, get spirit giving consumer goods use +5% for 2 months
+		name = pakistan.5.b
+		add_stability = -0.01
+		430 = {
+			add_building_construction = {
+				type = dockyard
+				level = 2
+				instant_build = yes
+			}
+		}
+		add_timed_idea = { idea = PAK_expensive_dockyard_project days = 60 }
+		set_country_flag = PAK_awami_league_invitation
+		set_country_flag = PAK_pakistan_peoples_party_ready # move to muslim league invite focus if this was chosen first
+	}
+}
+
+country_event = {
+	id = pakistan.6
+	title = pakistan.6.t
+	desc = pakistan.6.d
+	#picture = #todo
+
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	option = { # start with bilingualism
+		name = pakistan.6.a
+		set_country_flag = PAK_bilingualism_choice
+	}
+
+	option = { # start with military divide
+		name = pakistan.6.b
+		set_country_flag = PAK_divide_military_choice
+	}
+}

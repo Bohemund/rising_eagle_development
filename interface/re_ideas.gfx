@@ -223,6 +223,21 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = GFX_idea_PAK_economic_confusion
+		texturefile = "gfx/interface/ideas/economic_confusion.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_expensive_dockyard_project
+		texturefile = "gfx/interface/ideas/expensive_dockyard_project.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_expensive_infrastructure_project
+		texturefile = "gfx/interface/ideas/expensive_infrastructure_project.dds"
+	}
+
+	spriteType = {
 		name = GFX_idea_PAK_army_navy_rivalry
 		texturefile = "gfx/interface/ideas/idea_jap_interservice_rivalry_balanced.dds"
 	}
@@ -265,5 +280,10 @@ spriteTypes = {
 	spriteType = {
 		name = GFX_idea_TAM_memories_of_black_july
 		texturefile = "gfx/interface/ideas/TAM_memories_of_black_july.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_PAK_army_navy_divided
+		texturefile = "gfx/interface/ideas/army_navy_divided.dds"
 	}
 }

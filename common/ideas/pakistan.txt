@@ -117,4 +117,68 @@ ideas = {
 			}
 		}
 	}
+
+	country = {
+
+		PAK_economic_confusion = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_factor = 0.05
+			}
+		}
+	}
+
+	country = {
+
+		PAK_expensive_infrastructure_project = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_factor = 0.05
+			}
+		}
+	}
+
+	country = {
+
+		PAK_expensive_dockyard_project = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_factor = 0.05
+			}
+		}
+	}
+
+	country = {
+
+		PAK_army_navy_divided = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				experience_gain_army_factor	= -0.05
+				army_org_factor = -0.05
+				experience_gain_navy_factor	= -0.05
+				navy_org_factor = -0.05
+				amphibious_invasion	= -1.00
+			}
+		}
+	}
 }

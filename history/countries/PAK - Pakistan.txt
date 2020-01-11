@@ -6,6 +6,7 @@ add_ideas = {
 	PAK_army_navy_rivalry
 	PAK_american_expertise
 	PAK_language_divide
+	PAK_economic_confusion
 }
 
 set_research_slots = 4

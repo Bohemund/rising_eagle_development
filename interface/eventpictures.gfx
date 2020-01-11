@@ -272,4 +272,11 @@ spriteTypes = {
 		name = "USA_first_detante"
 		texturefile = "gfx/event_pictures/report_event/USA_first_detante.dds"
 	}
+
+### PAKISTAN ###
+
+	spriteType = {
+		name = "GFX_PAK_tariq_class"
+		texturefile = "gfx/event_pictures/report_event/PAK_tariq_class.dds"
+	}
 }

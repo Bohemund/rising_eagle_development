@@ -4741,8 +4741,8 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-	name = "GFX_focus_PAK_invite_the_muslim_league"
-	texturefile = "gfx/interface/goals/pakistan/focus_PAK_invite_the_muslim_league.dds"
+	name = "GFX_focus_PAK_invite_the_pakistan_peoples_party"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_invite_the_pakistan_peoples_party.dds"
 	}
 
 	SpriteType = {
@@ -4763,6 +4763,46 @@ spriteTypes = {
 	SpriteType = {
 	name = "GFX_focus_PAK_return_to_status_quo"
 	texturefile = "gfx/interface/goals/pakistan/focus_PAK_return_to_status_quo.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_pakistan_zindabad"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_pakistan_zindabad.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_the_bangladesh_proposal"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_the_bangladesh_proposal.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_march_on_dhaka"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_march_on_dhaka.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_PAK_amicable_separation"
+	texturefile = "gfx/interface/goals/pakistan/focus_PAK_amicable_separation.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_RAJ_imagine_a_boot"
+	texturefile = "gfx/interface/goals/india/focus_RAJ_imagine_a_boot.png"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_RAJ_stamping_on_a_human_face"
+	texturefile = "gfx/interface/goals/india/focus_RAJ_stamping_on_a_human_face.png"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_RAJ_the_abrahamic_question"
+	texturefile = "gfx/interface/goals/india/focus_RAJ_the_abrahamic_question.png"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_RAJ_the_buddhist_heretics"
+	texturefile = "gfx/interface/goals/india/focus_RAJ_the_buddhist_heretics.png"
 	}
 
 

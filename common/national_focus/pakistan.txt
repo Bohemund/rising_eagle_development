@@ -14,12 +14,12 @@ focus_tree = {
 	continuous_focus_position = { x = 50 y = 1000 }
 
 	focus = {
-		id = PAK_reassess_the_confederation
+		id = PAK_reassess_the_federation
 		#icon = #todo#
 		x = 6
 		y = 0
 
-		cost = 10
+		cost = 1
 
 		ai_will_do = {
 			factor = 1
@@ -38,26 +38,26 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			country_event = { id = pakistan.2 }
 		}
 	}
 
 	focus = {
 		id = PAK_streamline_the_status_quo
 		#icon = #todo#
-		prerequisite = { focus = PAK_reassess_the_confederation }
+		prerequisite = { focus = PAK_reassess_the_federation }
 		mutually_exclusive = { focus = PAK_open_renegotiations }
 		x = 2
 		y = 1
 
-		cost = 10
+		cost = 1
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_streamline_choice
 		}
 		
 		bypass = {
@@ -69,7 +69,7 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			country_event = { id = pakistan.6 }
 		}
 	}
 
@@ -80,14 +80,14 @@ focus_tree = {
 		x = 0
 		y = 2
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_bilingualism_choice
 		}
 		
 		bypass = {
@@ -110,14 +110,14 @@ focus_tree = {
 		x = 4
 		y = 2
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_divide_military_choice
 		}
 		
 		bypass = {
@@ -129,7 +129,51 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			if = {
+				limit = {
+					has_idea = PAK_army_navy_rivalry
+				}
+				swap_ideas = { 
+  					remove_idea = PAK_army_navy_rivalry
+  					add_idea = PAK_army_navy_divided
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = PAK_army_navy_rivalry_army_strengthened
+				}
+				swap_ideas = { 
+  					remove_idea = PAK_army_navy_rivalry_army_strengthened
+  					add_idea = PAK_army_navy_divided
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = PAK_army_navy_rivalry_army_dominant
+				}
+				swap_ideas = { 
+  					remove_idea = PAK_army_navy_rivalry_army_dominant
+  					add_idea = PAK_army_navy_divided
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = PAK_army_navy_rivalry_navy_strengthened
+				}
+				swap_ideas = { 
+  					remove_idea = PAK_army_navy_rivalry_navy_strengthened
+  					add_idea = PAK_army_navy_divided
+				}
+			}
+			else_if = {
+				limit = {
+					has_idea = PAK_army_navy_rivalry_navy_dominant
+				}
+				swap_ideas = { 
+  					remove_idea = PAK_army_navy_rivalry_navy_dominant
+  					add_idea = PAK_army_navy_divided
+				}
+			}
 		}
 	}
 
@@ -141,7 +185,7 @@ focus_tree = {
 		x = 2
 		y = 3
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -167,18 +211,18 @@ focus_tree = {
 	focus = {
 		id = PAK_open_renegotiations
 		#icon = #todo#
-		prerequisite = { focus = PAK_reassess_the_confederation }
+		prerequisite = { focus = PAK_reassess_the_federation }
 		x = 10
 		y = 1
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_renegotiations_choice
 		}
 		
 		bypass = {
@@ -190,7 +234,7 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			country_event = { id = pakistan.3 }
 		}
 	}
 
@@ -201,14 +245,14 @@ focus_tree = {
 		x = 12
 		y = 2
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_awami_league_ready
 		}
 		
 		bypass = {
@@ -220,25 +264,25 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			country_event { id = pakistan.5 }
 		}
 	}
 
 	focus = {
-		id = PAK_invite_the_muslim_league
-		icon = GFX_focus_PAK_invite_the_muslim_league
+		id = PAK_invite_the_pakistan_peoples_party
+		icon = GFX_focus_PAK_invite_the_pakistan_peoples_party
 		prerequisite = { focus = PAK_open_renegotiations }
 		x = 8
 		y = 2
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_pakistan_peoples_party_ready
 		}
 		
 		bypass = {
@@ -250,26 +294,27 @@ focus_tree = {
 		available_if_capitulated = no
 
 		completion_reward = {
-			#todo
+			country_event { id = pakistan.4 }
 		}
 	}
 
 	focus = {
 		id = PAK_address_the_six_points
 		icon = GFX_focus_PAK_address_the_six_points
-		prerequisite = { focus = PAK_invite_the_muslim_league }
+		prerequisite = { focus = PAK_invite_the_pakistan_peoples_party }
 		prerequisite = { focus = PAK_invite_the_awami_league }
 		x = 10
 		y = 3
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
 		}
 
 		available = {
-			
+			has_country_flag = PAK_pakistan_peoples_party_invitation
+			has_country_flag = PAK_awami_league_invitation
 		}
 		
 		bypass = {

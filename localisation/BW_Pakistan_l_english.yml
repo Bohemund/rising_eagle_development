@@ -37,6 +37,16 @@
  PAK_american_expertise_desc:0 "As America's informal ally in South Asia, we benefit from significant assistance to our research."
  PAK_language_divide:0 "Language Divide"
  PAK_language_divide_desc:0 "While the co-officiality of Urdu, Bengali, and English works well to placate our linguistic minorities, it makes our bureaucracy, especially that of the military, exceedingly inefficient."
+ PAK_economic_confusion:0 "Economic Confusion"
+ PAK_economic_confusion_desc:0 "We have two different currencies operating within our country. Initially put in place to prevent the flight of capital from the East to the West, it has only caused economic confusion."
+ PAK_expensive_infrastructure_project:0 "Expensive Infrastructure Project"
+ PAK_expensive_infrastructure_project_desc:0 "We have allocated public funds for an expensive infrastructure project in Sindh."
+ PAK_expensive_dockyard_project:0 "Expensive Dockyard Project"
+ PAK_expensive_dockyard_project_desc:0 "We have allocated public funds for an expensive dockyard project in Dhaka."
+ PAK_army_navy_divided:0 "Army-Navy Divide"
+ PAK_army_navy_divided_desc:0 "Rather than addressing the dysfunction of our military, we have opted to accept it and simply avoid complicated coordination between our army and navy."
+
+
 
  #DECISIONS
  PAK_army_navy_rivalry_category:0 "Army-Navy Rivalry"
@@ -67,8 +77,8 @@
  navy_strengthened_to_balanced_desc:0 "At the cost of our navy's efficiency, we can strengthen our army."
 
  #NATIONAL FOCUSES
- PAK_reassess_the_confederation:0 "Reassess the Confederation"
- PAK_reassess_the_confederation_desc:0 "Following the embarrassment of our latest training accident, it has become pertinent that we reassess our government's structure."
+ PAK_reassess_the_federation:0 "Reassess the Federation"
+ PAK_reassess_the_federation_desc:0 "Following the embarrassment of our latest training accident, it has become pertinent that we reassess our government's structure."
 
  PAK_streamline_the_status_quo:0 "Streamline the Status Quo"
  PAK_streamline_the_status_quo_desc:0 "We don't need to radically restructure our government. We can get by with minor changes."
@@ -83,45 +93,78 @@
  PAK_good_enough_desc:0 "While everyone knows the changes we've made are mostly cosmetic, we've done enough to shut up the press and satisfy the populace for the next few years."
 
  PAK_open_renegotiations:0 "Open Renegotiations"
- PAK_open_renegotiations_desc:0 "It is not enough to make minor changes. We must renegotiate the treaty that formed the confederation if we are to persist."
+ PAK_open_renegotiations_desc:0 "It is not enough to make minor changes. We must renegotiate the treaty that formed the federation if we are to persist."
 
- PAK_invite_the_muslim_league:0 "Invite the Muslim League"
- PAK_invite_the_muslim_league_desc:0 "It is pertinent that we work with the Muslim League in renegotiating the confederation as they are the dominant party of West Pakistan and helped form the original confederation."
+ PAK_invite_the_pakistan_peoples_party:0 "Invite the Pakistan People's Party"
+ PAK_invite_the_pakistan_peoples_party_desc:0 "It is pertinent that we work with the Pakistan People's Party in renegotiating the federation as they are the main opposition party in West Pakistan."
 
  PAK_invite_the_awami_league:0 "Invite the Awami League"
- PAK_invite_the_awami_league_desc:0 "It is pertinent that we work with the Awami League in renegotiating the confederation as they are the dominant party of East Pakistan and helped form the original confederation."
+ PAK_invite_the_awami_league_desc:0 "It is pertinent that we work with the Awami League in renegotiating the federation as they are the dominant party of East Pakistan and helped form the original federation."
 
  PAK_address_the_six_points:0 "Address the Six Points"
- PAK_address_the_six_points_desc:0 "As the Six Points submitted by the Awami League and accepted by the Muslim League in 1966 formed the basis of our confederation, it is necessary that we address them, especially the hindrances presened by them, before we proceed."
+ PAK_address_the_six_points_desc:0 "As the Six Points submitted by the Awami League and accepted by the Muslim League in 1966 formed the basis of our federation, it is necessary that we address them, especially the hindrances PAK_reassess_the_federationed by them, before we proceed."
 
  PAK_military_factionalism:0 "Military Factionalism"
  PAK_military_factionalism_desc:0 "Our military is rife with factionalist disputes, primarily between Bengalis, Punjabis, and Muhajirs. It's necessary that we resolve these if we are to possess a modern, functional military."
 
  PAK_the_two_rupees:0 "The Two Rupees"
- PAK_the_two_rupees_desc:0 "Within the confederation, there exists two separate but freely convertible currencies. The hassle of the East and West Pakistani Rupees have come to be an economic burden, so it's important that we do something about it."
+ PAK_the_two_rupees_desc:0 "Within the federation, there exists two separate but freely convertible currencies. The hassle of the East and West Pakistani Rupees have come to be an economic burden, so it's important that we do something about it."
 
  PAK_the_language_divide:0 "The Language Divide"
- PAK_the_language_divide_desc:0 "The most glaring issue within our confederation by far is that of language. With Urdu, Bengali, and English co-official in the confederation, our bureaucracy has become bloated and inefficient. Finding an amicable solution to the divide is necessary if the confederation is to be functional."
+ PAK_the_language_divide_desc:0 "The most glaring issue within our federation by far is that of language. With Urdu, Bengali, and English co-official in the federation, our bureaucracy has become bloated and inefficient. Finding an amicable solution to the divide is necessary if the federation is to be functional."
 
  PAK_pakistan_zindabad:0 "Pakistan Zindabad!"
- PAK_pakistan_zindabad_desc:0 "Victory to Pakistan! We have successfully renegotiated the confederation into a vastly more operable, efficient government. We can expect stability and prosperity in the future."
+ PAK_pakistan_zindabad_desc:0 "Victory to Pakistan! We have successfully renegotiated the federation into a vastly more operable, efficient government. We can expect stability and prosperity in the future."
 
  PAK_negotiations_collapse:0 "Negotiations Collapse"
- PAK_negotiations_collapse_desc:0 "We simply could not come to a new agreement on the confederation. Perhaps it was never meant to be?"
+ PAK_negotiations_collapse_desc:0 "We simply could not come to a new agreement on the federation. Perhaps it was never meant to be?"
 
  PAK_return_to_status_quo:0 "Return to Status Quo"
- PAK_return_to_status_quo_desc:0 "Perhaps we were too ambitious in our efforts to alter the confederation. Minor efforts may be more suitable."
+ PAK_return_to_status_quo_desc:0 "Perhaps we were too ambitious in our efforts to alter the federation. Minor efforts may be more suitable."
 
  PAK_the_bangladesh_proposal:0 "The Bangladesh Proposal"
- PAK_the_bangladesh_proposal_desc:0 "Following our failure to renegotiate the confederation, several members of the Awami League have begun to believe that even the original was a mistake. Arguments have erupted across all of Pakistan over whether the East and West ought to split."
+ PAK_the_bangladesh_proposal_desc:0 "Following our failure to renegotiate the federation, several members of the Awami League have begun to believe that even the original was a mistake. Arguments have erupted across all of Pakistan over whether the East and West ought to split."
 
 
  PAK_amicable_separation:0 "Amicable Separation"
- PAK_amicable_separation_desc:0 "Though many of us are opposed to separation, we recognize that an amicable separation is preferable to a bloody war. It is for this reason that we shall dissolve the confederation, splitting the East and West."
+ PAK_amicable_separation_desc:0 "Though many of us are opposed to separation, we recognize that an amicable separation is preferable to a bloody war. It is for this reason that we shall §Rdissolve the federation, splitting the East and West.§!"
 
  PAK_march_on_dhaka:0 "March on Dhaka"
- PAK_march_on_dhaka_desc:0 "Hardliners in the Muslim League are outraged by the mere suggestion of Bengali separatism, especially after what they view as the exceedingly concessionary original confederation being created to begin with. Leveraging their connections to the military, they have begun moving troops into Dhaka in a bid to declare martial law and maintain the country's integrity. This will not end well."
+ PAK_march_on_dhaka_desc:0 "Hardliners in the Muslim League and several conservative generals are outraged by the mere suggestion of Bengali separatism, especially after the concessions already made for them. Leveraging their connections in the military, they have begun moving troops into Dhaka in a bid to declare martial law and maintain the federation's integrity. §RThis probably won't end well.§!"
 
  #TOOLTIPS
  PAK_training_accident:0 "We have had a horrific training accident."
+ PAK_streamline_choice:0 "We have opted for a simple solution."
+ PAK_renegotiations_choice:0 "We have opted for a long-term solution."
+ PAK_pakistan_peoples_party_ready:0 "We are prepared to invite the Pakistan People's Party"
+ PAK_awami_league_ready:0 "We are prepared to invite the Awami League"
+ PAK_pakistan_peoples_party_invitation:0 "The Pakistan People's Party has accepted our invitation"
+ PAK_awami_league_invitation:0 "The Awami League has accepted our invitation"
+
+ #EVENTS
+ pakistan.1.t:0 "Horrific Interservice Training Accident"
+ pakistan.1.d:0 "Tragedy struck the Federation of Pakistan today during an interservice training exercise. The PNS Khaibar, a Tariq-class destroyer operated by the Pakistan Navy, misfired upon an observing battalion of the Punjab Regiment in a test of its naval artillery, killing at least 32 soldiers and General Khalid Shameem Wynne. The international community has been quick to extend their sympathies, with the notable exception of the Republic of India. While the press is still covering the tragedy itself, they will soon begin to ask how the accident, which has been interpreted as a consequence of the political, cultural, and linguistic divide between the army and navy, was allowed to happen and whether it is a symptom of a greater issue within the federation. Prime Minister Nawaz Sharif is expected to issue a statement on the accident shortly."
+ pakistan.1.a:0 "It may be wise to reassess our government."
+
+ pakistan.2.t:0 "How should we proceed?"
+ pakistan.2.d:0 "It is time for us to plan a response to the issues in our government's structure. Should we opt for a simple solution to satisfy the populace or aim for genuine, if risky, reform?"
+ pakistan.2.a:0 "A simple solution is fine."
+ pakistan.2.b:0 "We need real change."
+
+ pakistan.3.t:0 "Opening Renegotiations"
+ pakistan.3.d:0 "In order for us to begin to open renegotiations on the federation, we need to bring the other two major parties to the table. This won't be easy, as the Awami League is in a position of stability in the East, with little present concern from upstart third parties while the Pakistan People's Party is diametrically opposed to our party's values. Which party should we invite first?"
+ pakistan.3.a:0 "Start with the Pakistan People's Party, our main opposition in the West."
+ pakistan.3.b:0 "Start with the Awami League, the unchallenged dominant party in the East."
+
+ pakistan.4.t:0 "The Pakistan People's Party's Conditions"
+ pakistan.4.d:0 "While much of the Pakistan People's Party have agreed to our renegotiation, several key figures stand in our way. They are demanding that the government commission an infrastructure project in Sindh to satisfy their constituencies before they agree to attend. While this demand is undoubtedly illegal and would be a misallocation of public funding, accomodating it would be necessary for renegotiations to even begin. How should we respond?"
+ pakistan.4.a:0 "Forget this! How about that simple solution?"
+ pakistan.4.b:0 "Fine."
+
+ pakistan.5.t:0 "The Awami League's Conditions"
+ pakistan.5.d:0 "While much of the Awami League have agreed to our renegotiation, several key figures stand in our way. They are demanding that the government commission a dockyard project in Dhaka to satisfy their constituencies before they agree to attend. While this demand is undoubtedly illegal and would be a misallocation of public funding, accomodating it would be necessary for renegotiations to even begin. How should we respond?"
+ pakistan.5.a:0 "Forget this! How about that simple solution?"
+ pakistan.5.b:0 "Fine."
+
+
  
