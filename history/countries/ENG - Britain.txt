@@ -41,9 +41,9 @@ set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
 	nationalist = 4
-	conservative = 38
+	conservative = 28
 	centrist = 9
-	liberal = 28
+	liberal = 38
 	social_democrat = 5
 	democratic_socialist = 16
 	radical_socialist = 0
@@ -52,8 +52,8 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = conservative
-	last_election = "2009.5.5"
+	ruling_party = liberal
+	last_election = "2005.5.5"
 	election_frequency = 48
 	elections_allowed = no
 }
