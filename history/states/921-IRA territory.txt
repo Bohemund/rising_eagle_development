@@ -16,11 +16,11 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = IRE
-		set_demilitarized_zone = yes
+		add_core_of = ULS
 	}
 
 	provinces={
-		3242 385 11257 
+		385 11257 
 	}
 	manpower=408537
 	buildings_max_level_factor=1

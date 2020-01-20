@@ -1,15 +1,15 @@
-﻿capital = 709
+﻿capital = 119
 
-oob = "SEY_2010"
+oob = "ULS_2010"
 
 add_ideas = {
-    commonwealth
-} 
+    #
+}
 
-set_research_slots = 3
+set_research_slots = 4
 set_convoys = 0
-set_stability = 0.7
-set_war_support = 0.1
+set_stability = 0.5
+set_war_support = 0.3
 
 set_technology = {
 	support_weapons = 1
@@ -29,30 +29,30 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 17
+	conservative = 33
+	centrist = 0
+	liberal = 5
+	social_democrat = 18
+	democratic_socialist = 24
+	radical_socialist = 0
+	communist = 3
 }
 
 set_politics = {
 	
 	ruling_party = conservative
-	last_election = "2009.8.20"
+	last_election = "2005.8.20"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "James Mancham"
+	name = "David Trimble"
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
-	picture = "Portrait_SEY_James_Mancham.tga"
+	picture = "Portrait_ULS_David_Trimble.tga"
 	expire = "2050.1.1"
 	ideology = fiscal_conservative
 	traits = {

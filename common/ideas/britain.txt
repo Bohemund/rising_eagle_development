@@ -22,6 +22,27 @@ ideas = {
 
     country = {
 	    
+		commonwealth = {
+			allowed = {
+				always = no
+			}
+			
+			
+			removal_cost = -1
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			modifier = {
+				stability_factor = 0.05
+				political_power_gain = 0.1
+			}
+		}
+	}
+
+    country = {
+	    
 		ENG_the_troubles = {
 			allowed = {
 				always = no
@@ -36,7 +57,7 @@ ideas = {
 			
 			modifier = {
 				stability_factor = -0.15
-				political_power_gain = -0.2
+				political_power_gain = -0.3
 				army_morale_factor = -0.1
 			}
 		}

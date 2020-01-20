@@ -38,14 +38,14 @@ create_faction = japan_faction
 add_to_faction = JAP
 
 set_popularities = {
-	ultranationalist = 40
+	ultranationalist = 36
 	monarchist = 0
-	nationalist = 8
-	conservative = 12
-	centrist = 4
-	liberal = 28
-	social_democrat = 0
-	democratic_socialist = 8
+	nationalist = 0
+	conservative = 26
+	centrist = 5
+	liberal = 3
+	social_democrat = 12
+	democratic_socialist = 18
 	radical_socialist = 0
 	communist = 0
 }
@@ -74,6 +74,26 @@ create_country_leader = {
 	picture = "Portrait_JAP_Akihito.tga"
 	expire = "2050.1.1"
 	ideology = absolute_monarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Shinzo Abe"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Shinzo_Abe.tga"
+	expire = "2050.1.1"
+	ideology = national_conservative
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ichiro Ozawa"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_JAP_Ichiro_Ozawa.tga"
+	expire = "2050.1.1"
+	ideology = fiscal_conservative
 	traits = {
 	}
 }

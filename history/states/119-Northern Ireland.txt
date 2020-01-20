@@ -22,10 +22,11 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = IRE
+		add_core_of = ULS
 	}
 
 	provinces={
-		276 3217 3329 3379
+		276 3217 3329 3379 3242
 	}
 	manpower=908537
 	buildings_max_level_factor=1

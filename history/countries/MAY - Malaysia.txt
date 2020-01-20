@@ -2,6 +2,10 @@
 
 oob = "MAY_2010"
 
+add_ideas = {
+    commonwealth
+} 
+
 set_research_slots = 4
 set_convoys = 500
 set_stability = 0.6

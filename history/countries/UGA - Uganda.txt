@@ -2,6 +2,10 @@
 
 oob = "UGA_2010"
 
+add_ideas = {
+    commonwealth
+} 
+
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.2

@@ -1029,3 +1029,8 @@ EUU = {
 	color = rgb { 0 51 153 }
 	color_ui = rgb { 220 110 200 }
 }
+
+ULS = {
+	color = rgb { 240 186 60 }
+	color_ui = rgb { 115 115 115 }
+}

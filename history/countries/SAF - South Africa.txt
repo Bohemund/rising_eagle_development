@@ -2,6 +2,10 @@
 
 oob = "SAF_2010"
 
+add_ideas = {
+    commonwealth
+} 
+
 set_research_slots = 4
 set_convoys = 40
 set_stability = 0.5

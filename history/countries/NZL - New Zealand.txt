@@ -1,6 +1,10 @@
 ﻿capital = 284
 
-oob = "AAA_2010"
+oob = "NZL_2010"
+
+add_ideas = {
+    commonwealth
+} 
 
 set_research_slots = 3
 set_convoys = 0

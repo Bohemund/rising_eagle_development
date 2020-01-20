@@ -183,8 +183,18 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_idea_commonwealth"
+		texturefile = "gfx/interface/ideas/commonwealth.dds"
+	}
+
+	spriteType = {
 		name = "GFX_idea_ENG_the_troubles"
 		texturefile = "gfx/interface/ideas/ENG_troubles.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_east_west"
+		texturefile = "gfx/interface/ideas/GER_east_west.dds"
 	}
 
 	spriteType = {

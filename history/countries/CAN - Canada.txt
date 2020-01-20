@@ -3,7 +3,7 @@
 oob = "CAN_2010"
 
 add_ideas = {
-    #
+    commonwealth
 } 
 
 set_research_slots = 4
