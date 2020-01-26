@@ -1,0 +1,25 @@
+
+state={
+	id=929
+	name="STATE_929"
+	manpower = 343334
+	
+	state_category = state_level_5
+	
+	history={
+		owner = RUS
+		victory_points = {
+			9663 5         #Sochi
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+		add_core_of = RUS
+		add_claim_by = GEO
+	}
+
+	provinces={
+		9663
+	}
+}

@@ -11,7 +11,6 @@ bookmarks = {
 			history = USA_RISING_EAGLE_DESC
 			ideology = conservative
 			ideas = {
-			    european_union
                 USA_republican_dominance
                 USA_NASA
 			}
@@ -23,6 +22,7 @@ bookmarks = {
 			history = ENG_RISING_EAGLE_DESC
 			ideology = liberal
 			ideas = {
+				european_union
 				idea_queen_elizabeth_ii
 				ENG_the_troubles
 			}

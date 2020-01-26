@@ -1,0 +1,22 @@
+
+state=
+{
+	id=928
+	name="STATE_928"
+	manpower = 159192
+	
+	state_category = state_level_3
+
+	history=
+	{
+		owner = IRE
+		add_core_of = IRE
+		add_core_of = ULS
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 337 2 }		#Letterkenny
+	}
+
+	provinces={ 337	}
+}

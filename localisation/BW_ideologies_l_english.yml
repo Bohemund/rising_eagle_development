@@ -166,6 +166,8 @@
  maoist_desc:0 "Maoism claims that peasants should be the essential revolutionary class, because, contrary to their industrial working comrades, they were more suited to establishing a successful revolution and socialist society."
  titoist:0 "Titoism"
  titoist_desc:0 "Elements of Titoism are characterised by policies and practices based on the principle that in each country, the means of attaining ultimate communist goals must be dictated by the conditions of that particular country, rather than a pattern set in another country. Some of Tito's policies also included self-management."
+ khrushchevist:0 "Khrushchevism"
+ khrushchevist_desc_0 "Khrushchevism is a form of Marxism which is based on the theories and policies of Nikita Khrushchev and his administration in the Soviet Union. It involves the rejection of Stalinism and particularly represents a movement away from Stalinist politics, including advocating for a more liberal tolerance of some cultural dissent and deviance, a more welcoming international relations policy and a repudiation of Stalinist arbitrariness and terror tactics."
 
  #DRIFT
  ultranationalist_drift:0 "Drift to Ultranationalism"

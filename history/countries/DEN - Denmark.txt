@@ -51,7 +51,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Ingolf I"
+	name = "Ingolf of Denmark"
 	desc = "POLITICS_THORVALD_STAUNING_DESC"
 	picture = "Portrait_DEN_Ingolf.tga"
 	expire = "2050.1.1"

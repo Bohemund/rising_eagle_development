@@ -148,7 +148,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_RUS_Nikolai_Ryzhkov.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = khrushchevist
 	traits = {
 		
 	}

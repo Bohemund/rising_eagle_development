@@ -4,6 +4,7 @@ oob = "CYP_2010"
 
 add_ideas = {
     european_union
+    commonwealth
 }
 
 set_research_slots = 3

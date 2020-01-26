@@ -2,7 +2,7 @@
 state={
 	id=113
 	name="STATE_113" # Leinster
-	manpower = 3133000
+	manpower = 2996341
 	state_category = state_level_10
 	
 	history={
@@ -23,6 +23,6 @@ state={
 	}
 
 	provinces={
-		285 303 369 3342 3359 7377 11293 11303 
+		285 303 369 3342 3359 7377 11293
 	}
 }

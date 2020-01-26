@@ -36,16 +36,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 18
+	monarchist = 0
+	nationalist = 0
+	conservative = 35
+	centrist = 12
+	liberal = 0
+	social_democrat = 5
+	democratic_socialist = 8
+	radical_socialist = 0
+	communist = 22
 }
 
 set_politics = {
@@ -61,29 +61,18 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_UKR_Oleh_Tyahnybok.tga"
 	expire = "2050.1.1"
-	ideology = fascist
+	ideology = nationalist_ideology
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Borys Kolesnikov"
+	name = "Viacheslav Chornovil"
 	desc = ""
-	picture = "Portrait_UKR_Borys_Kolesnikov.tga"
+	picture = "Portrait_UKR_Viacheslav_Chornovil.tga"
 	expire = "2050.1.1"
 	ideology = social_conservative
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Viktor Yanukovych"
-	desc = ""
-	picture = "Portrait_UKR_Viktor_Yanukovych.tga"
-	expire = "2050.1.1"
-	ideology = centrist_populist
 	traits = {
 		
 	}

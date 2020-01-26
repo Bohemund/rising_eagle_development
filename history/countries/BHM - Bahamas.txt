@@ -1,6 +1,6 @@
 ﻿capital = 690
 
-oob = "AAA_2010"
+oob = "BHM_2010"
 
 add_ideas = {
     commonwealth
@@ -29,22 +29,33 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 8
+	ultranationalist = 0
 	monarchist = 0
-	nationalist = 11
-	conservative = 12
-	centrist = 15
-	liberal = 17
-	social_democrat = 24
+	nationalist = 0
+	conservative = 47
+	centrist = 3
+	liberal = 50
+	social_democrat = 0
 	democratic_socialist = 0
-	radical_socialist = 10
-	communist = 3
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = liberal
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Perry Christie"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_BHM_Perry_Christie.tga"
+	expire = "2050.1.1"
+	ideology = liberal_ideology
+	traits = {
+		
+	}
 }

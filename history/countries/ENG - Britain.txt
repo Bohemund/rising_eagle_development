@@ -82,11 +82,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Kenneth Clarke"
+	name = "Nigel Farage"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Kenneth_Clarke.tga"
+	picture = "Portrait_ENG_Nigel_Farage.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = social_conservative
 	traits = {
 		
 	}
