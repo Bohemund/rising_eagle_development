@@ -1,11 +1,15 @@
 ﻿capital = 691
 
-oob = "AAA_2010"
+oob = "TAT_2010"
+
+add_ideas = {
+    commonwealth
+} 
 
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.6
-set_war_support = 0.3
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -25,22 +29,33 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 0
+	centrist = 3
+	liberal = 40
+	social_democrat = 57
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = social_democrat
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Kamla Persad-Bissessar"
+	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
+	picture = "Portrait_TAT_Kamla_Persad_Bissessar.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
 }

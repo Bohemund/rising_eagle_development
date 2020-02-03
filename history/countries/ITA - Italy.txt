@@ -4,6 +4,7 @@ oob = "ITA_2010"
 
 add_ideas = {
     european_union
+    ITA_mafia
 }
 
 set_research_slots = 4
@@ -38,27 +39,27 @@ set_popularities = {
 	ultranationalist = 10
 	monarchist = 0
 	nationalist = 0
-	conservative = 18
-	centrist = 30
-	liberal = 7
-	social_democrat = 3
-	democratic_socialist = 20
+	conservative = 30
+	centrist = 7
+	liberal = 12
+	social_democrat = 5
+	democratic_socialist = 22
 	radical_socialist = 0
-	communist = 12
+	communist = 14
 }
 
 set_politics = {
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2008.4.14"
 	election_frequency = 60
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Giorgia Meloni"
+	name = "Luca Romagnoli"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Giorgia_Meloni.tga"
+	picture = "Portrait_ITA_Luca_Romagnoli.tga"
 	expire = "2050.1.1"
 	ideology = fascist
 	traits = {
@@ -67,22 +68,33 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Silvio Berlusconi"
+	name = "Vittorio Emanuele IV"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Silvio_Berlusconi.tga"
+	picture = "Portrait_ITA_Vittorio_Emanuele.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = absolute_monarchist
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Pier Ferdinando Casini"
+	name = "Giorgia Meloni"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Pier_Ferdinando_Casini.tga"
+	picture = "Portrait_ITA_Giorgia_Meloni.tga"
 	expire = "2050.1.1"
-	ideology = centrist_populist
+	ideology = national_conservative
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Sergio Mattarella"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Sergio_Mattarella.tga"
+	expire = "2050.1.1"
+	ideology = christian_democrat
 	traits = {
 		
 	}
@@ -94,6 +106,28 @@ create_country_leader = {
 	picture = "Portrait_ITA_Matteo_Renzi.tga"
 	expire = "2050.1.1"
 	ideology = new_democrat
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Silvio Berlusconi"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Silvio_Berlusconi.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Giorgio Napolitano"
+	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	picture = "Portrait_ITA_Giorgio_Napolitano.tga"
+	expire = "2050.1.1"
+	ideology = marxist
 	traits = {
 		
 	}

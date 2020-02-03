@@ -2,7 +2,7 @@ ideas = {
 
     country = {
 	    
-		milanese_recession = {
+		ITA_mafia = {
 			allowed = {
 				always = no
 			}
@@ -10,29 +10,9 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				production_speed_industrial_complex_factor = -0.50
-				production_speed_arms_factory_factor = -0.50
-				production_speed_infrastructure_factor = -0.2
-				conversion_cost_civ_to_mil_factor= 0.5
-				industrial_capacity_factory = -0.20
-				research_time_factor = 0.20
-				industrial_capacity_dockyard = -0.10
-				stability_factor = -0.3
-			}
-		}
-
-		drift_towards_radicalism = {
-			allowed = {
-				always = no
-			}
-			
-			removal_cost = -1
-			
-			modifier = {
-			ultranationalist_drift = 0.01
-			nationalist_drift = 0.01
-			democratic_socialist_drift = 0.01
-			communist_drift = 0.01
+				consumer_goods_factor = 0.05
+				political_power_gain = -0.25
+				local_resources_factor = -0.05
 			}
 		}
 	}

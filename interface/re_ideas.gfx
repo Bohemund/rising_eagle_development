@@ -241,4 +241,14 @@ spriteTypes = {
 		name = "GFX_idea_BUL_simeon_ii"
 		texturefile = "gfx/interface/ideas/BUL_simeon_ii.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_ITA_mafia"
+		texturefile = "gfx/interface/ideas/italy/ITA_mafia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_GER_east_west"
+		texturefile = "gfx/interface/ideas/germany/GER_east_west.dds"
+	}
 }

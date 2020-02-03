@@ -33,10 +33,6 @@ set_technology = {
 	interwar_antitank = 1
 }
 
-create_faction = arab
-add_to_faction = IRQ
-add_to_faction = KUW
-
 set_popularities = {
 	ultranationalist = 45
 	monarchist = 0

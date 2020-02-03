@@ -1,6 +1,6 @@
 ﻿capital = 856
 
-oob = "ARG_2010"
+oob = "BAH_2010"
 
 set_research_slots = 4
 set_convoys = 70
@@ -68,8 +68,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hassan Mushaima"
-	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
+	name = "Hasan Mushaima"
+	desc = "POLITICS_HASAN_MUSHAIMA_DESC"
 	picture = "Portrait_BAH_Hasan_Mushaima.tga"
 	expire = "2050.1.1"
 	ideology = centrist_populist

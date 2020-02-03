@@ -4,6 +4,7 @@ oob = "GER_2010"
 
 add_ideas = {
     european_union
+    GER_east_west
 }
 
 set_research_slots = 4

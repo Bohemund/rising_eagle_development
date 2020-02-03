@@ -1,0 +1,19 @@
+ideas = {
+
+    country = {
+	    
+		GER_east_west = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.05
+				political_power_gain = -0.20
+				production_speed_infrastructure_factor = -0.2
+			}
+		}
+	}
+}
