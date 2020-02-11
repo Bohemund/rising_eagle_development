@@ -4,12 +4,13 @@ oob = "FRA_2010"
 
 add_ideas = {
     european_union
+    FRA_military_power
 }
 
 set_research_slots = 4
 set_convoys = 400
-set_stability = 0.7
-set_war_support = 0.1
+set_stability = 0.8
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -35,14 +36,14 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 16
+	ultranationalist = 18
 	monarchist = 0
-	nationalist = 4
-	conservative = 34
-	centrist = 0
-	liberal = 8
-	social_democrat = 22
-	democratic_socialist = 4
+	nationalist = 0
+	conservative = 38
+	centrist = 8
+	liberal = 0
+	social_democrat = 24
+	democratic_socialist = 0
 	radical_socialist = 0
 	communist = 12
 }
@@ -78,33 +79,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "François Bayrou"
-	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Francois_Bayrout.tga"
-	expire = "2050.1.1"
-	ideology = social_liberal
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Jean-Luc Mélenchon"
-	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_FRA_Jean_Luc_Melenchon.tga"
-	expire = "2050.1.1"
-	ideology = moderate_socialist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
 	name = "François Hollande"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_FRA_Francois_Hollande.tga"
 	expire = "2050.1.1"
-	ideology = leninist
+	ideology = marxist
 	traits = {
 		#
 	}

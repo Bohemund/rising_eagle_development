@@ -36,13 +36,13 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 6
+	ultranationalist = 5
 	monarchist = 0
 	nationalist = 0
 	conservative = 28
 	centrist = 6
 	liberal = 10
-	social_democrat = 35
+	social_democrat = 36
 	democratic_socialist = 15
 	radical_socialist = 0
 	communist = 0
@@ -63,16 +63,6 @@ create_country_leader = {
 	picture = "Portrait_GER_Udo_Voigt.tga"
 	expire = "2050.1.1"
 	ideology = national_socialist
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Wolfgang Rauls"
-	desc = "POLITICS_KONRAD_ADENAUER_DESC"
-	picture = "Portrait_GER_Wolfgang_Rauls.tga"
-	expire = "2050.1.1"
-	ideology = national_conservative
 	traits = {
 	}
 }

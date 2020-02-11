@@ -41,13 +41,13 @@ set_technology = {
 
 set_popularities = {
 	ultranationalist = 0
-	monarchist = 18
+	monarchist = 14
 	nationalist = 32
 	conservative = 8
 	centrist = 18
 	liberal = 0
 	social_democrat = 6
-	democratic_socialist = 18
+	democratic_socialist = 22
 	radical_socialist = 0
 	communist = 0
 }
@@ -72,9 +72,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Stanimir Ilchev"
+	name = "Ognyan Gerdzhikov"
 	desc = ""
-	picture = "Portrait_BUL_Stanimir_Ilchev.tga"
+	picture = "Portrait_BUL_Ognyan_Gerdzhikov.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative
 	traits = {

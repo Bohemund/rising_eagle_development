@@ -251,4 +251,9 @@ spriteTypes = {
 		name = "GFX_idea_GER_east_west"
 		texturefile = "gfx/interface/ideas/germany/GER_east_west.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_FRA_military_power"
+		texturefile = "gfx/interface/ideas/france/military_power.dds"
+	}
 }
