@@ -8,7 +8,7 @@ add_ideas = {
 
 
 set_research_slots = 3
-set_convoys = 400
+set_convoys = 200
 set_stability = 0.7
 set_war_support = 0.1
 
@@ -39,27 +39,27 @@ set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
 	nationalist = 14
-	conservative = 27
-	centrist = 24
-	liberal = 7
-	social_democrat = 20
-	democratic_socialist = 8
-	radical_socialist = 0
+	conservative = 28
+	centrist = 22
+	liberal = 6
+	social_democrat = 22
+	democratic_socialist = 0
+	radical_socialist = 8
 	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = centrist
+	ruling_party = conservative
 	last_election = "2007.3.18"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Jyrki Katainen"
+	name = "Sauli Niinistö"
 	desc = "POLITICS_JYRKI_KATAINEN_DESC"
-	picture = "Portrait_FIN_Jyrki_Katainen.tga"
+	picture = "Portrait_FIN_Sauli_Niinisto.tga"
 	expire = "2050.1.1"
 	ideology = fiscal_conservative
 	traits = {

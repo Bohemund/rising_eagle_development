@@ -31,8 +31,8 @@ set_popularities = {
 	conservative = 38
 	centrist = 26
 	liberal = 0
-	social_democrat = 4
-	democratic_socialist = 8
+	social_democrat = 8
+	democratic_socialist = 4
 	radical_socialist = 0
 	communist = 18
 }

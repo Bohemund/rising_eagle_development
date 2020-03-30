@@ -36,21 +36,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 0
+	ultranationalist = 8
 	monarchist = 0
-	nationalist = 7
-	conservative = 15
-	centrist = 28
+	nationalist = 4
+	conservative = 16
+	centrist = 0
 	liberal = 0
-	social_democrat = 8
-	democratic_socialist = 32
-	radical_socialist = 10
-	communist = 0
+	social_democrat = 32
+	democratic_socialist = 28
+	radical_socialist = 0
+	communist = 12
 }
 
 set_politics = {
 	
-	ruling_party = democratic_socialist
+	ruling_party = social_democrat
 	last_election = "2009.9.27"
 	election_frequency = 48
 	elections_allowed = no
@@ -59,11 +59,11 @@ set_politics = {
 #LEADERS
 
 create_country_leader = {
-	name = "Francisco Louçã"
+	name = "Luís Filipe Menezes"
 	desc = ""
-	picture = "Portrait_POR_Francisco_Louca.tga"
+	picture = "Portrait_POR_Luis_Filipe_Menezes.tga"
 	expire = "2050.1.1"
-	ideology = democratic_socialist_ideology
+	ideology = portuguese_social_democrat
 	traits = {
 		#
 	}

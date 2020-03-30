@@ -91,7 +91,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Sergio Mattarella"
-	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
+	desc = "POLITICS_SERGIO_MATTARELLA_DESC"
 	picture = "Portrait_ITA_Sergio_Mattarella.tga"
 	expire = "2050.1.1"
 	ideology = christian_democrat

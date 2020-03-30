@@ -25,24 +25,35 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 18
+	ultranationalist = 38
 	monarchist = 0
-	nationalist = 40
-	conservative = 12
-	centrist = 22
-	liberal = 8
+	nationalist = 35
+	conservative = 14
+	centrist = 5
+	liberal = 0
 	social_democrat = 0
 	democratic_socialist = 0
 	radical_socialist = 0
-	communist = 0
+	communist = 8
 }
 
 set_politics = {
 	
-	ruling_party = nationalist
+	ruling_party = ultranationalist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Pierre Nkurunziza"
+	desc = ""
+	picture = "Portrait_BUR_Pierre_Nkurunziza.tga"
+	expire = "2050.1.1"
+	ideology = hutu_power
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

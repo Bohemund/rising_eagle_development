@@ -31,11 +31,11 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
-	nationalist = 12
-	conservative = 28
-	centrist = 15
-	liberal = 4
-	social_democrat = 6
+	nationalist = 15
+	conservative = 12
+	centrist = 6
+	liberal = 28
+	social_democrat = 4
 	democratic_socialist = 35
 	radical_socialist = 0
 	communist = 0
@@ -55,6 +55,17 @@ create_country_leader = {
 	picture = "Portrait_HUN_Zsolt_Semjen.tga"
 	expire = "2050.1.1"
 	ideology = christian_democrat
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Gábor Fodor "
+	desc = "POLITICS_MATYAS_RAKOSKI_DESC"
+	picture = "Portrait_HUN_Gabor_Fodor.tga"
+	expire = "2050.1.1"
+	ideology = social_liberal
 	traits = {
 		#
 	}

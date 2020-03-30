@@ -79,6 +79,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Louis Giscard d’Estaing"
+	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
+	picture = "Portrait_FRA_Louis_Giscard_dEstaing.tga"
+	expire = "2050.1.1"
+	ideology = centrist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "François Hollande"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
 	picture = "Portrait_FRA_Francois_Hollande.tga"

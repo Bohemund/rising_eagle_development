@@ -25,21 +25,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 5
+	monarchist = 0
+	nationalist = 0
+	conservative = 42
+	centrist = 15
+	liberal = 3
+	social_democrat = 35
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = ultranationalist
+	ruling_party = conservative
 	last_election = "2008.2.13"
 	election_frequency = 48
 	elections_allowed = no
@@ -51,6 +51,17 @@ create_country_leader = {
 	picture = "Portrait_IVO_Charles_Ble_Goude.tga"
 	expire = "2050.1.1"
 	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Henri Konan Bédié"
+	desc = ""
+	picture = "Portrait_IVO_Henri_Konan_Bedie.tga"
+	expire = "2050.1.1"
+	ideology = social_conservative
 	traits = {
 		#
 	}

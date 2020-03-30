@@ -38,9 +38,9 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 8
 	monarchist = 0
-	nationalist = 5
-	conservative = 40
-	centrist = 4
+	nationalist = 40
+	conservative = 4
+	centrist = 5
 	liberal = 28
 	social_democrat = 15
 	democratic_socialist = 0
@@ -50,7 +50,7 @@ set_popularities = {
 
 set_politics = {
 
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "2007.12.19"
 	election_frequency = 48
 	elections_allowed = no
@@ -72,7 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_CHUNG_MONG_JOON_DESC"
 	picture = "Portrait_KOR_Chung_Mong_joon.tga"
 	expire = "2100.1.1"
-	ideology = social_conservative
+	ideology = ilminist
 	traits = {
 		#
 	}

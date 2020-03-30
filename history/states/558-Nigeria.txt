@@ -12,7 +12,7 @@ state={
 		add_core_of = NGR
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 7
+			industrial_complex = 6
 			arms_factory = 3
 			dockyard = 1
 			air_base = 2
@@ -27,9 +27,9 @@ state={
 	}
 
 	provinces={
-		2050 4952 12731 12900 
+		2050 12731 12900 
 	}
-	manpower=79757000
+	manpower=73757000
 	buildings_max_level_factor=1.000
 	state_category = state_level_19
 }

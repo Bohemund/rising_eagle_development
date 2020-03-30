@@ -1,6 +1,6 @@
 ﻿capital = 268
 
-oob = "AAA_2010"
+oob = "DJI_2010"
 
 set_research_slots = 3
 set_convoys = 0
@@ -25,21 +25,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 18
+	centrist = 0
+	liberal = 0
+	social_democrat = 30
+	democratic_socialist = 42
+	radical_socialist = 0
 	communist = 10
 }
 
 set_politics = {
 	
-	ruling_party = ultranationalist
+	ruling_party = democratic_socialist
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
@@ -51,6 +51,17 @@ create_country_leader = {
 	picture = "Portrait_DJI_Arayta_Houmed_Ebile.tga"
 	expire = "2050.1.1"
 	ideology = military_dictator
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ismaïl Omar Guelleh"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_DJI_Ismail_Omar_Guelleh.tga"
+	expire = "2050.1.1"
+	ideology = democratic_socialist_ideology
 	traits = {
 		#
 	}

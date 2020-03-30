@@ -35,16 +35,16 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 5
+	ultranationalist = 4
 	monarchist = 0
 	nationalist = 0
-	conservative = 32
-	centrist = 4
-	liberal = 12
-	social_democrat = 25
-	democratic_socialist = 18
+	conservative = 42
+	centrist = 0
+	liberal = 4
+	social_democrat = 36
+	democratic_socialist = 8
 	radical_socialist = 0
-	communist = 4
+	communist = 6
 }
 
 set_politics = {
@@ -56,22 +56,22 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Dimitrios Grapsas"
+	name = "Kostas Karamanlis"
 	desc = "POLITICS_IOANNIS_METAXAS_DESC"
-	picture = "Portrait_GRE_Dimitrios_Grapsas.tga"
+	picture = "Portrait_GRE_Kostas_Karamanlis.tga"
 	expire = "2050.1.1"
-	ideology = military_junta
+	ideology = christian_democrat
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Kostas Karamanlis"
+	name = "George Papandreou"
 	desc = "POLITICS_IOANNIS_METAXAS_DESC"
-	picture = "Portrait_GRE_Kostas_Karamanlis.tga"
+	picture = "Portrait_GRE_George_Papandreou.tga"
 	expire = "2050.1.1"
-	ideology = christian_democrat
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

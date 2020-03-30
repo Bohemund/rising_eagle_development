@@ -1,4 +1,4 @@
-﻿capital = 278
+﻿capital = 874
 
 oob = "ARG_2010"
 
@@ -39,10 +39,10 @@ set_popularities = {
 	ultranationalist = 5
 	monarchist = 0
 	nationalist = 24
-	conservative = 19
-	centrist = 7
-	liberal = 3
-	social_democrat = 36
+	conservative = 10
+	centrist = 0
+	liberal = 36
+	social_democrat = 19
 	democratic_socialist = 6
 	radical_socialist = 0
 	communist = 0
@@ -50,10 +50,21 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = social_democrat
+	ruling_party = liberal
 	last_election = "2007.10.28"
 	election_frequency = 72
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ricardo Alfonsín"
+	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
+	picture = "Portrait_ARG_Ricardo_Alfonsin.tga"
+	expire = "2050.1.1"
+	ideology = radical
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -61,18 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
 	picture = "Portrait_ARG_Cristina_Fernandez_de_Kirchner.tga"
 	expire = "2050.1.1"
-	ideology = peronist
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Ernesto Sanz"
-	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
-	picture = "Portrait_ARG_Ernesto_Sanz.tga"
-	expire = "2050.1.1"
-	ideology = radical
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}

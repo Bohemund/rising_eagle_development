@@ -1,11 +1,11 @@
 ﻿capital = 831
 
-oob = "AAA_2010"
+oob = "STL_2010"
 
 set_research_slots = 3
 set_convoys = 0
-set_stability = 0.6
-set_war_support = 0.3
+set_stability = 0.8
+set_war_support = 0.1
 
 set_technology = {
 	support_weapons = 1
@@ -25,22 +25,33 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 0
+	conservative = 49
+	centrist = 0
+	liberal = 0
+	social_democrat = 51
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = social_democrat
 	last_election = "2009.8.20"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Kenny Anthony"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_STL_Kenny_Anthony.tga"
+	expire = "2050.1.1"
+	ideology = social_democrat_ideology
+	traits = {
+		#
+	}
 }

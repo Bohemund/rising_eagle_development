@@ -50,6 +50,17 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Ahmad Shah Khan"
+	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+	picture = "Portrait_AFG_Ahmad_Shah_Khan.tga"
+	expire = "2050.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Hamid Karzai"
 	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
 	picture = "Portrait_AFG_Hamid_Karzai.tga"

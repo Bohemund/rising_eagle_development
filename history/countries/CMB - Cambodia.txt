@@ -61,7 +61,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Norodom Ranariddh"
-	desc = ""
+	desc = "POLITICS_NORODOM_RANARIDDH_DESC"
 	picture = "Portrait_CMB_Norodom_Ranariddh.tga"
 	expire = "2050.1.1"
 	ideology = national_conservative

@@ -57,11 +57,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Agathe Habyarimana"
+	name = "Ignace Murwanashyaka"
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
-	picture = "Portrait_RWA_Agathe_Habyarimana.tga"
+	picture = "Portrait_RWA_Ignace_Murwanashyaka.tga"
 	expire = "2050.1.1"
-	ideology = ultranationalist_ideology
+	ideology = hutu_power
 	traits = {
 		#
 	}

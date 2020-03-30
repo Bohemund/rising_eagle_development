@@ -1034,3 +1034,8 @@ ULS = {
 	color = rgb { 240 186 60 }
 	color_ui = rgb { 115 115 115 }
 }
+
+BIA = {
+	color = rgb { 255 213 0 }
+	color_ui = rgb { 115 115 115 }
+}

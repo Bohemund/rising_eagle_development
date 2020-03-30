@@ -36,21 +36,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 20
-	monarchist = 8
-	nationalist = 0
-	conservative = 36
-	centrist = 12
-	liberal = 4
-	social_democrat = 16
-	democratic_socialist = 4
+	ultranationalist = 16
+	monarchist = 0
+	nationalist = 38
+	conservative = 10
+	centrist = 0
+	liberal = 6
+	social_democrat = 10
+	democratic_socialist = 20
 	radical_socialist = 0
 	communist = 0
 }
 
 set_politics = {
 		
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "2008.3.9"
 	election_frequency = 60
 	elections_allowed = no
@@ -72,7 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_MANUEL_AZANA_DESC"
 	picture = "Portrait_SPR_Jorge_Fernandez_Diaz.tga"
 	expire = "2050.1.1"
-	ideology = reactionary
+	ideology = national_conservative
 	traits = {
 		#
 	}

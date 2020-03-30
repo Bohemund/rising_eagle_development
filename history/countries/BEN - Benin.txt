@@ -27,19 +27,19 @@ set_technology = {
 set_popularities = {
 	ultranationalist = 0
 	monarchist = 0
-	nationalist = 0
-	conservative = 12
-	centrist = 29
-	liberal = 40
-	social_democrat = 17
+	nationalist = 10
+	conservative = 5
+	centrist = 0
+	liberal = 15
+	social_democrat = 8
 	democratic_socialist = 0
-	radical_socialist = 0
-	communist = 2
+	radical_socialist = 12
+	communist = 50
 }
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = communist
 	last_election = "2006.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -51,6 +51,17 @@ create_country_leader = {
 	picture = "Portrait_BEN_Adrien_Houngbedji.tga"
 	expire = "2050.1.1"
 	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mathieu Kérékou"
+	desc = ""
+	picture = "Portrait_BEN_Mathieu_Kerekou.tga"
+	expire = "2050.1.1"
+	ideology = leninist
 	traits = {
 		#
 	}

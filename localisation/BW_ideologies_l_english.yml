@@ -54,6 +54,8 @@
  third_international_theory_desc:0 "The Third International Theory was the style of government that Muammar Gaddafi advocated during his rule of the Great Socialist People's Libyan Arab Jamahiriya and the Arab Islamic Republic. The ideology was partly inspired by Islamic socialism, Arab nationalism, African nationalism and partly by the principles of direct democracy. It was proposed by Gaddafi as an alternative to capitalism and communism for Third World countries, based on the stated belief that both of these ideologies had been proven invalid."
  eurasianist:0 "Eurasianism"
  eurasianist_desc:0 "Eurasianism is a political ideology spearheaded by Russian philosopher and politician Aleksandr Dugin. Eurasianism calls for the unification of Eurasian people against the Atlanticist, liberal world order. It emphasizes nationalistic and irridentist views as well as a centrally planned economy."
+ hutu_power:0 "Hutu Power"
+ hutu_power_desc:0 "Hutu Power is an ethnic supremacist ideology rooted in the conflict between the Hutus and the Tutsis in Rwanda and Burundi. Believing that the Hutus are the native people of the region, proponents of Hutu Power support the segregation of Hutus from Tutsis and complete political domination by the Hutu majority."
 
  #MONARCHISM
  absolute_monarchist:0 "Absolute Monarchism"
@@ -78,6 +80,8 @@
  peronist_desc:0 "Peronism is an Argentine political movement based on the political ideology and legacy of former President Juan Domingo Perón and his wife Isabel Martínez de Perón. The pillars of the Peronist ideal, known as the "three flags", are social justice, economic independence and political sovereignty. Peronism espouses corporatism and thus aims to mediate tensions between the classes of society, with the state responsible for negotiating compromise in conflicts between managers and workers."
  american_nationalist:0 "American Nationalism"
  american_nationalist_desc:0 "American nationalism is the extreme side of patriotism for the United States. It is a conservative ideology that supports Christian ethics, limited government and economic nationalism."
+ ilminist:0 "Ilminism"
+ ilminist_desc:0 "Ilminism, or the One-People Principle is the political ideology of Korean founding father Syngman Rhee. Based on the ideas of Korean ethnic supremacy, the ideology is strongly nationalistic and supports the elimination of social inequality between Koreans."
 
  #CONSERVATISM
  christian_democrat:0 "Christian Democracy"
@@ -114,6 +118,8 @@
  classical_liberal_desc:0 "Classical liberalism is a political ideology which advocates civil liberties under the rule of law with an emphasis on economic freedom."
  national_liberal:0 "National Liberalism"
  national_liberal_desc:0 "National liberalism is a variant of liberalism, combining liberal policies and issues with elements of nationalism."
+ radical:0 "Radicalism"
+ radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism."
 
  #SOCIAL DEMOCRACY
  social_democrat_ideology:0 "Social Democracy"
@@ -126,8 +132,8 @@
  pancasila_desc:0 "Pancasila is the official, foundational philosophical theory of the Indonesian state. It is vaguely related to socialism, nationalism and is exclusively Indonesian in nature. The philosophy is composed of five principles and contends that they are inseparable and interrelated: Monotheism, a just and civilized humanity, a unified Indonesia, Democracy and Social Justice."
  kemalist:0 "Kemalism"
  kemalist_desc:0 "Kemalism is the founding ideology of the Republic of Turkey. Based on the thoughts of Mustafa Kemal Atatürk who implemented sweeping political, social, cultural and religious reforms in order to modernize and westernize Turkey. It advocates democracy, laicism, support for sciences and education and the total political independence of Turkey."
- radical:0 "Radicalism"
- radical_desc:0 "Radicalism is a movement, mainly in Latin countries, that advocates republicanism, redistribution of property and freedom of the press. While radicalism started out as a movement of the far left it became a part of the development of political liberalism."
+ portuguese_social_democrat:0 "Portuguese Social Democracy"
+ portuguese_social_democrat_desc:0 "Portuguese Social Democracy is a political ideology based on the thoughts of Portuguese President Francisco de Sá Carneiro, who advocated an adaptation of Social Democracy to fit Portugal's traditional Catholic society. It is a populist, individualist and anti-statist doctrine that draws inspiration from many sources, including Christian socialism and humanism."
 
  #DEMOCRATIC SOCIALISM
  democratic_socialist_ideology:0 "Democratic Socialism"

@@ -43,6 +43,9 @@ ideologies = {
 			third_international_theory = {	
 			}
 
+			hutu_power = {	
+			}
+
 		}
 		
 		dynamic_faction_names = {
@@ -142,6 +145,9 @@ ideologies = {
 			}
 
 			peronist = {
+			}
+
+			ilminist = {
 			}
 		}
 		
@@ -295,6 +301,9 @@ ideologies = {
 			
 			american_democrat = {
 			}
+
+			radical = {
+			}
 				
 		}
 		
@@ -345,7 +354,7 @@ ideologies = {
 			kemalist = {
 			}
 
-			radical = {
+			portuguese_social_democrat = {
 			}
 
 		}

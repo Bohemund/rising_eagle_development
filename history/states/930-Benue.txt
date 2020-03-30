@@ -1,0 +1,27 @@
+
+state={
+	id=930
+	name="STATE_930"
+	resources={
+		#
+	}
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1992 4889 7978 
+	}
+	manpower=4500250
+	buildings_max_level_factor=1.000
+	state_category=state_level_8
+}

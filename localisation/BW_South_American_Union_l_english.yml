@@ -1,16 +1,16 @@
 ﻿l_english:
  
  #PARTIES
- SOU_ultranationalist_party:0 "Military Clique"
- SOU_ultranationalist_party_long:0 "Military Clique"
+ SOU_ultranationalist_party:0 "Union Alliance"
+ SOU_ultranationalist_party_long:0 "Union Alliance"
  SOU_monarchist_party:0 "House of Braganza"
  SOU_monarchist_party_long:0 "House of Orléans-Braganza"
  SOU_nationalist_party:0 "Union Alliance"
  SOU_nationalist_party_long:0 "Union Alliance"
  SOU_conservative_party:0 "Union Alliance"
  SOU_conservative_party_long:0 "Union Alliance"
- SOU_centrist_party:0 "Union Alliance"
- SOU_centrist_party_long:0 "Union Alliance"
+ SOU_centrist_party:0 "Democratic Movement"
+ SOU_centrist_party_long:0 "Democratic Movement"
  SOU_liberal_party:0 "Democratic Movement"
  SOU_liberal_party_long:0 "Democratic Movement"
  SOU_social_democrat_party:0 "Democratic Movement"
