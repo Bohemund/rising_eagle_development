@@ -1,14 +1,14 @@
 ﻿l_english:
  
  #PARTIES
- TOG_ultranationalist_party:0 "Rally of the People"
- TOG_ultranationalist_party_long:0 "Rally of the Togolese People"
+ TOG_ultranationalist_party:0 "Kpatcha Loyalists"
+ TOG_ultranationalist_party_long:0 "Kpatcha Loyalists"
  TOG_monarchist_party:0 "Paramount Chiefs"
  TOG_monarchist_party_long:0 "Paramount Chiefs of Avenor Ewe"
- TOG_nationalist_party:0 "Patriotic Convergence"
- TOG_nationalist_party_long:0 "Pan-African Patriotic Convergence"
- TOG_conservative_party:0 "Rally of the People"
- TOG_conservative_party_long:0 "Rally of the Togolese People (Faure Supporters)"
+ TOG_nationalist_party:0 "Rally of the People"
+ TOG_nationalist_party_long:0 "Rally of the Togolese People"
+ TOG_conservative_party:0 "Union for Democracy"
+ TOG_conservative_party_long:0 "Togolese Union for Democracy"
  TOG_centrist_party:0 "Alliance of Democrats"
  TOG_centrist_party_long:0 "Alliance of Democrats for Integral Development"
  TOG_liberal_party:0 "Action Committee"

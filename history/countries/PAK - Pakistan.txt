@@ -40,32 +40,41 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 15
+	ultranationalist = 5
 	monarchist = 0
-	nationalist = 0
-	conservative = 30
-	centrist = 14
-	liberal = 8
-	social_democrat = 5
-	democratic_socialist = 28
+	nationalist = 12
+	conservative = 28
+	centrist = 7
+	liberal = 0
+	social_democrat = 30
+	democratic_socialist = 18
 	radical_socialist = 0
 	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = social_democrat
 	last_election = "2008.2.18"
 	election_frequency = 48
 	elections_allowed = no
 }
-
 
 create_country_leader = {
 	name = "Nawaz Sharif"
 	picture = "Portrait_PAK_Nawaz_Sharif.tga"
 	expire = "2050.1.1"
 	ideology = islamic_democrat
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Benazir Bhutto"
+	picture = "Portrait_PAK_Benazir_Bhutto.tga"
+	expire = "2050.1.1"
+	ideology = new_democrat
 	traits = {
 		
 	}

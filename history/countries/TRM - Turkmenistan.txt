@@ -25,32 +25,32 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 34
+	conservative = 17
+	centrist = 13
+	liberal = 26
+	social_democrat = 4
+	democratic_socialist = 0
+	radical_socialist = 2
+	communist = 4
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = nationalist
 	last_election = "1998.3.13"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Usman Ghazi"
+	name = "Yaylym Berdiyev"
 	desc = "POLITICS_REZA_SHAH_PAHLAVI_DESC"
-	picture = "Portrait_TRM_Usman_Ghazi.tga"
+	picture = "Portrait_TRM_Yaylym_Berdiyev.tga"
 	expire = "2050.1.1"
-	ideology = islamic_democrat
+	ideology = military_junta
 	traits = {
 		#
 	}

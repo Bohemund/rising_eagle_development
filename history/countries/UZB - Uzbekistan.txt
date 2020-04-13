@@ -5,7 +5,7 @@ oob = "UZB_2010"
 set_research_slots = 3
 set_convoys = 0
 set_stability = 0.6
-set_war_support = 0.8
+set_war_support = 0.6
 
 set_technology = {
 	support_weapons = 1
@@ -36,24 +36,35 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
-	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
+	ultranationalist = 0
+	monarchist = 0
+	nationalist = 12
+	conservative = 18
+	centrist = 35
+	liberal = 0
+	social_democrat = 25
+	democratic_socialist = 0
+	radical_socialist = 0
 	communist = 10
 }
 
 set_politics = {
 	
-	ruling_party = liberal
+	ruling_party = centrist
 	last_election = "2007.12.23"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Shavkat Mirziyoyev"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_UZB_Shavkat_Mirziyoyev.tga"
+	expire = "2050.1.1"
+	ideology = centrist_populist
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {

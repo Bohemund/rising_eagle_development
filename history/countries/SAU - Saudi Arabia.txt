@@ -62,7 +62,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Nayef bin Abdul-Aziz Al Saud"
+	name = "Nayef bin Abdulaziz Al Saud"
 	desc = "POLITICS_ABDULAZIZ_DESC"
 	picture = "Portrait_SAU_Saudi_King.tga"
 	expire = "2050.1.1"

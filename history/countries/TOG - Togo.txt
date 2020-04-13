@@ -25,32 +25,43 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 10
-	monarchist = 10
-	nationalist = 10
+	ultranationalist = 20
+	monarchist = 0
+	nationalist = 35
 	conservative = 10
-	centrist = 10
-	liberal = 10
-	social_democrat = 10
-	democratic_socialist = 10
-	radical_socialist = 10
-	communist = 10
+	centrist = 5
+	liberal = 0
+	social_democrat = 30
+	democratic_socialist = 0
+	radical_socialist = 0
+	communist = 0
 }
 
 set_politics = {
 	
-	ruling_party = ultranationalist
+	ruling_party = nationalist
 	last_election = "2005.4.24"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Kpatcha Gnassingbe"
+	name = "Kpatcha Gnassingbé"
 	desc = ""
 	picture = "Portrait_TOG_Kpatcha_Gnassingbe.tga"
 	expire = "2050.1.1"
 	ideology = ultranationalist_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Faure Gnassingbé"
+	desc = ""
+	picture = "Portrait_TOG_Faure_Gnassingbe.tga"
+	expire = "2050.1.1"
+	ideology = african_nationalist
 	traits = {
 		#
 	}

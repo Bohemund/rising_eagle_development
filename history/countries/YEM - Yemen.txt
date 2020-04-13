@@ -68,20 +68,20 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Abdul-Malik Badreddin al-Houthi"
+	name = "Haidar Abu Bakr al-Attas"
 	desc = "POLITICS_IMAM_YAHYA_DESC"
-	picture = "Portrait_YEM_Abdul_Malik.tga"
+	picture = "Portrait_YEM_Haidar_Abu_Bakr_al_Attas.tga"
 	expire = "2050.1.1"
-	ideology = islamic_democrat
+	ideology = social_democrat_ideology
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Haidar Abu Bakr al-Attas"
+	name = "Ali Salem al Beidh"
 	desc = "POLITICS_IMAM_YAHYA_DESC"
-	picture = "Portrait_YEM_Haidar_Abu_Bakr_al_Attas.tga"
+	picture = "Portrait_YEM_Ali_Salem_al_Beidh.tga"
 	expire = "2050.1.1"
 	ideology = marxist
 	traits = {
