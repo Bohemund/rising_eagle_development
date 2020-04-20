@@ -46,9 +46,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Oleg Khorzhan"
+	name = "Vladimir Voronin"
 	desc = ""
-	picture = "Portrait_MDV_Oleg_Khorzhan.tga"
+	picture = "Portrait_MOL_Vladimir_Voronin.tga"
 	expire = "2050.1.1"
 	ideology = leninist
 	traits = {

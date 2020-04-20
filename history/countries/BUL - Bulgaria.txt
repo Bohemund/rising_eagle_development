@@ -81,3 +81,14 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Aleksandar Paunov"
+	desc = ""
+	picture = "Portrait_BUL_Aleksandar_Paunov.tga"
+	expire = "2050.1.1"
+	ideology = stalinist
+	traits = {
+		#
+	}
+}

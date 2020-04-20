@@ -6072,8 +6072,8 @@
  SOM_communist_ADJ:0 "Somali"
 
  #SUDAN
- SUD_ultranationalist:0 "National Republic of Sudan"
- SUD_ultranationalist_DEF:0 "The National Republic of Sudan"
+ SUD_ultranationalist:0 "Republic of the Sudan"
+ SUD_ultranationalist_DEF:0 "The Republic of the Sudan"
  SUD_monarchist:0 "Mahdist State of Sudan"
  SUD_monarchist_DEF:0 "The Mahdist State of Sudan"
  SUD_nationalist:0 "Republic of the Sudan"
@@ -6086,8 +6086,8 @@
  SUD_liberal_DEF:0 "The Republic of the Sudan"
  SUD_social_democrat:0 "Republic of the Sudan"
  SUD_social_democrat_DEF:0 "The Republic of the Sudan"
- SUD_democratic_socialist:0 "Republic of the Sudan"
- SUD_democratic_socialist_DEF:0 "The Republic of the Sudan"
+ SUD_democratic_socialist:0 "Union of the Sudan"
+ SUD_democratic_socialist_DEF:0 "The Union of the Sudan"
  SUD_radical_socialist:0 "People's Republic of Sudan"
  SUD_radical_socialist_DEF:0 "The People's Republic of Sudan"
  SUD_communist:0 "Workers' State of Sudan"

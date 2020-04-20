@@ -36,9 +36,9 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 0
+	ultranationalist = 35
 	monarchist = 0
-	nationalist = 35
+	nationalist = 0
 	conservative = 25
 	centrist = 8
 	liberal = 0
@@ -50,7 +50,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = nationalist
+	ruling_party = ultranationalist
 	last_election = "2000.12.23"
 	election_frequency = 48
 	elections_allowed = no
@@ -61,7 +61,7 @@ create_country_leader = {
 	desc = "POLITICS_SALCHAK_TOKA_DESC"
 	picture = "Portrait_SUD_Omar_al_Bashir.tga"
 	expire = "2050.1.1"
-	ideology = nationalist_ideology
+	ideology = ultranationalist_ideology
 	traits = {
 		#
 	}
