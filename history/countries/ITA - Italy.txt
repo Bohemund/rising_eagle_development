@@ -112,9 +112,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Silvio Berlusconi"
+	name = "Bobo Craxi"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_ITA_Silvio_Berlusconi.tga"
+	picture = "Portrait_ITA_Bobo_Craxi.tga"
 	expire = "2050.1.1"
 	ideology = democratic_socialist_ideology
 	traits = {

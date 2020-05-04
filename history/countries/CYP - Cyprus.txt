@@ -41,21 +41,21 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 6
+	ultranationalist = 0
 	monarchist = 0
-	nationalist = 15
-	conservative = 30
-	centrist = 10
+	nationalist = 5
+	conservative = 32
+	centrist = 34
 	liberal = 0
-	social_democrat = 25
-	democratic_socialist = 0
-	radical_socialist = 6
-	communist = 8
+	social_democrat = 8
+	democratic_socialist = 6
+	radical_socialist = 0
+	communist = 15
 }
 
 set_politics = {
 	
-	ruling_party = conservative
+	ruling_party = centrist
 	last_election = "2006.5.21"
 	election_frequency = 48
 	elections_allowed = no
@@ -66,29 +66,18 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_CYP_Averof_Neofytou.tga"
 	expire = "2050.1.1"
-	ideology = fiscal_conservative
+	ideology = christian_democrat
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Tufan Erhürman"
+	name = "Nikolas Papadopoulos"
 	desc = ""
-	picture = "Portrait_CYP_Tufan_Erhurman.tga"
+	picture = "Portrait_CYP_Nikolas_Papadopoulos.tga"
 	expire = "2050.1.1"
-	ideology = social_democrat_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "İzzet İzcan"
-	desc = ""
-	picture = "Portrait_CYP_Izzet_Izcan.tga"
-	expire = "2050.1.1"
-	ideology = radical_socialist_ideology
+	ideology = centrist_populist
 	traits = {
 		#
 	}

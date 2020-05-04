@@ -1,7 +1,7 @@
 ﻿l_english:
  
  #PARTIES
- ENG_ultranationalist_party:0 "National Party"
+ ENG_ultranationalist_party:0 "British National Party"
  ENG_ultranationalist_party_long:0 "British National Party"
  ENG_monarchist_party:0 "House of Windsor"
  ENG_monarchist_party_long:0 "House of Windsor"
@@ -19,8 +19,8 @@
  ENG_democratic_socialist_party_long:0 "Labour Party"
  ENG_radical_socialist_party:0 "Revolutionary Party"
  ENG_radical_socialist_party_long:0 "Workers’ Revolutionary Party"
- ENG_communist_party:0 "Communist Party"
- ENG_communist_party_long:0 "Communist Party of Britain"
+ ENG_communist_party:0 "Militant Labour"
+ ENG_communist_party_long:0 "Militant Labour"
 
  #IDEAS
  ENG_the_troubles:0 "Northern Ireland Conflict"

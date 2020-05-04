@@ -9,7 +9,6 @@ add_ideas = {
     ENG_the_troubles
 }    
 
-
 set_research_slots = 4
 set_convoys = 600
 set_stability = 0.7
@@ -82,11 +81,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nigel Farage"
+	name = "David Cameron"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Nigel_Farage.tga"
+	picture = "Portrait_ENG_David_Cameron.tga"
 	expire = "2050.1.1"
-	ideology = social_conservative
+	ideology = fiscal_conservative
 	traits = {
 		
 	}
@@ -115,9 +114,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Tony Blair"
+	name = "Edward Miliband"
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "Portrait_ENG_Tony_Blair.tga"
+	picture = "Portrait_ENG_Edward_Miliband.tga"
 	expire = "2050.1.1"
 	ideology = new_democrat
 	traits = {
@@ -131,6 +130,17 @@ create_country_leader = {
 	picture = "Portrait_ENG_Tony_Benn.tga"
 	expire = "2050.1.1"
 	ideology = democratic_socialist_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "John McDonnell"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "Portrait_ENG_John_McDonnell.tga"
+	expire = "2050.1.1"
+	ideology = trotskyist
 	traits = {
 		
 	}

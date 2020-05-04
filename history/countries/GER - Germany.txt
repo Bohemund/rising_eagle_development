@@ -68,6 +68,16 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Theodor Hoffmann"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Portrait_GER_Theodor_Hoffmann.tga"
+	expire = "2050.1.1"
+	ideology = military_junta
+	traits = {
+	}
+}
+
+create_country_leader = {
 	name = "Horst Seehofer"
 	desc = "POLITICS_KONRAD_ADENAUER_DESC"
 	picture = "Portrait_GER_Horst_Seehofer.tga"
