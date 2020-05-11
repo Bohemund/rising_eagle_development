@@ -31,13 +31,13 @@ set_technology = {
 }
 
 set_popularities = {
-	ultranationalist = 34
+	ultranationalist = 32
 	monarchist = 0
-	nationalist = 0
+	nationalist = 34
 	conservative = 22
-	centrist = 8
-	liberal = 4
-	social_democrat = 32
+	centrist = 4
+	liberal = 0
+	social_democrat = 8
 	democratic_socialist = 0
 	radical_socialist = 0
 	communist = 0
@@ -45,10 +45,21 @@ set_popularities = {
 
 set_politics = {
 
-	ruling_party = ultranationalist
+	ruling_party = nationalist
 	last_election = "1968.4.27"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Megawati"
+	desc = ""
+	picture = "Portrait_INS_Megawati_Sukarnoputri.tga"
+	expire = "2050.1.1"
+	ideology = ultranationalist_ideology
+	traits = {
+		
+	}
 }
 
 create_country_leader = {
@@ -56,18 +67,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_INS_Prabowo Subianto.tga"
 	expire = "2050.1.1"
-	ideology = military_dictator
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Megawati Sukarnoputri"
-	desc = ""
-	picture = "Portrait_INS_Megawati_Sukarnoputri.tga"
-	expire = "2050.1.1"
-	ideology = pancasila
+	ideology = military_junta
 	traits = {
 		
 	}

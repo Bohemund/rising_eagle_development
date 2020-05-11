@@ -3,13 +3,13 @@
  #PARTIES
  VIN_ultranationalist_party:0 "Personalist Party"
  VIN_ultranationalist_party_long:0 "Personalist Party"
- VIN_monarchist_party:0 "House of Nguyen"
- VIN_monarchist_party_long:0 "House of Nguyen"
+ VIN_monarchist_party:0 "Nguyen Dynasty"
+ VIN_monarchist_party_long:0 "Nguyen Dynasty"
  VIN_nationalist_party:0 "People’s Action Party"
  VIN_nationalist_party_long:0 "People’s Action Party of Vietnam"
  VIN_conservative_party:0 "Democratic Party"
  VIN_conservative_party_long:0 "Vietnamese Democratic Party"
- VIN_centrist_party:0 "Revolutionary Party"
+ VIN_centrist_party:0 "Viet Tan"
  VIN_centrist_party_long:0 "Vietnam Reform Revolutionary Party"
  VIN_liberal_party:0 "Constitutional Party"
  VIN_liberal_party_long:0 "Constitutional Party"
@@ -24,4 +24,4 @@
 
  #IDEAS
  VIN_bao_thang:0 "Bao Thang"
- VIN_bao_thang_desc:0 "Bao Thang is the Emperor of of Vietnam."
+ VIN_bao_thang_desc:0 "Bao Thang is the Emperor of Vietnam."
